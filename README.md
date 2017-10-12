@@ -1,7 +1,9 @@
 # Blocklist
 List of shit websites for [Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef) or [Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/)
 
-You may also get the list through [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST)
+## How to use it?
+1. Open [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST);
+2. Copy and paste the content into your Google Personal Blocklist or Google Hit Hider by Domain import window.
 
 ## What is this list?
 This list contains websites that only have content scraped from other sites while are also heavily SEOed, mostly in English and Chinese language. It helps you filtering out useless information from seraching results.
