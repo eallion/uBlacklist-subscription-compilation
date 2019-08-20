@@ -1,0 +1,7 @@
+*://*.voidcc.com/*
+*://*.codeday.me/*
+*://*.voidcn.com/*
+*://*.codenong.com/*
+*://*.helplib.com/*
+*://*.jishuwen.com/*
+*://*.itranslater.com/*
