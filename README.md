@@ -6,24 +6,28 @@
 
 事情发生于上周公司企业微信群里的一段对话：
 
-![](imgs/chat1.png)
-![](imgs/chat2.png)
+<img src="https://github.com/liubiantao/uBlacklist-Websites/raw/master/imgs/chat1.png" alt="chat1" style="max-width:100%;width:375px" >
+<img src="https://github.com/liubiantao/uBlacklist-Websites/raw/master/imgs/chat1.png" alt="chat2" style="width:375px;width: 375px">
 
 今天搜索过程中又被垃圾站恶心到了，忍无可忍向谷歌点了举报，后来逛 V 站的时候发现了这个好方法，决定维护一个屏蔽列表，大家一起来跟流氓们做斗争。
 
 
 ## 用法
 
-下载插件[uBlacklist - Chrome 网上应用店](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+下载插件 [uBlacklist - Chrome 网上应用店](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 
 
 在设置中添加 Subscription: https://raw.githubusercontent.com/liubiantao/uBlacklist-Websites/master/uBlacklist.txt
 ![](imgs/setting.png)
 
 
-对比一下效果
-![](imgs/before.png)
-![](imgs/after.png)
+### 对比一下效果
+
+之前：
+![before](imgs/before.png)
+
+之后：
+![after](imgs/after.png)
 
 
 ## 感谢
