@@ -5,3 +5,6 @@
 *://*.helplib.com/*
 *://*.jishuwen.com/*
 *://*.itranslater.com/*
+*://*.xbuba.com/*
+*://*.androidcookie.com/*
+*://*.soinside.com/*
