@@ -10,3 +10,4 @@
 *://*.soinside.com/*
 *://*.1r1g.com/*
 *://*.oomake.com/*
+*://*.stackoverrun.com/*
