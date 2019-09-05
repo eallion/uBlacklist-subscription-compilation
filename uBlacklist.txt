@@ -12,3 +12,4 @@
 *://*.oomake.com/*
 *://*.stackoverrun.com/*
 *://*.dovov.com/*
+*://*.kbase101.com/*
