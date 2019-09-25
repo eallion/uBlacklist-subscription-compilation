@@ -14,3 +14,4 @@
 *://*.dovov.com/*
 *://*.kbase101.com/*
 *://*.cheerda.net/*
+*://*.icopy.site/*
