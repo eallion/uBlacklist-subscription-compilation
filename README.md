@@ -21,6 +21,7 @@ It is a Chrome / Firefox extension that prevents blacklisted sites from appearin
 5. Paste `https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt` in "URL" field.
 6. Click "Add" then click "Update now".
 
+<hr />
 
 1. 右键单击浏览器扩展栏的 uBlacklist 图标。
 2. 点击“选项”。
@@ -39,6 +40,7 @@ It is a Chrome / Firefox extension that prevents blacklisted sites from appearin
 6. Paste `https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt` in "URL" field.
 7. Click "Add" then click "Update now".
 
+<hr />
 
 1. 右键单击浏览器扩展栏的 uBlacklist 图标。
 2. 点击“管理扩展”
