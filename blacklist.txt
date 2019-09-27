@@ -48,7 +48,6 @@
 *://3g.163.com/*
 *://www.ihantian.com/*
 *://product.mxpkw.com/*
-*://www.chinavolcan.com/*、
 *://www.tianpinapp.com/*
 *://seo.maro6.com/*
 *://www.illitpress.com/*
@@ -88,3 +87,7 @@
 *://www.sxwshm.com/*
 *://*.sm1234.net/*
 *://*.fofa.so/*
+*://*.outofmemory.cn/*
+*://cloud.tencent.com/developer/ask/*
+*://*.copyfuture.com/*
+*://*.dovov.com/*
