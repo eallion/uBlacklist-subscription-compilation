@@ -102,4 +102,8 @@
 *://iask.sina.com.cn/*
 *://*.geren-jianli.org/*
 *://*.mfwf.cn.com/*
-*://m.[a-z0-9]{5,6}.[a-z0-9]{6,7}.(?:vip|site)/*
+*://*.uk.com/*
+*://*.kafan.cn/*
+*://*.cn.com/*
+/*\.[\d]{4}[a-z0-9]{5}\.com\.cn/
+/m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
