@@ -7,7 +7,7 @@ It works with several Chrome Extensions and User scripts, including:
 * [Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef) (Discontinued)
 * [Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/)
 
-Note that Blocklist is a long list and could be too big for some extensions/scripts. Thus for now, I have only found [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk) which performs well with Blocklist.
+Note that Blocklist is a long list and could be too big for some extensions/scripts, depends on its blocking logic and performance. Thus for now, I have only found [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk) which works smoothly with Blocklist.
 
 EN|[中文](README.zh-cn.md)
 
