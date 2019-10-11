@@ -1,10 +1,17 @@
 # Blocklist
-List of shit websites for [Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef) or [Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/)
+List of shit websites for blocking Google search result.
+
+It works with several Chrome Extensions and User scripts, including:
+[Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)(Recommended)
+[Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef)(Discontinued)
+[Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/)
+
+Note that Blocklist is a long list and could be too big for some extensions/scripts. Thus for now, I have only found [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk) which performs well with Blocklist.
 
 EN|[中文](README.zh-cn.md)
 
 ## How to use it?
-1. Open [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST);
+1. Open [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/gyli/Blocklist/master/BLOCKLIST);
 2. Copy and paste the content into your Google Personal Blocklist or Google Hit Hider by Domain import window.
 
 ## What is this list?

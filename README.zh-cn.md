@@ -1,5 +1,12 @@
 # Blocklist
-Blocklist 是一份适用于 [Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef) 和 [Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/) 的垃圾网站列表。
+Blocklist 是一份用来屏蔽搜索引擎结果的垃圾网站列表。
+
+该名单可用于这些 Chrome 拓展和用户脚本：
+[Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)(推荐)
+[Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef)(已下架)
+[Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/)
+
+请注意，该名单已有数万条数据，因此不适用于一些运行效率较低下的拓展或脚本。目前为止，仅有[Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)一个拓展是推荐配套使用的。
 
 [EN](README.md)|中文
 
