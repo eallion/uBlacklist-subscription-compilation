@@ -16,3 +16,4 @@
 *://*.cheerda.net/*
 *://*.icopy.site/*
 *://*.bbsah.com/*
+*://*.ojit.com/*
