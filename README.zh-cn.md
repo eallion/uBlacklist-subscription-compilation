@@ -9,7 +9,7 @@ Blocklist 是一份用来屏蔽搜索引擎结果的垃圾网站列表。
 
 请注意，该名单已有数万条数据，因此不适用于一些运行效率较低下的拓展或脚本。目前为止，仅有[Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)一个拓展是推荐配套使用的。
 
-[EN](README.md)|中文
+[English](README.md)|中文
 
 ## 如何使用？
 1. 打开 [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST)；

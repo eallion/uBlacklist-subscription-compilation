@@ -9,7 +9,7 @@ It works with several Chrome Extensions and User scripts, including:
 
 Note that Blocklist is a long list and could be too big for some extensions/scripts, depends on its blocking logic and performance. Thus for now, I have only found [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk) which works smoothly with Blocklist.
 
-EN|[中文](README.zh-cn.md)
+English|[中文](README.zh-cn.md)
 
 ## How to use it?
 1. Open [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/gyli/Blocklist/master/BLOCKLIST);
