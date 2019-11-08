@@ -17,3 +17,7 @@ uBlacklist 是一个阻止特定网站出现在 Google 搜索结果中的浏览�
 ```
 https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/blacklist.txt?token=AHUZV6F3CT53MYPIUFAGGNS5YWILS
 ```
+
+## 许可
+
+[MIT License](https://github.com/scyrte/uBlacklist-Subscription/raw/master/LICENSE)
