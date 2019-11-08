@@ -15,9 +15,9 @@ uBlacklist 是一个阻止特定网站出现在 Google 搜索结果中的浏览�
 在 uBlacklist 的设置选项（通常你可以通过右键 uBlacklist 的图标）中找到「订阅」并添加链接地址即可。
 
 ```
-https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/blacklist.txt?token=AHUZV6F3CT53MYPIUFAGGNS5YWILS
+https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/blacklist.txt
 ```
 
 ## 许可
 
-[MIT License](https://github.com/scyrte/uBlacklist-Subscription/raw/master/LICENSE)
+[MIT License](https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/License)
