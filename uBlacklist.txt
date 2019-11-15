@@ -17,3 +17,6 @@
 *://*.icopy.site/*
 *://*.bbsah.com/*
 *://*.ojit.com/*
+*://*.ctolib.com/*
+*://*.andseclab.com/*
+*://*.codebug.vip/*
