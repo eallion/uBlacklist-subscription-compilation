@@ -20,3 +20,10 @@
 *://*.ctolib.com/*
 *://*.andseclab.com/*
 *://*.codebug.vip/*
+*://*.steemit.com/*
+*://*.src-bin.com/*
+*://*.src-bin.com/*
+*://*.fullstack.im/*
+*://*.mlog.club/*
+*://*.stackoom.com/*
+*://*.code-examples.net/*
