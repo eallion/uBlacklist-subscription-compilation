@@ -35,3 +35,6 @@
 *://*.yuanmacha.com/*
 *://*.landcareweb.com/*
 *://*.python88.com/*
+*://*.stackovernet.com/*
+*://*.riptutorial.com/*
+*://*.uwenku.com/*
