@@ -38,3 +38,4 @@
 *://*.stackovernet.com/*
 *://*.riptutorial.com/*
 *://*.uwenku.com/*
+*://*.lifesgirig.cf/*
