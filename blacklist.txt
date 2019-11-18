@@ -198,3 +198,6 @@
 *://*.zidao.baidu.com/*
 *://*.zixun77.com/*
 *://*.zztfjxzz.cn/*
+*://7xhy.com/*
+*://www.vickarsgroup.com/*
+*://www.shsgy.com/*
