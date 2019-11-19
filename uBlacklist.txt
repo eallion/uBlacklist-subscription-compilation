@@ -39,3 +39,5 @@
 *://*.riptutorial.com/*
 *://*.uwenku.com/*
 *://*.lifesgirig.cf/*
+*://www.thinbug.com/*
+*://www.caeoa.org/*
