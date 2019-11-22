@@ -30,7 +30,6 @@
 *://*.lai18.com/*
 *://*.tool.lu/*
 *://*.it-swarm.net/*
-*://*.cocoachina.com/*
 *://*.osgeo.cn/*
 *://*.yuanmacha.com/*
 *://*.landcareweb.com/*
@@ -39,5 +38,8 @@
 *://*.riptutorial.com/*
 *://*.uwenku.com/*
 *://*.lifesgirig.cf/*
-*://www.thinbug.com/*
-*://www.caeoa.org/*
+*://*.thinbug.com/*
+*://*.caeoa.org/*
+*://*.bbsmax.com/*
+*://*.tastones.com/*
+*://*.ishenping.com/*
