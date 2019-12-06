@@ -43,3 +43,7 @@
 *://*.bbsmax.com/*
 *://*.tastones.com/*
 *://*.ishenping.com/*
+*://*.bullforyou.com/*
+*://*.chubuntu.com/*
+*://*.zgserver.com/*
+*://*.program-hub.cn/*
