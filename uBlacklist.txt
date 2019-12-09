@@ -47,3 +47,8 @@
 *://*.chubuntu.com/*
 *://*.zgserver.com/*
 *://*.program-hub.cn/*
+*://*.itdaan.com/*
+*://*.datatables.club/*
+*://*.mycodeweb.com/*
+*://*.answer-id.com/*
+*://*.code.i-harness.com/*
