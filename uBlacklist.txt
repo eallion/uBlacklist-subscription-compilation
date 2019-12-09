@@ -52,3 +52,4 @@
 *://*.mycodeweb.com/*
 *://*.answer-id.com/*
 *://*.code.i-harness.com/*
+*://*.koubeiblog.com/*
