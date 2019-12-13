@@ -21,8 +21,4 @@ This list contains websites that only have content scraped from other sites whil
 
 Please note that it is a personal list and it includes some popular websites, like zhidao.baidu.com and iask, due to their low quality content. Fork this project and build your own list if you want to remove them.
 
-## Problems we meet
-1. Google Personal Blocklist is not well maintained. The last updated date is August 20, 2015 while it doesn't work well for latest google.com. The main issue is it no longer displays "Block" link under each search result.
-2. File is growing fast. It becomes hard to copy and paste the list into the extension. We might need to develop a new Blocklist extension allowing user to import list from file directly.
-
 Feel free to contact me if you are interested in developing an alternative extension of Google Personal Blocklist.
