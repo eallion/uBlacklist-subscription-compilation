@@ -38,6 +38,7 @@
 *://*.riptutorial.com/*
 *://*.uwenku.com/*
 *://*.lifesgirig.cf/*
+*://*.muhai.net/*
 *://*.thinbug.com/*
 *://*.caeoa.org/*
 *://*.bbsmax.com/*
