@@ -3,17 +3,18 @@ List of shit websites for blocking Google search result.
 
 It works with several Chrome Extensions and User scripts, including:
 
-* [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk) (Recommended)
+* [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+* [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)
 * [Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef) (Discontinued)
 * [Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/)
 
-Note that Blocklist is a long list and could be too big for some extensions/scripts, depends on its blocking logic and performance. Thus for now, I have only found [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk) which works smoothly with Blocklist.
+Note that Blocklist is a long list and could be too big for some extensions/scripts, depends on its blocking logic and performance.
 
 English|[中文](README.zh-cn.md)
 
 ## How to use it?
 1. Open [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/gyli/Blocklist/master/BLOCKLIST);
-2. Copy and paste the content into your Google Personal Blocklist or Google Hit Hider by Domain import window.
+2. Copy and paste the content into the import page of extension. If you are using uBlacklist, you can import it through "Import from Personal Blocklist" button.
 
 ## What is this list?
 This list contains websites that only have content scraped from other sites while are also heavily SEOed, mostly in English and Chinese language. It helps you filtering out useless information from seraching results.

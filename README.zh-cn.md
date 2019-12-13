@@ -3,17 +3,18 @@ Blocklist 是一份用来屏蔽搜索引擎结果的垃圾网站列表。
 
 该名单可用于这些 Chrome 拓展和用户脚本：
 
-* [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)（推荐）
+* [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+* [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)
 * [Google Personal Blocklist](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef)（已下架）
 * [Google Hit Hider by Domain](https://www.jeffersonscher.com/gm/google-hit-hider/)
 
-请注意，该名单已有数万条数据，因此不适用于一些运行效率较低下的拓展或脚本。目前为止，仅有[Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)一个拓展是推荐配套使用的。
+请注意，该名单已有数万条数据，因此不适用于一些运行效率较低下的拓展或脚本。
 
 [English](README.md)|中文
 
 ## 如何使用？
 1. 打开 [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST)；
-2. 复制其中的内容到 Google Personal Blocklist 或 Google Hit Hider by Domain 的导入界面。
+2. 复制其中的内容到插件的导入界面。如果您使用的是 uBlacklist，请通过其中的 Import from Personal Blocklist 按钮导入。
 
 ## 这个表里有什么？
 Blocklist 收集了堆砌关键词的垃圾站、抓取其他网站内容的内容农场和虚假搜索引擎。大部分为中文或英文网站。
