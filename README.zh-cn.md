@@ -14,7 +14,7 @@ Blocklist 是一份用来屏蔽搜索引擎结果的垃圾网站列表。
 
 ## 如何使用？
 1. 打开 [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST)；
-2. 复制其中的内容到插件的导入界面。如果您使用的是 uBlacklist，请通过其中的 Import from Personal Blocklist 按钮导入。
+2. 复制其中的内容到插件的导入界面。如果您使用的是 uBlacklist，请通过其中的 Import from Personal Blocklist 按钮导入。如果您是在旧的 Blocklist 列表上覆盖更新，那么您需要先将旧的列表删除，以避免重复。
 
 ## 这个表里有什么？
 Blocklist 收集了堆砌关键词的垃圾站、抓取其他网站内容的内容农场和虚假搜索引擎。大部分为中文或英文网站。
