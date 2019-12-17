@@ -20,5 +20,3 @@ English|[中文](README.zh-cn.md)
 This list contains websites that only have content scraped from other sites while are also heavily SEOed, mostly in English and Chinese language. It helps you filtering out useless information from seraching results.
 
 Please note that it is a personal list and it includes some popular websites, like zhidao.baidu.com and iask, due to their low quality content. Fork this project and build your own list if you want to remove them.
-
-Feel free to contact me if you are interested in developing an alternative extension of Google Personal Blocklist.
