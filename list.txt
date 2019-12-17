@@ -17,3 +17,7 @@
 *://yp.jd.com/*
 *://www.vrzxwz.com/*
 *://www.accessoft.com/*
+*://www.jbzj.com/*
+*://www.itjie.com/*
+*://www.voidcn.com/*
+*://www.jishuwen.com/*
