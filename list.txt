@@ -71,6 +71,7 @@
 *://www.accessoft.com/*
 *://www.amazon.com/*
 *://www.bunian.cn/*
+*://www.codenong.com/*
 *://www.eternalcq.com/*
 *://www.fengshouniao.cn/*
 *://www.fenzhanwang.com/*
