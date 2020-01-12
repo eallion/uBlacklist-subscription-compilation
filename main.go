@@ -68,19 +68,17 @@ func ReadFile(Path string) (result string, err error) {
 
 // 创建文件并写入数据
 func CreateFile(path, data string) (err error) {
-	f, err1 := os.Create(path)
-	if err1 != nil {
-		fmt.Println("os.Create err", err1)
-		err = err1
+	f, err := os.Create(path)
+	if err != nil {
+		fmt.Println("os.Create err:", err)
 		return
 	}
 	defer f.Close()
 
 	// 第一个参数返回数据长度，第二个，错误信息
-	_, err2 := f.WriteString(data)
-	if err2 != nil {
-		fmt.Println("f.WriteString err", err2)
-		err = err2
+	_, err = f.WriteString(data)
+	if err != nil {
+		fmt.Println("f.WriteString err:", err)
 		return
 	}
 	return
@@ -89,35 +87,35 @@ func CreateFile(path, data string) (err error) {
 // 备份文件，避免丢失
 func BackupFile(dst, src string) (err error) {
 	// 源文件
-	fSrc, err1 := os.Open(src)
-	if err1 != nil {
-		fmt.Println("os.Open err", err1)
-		return err1
+	fSrc, err := os.Open(src)
+	if err != nil {
+		fmt.Println("os.Open err:", err)
+		return
 	}
 	defer fSrc.Close()
 
 	// 目标文件
-	fDst, err2 := os.Create(dst)
-	if err2 != nil {
-		fmt.Println("os.Create err", err2)
-		return err2
+	fDst, err := os.Create(dst)
+	if err != nil {
+		fmt.Println("os.Create err:", err)
+		return
 	}
 	defer fDst.Close()
 
 	buf := make([]byte, 4096)
 	for {
-		n, err3 := fSrc.Read(buf)
-		if err3 != nil && err3 != io.EOF {
-			fmt.Println("f.Read err", err3)
-			return err3
+		n, err := fSrc.Read(buf)
+		if err != nil && err != io.EOF {
+			fmt.Println("f.Read err", err)
+			return  err
 		}
-		if err3 == io.EOF {
+		if err == io.EOF {
 			break
 		}
 
 		// 读多少写多少
-		if _, err4 := fDst.Write(buf[:n]); err4 != nil {
-			return err4
+		if _, err = fDst.Write(buf[:n]); err != nil {
+			return err
 		}
 	}
 	return
