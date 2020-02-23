@@ -54,3 +54,4 @@
 *://*.answer-id.com/*
 *://*.code.i-harness.com/*
 *://*.koubeiblog.com/*
+*://*.kutu66.com/*
