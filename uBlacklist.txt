@@ -57,3 +57,4 @@
 *://*.kutu66.com/*
 *://*.manongdao.com/*
 *://*.3daima.com/*
+*://*.it1352.com/*
