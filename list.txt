@@ -16,3 +16,6 @@
 *://*.voidcc.com/
 *://www.voidcc.com/*
 *://www.code-adviser.com/*
+*://www.codeflow.site/*
+*://ja.ojit.com/*
+*://*.ojit.com/*
