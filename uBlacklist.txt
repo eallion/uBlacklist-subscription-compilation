@@ -58,3 +58,4 @@
 *://*.manongdao.com/*
 *://*.3daima.com/*
 *://*.it1352.com/*
+*://*.qastack.cn/*
