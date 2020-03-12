@@ -59,3 +59,4 @@
 *://*.3daima.com/*
 *://*.it1352.com/*
 *://*.qastack.cn/*
+*://*.orcode.com/*
