@@ -45,6 +45,17 @@
 
 按格式修改 [uBlacklist.txt](https://github.com/liubiantao/uBlacklist-Websites/blob/master/uBlacklist.txt) 并提交 PR。
 
+## 直接向谷歌举报
+
+对于没有提供 Stack Overflow 源链接的网站，建议大家一起向谷歌举报：[Search Console - 您发现垃圾网页了吗？](https://www.google.com/webmasters/tools/spamreport?pli=1)
+
+如果垃圾站使用了 AdSense，点击这里举报：[报告违反合作规范的情况 - AdSense帮助](https://support.google.com/adsense/contact/violation_report)
+
+参考：
+> [Creative Commons — 署名-相同方式共享 4.0 国际 — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-Hans)
+
+> [A site (or scraper) is copying content from Stack Exchange. What should I do? - Meta Stack Exchange](https://meta.stackexchange.com/questions/200177/a-site-or-scraper-is-copying-content-from-stack-exchange-what-should-i-do)
+
 ## 感谢
 
 [google 搜索的时候建议屏蔽这些垃圾网站 - V2EX](https://www.v2ex.com/t/593519)
