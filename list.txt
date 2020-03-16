@@ -6,6 +6,7 @@
 *://baijiahao.baidu.com/*
 *://bvwc.lumea-verlag.de/*
 *://ceji.ayotechnology.de/*
+*://cn.filedict.com/*
 *://cyfq.women-selfdefense-regensburg.de/*
 *://czba.quazzle.de/*
 *://dfuw.redandgold.de/*
@@ -39,6 +40,7 @@
 *://lojp.spiegleinportal.de/*
 *://longjin-art.com/*
 *://lpgit.com/*
+*://m.361t.org/*
 *://m.ccdswl.com/*
 *://m.copyan.com/*
 *://m.moxingyun.com/*
@@ -60,6 +62,7 @@
 *://sgub.kerstinraphahn.de/*
 *://sswhsign.com/*
 *://tfud.ffw-ellzee.de/*
+*://tushuo.jk51.com/*
 *://twww.wahmbeckerheide.de/*
 *://urlx.nak-giessen-wieseck.de/*
 *://urqx.denisemed.de/*
@@ -74,11 +77,13 @@
 *://wthe.singende-wirte.de/*
 *://www.10tiao.com/*
 *://www.18183.com/*
+*://www.3333xbxb.com/*
 *://www.6tuba.com/*
 *://www.7lg.net/*
 *://www.accessoft.com/*
 *://www.ajpsp.com/*
 *://www.amazon.com/*
+*://www.bjcsjsc.com/*
 *://www.bunian.cn/*
 *://www.buscodepto.com/*
 *://www.codenong.com/*
@@ -112,6 +117,7 @@
 *://www.wdzj.com/*
 *://www.weiqunwang.com/*
 *://www.ymw.cn/*
+*://www.zui88.com/*
 *://xckd.hamsterkiste-deutsch.de/*
 *://xqdj.hahnbacher-fotos.de/*
 *://xrdv.rpa-cee.de/*
