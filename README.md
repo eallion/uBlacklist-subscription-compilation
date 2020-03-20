@@ -1,6 +1,10 @@
 # uBlacklist-Websites
 谷歌搜索结果中屏蔽机器翻译网站
 
+## 找到一个更全的名单，大家可以去订阅这个：
+
+https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+
 
 ## 介绍
 
