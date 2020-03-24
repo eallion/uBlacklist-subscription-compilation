@@ -19,3 +19,4 @@
 *://www.codeflow.site/*
 *://ja.ojit.com/*
 *://*.ojit.com/*
+*://*.366service.com/*
