@@ -60,3 +60,5 @@
 *://*.it1352.com/*
 *://*.qastack.cn/*
 *://*.orcode.com/*
+*://*.cnpython.com/*
+*://*.hotbak.net/*
