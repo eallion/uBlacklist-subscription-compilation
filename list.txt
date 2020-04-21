@@ -22,4 +22,5 @@
 *://*.366service.com/*
 *://*.it-swarm.dev/*
 *://www.it-swarm.dev/*
+*://qastack.jp/*
 
