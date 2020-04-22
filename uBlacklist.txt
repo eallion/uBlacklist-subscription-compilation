@@ -62,3 +62,5 @@
 *://*.orcode.com/*
 *://*.cnpython.com/*
 *://*.hotbak.net/*
+*://*.koubeiblog.com/*
+*://*.vimsky.com/*
