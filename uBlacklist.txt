@@ -64,3 +64,4 @@
 *://*.hotbak.net/*
 *://*.koubeiblog.com/*
 *://*.vimsky.com/*
+*://*.coder.work/*
