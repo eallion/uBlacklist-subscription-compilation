@@ -14,10 +14,8 @@
 *://forsenergy.com/*
 *://living-sun.com/*
 *://*.voidcc.com/
-*://www.voidcc.com/*
 *://www.code-adviser.com/*
 *://www.codeflow.site/*
-*://ja.ojit.com/*
 *://*.ojit.com/*
 *://*.366service.com/*
 *://*.it-swarm.dev/*
