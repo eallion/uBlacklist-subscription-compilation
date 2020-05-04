@@ -16,6 +16,7 @@
 *://dmpp.nasp3-5.de/*
 *://docs.tita.com/*
 *://dotblogs.com.tw/*
+*://dun.163.com/*
 *://e-bamboo.com/*
 *://egny.fieldball.de/*
 *://elxc.st-energieservices.fr/*
@@ -26,6 +27,7 @@
 *://greyhoundbastards.com/*
 *://gvkv.apollostar-safari.de/*
 *://gyrh.dackel-vom-raeuberwaeldchen.de/*
+*://hdmseafood.com/*
 *://heoz.galabau-mg.de/*
 *://hjzf8899.com/*
 *://hosf.flusskreuzfahrten-elbe.de/*
@@ -52,6 +54,8 @@
 *://m.gdyadu.com/*
 *://m.isdngo.xyz/*
 *://m.moxingyun.com/*
+*://m.mp3suck.com/*
+*://m.outmc.com/*
 *://m.yangzhiguo.com/*
 *://m.zhuangku.com/*
 *://mayphatmaynen.com/*
@@ -68,6 +72,7 @@
 *://probacc.com/*
 *://qcke.plameco-nett.de/*
 *://qooqo.ru/*
+*://qzjlnm.com/*
 *://rohv.madame-creations.fr/*
 *://sabp.natural-born-schrubber.de/*
 *://sgub.kerstinraphahn.de/*
@@ -104,6 +109,7 @@
 *://www.bunian.cn/*
 *://www.buscodepto.com/*
 *://www.bzxfgj.com/*
+*://www.cctsuzhou.cn/*
 *://www.codenong.com/*
 *://www.cqchildren.com/*
 *://www.darentang.org/*
@@ -134,6 +140,7 @@
 *://www.lnmonet.com/*
 *://www.manew.com/*
 *://www.mei521.com/*
+*://www.mzgsmc.com/*
 *://www.ok168198.com/*
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
@@ -142,8 +149,10 @@
 *://www.ssf.cc/*
 *://www.taobao.com/*
 *://www.tongfengqu.com/*
+*://www.tqhnet.com/*
 *://www.trust1688.com/*
 *://www.voidcn.com/*
+*://www.vpsmm.com/*
 *://www.vrzxwz.com/*
 *://www.wcwol.com/*
 *://www.wdzj.com/*
@@ -151,6 +160,7 @@
 *://www.xyj321.com/*
 *://www.yijyi.com/*
 *://www.ymw.cn/*
+*://www.zhipanyou.com/*
 *://www.zui88.com/*
 *://xckd.hamsterkiste-deutsch.de/*
 *://xqdj.hahnbacher-fotos.de/*
