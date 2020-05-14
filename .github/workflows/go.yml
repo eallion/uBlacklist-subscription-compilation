@@ -30,6 +30,13 @@ jobs:
             dep ensure
         fi
 
+    - name: Setup Git
+      env:
+          MY_SECRET : ${{secrets.commit_secret}}
+      run: |
+        git config --local user.name ${{secrets.username}}
+        git config --local user.email ${{secrets.useremail}}
+
     - name: Pull source
       run: |
         git subtree pull --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master
@@ -53,11 +60,7 @@ jobs:
         mv uBlacklist.txt ../uBlacklist.txt -f
 
     - name: Commit files
-      env:
-          MY_SECRET : ${{secrets.commit_secret}}
       run: |
-        git config --local user.name ${{secrets.username}}
-        git config --local user.email ${{secrets.useremail}}
         git status
         git add .
         git commit -m "Update source uBlacklist subcription"
