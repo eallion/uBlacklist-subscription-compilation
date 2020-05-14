@@ -39,17 +39,17 @@ jobs:
 
     - name: Pull source
       run: |
-        git subtree pull --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master
-        git subtree pull --prefix=source/cobaltdisco/Google-Chinese-Results-Blocklist https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git master
-        git subtree pull --prefix=source/gyli/Blocklist https://github.com/gyli/Blocklist.git master
-        git subtree pull --prefix=source/h-matsuo/uBlacklist-subscription-for-developer https://github.com/h-matsuo/uBlacklist-subscription-for-developer.git master
-        git subtree pull --prefix=source/iorate/ublacklist-example-subscription https://github.com/iorate/ublacklist-example-subscription.git master
-        git subtree pull --prefix=source/littleserendipity/uBlacklist-Subscription https://github.com/littleserendipity/uBlacklist-Subscription.git master
-        git subtree pull --prefix=source/liubiantao/uBlacklist-Websites https://github.com/liubiantao/uBlacklist-Websites.git master
-        git subtree pull --prefix=source/nonPointer/uBlacklist-Subscription https://github.com/nonPointer/uBlacklist-Subscription.git master
-        git subtree pull --prefix=source/scyrte/uBlacklist-Subscription https://github.com/scyrte/uBlacklist-Subscription.git master
-        git subtree pull --prefix=source/xNathan/uBlacklist-subscription https://github.com/xNathan/uBlacklist-subscription.git master
-        git subtree pull --prefix=source/yangjingchuang/ublacklist-subscription https://github.com/yangjingchuang/ublacklist-subscription.git master
+        git subtree pull --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/cobaltdisco/Google-Chinese-Results-Blocklist https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/gyli/Blocklist https://github.com/gyli/Blocklist.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/h-matsuo/uBlacklist-subscription-for-developer https://github.com/h-matsuo/uBlacklist-subscription-for-developer.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/iorate/ublacklist-example-subscription https://github.com/iorate/ublacklist-example-subscription.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/littleserendipity/uBlacklist-Subscription https://github.com/littleserendipity/uBlacklist-Subscription.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/liubiantao/uBlacklist-Websites https://github.com/liubiantao/uBlacklist-Websites.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/nonPointer/uBlacklist-Subscription https://github.com/nonPointer/uBlacklist-Subscription.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/scyrte/uBlacklist-Subscription https://github.com/scyrte/uBlacklist-Subscription.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/xNathan/uBlacklist-subscription https://github.com/xNathan/uBlacklist-subscription.git master --allow-unrelated-histories
+        git subtree pull --prefix=source/yangjingchuang/ublacklist-subscription https://github.com/yangjingchuang/ublacklist-subscription.git master --allow-unrelated-histories
 
     - name: Merge txt
       run: |
