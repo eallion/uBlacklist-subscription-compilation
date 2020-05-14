@@ -40,6 +40,7 @@ jobs:
     - name: Pull source
       run: |
         rm -rf source
+        git status
         git subtree add --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master --squash
         git subtree add --prefix=source/cobaltdisco/Google-Chinese-Results-Blocklist https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git master --squash
         git subtree add --prefix=source/gyli/Blocklist https://github.com/gyli/Blocklist.git master --squash
@@ -51,6 +52,7 @@ jobs:
         git subtree add --prefix=source/scyrte/uBlacklist-Subscription https://github.com/scyrte/uBlacklist-Subscription.git master --squash
         git subtree add --prefix=source/xNathan/uBlacklist-subscription https://github.com/xNathan/uBlacklist-subscription.git master --squash
         git subtree add --prefix=source/yangjingchuang/ublacklist-subscription https://github.com/yangjingchuang/ublacklist-subscription.git master --squash
+        git status
 
     - name: Merge txt
       run: |
