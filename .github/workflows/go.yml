@@ -39,7 +39,6 @@ jobs:
 
     - name: Pull source
       run: |
-        rm -rf source
         git status
         git subtree pull --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master --squash
         git subtree pull --prefix=source/cobaltdisco/Google-Chinese-Results-Blocklist https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git master --squash
