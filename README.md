@@ -2,7 +2,7 @@
 
 这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。通过 Github Actions 每周自动更新一次。
 
-Update：2020-05-15 4:42
+>Update：2020-05-15 4:42
 
 # 用法：
 
@@ -12,7 +12,7 @@ Update：2020-05-15 4:42
 
 ### 二、设置
 
-#### 1、一般：
+#### 1、设置 - 一般：
 
 >以下网站将不会显示在 Google 的搜索结果中：
 
@@ -27,10 +27,10 @@ Update：2020-05-15 4:42
 ```
 如图：
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/v1JoYT4N0O.png)
+![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/v1JoYT4N0p.png)
 
 
-#### 2、订阅：
+#### 2、设置 - 订阅：
 
 > 订阅黑名单列表:
 
@@ -39,7 +39,7 @@ Update：2020-05-15 4:42
 
 `https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/master/uBlacklist.txt`
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/xN5B7whxYF.png)
+![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/xN5B7whxYr.png)
 
 # 感谢名单：
 - [https://github.com/YeSilin/uBlacklist](https://github.com/YeSilin/uBlacklist)
