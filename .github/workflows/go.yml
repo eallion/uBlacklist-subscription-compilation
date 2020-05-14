@@ -38,7 +38,11 @@ jobs:
         git config --local user.email ${{secrets.useremail}}
 
     - name: Pull source
+      env:
+          MY_SECRET : ${{secrets.commit_secret}}
       run: |
+        git config --local user.name ${{secrets.username}}
+        git config --local user.email ${{secrets.useremail}}
         git subtree pull --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master --allow-unrelated-histories
         git subtree pull --prefix=source/cobaltdisco/Google-Chinese-Results-Blocklist https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git master --allow-unrelated-histories
         git subtree pull --prefix=source/gyli/Blocklist https://github.com/gyli/Blocklist.git master --allow-unrelated-histories
