@@ -1,19 +1,21 @@
-# uBlacklist
-uBlacklist subscription compilation
+# uBlacklist subscription compilation
 
-这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并。
+这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。通过 Github Actions 每周自动更新一次。
 
-### 下载 uBlacklist 浏览器插件：
-- Chrome [https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
-- Firefox [https://addons.mozilla.org/en-US/firefox/addon/ublacklist/](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+Update：2020-05-15 4:42
 
-### 设置
+# 用法：
 
-- 一般：
+### 一、下载 uBlacklist 浏览器插件：
+- Chrome： [https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+- Firefox： [https://addons.mozilla.org/en-US/firefox/addon/ublacklist](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+
+### 二、设置
+
+#### 1、一般：
 
 >以下网站将不会显示在 Google 的搜索结果中：
 
-填入：
 ```
 *://*/so.php
 *://*/so.php?s=*
@@ -23,9 +25,12 @@ uBlacklist subscription compilation
 *://*/so/*
 *://www.hotbak.net/*
 ```
+如图：
+
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/v1JoYT4N0O.png)
 
-- 订阅：
+
+#### 2、订阅：
 
 > 订阅黑名单列表:
 
@@ -36,7 +41,7 @@ uBlacklist subscription compilation
 
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/xN5B7whxYF.png)
 
-### 感谢名单：
+# 感谢名单：
 - [https://github.com/YeSilin/uBlacklist](https://github.com/YeSilin/uBlacklist)
 - [https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
 - [https://github.com/gyli/Blocklist](https://github.com/gyli/Blocklist)
@@ -50,7 +55,7 @@ uBlacklist subscription compilation
 - [https://github.com/yangjingchuang/ublacklist-subscription](https://github.com/yangjingchuang/ublacklist-subscription)
 
 
-### LICENSE
+# LICENSE
 ```
 GLWT（祝你好运）公共许可证
 版权所有（C）每个人，除了作者
