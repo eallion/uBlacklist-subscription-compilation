@@ -64,7 +64,8 @@ jobs:
 
     - name: Commit files
       run: |
-        git status
+        rm add_url.txt
+        touch add_url.txt
         git add .
         git commit -m "Update source uBlacklist subcription"
         git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
