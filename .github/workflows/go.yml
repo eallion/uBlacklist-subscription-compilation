@@ -42,8 +42,8 @@ jobs:
       env:
           MY_SECRET : ${{secrets.commit_secret}}
       run: |
-        git config --local user.name $USER_NAME
-        git config --local user.email $USER_EMAIL
+        git config --local user.name ${{secrets.username}}
+        git config --local user.email ${{secrets.useremail}}
         git status
         git add .
         git commit -m "Update source uBlacklist subcription"
