@@ -29,6 +29,7 @@ jobs:
             curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
             dep ensure
         fi
+
     - name: Pull source
       run: |
         git subtree pull --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master
