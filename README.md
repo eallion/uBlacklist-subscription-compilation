@@ -27,7 +27,7 @@
 ```
 如图：
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/v1JoYT4N0p.png)
+![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/PKO0JoJBpU.png)
 
 
 #### 2、设置 - 订阅：
