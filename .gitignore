@@ -1,18 +1,19 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
 
-# Other files and folders
-.settings/
+# Test binary, built with `go test -c`
+*.test
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# 忽略的文件
+.idea/
+/uBlacklist-subscription-compilation_backup.txt
