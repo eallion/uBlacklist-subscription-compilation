@@ -59,7 +59,7 @@ jobs:
         cd tools
         touch time.txt
         echo "Update: "`date +"%Y-%m-%d"` > time.txt
-        cat ../source/cobaltdisco/Google-Chinese-Results-Blocklist/uBlacklist_subscription.txt ../source/gyli/Blocklist/BLOCKLIST ../source/h-matsuo/uBlacklist-subscription-for-developer/list.txt ../source/iorate/ublacklist-example-subscription/uBlacklist.txt ../source/littleserendipity/uBlacklist-Subscription/blacklist.txt ../source/liubiantao/uBlacklist-Websites/uBlacklist.txt ../source/nonPointer/uBlacklist-Subscription/blacklist.txt ../source/scyrte/uBlacklist-Subscription/blacklist.txt ../source/xNathan/uBlacklist-subscription/blacklist.txt ../source/yangjingchuang/ublacklist-subscription/uBlacklist.txt ../source/YeSilin/uBlacklist/list.txt ../add_url.txt > uBlacklist.txt
+        cat time.txt ../source/cobaltdisco/Google-Chinese-Results-Blocklist/uBlacklist_subscription.txt ../source/gyli/Blocklist/BLOCKLIST ../source/h-matsuo/uBlacklist-subscription-for-developer/list.txt ../source/iorate/ublacklist-example-subscription/uBlacklist.txt ../source/littleserendipity/uBlacklist-Subscription/blacklist.txt ../source/liubiantao/uBlacklist-Websites/uBlacklist.txt ../source/nonPointer/uBlacklist-Subscription/blacklist.txt ../source/scyrte/uBlacklist-Subscription/blacklist.txt ../source/xNathan/uBlacklist-subscription/blacklist.txt ../source/yangjingchuang/ublacklist-subscription/uBlacklist.txt ../source/YeSilin/uBlacklist/list.txt ../add_url.txt > uBlacklist.txt
         go run main.go
         cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
@@ -69,7 +69,7 @@ jobs:
         rm add_url.txt
         touch add_url.txt
         git add .
-        git commit -m "Update source uBlacklist subcription"
+        git commit -m "Update subcription weekly"
         git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
         git push origin master -f
         echo 🤘 Update complete.
