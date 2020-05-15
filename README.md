@@ -1,6 +1,8 @@
 # uBlacklist subscription compilation
 > uBlacklist 订阅地址合集
 
+![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=master)
+
 这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。通过 Github Actions 每周自动更新一次。
 
 > Update：2020-05-15 4:42
