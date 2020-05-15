@@ -58,7 +58,7 @@ jobs:
       run: |
         cd tools
         touch time.txt
-        echo " Update: "`date +"%Y-%m-%d"" ""%T"` > time.txt
+        echo " Update: "`TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800"` > time.txt
         cat time.txt ../source/cobaltdisco/Google-Chinese-Results-Blocklist/uBlacklist_subscription.txt ../source/gyli/Blocklist/BLOCKLIST ../source/h-matsuo/uBlacklist-subscription-for-developer/list.txt ../source/iorate/ublacklist-example-subscription/uBlacklist.txt ../source/littleserendipity/uBlacklist-Subscription/blacklist.txt ../source/liubiantao/uBlacklist-Websites/uBlacklist.txt ../source/nonPointer/uBlacklist-Subscription/blacklist.txt ../source/scyrte/uBlacklist-Subscription/blacklist.txt ../source/xNathan/uBlacklist-subscription/blacklist.txt ../source/yangjingchuang/ublacklist-subscription/uBlacklist.txt ../source/YeSilin/uBlacklist/list.txt ../add_url.txt > uBlacklist.txt
         go run main.go
         cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
