@@ -126,7 +126,7 @@ func main() {
 	path := `uBlacklist.txt`
 
 	// 备份路径
-	Backup := `uBlacklistbackup.txt`
+	Backup := `uBlacklist_backup.txt`
 
 	// 执行前先备份一份
 	if err := BackupFile(Backup, path); err != nil {
