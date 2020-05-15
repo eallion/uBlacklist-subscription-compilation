@@ -1,3 +1,4 @@
+
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1194,6 +1195,7 @@
 *://lqkweb.com/*
 *://m.201347.uk.com/*
 *://m.361t.org/*
+*://m.aozhou8.com/*
 *://m.ccdswl.com/*
 *://m.copyan.com/*
 *://m.eoudu.com/*
@@ -1205,7 +1207,7 @@
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
 *://m.outmc.com/*
-*://m.php.cn/**://52movs.com/*
+*://m.php.cn/*
 *://m.qz40.com/*
 *://m.ra9tx41c.ynidhq.tw/*
 *://m.s0hfci9.tcbdtd.tw/*
@@ -1213,6 +1215,7 @@
 *://m.wjuze.bmwtgk.tw/*
 *://m.yangzhiguo.com/*
 *://m.zhuangku.com/*
+*://mamicode.com/*
 *://mayphatmaynen.com/*
 *://meifa.izhufu.net/*
 *://mlog.club/*
@@ -1294,6 +1297,7 @@
 *://www.3062.net.cn/*
 *://www.31871111.com/*
 *://www.3333xbxb.com/*
+*://www.360doc.com/*
 *://www.360kuai.com/*
 *://www.365shenbo.com/*
 *://www.3li.cc/*
@@ -1335,6 +1339,7 @@
 *://www.darentang.org/*
 *://www.dayupaiming.com/*
 *://www.diannaoxianka.com/*
+*://www.dianthink.com/*
 *://www.djcxy.com/*
 *://www.djjiuoeb.com/*
 *://www.dnpz.net/*
@@ -1370,6 +1375,7 @@
 *://www.hyhome.com.cn/*
 *://www.ihantian.com/*
 *://www.illitpress.com/*
+*://www.imooc.com/*
 *://www.ispsd2015.com/*
 *://www.it-swarm.dev/*
 *://www.iteye.com/*
@@ -1395,6 +1401,7 @@
 *://www.lansingip.com/*
 *://www.lanzhouyangsheng.com/*
 *://www.lanzhouzaixian.cn/*
+*://www.liiix.com/*
 *://www.linjiaxiaohui.cn/*
 *://www.lnmonet.com/*
 *://www.manew.com/*
@@ -1404,10 +1411,12 @@
 *://www.moneytlk.com/*
 *://www.mzgsmc.com/*
 *://www.njqg.net/*
+*://www.oicqzone.com/*
 *://www.ojit.com/*
 *://www.ok168198.com/*
 *://www.onesl.com/*
 *://www.orcode.com/*
+*://www.pai-hang-bang.com/*
 *://www.paloma.cn/*
 *://www.parichyimin.com/*
 *://www.pck777.com/*
@@ -1430,8 +1439,10 @@
 *://www.shsgy.com/*
 *://www.shuzhiduo.com/*
 *://www.sldfc.cn/*
+*://www.solves.com.cn/*
 *://www.ssf.cc/*
 *://www.sxwshm.com/*
+*://www.talkwithtrend.com/**://52movs.com/*
 *://www.taobao.com/*
 *://www.tastones.com/*
 *://www.teipy.com/*
@@ -1454,6 +1465,7 @@
 *://www.wdzj.com/*
 *://www.weiqunwang.com/*
 *://www.wenxuecity.com/*
+*://www.whysw88.com/*
 *://www.wnt777.com/*
 *://www.xhsdzjys.com/*
 *://www.xinfuq.cn/*
@@ -1464,12 +1476,14 @@
 *://www.xyj321.com/*
 *://www.yijyi.com/*
 *://www.yiper.org/*
+*://www.yisu.com/*
 *://www.yiyisoft.com/*
 *://www.ymw.cn/*
 *://www.zgxnjc.com/*
 *://www.zhengrongshuo.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
+*://www.zhuici.net/*
 *://www.zjdfsm.com/*
 *://www.zrahh.com/*
 *://www.zui88.com/*
