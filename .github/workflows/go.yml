@@ -39,16 +39,16 @@ jobs:
 
     - name: Pull source
       run: |
-        git subtree pull -P source/YeSilin/uBlacklist --squash https://github.com  /YeSilin/uBlacklist.git master
-        git subtree pull -P source/cobaltdisco/Google-Chinese-Results-Blocklist --squash https://github.com  /cobaltdisco/Google-Chinese-Results-Blocklist.git master
-        git subtree pull -P source/gyli/Blocklist --squash https://github.com  /gyli/Blocklist.git master
-        git subtree pull -P source/h-matsuo/uBlacklist-subscription-for-developer --squash https://github.com  /h-matsuo/uBlacklist-subscription-for-developer.git master
-        git subtree pull -P source/littleserendipity/uBlacklist-Subscription --squash https://github.com  /littleserendipity/uBlacklist-Subscription.git master
-        git subtree pull -P source/liubiantao/uBlacklist-Websites --squash https://github.com  /liubiantao/uBlacklist-Websites.git master
-        git subtree pull -P source/nonPointer/uBlacklist-Subscription --squash https://github.com  /nonPointer/uBlacklist-Subscription.git master
-        git subtree pull -P source/scyrte/uBlacklist-Subscription --squash https://github.com  /scyrte/uBlacklist-Subscription.git master
-        git subtree pull -P source/xNathan/uBlacklist-subscription --squash https://github.com  /xNathan/uBlacklist-subscription.git master
-        git subtree pull -P source/yangjingchuang/ublacklist-subscription --squash https://github.com  /yangjingchuang/ublacklist-subscription.git master
+        git subtree pull -P source/YeSilin/uBlacklist --squash https://github.com/YeSilin/uBlacklist.git master
+        git subtree pull -P source/cobaltdisco/Google-Chinese-Results-Blocklist --squash https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git master
+        git subtree pull -P source/gyli/Blocklist --squash https://github.com/gyli/Blocklist.git master
+        git subtree pull -P source/h-matsuo/uBlacklist-subscription-for-developer --squash https://github.com/h-matsuo/uBlacklist-subscription-for-developer.git master
+        git subtree pull -P source/littleserendipity/uBlacklist-Subscription --squash https://github.com/littleserendipity/uBlacklist-Subscription.git master
+        git subtree pull -P source/liubiantao/uBlacklist-Websites --squash https://github.com/liubiantao/uBlacklist-Websites.git master
+        git subtree pull -P source/nonPointer/uBlacklist-Subscription --squash https://github.com/nonPointer/uBlacklist-Subscription.git master
+        git subtree pull -P source/scyrte/uBlacklist-Subscription --squash https://github.com/scyrte/uBlacklist-Subscription.git master
+        git subtree pull -P source/xNathan/uBlacklist-subscription --squash https://github.com/xNathan/uBlacklist-subscription.git master
+        git subtree pull -P source/yangjingchuang/ublacklist-subscription --squash https://github.com/yangjingchuang/ublacklist-subscription.git master
 
     - name: Merge txt
       run: |
