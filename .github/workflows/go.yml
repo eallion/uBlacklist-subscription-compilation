@@ -21,6 +21,9 @@ jobs:
 
     - name: Check out code into the Go module directory
       uses: actions/checkout@v2
+        with:
+          ref: master
+          fetch-depth: 0
 
     - name: Get dependencies
       run: |
