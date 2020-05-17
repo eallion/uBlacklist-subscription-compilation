@@ -1,4 +1,4 @@
- Update: 2020-05-15 19:53:00 UTC+0800
+ Update: 2020-05-17 09:05:06 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -308,7 +308,6 @@
 *://*.erdie826.com/*
 *://*.eshidai.com/*
 *://*.eue5xbp.site/*
-*://*.example.com/*
 *://*.exthe247.com/*
 *://*.fafa42.bb6zz.com/*
 *://*.faithfilledapparel.com/*
@@ -1510,7 +1509,6 @@
 /(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/
 /.*\/.*\?(?:s|so)=.*/
 /.*\/so\.php/
-/example\.(net|org)/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 0001113.com
 0001403.cn

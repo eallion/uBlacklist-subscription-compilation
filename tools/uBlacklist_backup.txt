@@ -1,4 +1,4 @@
- Update: 2020-05-15 19:53:00 UTC+0800
+ Update: 2020-05-17 09:05:06 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -70179,8 +70179,6 @@ zzzzbj.com
 *://www.it-swarm.dev/*
 *://qastack.jp/*
 *://*.coder.work/*
-*://*.example.com/*
-/example\.(net|org)/
 *://*.abbyychina.com/*
 *://*.bartender.cc/*
 *://*.betterzipcn.com/*
