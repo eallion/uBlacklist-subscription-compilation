@@ -12,9 +12,9 @@
 通过匹配域名的方式，屏蔽搜索引擎的搜索结果。主要是屏蔽中文SEO垃圾站。  
 
 支持的网站：（由 uBlacklist 插件决定）
-- Google
-- DuckDuckGo
-- Startpage
+- [Google](https://www.google.com/ncr?gws_rd=ssl)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Startpage](https://www.startpage.com/)
 
 # 用法：
 
