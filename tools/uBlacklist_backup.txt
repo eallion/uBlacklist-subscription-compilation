@@ -1,4 +1,4 @@
- Update: 2020-05-17 09:28:47 UTC+0800
+ Update: 2020-05-17 22:41:09 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -70989,4 +70989,4 @@ zzzzbj.com
 *://zh.wikipedia.org/*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
-*://zrsd.schorfheidecarport.de/*
+*://zrsd.schorfheidecarport.de/**://www.e-learn.cn/*
