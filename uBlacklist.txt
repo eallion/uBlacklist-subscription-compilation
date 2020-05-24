@@ -1,4 +1,4 @@
- Update: 2020-05-17 22:41:09 UTC+0800
+ Update: 2020-05-24 08:04:59 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1102,6 +1102,7 @@
 *://artez.org.cn/*
 *://ask.csdn.net/*
 *://ask.zol.com.cn/*
+*://ata-academy.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://baijiahao.baidu.com/*
 *://bbs.csdn.net/*
@@ -1111,14 +1112,19 @@
 *://blog.51cto.com/*
 *://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
+*://blog.silucg.com/*
+*://blog.wu-boy.com/*
 *://bloomingtonventures.com/*
+*://bradstreetcra.com/*
 *://brrmn.com/*
+*://bryanalders.com/*
 *://bug200.com/*
 *://bunnyinside.com/*
 *://bvwc.lumea-verlag.de/*
 *://bynss.com/*
 *://cctsuzhou.cn/*
 *://ceji.ayotechnology.de/*
+*://christadavidson.com/*
 *://cloud.tencent.com/*
 *://cloud.tencent.com/developer/article/*
 *://cloud.tencent.com/developer/ask*
@@ -1139,6 +1145,7 @@
 *://darler.gitee.io/*
 *://detail.zol.com.cn/*
 *://dfuw.redandgold.de/*
+*://dguun.com/*
 *://diqiu888.com/*
 *://dlshenda.com/*
 *://dm004.com/*
@@ -1157,6 +1164,7 @@
 *://fmex.women-selfdefense-regensburg.de/*
 *://forsenergy.com/*
 *://gctm.shk-cux.de/*
+*://getm4.aiyanqing.com/*
 *://gjgp.mikeprange.de/*
 *://greyhoundbastards.com/*
 *://gvkv.apollostar-safari.de/*
@@ -1165,6 +1173,7 @@
 *://heoz.galabau-mg.de/*
 *://hjzf8899.com/*
 *://hosf.flusskreuzfahrten-elbe.de/*
+*://hoteles.bluevalencia.com/*
 *://hzhjjx.com/*
 *://iamlishuo.com/*
 *://iask.sina.com.cn/*
@@ -1194,6 +1203,7 @@
 *://lqkweb.com/*
 *://m.201347.uk.com/*
 *://m.361t.org/*
+*://m.abctbh.com/*
 *://m.aozhou8.com/*
 *://m.ccdswl.com/*
 *://m.copyan.com/*
@@ -1220,15 +1230,20 @@
 *://mlog.club/*
 *://mnst.sport-dpo.de/*
 *://mostud.com/*
+*://mustafaaliduran.com/*
 *://mytory.net/*
 *://mzlw.apollostar-safari.de/*
+*://natura-karite.com/*
 *://nbri.stephan-messling.de/*
+*://neutrikmall.com/*
 *://odde.felixmeier.de/*
 *://okoo.5watches.de/*
 *://omachadodomaranhao.com/*
+*://oneho.cn/*
 *://p1htmlkernalweb.mybluemix.net/*
 *://park.zunmi.cn/*
 *://pinasy.com/*
+*://priorityhospice.com/*
 *://probacc.com/*
 *://product.3g.pconline.com.cn/*
 *://product.mxpkw.com/*
@@ -1236,6 +1251,7 @@
 *://qastack.cn/*
 *://qastack.jp/*
 *://qcke.plameco-nett.de/*
+*://qiaofu66.blog.sohu.com/*
 *://qipai.coms.hk/*
 *://qooqo.ru/*
 *://qzjlnm.com/*
@@ -1258,6 +1274,8 @@
 *://taojinpu.cn/*
 *://tfud.ffw-ellzee.de/*
 *://thewikihow.com/*
+*://tortortor.pw/*
+*://truelovenet.com/*
 *://tushuo.jk51.com/*
 *://twww.wahmbeckerheide.de/*
 *://ub4.com/*
@@ -1287,8 +1305,10 @@
 *://www.07diy.com/*
 *://www.09vv.cn/*
 *://www.10tiao.com/*
+*://www.1688.com/*
 *://www.17qufa.com/*
 *://www.18183.com/*
+*://www.1888generator.com/*
 *://www.23cpc.com/*
 *://www.24withyoo.com/*
 *://www.2616.com.cn/*
@@ -1306,10 +1326,14 @@
 *://www.6tuba.com/*
 *://www.7711182.com/*
 *://www.7lg.net/*
+*://www.9999ktv.com/*
 *://www.ab2s.com/*
+*://www.abcxzh.com/*
 *://www.accessoft.com/*
 *://www.ajpsp.com/*
 *://www.amazon.com/*
+*://www.anyolife.com/*
+*://www.azsalon527.com/*
 *://www.bdqxgw.com/*
 *://www.be55.net/*
 *://www.bifengo.com/*
@@ -1343,6 +1367,7 @@
 *://www.djjiuoeb.com/*
 *://www.dnpz.net/*
 *://www.dofe.com.cn/*
+*://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
 *://www.dzydieo.site/*
 *://www.eternalcq.com/*
@@ -1366,6 +1391,7 @@
 *://www.hchygw.com/*
 *://www.hello.so/*
 *://www.helloaliyun.com/*
+*://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
 *://www.hq396.com/*
@@ -1396,6 +1422,7 @@
 *://www.kafan.cn/*
 *://www.kafan.cn/**://*.voidcc.com/*
 *://www.ku3101.net/*
+*://www.labellemoriniere.com/*
 *://www.lagou.com/*
 *://www.lansingip.com/*
 *://www.lanzhouyangsheng.com/*
@@ -1408,12 +1435,14 @@
 *://www.miliol.org/*
 *://www.moflier.com/*
 *://www.moneytlk.com/*
+*://www.moulin-larroque.com/*
 *://www.mzgsmc.com/*
 *://www.njqg.net/*
 *://www.oicqzone.com/*
 *://www.ojit.com/*
 *://www.ok168198.com/*
 *://www.onesl.com/*
+*://www.operatoriforex.com/*
 *://www.orcode.com/*
 *://www.pai-hang-bang.com/*
 *://www.paloma.cn/*
@@ -1422,10 +1451,12 @@
 *://www.php.cn/*
 *://www.price.com.hk/*
 *://www.ptkaishan.com/*
+*://www.q578.com/*
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
 *://www.qingtingip.com/*
 *://www.qtcamp.com/*
+*://www.qu02.com/*
 *://www.quanmaimai.com/*
 *://www.right.com.cn/*
 *://www.right.com.cn/FORUM/search.php?*
@@ -1444,6 +1475,7 @@
 *://www.talkwithtrend.com/**://52movs.com/*
 *://www.taobao.com/*
 *://www.tastones.com/*
+*://www.techhubonline.com/*
 *://www.teipy.com/*
 *://www.thinbug.com/*
 *://www.tianpinapp.com/*
@@ -1464,6 +1496,7 @@
 *://www.wdzj.com/*
 *://www.weiqunwang.com/*
 *://www.wenxuecity.com/*
+*://www.whstm.com/*
 *://www.whysw88.com/*
 *://www.wnt777.com/*
 *://www.xhsdzjys.com/*
