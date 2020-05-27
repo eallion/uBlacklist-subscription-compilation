@@ -1,4 +1,5 @@
- Update: 2020-05-26 09:05:39 UTC+0800
+
+ Update: 2020-05-27 13:47:21 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -770,6 +771,7 @@
 *://*.souzhuang.cn/*
 *://*.speed.m.baidu.com/*
 *://*.src-bin.com/*
+*://*.stacknoob.com/*
 *://*.stackoom.com/*
 *://*.stackovernet.com/*
 *://*.stackoverrun.com/*
@@ -1422,6 +1424,7 @@
 *://www.kafan.cn/*
 *://www.kafan.cn/**://*.voidcc.com/*
 *://www.ku3101.net/*
+*://www.kutu66.com/*
 *://www.labellemoriniere.com/*
 *://www.lagou.com/*
 *://www.lansingip.com/*

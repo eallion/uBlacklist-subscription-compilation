@@ -1,4 +1,4 @@
- Update: 2020-05-26 09:05:39 UTC+0800
+ Update: 2020-05-27 13:47:21 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -70332,6 +70332,8 @@ zzzzbj.com
 *://*.koubeiblog.com/*
 *://*.vimsky.com/*
 *://*.coder.work/*
+*://*.stacknoob.com/*
+*://*.it-swarm.dev/*
 *://*.lai18.com/*
 *://*.voidcn.com/*
 *://*.codeday.me/*
@@ -71066,3 +71068,5 @@ zzzzbj.com
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
 *://zrsd.schorfheidecarport.de/**://www.e-learn.cn/*
+*://www.hotbak.net/*
+*://www.kutu66.com/*
