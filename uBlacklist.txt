@@ -1,5 +1,5 @@
 
- Update: 2020-05-31 08:03:50 UTC+0800
+ Update: 2020-06-07 08:04:14 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1105,6 +1105,7 @@
 *://ask.csdn.net/*
 *://ask.zol.com.cn/*
 *://ata-academy.com/*
+*://auto.epochtimes.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://baijiahao.baidu.com/*
 *://bbs.csdn.net/*
@@ -1208,13 +1209,17 @@
 *://m.abctbh.com/*
 *://m.aozhou8.com/*
 *://m.ccdswl.com/*
+*://m.cnmmv.com/*
 *://m.copyan.com/*
+*://m.ebw100.com/*
 *://m.eoudu.com/*
 *://m.gdyadu.com/*
+*://m.glass321.com/*
 *://m.hljysbk.com/*
 *://m.isdngo.xyz/*
 *://m.iyzhz.com/*
 *://m.jd.com/*
+*://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
 *://m.outmc.com/*
@@ -1222,9 +1227,11 @@
 *://m.qz40.com/*
 *://m.ra9tx41c.ynidhq.tw/*
 *://m.s0hfci9.tcbdtd.tw/*
+*://m.shbingluo.com/*
 *://m.systemcity.cn/*
 *://m.wjuze.bmwtgk.tw/*
 *://m.yangzhiguo.com/*
+*://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
 *://mamicode.com/*
 *://mayphatmaynen.com/*
@@ -1325,13 +1332,16 @@
 *://www.511477.com/*
 *://www.54jqr.com/*
 *://www.565k.com/*
+*://www.58pjy.com/*
 *://www.6tuba.com/*
 *://www.7711182.com/*
 *://www.7lg.net/*
+*://www.88xiao.com/*
 *://www.9999ktv.com/*
 *://www.ab2s.com/*
 *://www.abcxzh.com/*
 *://www.accessoft.com/*
+*://www.aggg35.com/*
 *://www.ajpsp.com/*
 *://www.amazon.com/*
 *://www.anyolife.com/*
@@ -1358,6 +1368,7 @@
 *://www.codenong.com/*
 *://www.cqchildren.com/*
 *://www.crifan.com/*
+*://www.da-quan.net/*
 *://www.dabbsports.com/*
 *://www.daihema.com/*
 *://www.dama123.com/*
@@ -1440,6 +1451,7 @@
 *://www.moneytlk.com/*
 *://www.moulin-larroque.com/*
 *://www.mzgsmc.com/*
+*://www.nbyoho.com/*
 *://www.njqg.net/*
 *://www.oicqzone.com/*
 *://www.ojit.com/*
@@ -1488,6 +1500,7 @@
 *://www.tqhnet.com/*
 *://www.trust1688.com/*
 *://www.twblogs.net/*
+*://www.uucan.cn/*
 *://www.uwenku.com/*
 *://www.vickarsgroup.com/*
 *://www.voidcn.com/*

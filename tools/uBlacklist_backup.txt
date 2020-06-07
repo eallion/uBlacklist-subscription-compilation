@@ -1,4 +1,4 @@
- Update: 2020-05-31 08:03:50 UTC+0800
+ Update: 2020-06-07 08:04:14 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -70861,6 +70861,7 @@ zzzzbj.com
 *://aeam.nervenbahnmassage.de/*
 *://artez.org.cn/*
 *://ata-academy.com/*
+*://auto.epochtimes.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://baijiahao.baidu.com/*
 *://blog.silucg.com/*
@@ -70917,13 +70918,19 @@ zzzzbj.com
 *://m.361t.org/*
 *://m.abctbh.com/*
 *://m.ccdswl.com/*
+*://m.cnmmv.com/*
 *://m.copyan.com/*
+*://m.ebw100.com/*
 *://m.gdyadu.com/*
+*://m.glass321.com/*
 *://m.isdngo.xyz/*
+*://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
 *://m.outmc.com/*
+*://m.shbingluo.com/*
 *://m.yangzhiguo.com/*
+*://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
 *://mayphatmaynen.com/*
 *://meifa.izhufu.net/*
@@ -70977,11 +70984,14 @@ zzzzbj.com
 *://www.23cpc.com/*
 *://www.3333xbxb.com/*
 *://www.3li.cc/*
+*://www.58pjy.com/*
 *://www.6tuba.com/*
 *://www.7lg.net/*
+*://www.88xiao.com/*
 *://www.9999ktv.com/*
 *://www.abcxzh.com/*
 *://www.accessoft.com/*
+*://www.aggg35.com/*
 *://www.ajpsp.com/*
 *://www.amazon.com/*
 *://www.anyolife.com/*
@@ -70995,6 +71005,7 @@ zzzzbj.com
 *://www.cctsuzhou.cn/*
 *://www.codenong.com/*
 *://www.cqchildren.com/*
+*://www.da-quan.net/*
 *://www.darentang.org/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
@@ -71029,6 +71040,7 @@ zzzzbj.com
 *://www.mei521.com/*
 *://www.moulin-larroque.com/*
 *://www.mzgsmc.com/*
+*://www.nbyoho.com/*
 *://www.ok168198.com/*
 *://www.operatoriforex.com/*
 *://www.pai-hang-bang.com/*
@@ -71044,6 +71056,7 @@ zzzzbj.com
 *://www.tongfengqu.com/*
 *://www.tqhnet.com/*
 *://www.trust1688.com/*
+*://www.uucan.cn/*
 *://www.voidcn.com/*
 *://www.vpsmm.com/*
 *://www.vrzxwz.com/*
