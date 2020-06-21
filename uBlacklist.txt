@@ -1,5 +1,5 @@
 
- Update: 2020-06-14 08:04:10 UTC+0800
+ Update: 2020-06-21 08:04:36 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1108,6 +1108,7 @@
 *://auto.epochtimes.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://baijiahao.baidu.com/*
+*://bbs.bingyishow.top/*
 *://bbs.csdn.net/*
 *://bbs.mydigit.cn/*
 *://bbs.nga.cn/*
@@ -1118,6 +1119,8 @@
 *://blog.silucg.com/*
 *://blog.wu-boy.com/*
 *://bloomingtonventures.com/*
+*://books.google.co.uk/*
+*://books.google.com.tw/*
 *://bradstreetcra.com/*
 *://brrmn.com/*
 *://bryanalders.com/*
@@ -1147,6 +1150,7 @@
 *://czba.quazzle.de/*
 *://darler.gitee.io/*
 *://detail.zol.com.cn/*
+*://developer.aliyun.com/*
 *://dfuw.redandgold.de/*
 *://dguun.com/*
 *://diqiu888.com/*
@@ -1170,6 +1174,7 @@
 *://getm4.aiyanqing.com/*
 *://gjgp.mikeprange.de/*
 *://greyhoundbastards.com/*
+*://gundvd.com/*
 *://gvkv.apollostar-safari.de/*
 *://gyrh.dackel-vom-raeuberwaeldchen.de/*
 *://hdmseafood.com/*
@@ -1205,6 +1210,7 @@
 *://lpgit.com/*
 *://lqkweb.com/*
 *://m.201347.uk.com/*
+*://m.207514.325893.vip/*
 *://m.361t.org/*
 *://m.abctbh.com/*
 *://m.aozhou8.com/*
@@ -1230,9 +1236,11 @@
 *://m.shbingluo.com/*
 *://m.systemcity.cn/*
 *://m.wjuze.bmwtgk.tw/*
+*://m.xp.cn/*
 *://m.yangzhiguo.com/*
 *://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
+*://machbbs.com/**://52movs.com/*
 *://mamicode.com/*
 *://mayphatmaynen.com/*
 *://meifa.izhufu.net/*
@@ -1285,6 +1293,7 @@
 *://thewikihow.com/*
 *://tortortor.pw/*
 *://truelovenet.com/*
+*://tuijianqingdan.com/*
 *://tushuo.jk51.com/*
 *://twww.wahmbeckerheide.de/*
 *://ub4.com/*
@@ -1311,6 +1320,7 @@
 *://wsao.kerstinraphahn.de/*
 *://wthe.singende-wirte.de/*
 *://ww3.hotbarebaking.com/*
+*://www.0371php.com/*
 *://www.07diy.com/*
 *://www.09vv.cn/*
 *://www.10tiao.com/*
@@ -1341,6 +1351,7 @@
 *://www.ab2s.com/*
 *://www.abcxzh.com/*
 *://www.accessoft.com/*
+*://www.affdalao.com/*
 *://www.aggg35.com/*
 *://www.ajpsp.com/*
 *://www.amazon.com/*
@@ -1385,6 +1396,7 @@
 *://www.dzydieo.site/*
 *://www.eternalcq.com/*
 *://www.exmlo.com/*
+*://www.f2qu.com/*
 *://www.fck688.com/*
 *://www.fdzbfjc.com/*
 *://www.fengshouniao.cn/*
@@ -1404,11 +1416,14 @@
 *://www.hchygw.com/*
 *://www.hello.so/*
 *://www.helloaliyun.com/*
+*://www.hi-linux.com/*
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
+*://www.hotbgm.com/*
 *://www.hq396.com/*
 *://www.hszw.org/*
+*://www.huaweicloud.com/*
 *://www.hui-chao.com/*
 *://www.hyhome.com.cn/*
 *://www.ihantian.com/*
@@ -1416,6 +1431,7 @@
 *://www.imooc.com/*
 *://www.ispsd2015.com/*
 *://www.it-swarm.dev/*
+*://www.iteblog.com/*
 *://www.iteye.com/*
 *://www.itjie.com/*
 *://www.itread01.com/*
@@ -1487,13 +1503,14 @@
 *://www.solves.com.cn/*
 *://www.ssf.cc/*
 *://www.sxwshm.com/*
-*://www.talkwithtrend.com/**://52movs.com/*
+*://www.talkwithtrend.com/*
 *://www.taobao.com/*
 *://www.tastones.com/*
 *://www.techhubonline.com/*
 *://www.teipy.com/*
 *://www.thinbug.com/*
 *://www.tianpinapp.com/*
+*://www.tianqiweiqi.com/*
 *://www.tj-sysm.com/*
 *://www.tmall.com/*
 *://www.tongfengqu.com/*
@@ -1543,6 +1560,7 @@
 *://yp.jd.com/*
 *://yq.aliyun.com/*
 *://ywcreations.com/*
+*://ywnz.com/*
 *://z.baidu.com/*
 *://z3otwulx.zpyzya.tw/*
 *://zeepline.pw/*

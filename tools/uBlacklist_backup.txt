@@ -1,4 +1,4 @@
- Update: 2020-06-14 08:04:10 UTC+0800
+ Update: 2020-06-21 08:04:36 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -70855,7 +70855,27 @@ zzzzbj.com
 *://www.yisu.com/*
 *://www.zhipanyou.com/*
 *://www.whysw88.com/*
-*://www.talkwithtrend.com/**://52movs.com/*
+*://www.talkwithtrend.com/*
+*://ywnz.com/*
+*://m.207514.325893.vip/*
+*://gundvd.com/*
+*://www.bnee.net/*
+*://www.tianqiweiqi.com/*
+*://www.huaweicloud.com/*
+*://ask.zol.com.cn/*
+*://m.xp.cn/*
+*://books.google.co.uk/*
+*://books.google.com.tw/*
+*://developer.aliyun.com/*
+*://www.0371php.com/*
+*://www.iteblog.com/*
+*://www.affdalao.com/*
+*://bbs.bingyishow.top/*
+*://www.hi-linux.com/*
+*://www.f2qu.com/*
+*://www.hotbgm.com/*
+*://tuijianqingdan.com/*
+*://machbbs.com/**://52movs.com/*
 *://66.wendadaohang.com/*
 *://adsc.krank-durch-mobilfunk.de/*
 *://aeam.nervenbahnmassage.de/*
