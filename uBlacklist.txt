@@ -1564,7 +1564,6 @@
 *://z.baidu.com/*
 *://z3otwulx.zpyzya.tw/*
 *://zeepline.pw/*
-*://zh.wikipedia.org/*
 *://zhidao.baidu.com/*
 *://zhidao.baidu.hk/*
 *://zidao.baidu.com/search?*
