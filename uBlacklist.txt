@@ -1,5 +1,5 @@
 
- Update: 2020-06-21 08:04:36 UTC+0800
+ Update: 2020-06-22 11:54:52 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1343,6 +1343,7 @@
 *://www.54jqr.com/*
 *://www.565k.com/*
 *://www.58pjy.com/*
+*://www.684758.com/*
 *://www.6tuba.com/*
 *://www.7711182.com/*
 *://www.7lg.net/*
@@ -1383,6 +1384,7 @@
 *://www.dabbsports.com/*
 *://www.daihema.com/*
 *://www.dama123.com/*
+*://www.dapaizixun.com/*
 *://www.darentang.org/*
 *://www.dayupaiming.com/*
 *://www.diannaoxianka.com/*
@@ -1409,6 +1411,7 @@
 *://www.getbackpacking365.com/*
 *://www.glblkfw.com/*
 *://www.guangbaobei.net/*
+*://www.gzwcjs.com/*
 *://www.habeiwaiyuxuexiao.com/*
 *://www.haicoder.net/*
 *://www.haimenzhichuang.com/*
@@ -1472,6 +1475,7 @@
 *://www.oicqzone.com/*
 *://www.ojit.com/*
 *://www.ok168198.com/*
+*://www.oneho.cn/*
 *://www.onesl.com/*
 *://www.operatoriforex.com/*
 *://www.orcode.com/*
@@ -1533,6 +1537,7 @@
 *://www.whysw88.com/*
 *://www.wnt777.com/*
 *://www.xhsdzjys.com/*
+*://www.xiaozhishi.net/*
 *://www.xinfuq.cn/*
 *://www.xinhexinli.com/*
 *://www.xp.cn/*
