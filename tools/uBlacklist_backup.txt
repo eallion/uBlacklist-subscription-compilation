@@ -1,4 +1,4 @@
- Update: 2020-06-28 08:04:18 UTC+0800
+ Update: 2020-07-05 08:05:10 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -70960,6 +70960,7 @@ zzzzbj.com
 *://natura-karite.com/*
 *://nbri.stephan-messling.de/*
 *://neutrikmall.com/*
+*://nzuan.net/*
 *://odde.felixmeier.de/*
 *://okoo.5watches.de/*
 *://omachadodomaranhao.com/*
@@ -71005,6 +71006,7 @@ zzzzbj.com
 *://www.3333xbxb.com/*
 *://www.3li.cc/*
 *://www.58pjy.com/*
+*://www.600911.cn/*
 *://www.684758.com/*
 *://www.6tuba.com/*
 *://www.7lg.net/*
@@ -71080,6 +71082,7 @@ zzzzbj.com
 *://www.tongfengqu.com/*
 *://www.tqhnet.com/*
 *://www.trust1688.com/*
+*://www.uoften.com/*
 *://www.uucan.cn/*
 *://www.voidcn.com/*
 *://www.vpsmm.com/*
@@ -71088,12 +71091,14 @@ zzzzbj.com
 *://www.wdzj.com/*
 *://www.weiqunwang.com/*
 *://www.whstm.com/*
+*://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
 *://www.xyj321.com/*
 *://www.yijyi.com/*
 *://www.yisu.com/*
 *://www.ymw.cn/*
+*://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
 *://www.zui88.com/*
 *://xckd.hamsterkiste-deutsch.de/*
