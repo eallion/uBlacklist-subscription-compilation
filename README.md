@@ -45,7 +45,13 @@
 > 订阅黑名单列表:
 
 添加订阅：  
-将 [该列表地址](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt) 添加到 Subscription 订阅中。
+选择一个列表添加到 Subscription 订阅中：（如下图所示）  
+
+- GitHub 列表 （大陆部分地区可能被墙或者速度慢）
+
+`https://git.io/ublacklist`  
+
+- CDN 加速列表
 
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
 
