@@ -1,4 +1,4 @@
- Update: 2020-07-26 14:13:13 UTC+0800
+ Update: 2020-07-26 14:15:20 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -71418,3 +71418,4 @@ zzzzbj.com
 *://zrsd.schorfheidecarport.de/**://www.e-learn.cn/*
 *://www.hotbak.net/*
 *://www.kutu66.com/*
+*://aihao8w.com/*

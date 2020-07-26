@@ -1,5 +1,5 @@
 
- Update: 2020-07-26 14:13:13 UTC+0800
+ Update: 2020-07-26 14:15:20 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1099,6 +1099,7 @@
 *://adsc.krank-durch-mobilfunk.de/*
 *://aeam.nervenbahnmassage.de/*
 *://aibing.cc/*
+*://aihao8w.com/*
 *://andrew-reynolds-bootcamp.com/*
 *://app.youfa.coms.hk/*
 *://artez.org.cn/*
