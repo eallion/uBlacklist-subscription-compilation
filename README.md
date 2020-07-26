@@ -1,10 +1,10 @@
 # uBlacklist subscription compilation
 > uBlacklist 订阅地址合集
 
-![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=master)
+![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main)
 
 这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。  
-点击 [uBlacklist.txt](https://github.com/eallion/uBlacklist-subscription-compilation/blob/master/uBlacklist.txt) 可以在第一行看到更新时间。
+点击 [uBlacklist.txt](https://github.com/eallion/uBlacklist-subscription-compilation/blob/main/uBlacklist.txt) 可以在第一行看到更新时间。
 
 # 功能
 
@@ -37,7 +37,7 @@
 ```
 如图：
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/PKO0JoJBpU.png)
+![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/PKO0JoJBpU.png)
 
 
 #### 2、设置 - 订阅：
@@ -45,11 +45,11 @@
 > 订阅黑名单列表:
 
 添加订阅：  
-将 [该列表地址](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/uBlacklist.txt) 添加到 Subscription 订阅中。
+将 [该列表地址](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt) 添加到 Subscription 订阅中。
 
-`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/uBlacklist.txt`
+`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@master/tools/x2yWi62OWl.png)
+![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
 
 # 感谢名单：
 
