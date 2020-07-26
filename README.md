@@ -40,6 +40,10 @@
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
+上面4个列表的内容一模一样，任意选择一个即可。
+
+示例图：
+
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
 
 #### 设置 - 一般：（选填）
