@@ -23,24 +23,7 @@
 
 ### 二、设置插件
 
-#### 1、设置 - 一般：
-
->以下网站将不会显示在 Google 的搜索结果中：
-
-```
-*://*/so.php
-*://*/so.php?s=*
-*://*/cha.php?s=*
-*://*/list.php?s=*
-*://*/?s=*
-*://*/so/*
-```
-如图：
-
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/PKO0JoJBpU.png)
-
-
-#### 2、设置 - 订阅：
+#### 设置 - 订阅：
 
 > 订阅黑名单列表:
 
@@ -58,6 +41,23 @@
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
+
+#### 设置 - 一般：（选填）
+
+>以下网站将不会显示在 Google 的搜索结果中：
+
+```
+*://*/so.php
+*://*/so.php?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/?s=*
+*://*/so/*
+```
+如图：
+
+![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/PKO0JoJBpU.png)
+
 
 # 感谢名单：
 
