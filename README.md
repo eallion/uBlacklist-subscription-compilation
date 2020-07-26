@@ -62,6 +62,11 @@
 
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/PKO0JoJBpU.png)
 
+# 贡献
+
+1. Fork 本仓库
+2. 把需要禁用的域名按格式添加到 add_url.txt 里
+3. 提交 PR
 
 # 感谢名单：
 
