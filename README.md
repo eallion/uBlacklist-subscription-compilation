@@ -50,10 +50,12 @@
 - GitHub 列表 （大陆部分地区可能被墙或者速度慢）
 
 `https://git.io/ublacklist`  
+`https://git.io/ublocklist` # For BLM
 
 - CDN 加速列表
 
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
+`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
 
