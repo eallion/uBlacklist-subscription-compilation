@@ -62,6 +62,8 @@ jobs:
         go run main.go
         cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
+        cd ..
+        \cp uBlacklist.txt uBlocklist.txt -f
 
     - name: Commit files
       run: |
