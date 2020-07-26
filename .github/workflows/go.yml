@@ -66,7 +66,7 @@ jobs:
     - name: Commit files
       run: |
         git add .
-        git commit -m "Update subcription weekly"
+        git commit -m "Update subcription weekly at $(date)"
         git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
         git push origin main -f
         echo 🤘 Update complete.
