@@ -1,7 +1,7 @@
 # uBlacklist subscription compilation
 > uBlacklist 订阅地址合集
 
-![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main)
+![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main) [![](https://data.jsdelivr.com/v1/package/gh/eallion/uBlacklist-subscription-compilation/badge)](https://www.jsdelivr.com/package/gh/eallion/uBlacklist-subscription-compilation)
 
 这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。  
 点击 [uBlacklist.txt](https://github.com/eallion/uBlacklist-subscription-compilation/blob/main/uBlacklist.txt) 可以在第一行看到更新时间。
