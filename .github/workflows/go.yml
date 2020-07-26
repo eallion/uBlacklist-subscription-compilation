@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: 0 0 * * 0
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
 
@@ -68,5 +68,5 @@ jobs:
         git add .
         git commit -m "Update subcription weekly"
         git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
-        git push origin master -f
+        git push origin main -f
         echo 🤘 Update complete.
