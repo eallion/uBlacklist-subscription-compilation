@@ -1,0 +1,64 @@
+name: Update uBlacklist subcription weekly
+
+on:
+  schedule:
+    - cron: 0 0 * * 0
+  push:
+    branches: [ main ]
+
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Set up Go 1.x
+      uses: actions/setup-go@v2
+      with:
+        go-version: ^1.13
+      id: go
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+
+    - name: Get dependencies
+      run: |
+        go get -v -t -d ./...
+        if [ -f Gopkg.toml ]; then
+            curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
+            dep ensure
+        fi
+
+    - name: Setup Git
+      env:
+          MY_SECRET : ${{secrets.commit_secret}}
+      run: |
+        git config --local user.name ${{secrets.username}}
+        git config --local user.email ${{secrets.useremail}}
+
+    - name: Update source
+      run: |
+        git submodule update
+
+    - name: Merge txt
+      run: |
+        cp source/gyli/Blocklist/BlOCKLIST source/gyli/Blocklist/blocklist.txt
+        rm uBlacklist.txt
+        rm uBlocklist.txt
+        find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
+        rm source/gyli/Blocklist/blocklist.txt
+        cd tools
+        go run main.go
+        cat -s uBlacklist | sed '/^[[:space:]]*$/d'
+        mv uBlacklist ../uBlacklist.txt -f
+        cd ..
+        cp uBlacklist.txt uBlocklist.txt -f
+
+    - name: Commit files
+      run: |
+        git add .
+        git commit -m "Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")"
+        git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
+        git push origin main -f
+        echo 🤘 Update complete.

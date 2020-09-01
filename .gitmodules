@@ -1,0 +1,27 @@
+[submodule "source/YeSilin"]
+	path = source/YeSilin
+	url = https://github.com/YeSilin/uBlacklist.git
+[submodule "source/cobaltdisco"]
+	path = source/cobaltdisco
+	url = https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git
+[submodule "source/h-matsuo"]
+	path = source/h-matsuo
+	url = https://github.com/h-matsuo/uBlacklist-subscription-for-developer
+[submodule "source/littleserendipity"]
+	path = source/littleserendipity
+	url = https://github.com/littleserendipity/uBlacklist-Subscription.git
+[submodule "source/liubiantao"]
+	path = source/liubiantao
+	url = https://github.com/liubiantao/uBlacklist-Websites.git
+[submodule "source/nonPointer"]
+	path = source/nonPointer
+	url = https://github.com/nonPointer/uBlacklist-Subscription.git
+[submodule "source/scyrte"]
+	path = source/scyrte
+	url = https://github.com/scyrte/uBlacklist-Subscription.git
+[submodule "source/xNathan"]
+	path = source/xNathan
+	url = https://github.com/xNathan/uBlacklist-subscription.git
+[submodule "source/yangjingchuang"]
+	path = source/yangjingchuang
+	url = https://github.com/yangjingchuang/ublacklist-subscription.git
