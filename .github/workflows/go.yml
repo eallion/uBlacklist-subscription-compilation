@@ -55,7 +55,7 @@ jobs:
 
     - name: Merge txt
       run: |
-        cp source/gyli/Blocklist/BlOCKLIST source/gyli/Blocklist/blocklist.txt
+        cp source/gyli/Blocklist/BLOCKLIST source/gyli/Blocklist/blocklist.txt
         rm uBlacklist.txt
         rm uBlocklist.txt
         find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
