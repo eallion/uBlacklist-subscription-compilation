@@ -69,7 +69,6 @@ jobs:
 
     - name: Commit files
       run: |
-        git remote add origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
         git add .
         git commit -m "Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")"
         git push origin main -f
