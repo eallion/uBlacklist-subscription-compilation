@@ -64,9 +64,10 @@ jobs:
         rm source/gyli/Blocklist/blocklist.txt
         rm time.txt
         cd tools
+        mv uBlacklist uBlacklist.txt
         go run main.go
         cat -s uBlacklist | sed '/^[[:space:]]*$/d'
-        mv uBlacklist ../uBlacklist.txt -f
+        mv uBlacklist.txt ../uBlacklist.txt -f
         cd ..
         cp uBlacklist.txt uBlocklist.txt -f
 
