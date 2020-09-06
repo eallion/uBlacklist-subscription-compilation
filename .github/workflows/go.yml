@@ -58,8 +58,11 @@ jobs:
         cp source/gyli/Blocklist/BLOCKLIST source/gyli/Blocklist/blocklist.txt
         rm uBlacklist.txt
         rm uBlocklist.txt
+        touch time.txt
+        echo "Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
         find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
         rm source/gyli/Blocklist/blocklist.txt
+        rm time.txt
         cd tools
         go run main.go
         cat -s uBlacklist | sed '/^[[:space:]]*$/d'
@@ -71,5 +74,6 @@ jobs:
       run: |
         git add .
         git commit -m "Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")"
+        git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
         git push origin main -f
         echo 🤘 Update complete.
