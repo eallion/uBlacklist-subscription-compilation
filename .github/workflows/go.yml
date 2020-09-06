@@ -59,7 +59,7 @@ jobs:
         rm uBlacklist.txt
         rm uBlocklist.txt
         touch time.txt
-        echo "Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
+        echo " Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
         find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
         rm source/gyli/Blocklist/blocklist.txt
         rm time.txt
