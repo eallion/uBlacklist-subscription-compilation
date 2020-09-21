@@ -1,8 +1,5 @@
 
- Update weekly at 2020-09-06 23:42:42 UTC+0800
- Update weekly at 2020-09-13 08:08:02 UTC+0800
- Update weekly at 2020-09-20 08:07:48 UTC+0800
- Update weekly at 2020-09-21 23:24:11 UTC+0800
+ Update weekly at 2020-09-21 23:30:53 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -445,7 +442,6 @@
 *://*.iciba.com/*
 *://*.icopy.site/*
 *://*.iizhao.com/*
-*://*.iizhao.com/*005i.com
 *://*.iknow.baidu.com/*
 *://*.ikue.info/*
 *://*.image.haosou.com/*
@@ -1157,7 +1153,6 @@
 *://26ch.com/*
 *://3ctyri.gkhpii.tw/*
 *://3g.163.com/*
-*://52movs.com/*
 *://66.wendadaohang.com/*
 *://7xhy.com/*
 *://821113.com/*
@@ -1371,7 +1366,6 @@
 *://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
 *://qibifa.cn/*
-*://qibifa.cn/**://52movs.com/*
 *://qipai.coms.hk/*
 *://qooqo.ru/*
 *://qwtcpt.com/*
@@ -1594,14 +1588,12 @@
 *://www.jeepxie.net/*
 *://www.jianshu.com/*
 *://www.jinzhun.net/*
-*://www.jinzhun.net/**://52movs.com/*
 *://www.jishuwen.com/*
 *://www.jiyifa.com/*
 *://www.jkmlyshs.com/*
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://blog.csdn.net/*
 *://www.kafan.cn/*005i.com
 *://www.ku3101.net/*
 *://www.kutu66.com/*
@@ -1614,7 +1606,6 @@
 *://www.lingchenliang.com/*
 *://www.linjiaxiaohui.cn/*
 *://www.lmonkey.com/*
-*://www.lmonkey.com/*https://www.itranslater.com/qa/details/2325844172554634240
 *://www.lngyy.com/*
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
@@ -1773,7 +1764,6 @@
 /.*\/.*\?(?:s|so)=.*/
 /.*\/so\.php/
 /it-swarm-\w+\.tech/
-/m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/*://*/so.php
 0001113.com
 0001403.cn
