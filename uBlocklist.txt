@@ -2,6 +2,7 @@
  Update weekly at 2020-09-06 23:42:42 UTC+0800
  Update weekly at 2020-09-13 08:08:02 UTC+0800
  Update weekly at 2020-09-20 08:07:48 UTC+0800
+ Update weekly at 2020-09-21 23:24:11 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -1369,6 +1370,7 @@
 *://qcke.plameco-nett.de/*
 *://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
+*://qibifa.cn/*
 *://qibifa.cn/**://52movs.com/*
 *://qipai.coms.hk/*
 *://qooqo.ru/*
@@ -1580,6 +1582,7 @@
 *://www.iteblog.com/*
 *://www.iteye.com/*
 *://www.itjie.com/*
+*://www.itranslater.com/**://52movs.com/*
 *://www.itread01.com/*
 *://www.ixigua.com/*
 *://www.izhufu.net/*
@@ -1658,6 +1661,7 @@
 *://www.riji365.org/*
 *://www.runsem.com/*
 *://www.sejuku.net/*
+*://www.shadowwu.club/*
 *://www.shangmayuan.com/*
 *://www.shbjbwx.com/*
 *://www.shejiedu.com/*
