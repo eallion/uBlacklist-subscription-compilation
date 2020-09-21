@@ -42,10 +42,11 @@
 
 上面4个列表的内容一模一样，任意选择一个即可。
 
-**推荐使用：**  
+**能稳定访问 GitHub 的用户推荐使用：**  
 ```
-https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt
+https://git.io/ublacklist
 ```
+> <https://git.io/ublacklist>
 
 示例图：
 
