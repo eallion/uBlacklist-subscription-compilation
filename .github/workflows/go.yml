@@ -5,12 +5,16 @@ on:
     - cron: 0 0 * * 0
   push:
     branches: [ main ]
+    
+  watch:
+    types: started
 
 jobs:
 
   build:
     name: Build
     runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
     steps:
 
     - name: Set up Go 1.x
