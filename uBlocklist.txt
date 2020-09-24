@@ -3,6 +3,7 @@
  Update weekly at 2020-09-21 23:52:28 UTC+0800
  Update weekly at 2020-09-21 23:58:28 UTC+0800
  Update weekly at 2020-09-22 00:00:06 UTC+0800
+ Update weekly at 2020-09-24 14:58:35 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -1227,6 +1228,7 @@
 *://darler.gitee.io/*
 *://detail.zol.com.cn/*
 *://developer.aliyun.com/*
+*://developer.aliyun.com/**://52movs.com/*
 *://dfuw.redandgold.de/*
 *://dguun.com/*
 *://diqiu888.com/*
@@ -1234,6 +1236,7 @@
 *://dm004.com/*
 *://dmgq.muslima-center.de/*
 *://dmpp.nasp3-5.de/*
+*://doc.uzmedia.cn/*
 *://docs.tita.com/*
 *://dotblogs.com.tw/*
 *://download.csdn.net/*
@@ -1246,6 +1249,7 @@
 *://feishuang406.com/*
 *://fmex.women-selfdefense-regensburg.de/*
 *://fonnambar.info/*
+*://fullstack.im/*
 *://fydqw.com/*
 *://gctm.shk-cux.de/*
 *://getm4.aiyanqing.com/*
@@ -1263,6 +1267,7 @@
 *://holy-smile.com/*
 *://hosf.flusskreuzfahrten-elbe.de/*
 *://hoteles.bluevalencia.com/*
+*://huazijiazhuang.com/*
 *://hzhcontrols.com/*
 *://hzhjjx.com/*
 *://iamlishuo.com/*
@@ -1321,6 +1326,7 @@
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
 *://m.outmc.com/*
+*://m.pai-hang-bang.com/*
 *://m.php.cn/*
 *://m.qz40.com/*
 *://m.ra9tx41c.ynidhq.tw/*
@@ -1338,6 +1344,7 @@
 *://machbbs.com/*
 *://mamicode.com/*
 *://mayphatmaynen.com/*
+*://medium.com/*
 *://meifa.izhufu.net/*
 *://mingtwang.com/*
 *://mlog.club/*
@@ -1350,6 +1357,7 @@
 *://natura-karite.com/*
 *://nbri.stephan-messling.de/*
 *://neutrikmall.com/*
+*://news.foamoo.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
 *://okoo.5watches.de/*
@@ -1366,6 +1374,7 @@
 *://product.yesky.com/*
 *://qastack.cn/*
 *://qcke.plameco-nett.de/*
+*://qdcypf.com/*
 *://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
 *://qibifa.cn/*
@@ -1579,6 +1588,7 @@
 *://www.iteblog.com/*
 *://www.iteye.com/*
 *://www.itjie.com/*
+*://www.itranslater.com/*
 *://www.itranslater.com/**://52movs.com/*
 *://www.itread01.com/*
 *://www.ixigua.com/*
@@ -1657,6 +1667,7 @@
 *://www.sejuku.net/*
 *://www.shadowwu.club/*
 *://www.shangmayuan.com/*
+*://www.shangyexinzhi.com/*
 *://www.shbjbwx.com/*
 *://www.shejiedu.com/*
 *://www.shoudian.org/*
@@ -1716,6 +1727,7 @@
 *://www.xinfuq.cn/*
 *://www.xinhexinli.com/*
 *://www.xp.cn/*
+*://www.xsf63.com/*
 *://www.xtfeed.cn/*
 *://www.xueman288.com/*
 *://www.xyj321.com/*
@@ -1739,9 +1751,11 @@
 *://www.zrahh.com/*
 *://www.zui88.com/*
 *://www112200.com/*
+*://www2014.aspxhtml.com/*
 *://wwwc809.com/*
 *://wxopen.club/*
 *://x4x2.com/*
+*://xbuba.com/*
 *://xckd.hamsterkiste-deutsch.de/*
 *://xqdj.hahnbacher-fotos.de/*
 *://xrdv.rpa-cee.de/*
