@@ -4,6 +4,7 @@
  Update weekly at 2020-09-21 23:58:28 UTC+0800
  Update weekly at 2020-09-22 00:00:06 UTC+0800
  Update weekly at 2020-09-24 14:58:35 UTC+0800
+ Update weekly at 2020-09-27 08:08:03 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -1229,6 +1230,7 @@
 *://detail.zol.com.cn/*
 *://developer.aliyun.com/*
 *://developer.aliyun.com/**://52movs.com/*
+*://developer.aliyun.com/*gitee.com##IMG[class="people-image"]
 *://dfuw.redandgold.de/*
 *://dguun.com/*
 *://diqiu888.com/*
@@ -17981,6 +17983,7 @@ blmjk.com
 blmsb10.com
 blns.net
 blockdog.net
+blog.csdn.net##DIV[class="leftPop"]*://52movs.com/*
 blog.jiecaoba.cn
 blogdll.com
 blogsee.cn
