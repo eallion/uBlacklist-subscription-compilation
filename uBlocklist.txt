@@ -5,6 +5,7 @@
  Update weekly at 2020-09-22 00:00:06 UTC+0800
  Update weekly at 2020-09-24 14:58:35 UTC+0800
  Update weekly at 2020-09-27 08:08:03 UTC+0800
+ Update weekly at 2020-10-04 08:08:05 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
