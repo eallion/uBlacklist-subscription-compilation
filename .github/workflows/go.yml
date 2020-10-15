@@ -62,6 +62,7 @@ jobs:
         cp source/gyli/Blocklist/BLOCKLIST source/gyli/Blocklist/blocklist.txt
         rm uBlacklist.txt
         rm uBlocklist.txt
+        rm tools/uBlacklist_backup.txt
         touch time.txt
         echo " Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
         find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
