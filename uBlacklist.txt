@@ -1,13 +1,5 @@
 
- Update weekly at 2020-09-21 23:30:53 UTC+0800
- Update weekly at 2020-09-21 23:52:28 UTC+0800
- Update weekly at 2020-09-21 23:58:28 UTC+0800
- Update weekly at 2020-09-22 00:00:06 UTC+0800
- Update weekly at 2020-09-24 14:58:35 UTC+0800
- Update weekly at 2020-09-27 08:08:03 UTC+0800
- Update weekly at 2020-10-04 08:08:05 UTC+0800
- Update weekly at 2020-10-11 08:09:14 UTC+0800
-*://*.000.org.cn/*
+ Update weekly at 2020-10-15 10:52:18 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1190,7 +1182,6 @@
 *://bbs.nga.cn/*
 *://bbs.zol.com.cn/*
 *://blog.51cto.com/*
-*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.silucg.com/*
 *://blog.wu-boy.com/*
@@ -1235,8 +1226,6 @@
 *://darler.gitee.io/*
 *://detail.zol.com.cn/*
 *://developer.aliyun.com/*
-*://developer.aliyun.com/**://52movs.com/*
-*://developer.aliyun.com/*gitee.com##IMG[class="people-image"]
 *://dfuw.redandgold.de/*
 *://dguun.com/*
 *://diqiu888.com/*
@@ -1602,7 +1591,6 @@
 *://www.iteye.com/*
 *://www.itjie.com/*
 *://www.itranslater.com/*
-*://www.itranslater.com/**://52movs.com/*
 *://www.itread01.com/*
 *://www.ixigua.com/*
 *://www.izhufu.net/*
@@ -1621,7 +1609,6 @@
 *://www.jznk99.com/*
 *://www.kafan.cn/*
 *://www.kafan.cn/**://*/so.php
-*://www.kafan.cn/*005i.com
 *://www.ku3101.net/*
 *://www.kutu66.com/*
 *://www.labellemoriniere.com/*
@@ -1678,7 +1665,6 @@
 *://www.right.com.cn/FORUM/search.php?*
 *://www.riji365.org/*
 *://www.runsem.com/*
-*://www.sejuku.net/*
 *://www.shadowwu.club/*
 *://www.shangmayuan.com/*
 *://www.shangyexinzhi.com/*
@@ -1793,14 +1779,12 @@
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
 *://zrsd.schorfheidecarport.de/**://*.000.org.cn/*
-*://zrsd.schorfheidecarport.de/**://*.abbyychina.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
 /(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/
 /.*\/.*\?(?:s|so)=.*/
 /.*\/so\.php/
 /it-swarm-\w+\.tech/
-/m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/*://*/so.php
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/*://blog.csdn.net/*
 0001113.com
 0001403.cn
@@ -18002,7 +17986,6 @@ blmsb10.com
 blns.net
 blockdog.net
 blog.csdn.net##DIV[class="leftPop"]
-blog.csdn.net##DIV[class="leftPop"]*://52movs.com/*
 blog.csdn.net##IFRAME[name="passport_iframe"]*://www.sejuku.net/*
 blog.jiecaoba.cn
 blogdll.com
