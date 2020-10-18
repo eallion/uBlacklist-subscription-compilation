@@ -1,5 +1,5 @@
 
- Update weekly at 2020-10-15 10:52:18 UTC+0800
+ Update weekly at 2020-10-18 08:08:47 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -667,6 +667,7 @@
 *://*.q2xaea.aqzlmy.pw/*
 *://*.q5j.org/*
 *://*.q922.com/*
+*://*.qapicks.com/*
 *://*.qastack.cn/*
 *://*.qastack.jp/*
 *://*.qcuao.top/*
@@ -1141,6 +1142,7 @@
 *://*/so.php
 *://*/so.php?s=*
 *://*/so/*
+*://0317car.cn/*
 *://03o6.wocrek.tw/*
 *://0691888.net/*
 *://0w9.harpnetworkinc.com/*
@@ -1276,6 +1278,7 @@
 *://iter01.com/*
 *://jdzl.v3ng.de/*
 *://jingyan.baidu.com/*
+*://jisuc.com/*
 *://jjtk.lebenszeichen-fuerdieewigkeit.de/*
 *://jrccn.cn/*
 *://jrpw.webdesign-kiel-hamburg.de/*
@@ -1362,6 +1365,7 @@
 *://omachadodomaranhao.com/*
 *://oneho.cn/*
 *://p1htmlkernalweb.mybluemix.net/*
+*://pai-hang-bang.com/*
 *://park.zunmi.cn/*
 *://pinasy.com/*
 *://priorityhospice.com/*
@@ -1441,6 +1445,7 @@
 *://www.0371php.com/*
 *://www.07diy.com/*
 *://www.09vv.cn/*
+*://www.0tpe.com/*
 *://www.10tiao.com/*
 *://www.1688.com/*
 *://www.17crack.com/*
@@ -1453,6 +1458,7 @@
 *://www.295a.com/*
 *://www.3062.net.cn/*
 *://www.31871111.com/*
+*://www.329329.com/*
 *://www.3333xbxb.com/*
 *://www.360buyserver.com/*
 *://www.360doc.com/*
@@ -1479,6 +1485,7 @@
 *://www.accessoft.com/*
 *://www.affdalao.com/*
 *://www.affloc.com/*
+*://www.afxzyw.cn/*
 *://www.aggg35.com/*
 *://www.aizhange.com/*
 *://www.ajpsp.com/*
@@ -1515,6 +1522,7 @@
 *://www.codenong.com/*
 *://www.coder.work/*
 *://www.colabug.com/*
+*://www.cppcns.com/*
 *://www.cqchildren.com/*
 *://www.crifan.com/*
 *://www.csdn.net/gather_*
@@ -1536,6 +1544,7 @@
 *://www.drjordanmall.com/*
 *://www.dzydieo.site/*
 *://www.e-learn.cn/*
+*://www.e5a5x.com/*
 *://www.eddingmkt.com/*
 *://www.erdangjiade.com/*gitee.com##IMG[class="people-image"]
 *://www.eternalcq.com/*
@@ -1546,6 +1555,7 @@
 *://www.fdzbfjc.com/*
 *://www.fengshouniao.cn/*
 *://www.fenzhanwang.com/*
+*://www.ffffgggga.com/*
 *://www.flele.com/*
 *://www.fsadu.org.br/*
 *://www.fuhaishenye.com/*
@@ -1553,6 +1563,7 @@
 *://www.fuyingdq.com/*
 *://www.fxyibai.com/*
 *://www.fydqw.com/*
+*://www.gan-ren.com/*
 *://www.gdsdws.com/*
 *://www.geek-share.com/*
 *://www.getbackpacking365.com/*
@@ -1598,6 +1609,7 @@
 *://www.jb51.net/*
 *://www.jbzj.com/*
 *://www.jc0359.com/*
+*://www.jcabc.cn/*
 *://www.jd.com/*
 *://www.jeepxie.net/*
 *://www.jianshu.com/*
@@ -1672,6 +1684,7 @@
 *://www.shejiedu.com/*
 *://www.shoudian.org/*
 *://www.shsgy.com/*
+*://www.shufadashi.com/*
 *://www.shuoshuokong.com/*
 *://www.shuzhiduo.com/*
 *://www.shxy888.com/*
@@ -1696,6 +1709,7 @@
 *://www.tongfengqu.com/*
 *://www.tqhnet.com/*
 *://www.trust1688.com/*
+*://www.tty-1.net/*
 *://www.twblogs.net/*
 *://www.uoften.com/*
 *://www.usaqi.com/*
@@ -1714,9 +1728,11 @@
 *://www.weiqunwang.com/*
 *://www.weiyoou8.com/*
 *://www.wenxuecity.com/*
+*://www.westwindford.com/*
 *://www.whstm.com/*
 *://www.whysw88.com/*
 *://www.wnt777.com/*
+*://www.word666.com/*
 *://www.woshipm.com/*
 *://www.wtnc.uk.com/*
 *://www.wuaisite.com/*
@@ -1740,9 +1756,12 @@
 *://www.yiyisoft.com/*
 *://www.yiyult.com/*
 *://www.ymw.cn/*
+*://www.yuanmas.com/*
 *://www.yunpanjingling.com/*
+*://www.yyyyv.cn/*
 *://www.zgxnjc.com/*
 *://www.zhangfayuan.cn/*
+*://www.zhangshengrong.com/*
 *://www.zhengrongshuo.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
@@ -1762,6 +1781,8 @@
 *://xckd.hamsterkiste-deutsch.de/*
 *://xqdj.hahnbacher-fotos.de/*
 *://xrdv.rpa-cee.de/*
+*://xts.m6781q.cn/*
+*://yff.hbs163.com/*
 *://yilj.programmierbare-materie.de/*
 *://yp.jd.com/*
 *://yq.aliyun.com/*
