@@ -1,5 +1,5 @@
 
- Update weekly at 2020-10-18 08:08:47 UTC+0800
+ Update weekly at 2020-10-25 08:09:15 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -10,7 +10,6 @@
 *://*.054wan.com/*
 *://*.0551.us/*
 *://*.069.net/*
-*://*.0714news.com/*
 *://*.079.254560.top/*
 *://*.086wl.com/*
 *://*.0937673.info/*
@@ -1142,7 +1141,6 @@
 *://*/so.php
 *://*/so.php?s=*
 *://*/so/*
-*://0317car.cn/*
 *://03o6.wocrek.tw/*
 *://0691888.net/*
 *://0w9.harpnetworkinc.com/*
@@ -1546,7 +1544,7 @@
 *://www.e-learn.cn/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
-*://www.erdangjiade.com/*gitee.com##IMG[class="people-image"]
+*://www.erdangjiade.com/**://0317car.cn/*
 *://www.eternalcq.com/*
 *://www.exmlo.com/*
 *://www.f2qu.com/*
@@ -1620,7 +1618,7 @@
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*/so.php
+*://www.kafan.cn/**://*.0714news.com/*
 *://www.ku3101.net/*
 *://www.kutu66.com/*
 *://www.labellemoriniere.com/*
@@ -1677,6 +1675,7 @@
 *://www.right.com.cn/FORUM/search.php?*
 *://www.riji365.org/*
 *://www.runsem.com/*
+*://www.sejuku.net/*
 *://www.shadowwu.club/*
 *://www.shangmayuan.com/*
 *://www.shangyexinzhi.com/*
@@ -18007,7 +18006,7 @@ blmsb10.com
 blns.net
 blockdog.net
 blog.csdn.net##DIV[class="leftPop"]
-blog.csdn.net##IFRAME[name="passport_iframe"]*://www.sejuku.net/*
+blog.csdn.net##IFRAME[name="passport_iframe"]*://*/so.php
 blog.jiecaoba.cn
 blogdll.com
 blogsee.cn
@@ -29144,6 +29143,7 @@ girlseapp.net
 gisguvenlik.com
 gistfm.com
 gitaristusesija.lv
+gitee.com##IMG[class="people-image"]
 gitime.cn
 gitstudy.com
 giujnrte.net
