@@ -1,0 +1,3 @@
+gitee.com##IMG[class="people-image"]
+blog.csdn.net##DIV[class="leftPop"]
+blog.csdn.net##IFRAME[name="passport_iframe"]
