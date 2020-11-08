@@ -1,5 +1,5 @@
 
- Update weekly at 2020-11-01 08:06:00 UTC+0800
+ Update weekly at 2020-11-08 08:06:18 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -920,6 +920,7 @@
 *://*.wd.haosou.com/*
 *://*.wdfxw.net/*
 *://*.web.mybnb.tw/*
+*://*.webplus.org.cn/*
 *://*.weiaizu.com/*
 *://*.weibaoju.com/*
 *://*.weivb.com/*
@@ -1257,6 +1258,7 @@
 *://gvkv.apollostar-safari.de/*
 *://gyrh.dackel-vom-raeuberwaeldchen.de/*
 *://hacpai.com/*
+*://haohuolife.com/*
 *://hdmseafood.com/*
 *://heoz.galabau-mg.de/*
 *://herexjabar.over-blog.com/*
@@ -1394,6 +1396,7 @@
 *://shop.pcpop.com/*
 *://shopee.tw/*
 *://shufadashi.com/*
+*://sige.gionee.com/*
 *://sodocumentation.net/*
 *://sswhsign.com/*
 *://stackoom.com/*
@@ -1411,6 +1414,7 @@
 *://tuijianqingdan.com/*
 *://tushuo.jk51.com/*
 *://twww.wahmbeckerheide.de/*
+*://twypage.com/*
 *://ub4.com/*
 *://ukcarbulbs.com/*
 *://ultimaterctoys.com/*
@@ -1470,6 +1474,7 @@
 *://www.565k.com/*
 *://www.58pjy.com/*
 *://www.600911.cn/*
+*://www.65at.cc/*
 *://www.684758.com/*
 *://www.6tuba.com/*
 *://www.733mh.com/*
@@ -1477,6 +1482,7 @@
 *://www.7lg.net/*
 *://www.7v0.com/*
 *://www.88xiao.com/*
+*://www.9000wy.info/*
 *://www.9999ktv.com/*
 *://www.ab2s.com/*
 *://www.abcxzh.com/*
@@ -1524,10 +1530,12 @@
 *://www.cqchildren.com/*
 *://www.crifan.com/*
 *://www.csdn.net/gather_*
+*://www.cxjygj.com/*
 *://www.da-quan.net/*
 *://www.dabbsports.com/*
 *://www.daihema.com/*
 *://www.dama123.com/*
+*://www.daokeyou.top/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
 *://www.dayanzai.me/*
@@ -1544,7 +1552,9 @@
 *://www.e-learn.cn/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
+*://www.ek162.com/*
 *://www.erdangjiade.com/**://0317car.cn/*
+*://www.esihui.com/*
 *://www.eternalcq.com/*
 *://www.exmlo.com/*
 *://www.f2qu.com/*
@@ -1575,12 +1585,14 @@
 *://www.habeiwaiyuxuexiao.com/*
 *://www.haicoder.net/*
 *://www.haimenzhichuang.com/*
+*://www.haoyar.com/*
 *://www.harngtong.url.tw/*
 *://www.hchygw.com/*
 *://www.hello.so/*
 *://www.helloaliyun.com/*
 *://www.hi-linux.com/*
 *://www.hiufriend.com/*
+*://www.hkhvd.com/*
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
@@ -1615,11 +1627,13 @@
 *://www.jishuwen.com/*
 *://www.jiyifa.com/*
 *://www.jkmlyshs.com/*
+*://www.joyk.com/*
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kafan.cn/*
 *://www.kafan.cn/**://*.0714news.com/*
 *://www.ku3101.net/*
+*://www.kushalinfra.com/*
 *://www.kutu66.com/*
 *://www.labellemoriniere.com/*
 *://www.lagou.com/*
@@ -1695,6 +1709,7 @@
 *://www.stacknoob.com/*
 *://www.suning.com/*
 *://www.sxwshm.com/*
+*://www.szaksd.com/*
 *://www.talkwithtrend.com/*
 *://www.taobao.com/*
 *://www.tastones.com/*
@@ -1704,6 +1719,7 @@
 *://www.tianpinapp.com/*
 *://www.tianqiweiqi.com/*
 *://www.tj-sysm.com/*
+*://www.tjjltx.com/*
 *://www.tmall.com/*
 *://www.tongfengqu.com/*
 *://www.tqhnet.com/*
@@ -1712,6 +1728,7 @@
 *://www.twblogs.net/*
 *://www.uoften.com/*
 *://www.usaqi.com/*
+*://www.uslos.com/*
 *://www.uucan.cn/*
 *://www.uwenku.com/*
 *://www.vickarsgroup.com/*
@@ -1730,6 +1747,7 @@
 *://www.westwindford.com/*
 *://www.whstm.com/*
 *://www.whysw88.com/*
+*://www.wldbs.com/*
 *://www.wnt777.com/*
 *://www.word666.com/*
 *://www.woshipm.com/*
@@ -1755,6 +1773,7 @@
 *://www.yiyisoft.com/*
 *://www.yiyult.com/*
 *://www.ymw.cn/*
+*://www.yoneihan.com/*
 *://www.yuanmas.com/*
 *://www.yunpanjingling.com/*
 *://www.yyyyv.cn/*
@@ -1767,6 +1786,7 @@
 *://www.zhongjianghua.com/*
 *://www.zhuici.net/*
 *://www.zhuzhupan.com/*
+*://www.zixundingzhi.com/*
 *://www.zjdfsm.com/*
 *://www.zou114.net/*
 *://www.zrahh.com/*
@@ -1778,6 +1798,7 @@
 *://x4x2.com/*
 *://xbuba.com/*
 *://xckd.hamsterkiste-deutsch.de/*
+*://xianfanglei.com/*
 *://xqdj.hahnbacher-fotos.de/*
 *://xrdv.rpa-cee.de/*
 *://xts.m6781q.cn/*
@@ -1790,6 +1811,7 @@
 *://z.baidu.com/*
 *://z3otwulx.zpyzya.tw/*
 *://zeepline.pw/*
+*://zh.bccrwp.org/*
 *://zhidao.baidu.com/*
 *://zhidao.baidu.hk/*
 *://zhipanyou.com/*

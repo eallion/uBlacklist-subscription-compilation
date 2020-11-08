@@ -1,4 +1,4 @@
- Update weekly at 2020-11-01 08:06:00 UTC+0800
+ Update weekly at 2020-11-08 08:06:18 UTC+0800
 0001113.com
 0001403.cn
 000222msc.com
@@ -71612,6 +71612,34 @@ blog.csdn.net##IFRAME[name="passport_iframe"]*://*/so.php
 *://*.zhipanyou.com/*
 *://*.pinxia.cc/*
 *://*.stackoom.com/*
+*://*.webplus.org.cn/*
+*://*.qastack.cn/*
+*://twypage.com/*
+*://www.tjjltx.com/*
+*://www.yoneihan.com/*
+*://www.szaksd.com/*
+*://www.haoyar.com/*
+*://haohuolife.com/*
+*://www.kushalinfra.com/*
+*://www.zixundingzhi.com/*
+*://www.uslos.com/*
+*://www.65at.cc/*
+*://www.shxy888.com/*
+*://www.cxjygj.com/*
+*://www.joyk.com/*
+*://sige.gionee.com/*
+*://zh.bccrwp.org/*
+*://www.thinbug.com/*
+*://www.wldbs.com/*
+*://vpsak.com/*
+*://www.esihui.com/*
+*://www.9000wy.info/*
+*://www.ek162.com/*
+*://m.systemcity.cn/*
+*://www.daokeyou.top/*
+*://www.hkhvd.com/*
+*://www.whysw88.com/*
+*://xianfanglei.com/*
 005i.com
 01-123.com
 01-800.cn
