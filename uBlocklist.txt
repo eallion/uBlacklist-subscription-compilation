@@ -1,5 +1,5 @@
 
- Update weekly at 2020-11-08 08:06:18 UTC+0800
+ Update weekly at 2020-11-15 08:06:09 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -10,6 +10,7 @@
 *://*.054wan.com/*
 *://*.0551.us/*
 *://*.069.net/*
+*://*.0714news.com/*
 *://*.079.254560.top/*
 *://*.086wl.com/*
 *://*.0937673.info/*
@@ -157,6 +158,7 @@
 *://*.app.3987.com/*
 *://*.aptengli.com/*
 *://*.aptvgo.com/*
+*://*.aqmdjx.com/*
 *://*.ask.todgo.com/*
 *://*.asp.cx/*
 *://*.asspunk.iteye.com/*
@@ -936,6 +938,7 @@
 *://*.whshenhai.cn/*
 *://*.wienfm.com/*
 *://*.wikioi.com/*
+*://*.wjpy55.com/*
 *://*.wjxfpf.com/*
 *://*.wjxwlr.cn/*
 *://*.wkkkw.com/*
@@ -1099,6 +1102,7 @@
 *://*.ywzvx.top/*
 *://*.yysit.com/*
 *://*.z.baidu.com/*
+*://*.zakcret.xyz/*
 *://*.zbrushcn.com/*
 *://*.zbzhanheng.com/*
 *://*.zcndt.cn/*
@@ -1143,8 +1147,10 @@
 *://*/so.php?s=*
 *://*/so/*
 *://03o6.wocrek.tw/*
+*://0550pet.cn/*
 *://0691888.net/*
 *://0w9.harpnetworkinc.com/*
+*://0xzx.com/*
 *://170068.com/*
 *://20779.bhuvoq.tw/*
 *://20779.dazfqw.tw/*
@@ -1154,6 +1160,7 @@
 *://26ch.com/*
 *://3ctyri.gkhpii.tw/*
 *://3g.163.com/*
+*://3g.china.com/*
 *://52movs.com/*
 *://66.wendadaohang.com/*
 *://7xhy.com/*
@@ -1161,6 +1168,7 @@
 *://842504.com/*
 *://91yqf.com/*
 *://996yx.com/*
+*://a.youhuima.cc/*
 *://adsc.krank-durch-mobilfunk.de/*
 *://aeam.nervenbahnmassage.de/*
 *://agid.cn/*
@@ -1211,6 +1219,7 @@
 *://cloud.tencent.com/developer/ask*
 *://cloud.tencent.com/developer/ask/*
 *://cloud.tencent.com/developer/information/*
+*://cn.aliyun.com/*
 *://cn.filedict.com/*
 *://cn.jptele.com/*
 *://cn.voidcc.com/*
@@ -1241,6 +1250,8 @@
 *://dq.tieba.com/*
 *://dun.163.com/*
 *://e-bamboo.com/*
+*://ecshweb.pchome.com.tw/*
+*://ee.ofweek.com/*
 *://egny.fieldball.de/*
 *://elxc.st-energieservices.fr/*
 *://eozy.vip-erfolgscoach.de/*
@@ -1285,6 +1296,7 @@
 *://jsrc588.com/*
 *://juejin.im/*
 *://jump2.bdimg.com/*
+*://k.sina.cn/*
 *://kaicen.cn/*
 *://kb.kutu66.com/*
 *://khyy88.com/*
@@ -1292,9 +1304,11 @@
 *://kj808.com/*
 *://kjch.ebaohui.cn/*
 *://kknews.cc/*
+*://koubei.baidu.com/*
 *://kuaibao.qq.com/*
 *://kuoe.vip-erfolgscoach.de/*
 *://laravel.tw/*
+*://list.jd.com/*
 *://llsc.mikeprange.de/*
 *://lojp.spiegleinportal.de/*
 *://longjin-art.com/*
@@ -1329,15 +1343,19 @@
 *://m.outmc.com/*
 *://m.pai-hang-bang.com/*
 *://m.php.cn/*
+*://m.quanmama.com/*
 *://m.qz40.com/*
 *://m.ra9tx41c.ynidhq.tw/*
 *://m.rufengso.net/*
 *://m.s0hfci9.tcbdtd.tw/*
 *://m.shbingluo.com/*
 *://m.systemcity.cn/*
+*://m.weimob.com/*
 *://m.wenda.so.com/*
 *://m.wjuze.bmwtgk.tw/*
+*://m.xing73.com/*
 *://m.xp.cn/*
+*://m.yanghua.net/*
 *://m.yangzhiguo.com/*
 *://m.yisu.com/*
 *://m.yzlqzx.xyz/*
@@ -1376,6 +1394,7 @@
 *://product.yesky.com/*
 *://qastack.cn/*
 *://qcke.plameco-nett.de/*
+*://qcsdn.com/*
 *://qdcypf.com/*
 *://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
@@ -1386,13 +1405,16 @@
 *://qzjlnm.com/*
 *://read01.com/*
 *://rohv.madame-creations.fr/*
+*://sa.sogou.com/*
 *://sabp.natural-born-schrubber.de/*
 *://search.jd.com/*
+*://search.suning.com/*
 *://seo.maro6.com/*
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
 *://shenzhenxw.net/*
+*://shop.99114.com/*
 *://shop.pcpop.com/*
 *://shopee.tw/*
 *://shufadashi.com/*
@@ -1408,6 +1430,7 @@
 *://tfud.ffw-ellzee.de/*
 *://thewikihow.com/*
 *://tomme.me/*
+*://top.chinaz.com/*
 *://tortortor.pw/*
 *://tp50.com/*
 *://truelovenet.com/*
@@ -1466,13 +1489,17 @@
 *://www.360doc.com/*
 *://www.360kuai.com/*
 *://www.365shenbo.com/*
+*://www.39qq.com/*
 *://www.3dmax8.com/*
 *://www.3li.cc/*
+*://www.4561234.com/*
 *://www.511477.com/*
 *://www.52maicong.com/*
 *://www.54jqr.com/*
+*://www.5577.com/*
 *://www.565k.com/*
 *://www.58pjy.com/*
+*://www.5dir.cn/*
 *://www.600911.cn/*
 *://www.65at.cc/*
 *://www.684758.com/*
@@ -1483,23 +1510,31 @@
 *://www.7v0.com/*
 *://www.88xiao.com/*
 *://www.9000wy.info/*
+*://www.912688.com/*
+*://www.92aliyun.com/*
 *://www.9999ktv.com/*
 *://www.ab2s.com/*
 *://www.abcxzh.com/*
 *://www.accessoft.com/*
+*://www.admin5.org/*
 *://www.affdalao.com/*
 *://www.affloc.com/*
 *://www.afxzyw.cn/*
 *://www.aggg35.com/*
 *://www.aizhange.com/*
 *://www.ajpsp.com/*
+*://www.aliyun.com/*
+*://www.aliyundjq.cn/*
+*://www.aliyunyh.com/*
 *://www.amazon.com/*
 *://www.amcpp.com/*
 *://www.ancii.com/*
 *://www.anhuilife.com/*
 *://www.anyolife.com/*
 *://www.azsalon527.com/*
+*://www.bacaoo.com/*
 *://www.baidu.com/sf/*
+*://www.bbsmax.com/*
 *://www.bdqxgw.com/*
 *://www.be55.net/*
 *://www.bifengo.com/*
@@ -1517,6 +1552,7 @@
 *://www.ccddzlq.com/*
 *://www.ccn688.com/*
 *://www.cctsuzhou.cn/*
+*://www.chepinnet.com/*
 *://www.chinavolcan.com/*
 *://www.cmoney.tw/*
 *://www.cmuswe.com/*
@@ -1541,13 +1577,16 @@
 *://www.dayanzai.me/*
 *://www.dayupaiming.com/*
 *://www.diannaoxianka.com/*
+*://www.dianping.com/*
 *://www.dianthink.com/*
 *://www.djcxy.com/*
 *://www.djjiuoeb.com/*
 *://www.dnpz.net/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
+*://www.doukou.com/*
 *://www.drjordanmall.com/*
+*://www.dute.me/*
 *://www.dzydieo.site/*
 *://www.e-learn.cn/*
 *://www.e5a5x.com/*
@@ -1569,6 +1608,7 @@
 *://www.fuhaishenye.com/*
 *://www.fuyimokuai.com/*
 *://www.fuyingdq.com/*
+*://www.fxdsxy.com/*
 *://www.fxyibai.com/*
 *://www.fydqw.com/*
 *://www.gan-ren.com/*
@@ -1631,7 +1671,7 @@
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*.0714news.com/*
+*://www.kafan.cn/**://m.copyan.com/*
 *://www.ku3101.net/*
 *://www.kushalinfra.com/*
 *://www.kutu66.com/*
@@ -1646,6 +1686,7 @@
 *://www.lmonkey.com/*
 *://www.lngyy.com/*
 *://www.lnmonet.com/*
+*://www.lunwenpress.com/*
 *://www.lzbxgmjj.com/*
 *://www.macaodaily.com/*
 *://www.manew.com/*
@@ -1654,11 +1695,14 @@
 *://www.moflier.com/*
 *://www.moneytlk.com/*
 *://www.moulin-larroque.com/*
+*://www.movervip.com/*
+*://www.mscto.com/*
 *://www.myoschain.com/*
 *://www.mzgsmc.com/*
 *://www.nbyoho.com/*
 *://www.njqg.net/*
 *://www.njsz99.com/*
+*://www.nxhh.net/*
 *://www.oend.net/*
 *://www.oicqzone.com/*
 *://www.ojit.com/*
@@ -1673,6 +1717,7 @@
 *://www.parichyimin.com/*
 *://www.pck777.com/*
 *://www.pclovers.net/*
+*://www.pconline.com.cn/other_pic*
 *://www.phoenixups.com/*
 *://www.php.cn/*
 *://www.price.com.hk/*
@@ -1685,6 +1730,8 @@
 *://www.qtcamp.com/*
 *://www.qu02.com/*
 *://www.quanmaimai.com/*
+*://www.quanmama.com/*
+*://www.qxqpw.net/*
 *://www.right.com.cn/*
 *://www.right.com.cn/FORUM/search.php?*
 *://www.riji365.org/*
@@ -1731,6 +1778,7 @@
 *://www.uslos.com/*
 *://www.uucan.cn/*
 *://www.uwenku.com/*
+*://www.vavab.net/*
 *://www.vickarsgroup.com/*
 *://www.voidcn.com/*
 *://www.voorp.com/*
@@ -1738,6 +1786,7 @@
 *://www.vrzxwz.com/*
 *://www.w3cplus.com/*
 *://www.wandouip.com/*
+*://www.waxyz.cn/*
 *://www.wcwol.com/*
 *://www.wdzj.com/*
 *://www.webplus.org.cn/*
@@ -1754,6 +1803,7 @@
 *://www.wtnc.uk.com/*
 *://www.wuaisite.com/*
 *://www.wxapp-union.com/*
+*://www.wywb0818.com/*
 *://www.xcxgc.com/*
 *://www.xhsdzjys.com/*
 *://www.xia3.com/*
@@ -1774,6 +1824,8 @@
 *://www.yiyult.com/*
 *://www.ymw.cn/*
 *://www.yoneihan.com/*
+*://www.youzhanlu.com/*
+*://www.yqgmall.com/*
 *://www.yuanmas.com/*
 *://www.yunpanjingling.com/*
 *://www.yyyyv.cn/*
@@ -1821,11 +1873,13 @@
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
 *://zrsd.schorfheidecarport.de/**://*.000.org.cn/*
+*://zs12.hbs163.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
 /(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/
 /.*\/.*\?(?:s|so)=.*/
 /.*\/so\.php/
+/.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
 /it-swarm-\w+\.tech/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/*://blog.csdn.net/*
 0001113.com
