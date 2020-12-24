@@ -1,5 +1,14 @@
 
- Update weekly at 2020-12-20 08:08:20 UTC+0800
+ Update weekly at 2020-12-24 11:50:19 UTC+0800
+! 2020-10-30 https://uviewui.com
+! 2020-11-04 https://json.cn
+! 2020-11-06 https://www.v2ex.com
+! 2020-11-06 https://www.videofk.com
+! 2020-11-10 https://fanyi.baidu.com
+! 2020-11-12 https://segmentfault.com
+! 2020-11-13 https://fanyi.baidu.com
+! 2020-11-17 https://segmentfault.com
+! 2020-12-06 https://fanyi.baidu.com
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.01-123.com/*
@@ -58,6 +67,7 @@
 *://*.366service.com/*
 *://*.38953h.cn/*
 *://*.392623.com/*
+*://*.3cwu.com/*
 *://*.3d.54882.com/*
 *://*.3daima.com/*
 *://*.3jwz.com/*
@@ -189,6 +199,7 @@
 *://*.bartender.cc/*
 *://*.basoso.com/*
 *://*.bbbabc.cc/*
+*://*.bbjkw.net/*
 *://*.bbs.pcbeta.ex1.ipv6.xjklmy.com/*
 *://*.bbsah.com/*
 *://*.bbsmax.com/*
@@ -278,6 +289,7 @@
 *://*.cqxhfgz.com/*
 *://*.crossoverchina.com/*
 *://*.csdn.net/*
+*://*.csolmy.com/*
 *://*.ctolib.com/*
 *://*.cuishilin.com/*
 *://*.cuu.cc/*
@@ -358,11 +370,13 @@
 *://*.fsyingxin.com/*
 *://*.fullstack.im/*
 *://*.furniturelowe.com/*
+*://*.fuwuqizhijia.com/*
 *://*.fydqw.com/*
 *://*.fzjk.kxhsm.top/*
 *://*.gaaf.klvgb.loan/*
 *://*.gaiwen.com/*
 *://*.gametalk.site/*
+*://*.gan-ren.com/*
 *://*.gaojiq.cn/*
 *://*.gbfgg.cn/*
 *://*.gcyfd.shop/*
@@ -1078,6 +1092,7 @@
 *://*.xinhexinli.com/*
 *://*.xj-dd.com/*
 *://*.xjdpg.cn/*
+*://*.xjhxx.com/*
 *://*.xjlmst.com/*
 *://*.xmtx88.com/*
 *://*.xp810.com/*
@@ -1194,6 +1209,7 @@
 *://218.92.243.83/*
 *://252yy.net/*
 *://26ch.com/*
+*://360nas.com/*
 *://3ctyri.gkhpii.tw/*
 *://3g.163.com/*
 *://3g.china.com/*
@@ -1284,6 +1300,7 @@
 *://cftea.com/*
 *://check-caller.co.uk/*
 *://checkcaller.cn/*
+*://china.huanqiu.com/*
 *://chinese.alibaba.com/*
 *://christadavidson.com/*
 *://cloud.tencent.com/*
@@ -1320,6 +1337,7 @@
 *://developer.ibm.com/*
 *://dfuw.redandgold.de/*
 *://dguun.com/*
+*://digwow.net/*
 *://diqiu888.com/*
 *://dlshenda.com/*
 *://dm004.com/*
@@ -1337,6 +1355,7 @@
 *://dy.163.com/*
 *://e-bamboo.com/*
 *://ebbbogk.cpffz.com/*
+*://ecatalog.minebea.com.cn/*
 *://ecshweb.pchome.com.tw/*
 *://ee.ofweek.com/*
 *://egny.fieldball.de/*
@@ -1386,10 +1405,12 @@
 *://iask.sina.com.cn/*
 *://iccie.tw/*
 *://ihacksoft.com/*
+*://ilvruan.com/*
 *://imweb.io/*
 *://ios.developreference.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://ishiker.com/*
+*://it.sohu.com/*
 *://itbilu.com/*
 *://item.jd.com/*
 *://iter01.com/*
@@ -1820,6 +1841,7 @@
 *://www.chepinnet.com/*
 *://www.chinanews.com/*
 *://www.chinavolcan.com/*
+*://www.chinawenwang.com/*
 *://www.chinawuyuan.com/*
 *://www.chinaz.com/*
 *://www.chinesewords.org/*
@@ -1871,6 +1893,8 @@
 *://www.diglog.com/*
 *://www.djcxy.com/*
 *://www.djjiuoeb.com/*
+*://www.djjlseo.com/*
+*://www.dn010.com/*
 *://www.dnpz.net/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
@@ -1887,6 +1911,7 @@
 *://www.e5a5x.com/*
 *://www.easck.com/*
 *://www.easemob.com/*
+*://www.ecemart.com/*
 *://www.eddingmkt.com/*
 *://www.editplus.com/*
 *://www.ek162.com/*
@@ -1894,6 +1919,7 @@
 *://www.erdangjiade.com/*
 *://www.esihui.com/*
 *://www.essayzhidao.com/*
+*://www.etbot.net/*
 *://www.eternalcq.com/*
 *://www.exmlo.com/*
 *://www.f2qu.com/*
@@ -1912,6 +1938,7 @@
 *://www.fly63.com/*
 *://www.fobgavin.com/*
 *://www.forbooks.xyz/*
+*://www.foxmac.com/*
 *://www.freakchicken.xyz/*
 *://www.fsadu.org.br/*
 *://www.fuhaishenye.com/*
@@ -1946,8 +1973,10 @@
 *://www.hanlefang.net/*
 *://www.haoyar.com/*
 *://www.harngtong.url.tw/*
+*://www.hbm.com/*
 *://www.hchygw.com/*
 *://www.hcoder.net/*
+*://www.hedyauto.com/*
 *://www.heimacode.com/*
 *://www.heiqu.com/*
 *://www.hello.so/*
@@ -1962,6 +1991,7 @@
 *://www.hn-hongyuan.com/*
 *://www.hongsoft.net/*
 *://www.hongyazi.org/*
+*://www.hostloc.com/*gitee.com##IMG[class="people-image"]
 *://www.hotbak.net/*
 *://www.hotbgm.com/*
 *://www.hotessay.net/*
@@ -1974,6 +2004,7 @@
 *://www.huajunxiazai.com/*
 *://www.huaweicloud.com/*
 *://www.huaweicloud.com/articles/*
+*://www.huaweicloud.com/theme/*
 *://www.hui-chao.com/*
 *://www.hxnews.com/*
 *://www.hyhome.com.cn/*
@@ -2029,8 +2060,9 @@
 *://www.jiyifa.com/*
 *://www.jkg.tw/*
 *://www.jkmlyshs.com/*
+*://www.jmiaoyz106.com/*
 *://www.jmydtc.com/*
-*://www.jnslzc.com/*gitee.com##IMG[class="people-image"]
+*://www.jnslzc.com/*
 *://www.joci.net/*
 *://www.joyk.com/*
 *://www.jq22.com/*
@@ -2121,6 +2153,7 @@
 *://www.onlinedown.net/*
 *://www.operatoriforex.com/*
 *://www.orcode.com/*
+*://www.padh.net/*
 *://www.pai-hang-bang.com/*
 *://www.paloma.cn/*
 *://www.pantianxia.com/*
@@ -2220,6 +2253,7 @@
 *://www.tfzx.net/*
 *://www.thinbug.com/*
 *://www.thinkindrupal.com/*
+*://www.tiandynasty.cn/*
 *://www.tianpinapp.com/*
 *://www.tianqiweiqi.com/*
 *://www.timofang.net/*
@@ -2375,6 +2409,7 @@
 *://www.zybuluo.com/*
 *://www112200.com/*
 *://www2014.aspxhtml.com/*
+*://www3.hhstu.edu.cn/*
 *://wwwc809.com/*
 *://wxopen.club/*
 *://x.newhua.com/*
@@ -2412,6 +2447,7 @@
 *://zhongce.sina.com.cn/*
 *://zhongchou.modian.com/*
 *://zhuanlan.zhihu.com/*
+*://zhujicankao.com/*
 *://zidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
@@ -14167,6 +14203,7 @@
 9zas.com
 9zbc.com
 9zhei.com
+@*://www.zhihu.com/*
 ASKBOT.com
 Arrayshift.com
 Coordino.com
@@ -27334,6 +27371,11 @@ fanxieyey.com
 fanxing0.com
 fanxingyuan.com
 fanxs.com
+fanyi.baidu.com##.app-side-ad*://www.e-learn.cn/*
+fanyi.baidu.com##.clearfix.inner
+fanyi.baidu.com##.detail-qr.app-side-ad
+fanyi.baidu.com##.extra-btn.feedback-btn
+fanyi.baidu.com##DIV[class="app-side-ad long"]
 fanyiguaning.com
 fanzhengapp.net
 fanzhiyiyi.com
@@ -41435,6 +41477,8 @@ jsnjdd.com.cn
 jsnjlr.com
 jsnmlqy.com
 jsohus.cn
+json.cn##.in.fade.modal
+json.cn##.in.fade.modal-backdrop
 jspallet.com
 jspapa.com
 jsphnq.com
@@ -41588,7 +41632,7 @@ jucidu.net
 jucxvb.net
 judqa.net
 juechina.com
-juejin.im##.extension*://www.e-learn.cn/*
+juejin.im##.extension
 juejinclub.com
 juemingz.com
 juemingziz.com
@@ -53992,6 +54036,8 @@ seeques.com
 seewell.cc
 seffun.com
 segaled.com
+segmentfault.com##.mb-4.float-ads.align-items-center.justify-content-center.d-xl-flex.d-none.overflow-hidden.border-0.card
+segmentfault.com##div.mb-4.d-xl-flex.d-none.border-0.card > .card-body
 segurycel.cl
 seife.cn
 seika.top
@@ -60948,6 +60994,7 @@ uv3ox3.com
 uv4ox0.com
 uvbuy.net
 uvhrhrtc.net
+uviewui.com##.info-box
 uvirtis.com
 uvpgn.com
 uvvtf.com
@@ -63782,7 +63829,11 @@ www.teentube18.org
 www.uberalift.com
 www.usechinavpn.com
 www.usku.xawqr.accountant
+www.v2ex.com###Rightbar > div.box > .inner
 www.v6lr.adnfn.link
+www.videofk.com##.layui-layer-btn-.layui-layer-btn
+www.videofk.com##.layui-layer-content
+www.videofk.com##.layui-layer-title
 www.vnlr.tduaz.top
 www.ways2u.com
 www.weimeiba.com

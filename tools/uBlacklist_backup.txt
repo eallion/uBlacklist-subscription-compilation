@@ -3,24 +3,29 @@
 *://*.17qq.com/*
 *://*.21food.cn/*
 *://*.361t.org/*
+*://*.3cwu.com/*
 *://*.51xuexiaoyi.com/*
 *://*.aalahty.cn/*
 *://*.ajhujiao.com/*
 *://*.androidcookie.com/*
 *://*.aptengli.com/*
 *://*.aqmdjx.com/*
+*://*.bbjkw.net/*
 *://*.bbsah.com/*
 *://*.cjavapy.com/*
 *://*.cn.com/*
 *://*.codeday.me/*
 *://*.codenong.com/*
 *://*.compozi.com/*
+*://*.csolmy.com/*
 *://*.da-quan.net/*
 *://*.dacongyun.com/*
 *://*.dkfp88.cn/*
 *://*.dovov.com/*
 *://*.eue5xbp.site/*
 *://*.fofa.so/*
+*://*.fuwuqizhijia.com/*
+*://*.gan-ren.com/*
 *://*.gcyfd.shop/*
 *://*.geren-jianli.org/*
 *://*.haoxyx.com/*
@@ -87,6 +92,7 @@
 *://*.xcx1024.com/*
 *://*.xieshesm.tw/*
 *://*.xj-dd.com/*
+*://*.xjhxx.com/*
 *://*.xuesw.net/*
 *://*.xzlbjg.com/*
 *://*.yao51.com/*
@@ -107,6 +113,7 @@
 *://170068.com/*
 *://252yy.net/*
 *://26ch.com/*
+*://360nas.com/*
 *://3g.163.com/*
 *://3g.china.com/*
 *://821113.com/*
@@ -152,6 +159,7 @@
 *://copyfuture.com/*
 *://cx.17house.com/*
 *://detail.zol.com.cn/*
+*://digwow.net/*
 *://dm004.com/*
 *://down.znds.com/*
 *://download.csdn.net/*
@@ -169,6 +177,7 @@
 *://homiemall.com/*
 *://hzhcontrols.com/*
 *://iask.sina.com.cn/*
+*://ilvruan.com/*
 *://ishiker.com/*
 *://item.jd.com/*
 *://jsrc588.com/*
@@ -268,6 +277,7 @@
 *://www.3062.net.cn/*
 *://www.31871111.com/*
 *://www.360buyserver.com/*
+*://www.360doc.com/*
 *://www.360kuai.com/*
 *://www.365shenbo.com/*
 *://www.39qq.com/*
@@ -316,6 +326,7 @@
 *://www.cctsuzhou.cn/*
 *://www.chepinnet.com/*
 *://www.chinavolcan.com/*
+*://www.chinawenwang.com/*
 *://www.cmuswe.com/*
 *://www.cocoachina.com/*
 *://www.coder.work/*
@@ -339,10 +350,12 @@
 *://www.dute.me/*
 *://www.dzydieo.site/*
 *://www.essayzhidao.com/*
+*://www.etbot.net/*
 *://www.exmlo.com/*
 *://www.fastchina.net/*
 *://www.fck688.com/*
 *://www.flele.com/*
+*://www.foxmac.com/*
 *://www.fuhaishenye.com/*
 *://www.fuyimokuai.com/*
 *://www.fxdsxy.com/*
@@ -364,6 +377,7 @@
 *://www.hq396.com/*
 *://www.hszw.org/*
 *://www.huaweicloud.com/articles/*
+*://www.huaweicloud.com/theme/*
 *://www.hui-chao.com/*
 *://www.i5seo.com/*
 *://www.ihantian.com/*
@@ -377,6 +391,7 @@
 *://www.jd.com/*
 *://www.jiyifa.com/*
 *://www.jkmlyshs.com/*
+*://www.jmiaoyz106.com/*
 *://www.ku3101.net/*
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
@@ -405,6 +420,7 @@
 *://www.ok168198.com/*
 *://www.oneho.cn/*
 *://www.orcode.com/*
+*://www.padh.net/*
 *://www.paloma.cn/*
 *://www.pantianxia.com/*
 *://www.parichyimin.com/*
@@ -445,11 +461,13 @@
 *://www.tastones.com/*
 *://www.teipy.com/*
 *://www.thinbug.com/*
+*://www.tiandynasty.cn/*
 *://www.tianpinapp.com/*
 *://www.tj-sysm.com/*
 *://www.tmall.com/*
 *://www.tongfengqu.com/*
 *://www.trust1688.com/*
+*://www.twoeggz.com/*
 *://www.ukassignment.org/*
 *://www.ukthesis.org/*
 *://www.usaqi.com/*
@@ -496,6 +514,7 @@
 *://zhidao.baidu.hk/*
 *://zhidao.juyouxuan.vip/*
 *://zhipanyou.com/*
+*://zhujicankao.com/*
 *://zidao.baidu.com/search?*
 *://zs12.hbs163.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
@@ -505,6 +524,7 @@
 /.*\/so\.php/
 /.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+@*://www.zhihu.com/*
 0001113.com
 0001403.cn
 000222msc.com
@@ -70425,6 +70445,7 @@ zzzzbj.com
 *://shenzhenxw.net/*
 *://shufadashi.com/*
 *://sswhsign.com/*
+*://stackoverrun.com/*
 *://sxcpsjapp.org/*
 *://tfud.ffw-ellzee.de/*
 *://tortortor.pw/*
@@ -70483,12 +70504,14 @@ zzzzbj.com
 *://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
 *://www.codenong.com/*
+*://www.coder.work/*
 *://www.colabug.com/*
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
 *://www.da-quan.net/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
+*://www.dn010.com/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
@@ -73185,11 +73208,61 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.paopaoche.net/*
 *://s.weibo.com/*
 *://meta.appinn.net/*
-*://www.jnslzc.com/*gitee.com##IMG[class="people-image"]
+*://www.jnslzc.com/*
+*://www.lvse.cn/*
+*://www.appchina.com/*
+*://jump2.bdimg.com/*
+*://streetvoice.com/*
+*://m.wandoujia.com/*
+*://www.paopaoche.net/*
+*://s.weibo.com/*
+*://meta.appinn.net/*
+*://www.jnslzc.com/*
+*://china.huanqiu.com/*
+*://it.sohu.com/*
+*://www.djjlseo.com/*
+*://www.hbm.com/*
+*://ecatalog.minebea.com.cn/*
+*://www3.hhstu.edu.cn/*
+*://www.hedyauto.com/*
+*://www.ecemart.com/*
+*://www.hostloc.com/*gitee.com##IMG[class="people-image"]
 blog.csdn.net##DIV[class="leftPop"]
 blog.csdn.net##IFRAME[name="passport_iframe"]
-juejin.im##.extension*://www.e-learn.cn/*
+juejin.im##.extension
+
+! 2020-10-30 https://uviewui.com
+uviewui.com##.info-box
+
+! 2020-11-04 https://json.cn
+json.cn##.in.fade.modal
+json.cn##.in.fade.modal-backdrop
+
+! 2020-11-06 https://www.videofk.com
+www.videofk.com##.layui-layer-content
+www.videofk.com##.layui-layer-title
+www.videofk.com##.layui-layer-btn-.layui-layer-btn
+
+! 2020-11-06 https://www.v2ex.com
+www.v2ex.com###Rightbar > div.box > .inner
+
+! 2020-11-10 https://fanyi.baidu.com
+fanyi.baidu.com##DIV[class="app-side-ad long"]
+fanyi.baidu.com##.clearfix.inner
+fanyi.baidu.com##.extra-btn.feedback-btn
+
+! 2020-11-12 https://segmentfault.com
+segmentfault.com##.mb-4.float-ads.align-items-center.justify-content-center.d-xl-flex.d-none.overflow-hidden.border-0.card
+
+! 2020-11-13 https://fanyi.baidu.com
+fanyi.baidu.com##.detail-qr.app-side-ad
+
+! 2020-11-17 https://segmentfault.com
+segmentfault.com##div.mb-4.d-xl-flex.d-none.border-0.card > .card-body
+
+! 2020-12-06 https://fanyi.baidu.com
+fanyi.baidu.com##.app-side-ad*://www.e-learn.cn/*
 *://www.hotbak.net/*
 *://www.kutu66.com/*
 *://aihao8w.com/*
- Update weekly at 2020-12-20 08:08:20 UTC+0800
+ Update weekly at 2020-12-24 11:50:19 UTC+0800
