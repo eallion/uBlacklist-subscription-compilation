@@ -22,6 +22,3 @@
 [submodule "source/xNathan"]
 	path = source/xNathan
 	url = https://github.com/xNathan/uBlacklist-subscription.git
-[submodule "source/yangjingchuang"]
-	path = source/yangjingchuang
-	url = https://github.com/yangjingchuang/ublacklist-subscription.git

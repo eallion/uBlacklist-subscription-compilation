@@ -9,4 +9,3 @@ git subtree add --prefix=source/liubiantao/uBlacklist-Websites https://github.co
 git subtree add --prefix=source/nonPointer/uBlacklist-Subscription https://github.com/nonPointer/uBlacklist-Subscription.git master --squash
 git subtree add --prefix=source/scyrte/uBlacklist-Subscription https://github.com/scyrte/uBlacklist-Subscription.git master --squash
 git subtree add --prefix=source/xNathan/uBlacklist-subscription https://github.com/xNathan/uBlacklist-subscription.git master --squash
-git subtree add --prefix=source/yangjingchuang/ublacklist-subscription https://github.com/yangjingchuang/ublacklist-subscription.git master --squash

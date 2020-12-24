@@ -9,4 +9,3 @@ git submodule add https://github.com/liubiantao/uBlacklist-Websites.git source/l
 git submodule add https://github.com/nonPointer/uBlacklist-Subscription.git source/nonPointer
 git submodule add https://github.com/scyrte/uBlacklist-Subscription.git source/scyrte
 git submodule add https://github.com/xNathan/uBlacklist-subscription.git source/xNathan
-git submodule add https://github.com/yangjingchuang/ublacklist-subscription.git source/yangjingchuang
