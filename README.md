@@ -3,13 +3,17 @@
 
 ![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main) [![](https://data.jsdelivr.com/v1/package/gh/eallion/uBlacklist-subscription-compilation/badge?style=rounded)](https://www.jsdelivr.com/package/gh/eallion/uBlacklist-subscription-compilation) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
 
-这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。
+这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。  
+通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。
+
+本列表**比较激进**！会屏蔽少部分正规但低质量的中文网站。  
+所以个人建议搜索中文资料请用百度，uBlacklist 插件对百度无效。
 
 # 功能
 
 通过匹配域名的方式，屏蔽搜索引擎的搜索结果。主要是屏蔽中文SEO垃圾站。  
 
-支持的网站：（由 uBlacklist 插件决定）
+支持的搜索引擎：（由 uBlacklist 插件决定）
 - [Google](https://www.google.com/ncr?gws_rd=ssl)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Startpage](https://www.startpage.com/)
