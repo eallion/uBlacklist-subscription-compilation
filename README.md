@@ -8,6 +8,7 @@
 
 本列表**比较激进**！会屏蔽少部分正规但低质量的中文网站。  
 所以个人建议搜索中文资料请用百度，uBlacklist 插件对百度无效。
+> 如果需要百度屏蔽插件请用：[Search engine filter](https://github.com/zhangolve/search-engine-filter)
 
 # 功能
 
