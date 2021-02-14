@@ -1,6 +1,5 @@
 
- Update weekly at 2021-02-07 08:08:20 UTC+0800
-*://*.000.org.cn/*
+ Update weekly at 2021-02-14 08:08:36 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -135,6 +134,7 @@
 *://*.993113.cn/*
 *://*.999kaopu.com/*
 *://*.99mingpian.com/*
+*://*.9idudu.com/*
 *://*.9kantv.net/*
 *://*.9wxs.com/*
 *://*.9yyu.com/*
@@ -304,6 +304,7 @@
 *://*.damingweb.com/*
 *://*.daokeyou.top/*
 *://*.datatables.club/*
+*://*.dav01.com/*
 *://*.daxuesou.com/*
 *://*.dayun123.com/*
 *://*.dc120.com.cn/*
@@ -616,6 +617,7 @@
 *://*.mdlps.com/*
 *://*.mdlpt.com/*
 *://*.me348i.cn/*
+*://*.megavolt67.ru/*
 *://*.meirongbala.com/*
 *://*.meixiaqu.com/*
 *://*.mensconsignment.com/*
@@ -1181,6 +1183,7 @@
 *://*.ytswx.com/*
 *://*.yuanchengxiezuo.com/*
 *://*.yuanmacha.com/*
+*://*.yujiedh.xyz/*
 *://*.yulindown.com/*
 *://*.yumuji.com/*
 *://*.yunfan.com/*
@@ -1289,8 +1292,10 @@
 *://bbs.nga.cn/*
 *://bbs.wper.com/*
 *://bbs.zol.com.cn/*
+*://bebugless.com/*
 *://best.pconline.com.cn/*
 *://biggo.com.tw/*
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.silucg.com/*
 *://blog.wu-boy.com/*
@@ -1382,6 +1387,7 @@
 *://ishiker.com/*
 *://item.jd.com/*
 *://iter01.com/*
+*://itigic.com/*
 *://jdzl.v3ng.de/*
 *://jinan110.com/*
 *://jisuc.com/*
@@ -1434,6 +1440,7 @@
 *://m.jd.com/*
 *://m.jiasuba.com/*
 *://m.kan186.com/*
+*://m.kjw.cc/*
 *://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
@@ -1449,6 +1456,7 @@
 *://m.shbingluo.com/*
 *://m.systemcity.cn/*
 *://m.tj-book.com/*
+*://m.wandoujia.com/*
 *://m.weibo.cn/*
 *://m.weimob.com/*
 *://m.wenda.so.com/*
@@ -1480,6 +1488,7 @@
 *://nbri.stephan-messling.de/*
 *://neutrikmall.com/*
 *://news.sinabz.com/*
+*://news.tom.com/*
 *://news.znds.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
@@ -1497,6 +1506,7 @@
 *://product.pconline.com.cn/*
 *://product.yesky.com/*
 *://python5.com/*
+*://qa.1r1g.com/*
 *://qastack.cn/*
 *://qayaboo.co/*
 *://qcke.plameco-nett.de/*
@@ -1526,6 +1536,7 @@
 *://shopee.tw/*
 *://shufadashi.com/*
 *://sige.gionee.com/*
+*://sites.google.com/*
 *://slickdeals.net/*
 *://sodocumentation.net/*
 *://sswhsign.com/*
@@ -1648,12 +1659,14 @@
 *://www.amzkd.cn/*
 *://www.anfensi.com/*
 *://www.anhuilife.com/*
+*://www.anxinapk.com/*
 *://www.anyolife.com/*
 *://www.asmrqq.com/*
 *://www.azsalon527.com/*
 *://www.bacaoo.com/*
 *://www.baidu.com/*
 *://www.baidu.com/sf/*
+*://www.bairun0769.com/*
 *://www.baydue.com/*
 *://www.bbsmax.com/*
 *://www.bdqxgw.com/*
@@ -1697,6 +1710,7 @@
 *://www.crifan.com/*
 *://www.csdn.net/gather_*
 *://www.ctolib.com/*
+*://www.cuplayer.com/*
 *://www.da-quan.net/*
 *://www.dabbsports.com/*
 *://www.daihema.com/*
@@ -1725,6 +1739,8 @@
 *://www.e-learn.cn/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
+*://www.eeq8.com/*
+*://www.enjing.com/*
 *://www.essayzhidao.com/*
 *://www.etbot.net/*
 *://www.eternalcq.com/*
@@ -1806,11 +1822,12 @@
 *://www.jiyifa.com/*
 *://www.jkmlyshs.com/*
 *://www.jmiaoyz106.com/*
+*://www.jsxbbyq.com/*
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://blog.csdn.net/*
+*://www.kafan.cn/*https://www.itranslater.com/qa/details/2325844172554634240
 *://www.kakatongmeng.net/*
 *://www.ku3101.net/*
 *://www.kutu66.com/*
@@ -1918,6 +1935,7 @@
 *://www.taobao.com/*
 *://www.taoshudang.com/*
 *://www.tastones.com/*
+*://www.techbang.com/*
 *://www.techhubonline.com/*
 *://www.teipy.com/*
 *://www.thinbug.com/*
@@ -1931,6 +1949,7 @@
 *://www.tqhnet.com/*
 *://www.trust1688.com/*
 *://www.tty-1.net/*
+*://www.twblogs.net/*
 *://www.twoeggz.com/*
 *://www.u9h.com/*
 *://www.ukassignment.org/*
@@ -1942,6 +1961,7 @@
 *://www.uwenku.com/*
 *://www.vavab.net/*
 *://www.vickarsgroup.com/*
+*://www.vmall.com/*
 *://www.voidcn.com/*
 *://www.voorp.com/*
 *://www.vpsmm.com/*
@@ -1968,6 +1988,7 @@
 *://www.xddv.com/*
 *://www.xhsdzjys.com/*
 *://www.xia3.com/*
+*://www.xiaoheidiannao.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
 *://www.xiexialai.com/*
@@ -1986,6 +2007,7 @@
 *://www.ymw.cn/*
 *://www.youzhanlu.com/*
 *://www.yqgmall.com/*
+*://www.yuanmacha.com/*
 *://www.yuanmas.com/*
 *://www.yunmeibeijing.com/*
 *://www.yunpanjingling.com/*
@@ -2032,7 +2054,7 @@
 *://zidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
-*://zrsd.schorfheidecarport.de/**://*.voidcc.com/*
+*://zrsd.schorfheidecarport.de/**://*.000.org.cn/*
 *://zs12.hbs163.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
@@ -34471,7 +34493,6 @@ htsuye.com
 htszlt.com
 htt555.com
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
-https://www.itranslater.com/qa/details/2325844172554634240
 httpso.cn
 httpy.net
 httvd88.cn
