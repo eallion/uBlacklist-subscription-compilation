@@ -2,7 +2,7 @@
 *://www.hotbak.net/*
 *://www.kutu66.com/*
 *://aihao8w.com/*
- Update weekly at 2021-02-14 08:08:36 UTC+0800
+ Update weekly at 2021-02-20 18:31:14 UTC+0800
 *://www.sejuku.net/*
 *://*.stackoverrun.com/*
 *://*.stackovernet.com/*
@@ -824,7 +824,7 @@
 *://*.stackoom.com/*
 *://*.webplus.org.cn/*
 *://*.qastack.cn/*
-*://twypage.com/*
+*://*.twypage.com/*
 *://*.tjjltx.com/*
 *://*.yoneihan.com/*
 *://*.szaksd.com/*
@@ -837,8 +837,8 @@
 *://*.shxy888.com/*
 *://*.cxjygj.com/*
 *://*.joyk.com/*
-*://sige.gionee.com/*
-*://zh.bccrwp.org/*
+*://*.gionee.com/*
+*://*.bccrwp.org/*
 *://*.thinbug.com/*
 *://*.wldbs.com/*
 *://*.vpsak.com/*
@@ -878,6 +878,20 @@
 *://*.movervip.com/*
 *://*.hao4k.cn/*
 *://*.zhaihai.com/*
+*://*.yesterdaysapples.com/*
+*://*.lzbxgmjj.com/*
+*://*.cihangyuan.com/*
+*://*.huangheidc.com/*
+*://*.entertainment14.net/*
+*://*.ecvss.org/*
+*://*.copyan.com/*
+*://*.51dongshi.com/*
+*://*.wowoka.com/*
+*://*.ji9.org/*
+*://*.allside.news/*
+*://*.projectservers.net/*
+*://*.0752173.com/*
+*://*.lsmoody.com/*
 005i.com
 01-123.com
 01-800.cn

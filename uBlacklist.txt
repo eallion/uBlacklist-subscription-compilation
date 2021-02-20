@@ -1,5 +1,5 @@
 
- Update weekly at 2021-02-14 08:08:36 UTC+0800
+ Update weekly at 2021-02-20 18:31:14 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -11,6 +11,7 @@
 *://*.0551.us/*
 *://*.069.net/*
 *://*.0714news.com/*
+*://*.0752173.com/*
 *://*.079.254560.top/*
 *://*.086wl.com/*
 *://*.0937673.info/*
@@ -76,6 +77,7 @@
 *://*.4fei.cn/*
 *://*.4r8.nfjhn.com/*
 *://*.507q96.cn/*
+*://*.51dongshi.com/*
 *://*.51ttxue.com/*
 *://*.51xuexiaoyi.com/*
 *://*.520bdy.com/*
@@ -152,6 +154,7 @@
 *://*.alia.xlhad.top/*
 *://*.alisousou.com/*
 *://*.aliziarealestate.com/*
+*://*.allside.news/*
 *://*.allweblink.com/*
 *://*.almtlakes.org/*
 *://*.amzalborz.com/*
@@ -203,6 +206,7 @@
 *://*.bbsah.com/*
 *://*.bbsmax.com/*
 *://*.bcajw.com/*
+*://*.bccrwp.org/*
 *://*.bdqxgw.com/*
 *://*.bdw365.com/*
 *://*.be.findeen.com/*
@@ -259,6 +263,7 @@
 *://*.chromes.cn/*
 *://*.chubuntu.com/*
 *://*.ciawe.com/*
+*://*.cihangyuan.com/*
 *://*.city1.cn/*
 *://*.cjavapy.com/*
 *://*.cjmakeding.com/*
@@ -282,6 +287,7 @@
 *://*.com.sinoextruder.net.cn/*
 *://*.compozi.com/*
 *://*.coozhu.com/*
+*://*.copyan.com/*
 *://*.coreldrawchina.com/*
 *://*.could2.com/*
 *://*.coutinhoadvogados.com/*
@@ -341,12 +347,14 @@
 *://*.easyrecoverychina.com/*
 *://*.eayzer.com/*
 *://*.ebflux.com/*
+*://*.ecvss.org/*
 *://*.ed2ks.com/*
 *://*.ediuschina.com/*
 *://*.edwardianjewellery.com/*
 *://*.ek162.com/*
 *://*.ekyah.link/*
 *://*.enchantedauction.com/*
+*://*.entertainment14.net/*
 *://*.eooele.com/*
 *://*.eqisou.net/*
 *://*.erdie826.com/*
@@ -399,6 +407,7 @@
 *://*.gfsousou.cn/*
 *://*.gfsstp.com/*
 *://*.ggc-asia.com/*
+*://*.gionee.com/*
 *://*.gkgjws.com/*
 *://*.glassessalecp.com/*
 *://*.gogonews.cc/*
@@ -463,6 +472,7 @@
 *://*.hq396.com/*
 *://*.hssjw.cn/*
 *://*.htdzzk.com.cn/*
+*://*.huangheidc.com/*
 *://*.huanqiao406.com/*
 *://*.hubei.me/*
 *://*.huishenghuiying.com.cn/*
@@ -504,6 +514,7 @@
 *://*.jayunqi.com/*
 *://*.jb51.net/*
 *://*.jdon.com/*
+*://*.ji9.org/*
 *://*.jiajvhuishou.com/*
 *://*.jihehuaban.com.cn/*
 *://*.jimengli.com/*
@@ -585,6 +596,7 @@
 *://*.lomoo.com/*
 *://*.lotterychina.cn/*
 *://*.lovfp.com/*
+*://*.lsmoody.com/*
 *://*.lubianfeng.com/*
 *://*.lunlidianying.info/*
 *://*.luntan88.com/*
@@ -596,6 +608,7 @@
 *://*.lxway.com/*
 *://*.ly-sz1y.com/*
 *://*.lyy57.cn/*
+*://*.lzbxgmjj.com/*
 *://*.lzf2012.usa10.sethost.cn/*
 *://*.m.so.jusoso.com/*
 *://*.m.svwlx.cn/*
@@ -715,6 +728,7 @@
 *://*.power.baidu.com/*
 *://*.program-hub.cn/*
 *://*.programgo.com/*
+*://*.projectservers.net/*
 *://*.proteome.cn/*
 *://*.proxxoo.com/*
 *://*.puataiwan.com/*
@@ -945,6 +959,7 @@
 *://*.tw.kuaiso.com/*
 *://*.tw116.com/*
 *://*.tweets.seraph.me/*
+*://*.twypage.com/*
 *://*.txfkc.com/*
 *://*.tysp.org/*
 *://*.u158q5.cn/*
@@ -1025,6 +1040,7 @@
 *://*.wnyu.cn/*
 *://*.wodekuandai.com/*
 *://*.woso.cn/*
+*://*.wowoka.com/*
 *://*.wpwfg.cn/*
 *://*.wuji8.com/*
 *://*.wwtw.yeane.top/*
@@ -1153,6 +1169,7 @@
 *://*.ydxyw.cn/*
 *://*.yeeed.com/*
 *://*.yeezhe.cn/*
+*://*.yesterdaysapples.com/*
 *://*.yfytw.com/*
 *://*.yibinyd.com/*
 *://*.yidiansousuo.com/*
@@ -1535,7 +1552,6 @@
 *://shop.pcpop.com/*
 *://shopee.tw/*
 *://shufadashi.com/*
-*://sige.gionee.com/*
 *://sites.google.com/*
 *://slickdeals.net/*
 *://sodocumentation.net/*
@@ -1557,7 +1573,6 @@
 *://tushuo.jk51.com/*
 *://tw.phonecardsoftware.com/*
 *://twww.wahmbeckerheide.de/*
-*://twypage.com/*
 *://ub4.com/*
 *://ukcarbulbs.com/*
 *://ultimaterctoys.com/*
@@ -2044,7 +2059,6 @@
 *://ywcreations.com/*
 *://z3otwulx.zpyzya.tw/*
 *://zeepline.pw/*
-*://zh.bccrwp.org/*
 *://zh.wizcase.com/*
 *://zhidao.baidu.com/*
 *://zhidao.baidu.hk/*
