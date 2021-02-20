@@ -106,7 +106,7 @@ Subscription:
 - [https://github.com/yangjingchuang/ublacklist-subscription](https://github.com/yangjingchuang/ublacklist-subscription)
 
 
-# LICENSE
+# [LICENSE](https://github.com/me-shaon/GLWTPL)
 ```
 GLWT（祝你好运）公共许可证
 版权所有（C）每个人，除了作者
