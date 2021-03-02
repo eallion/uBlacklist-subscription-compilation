@@ -28,6 +28,7 @@ jobs:
       run: |
         git config --global user.name ${{secrets.username}}
         git config --global user.email ${{secrets.useremail}}
+        git config --global init.defaultBranch main
 
     - name: Update source
       run: |
@@ -35,7 +36,6 @@ jobs:
         git init
         git add .
         git commit -m "add source again"
-        git branch -M main
         git subtree add --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master --squash
         git subtree add --prefix=source/cobaltdisco/Google-Chinese-Results-Blocklist https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git master --squash
         git subtree add --prefix=source/gyli/Blocklist https://github.com/gyli/Blocklist.git master --squash
