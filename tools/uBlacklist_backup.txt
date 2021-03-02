@@ -121,7 +121,7 @@
 *://www.shtxlift.com/*
 *://www.bumensao.com/*
 *://www.zhanyiyk.com/*
-*://www.quanminbaoguang.com/* Update weekly at 2021-03-02 20:38:21 UTC+0800
+*://www.quanminbaoguang.com/* Update weekly at 2021-03-02 21:05:51 UTC+0800
 *://www.sejuku.net/*
 *://*.stackoverrun.com/*
 *://*.stackovernet.com/*
