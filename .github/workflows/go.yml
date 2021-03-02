@@ -26,8 +26,8 @@ jobs:
       env:
           MY_SECRET : ${{secrets.commit_secret}}
       run: |
-        git config --local user.name ${{secrets.username}}
-        git config --local user.email ${{secrets.useremail}}
+        git config --global user.name ${{secrets.username}}
+        git config --global user.email ${{secrets.useremail}}
 
     - name: Update source
       run: |
