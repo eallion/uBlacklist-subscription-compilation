@@ -32,6 +32,7 @@ jobs:
     - name: Update source
       run: |
         rm -rf source
+        git init
         git add .
         git commit -m "add source again"
         git subtree add --prefix=source/YeSilin/uBlacklist https://github.com/YeSilin/uBlacklist.git master --squash
