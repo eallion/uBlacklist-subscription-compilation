@@ -3160,6 +3160,9 @@ bypidenver.com
 *://*.javaer101.com/*
 *://*.asklobster.com/*
 *://*.living-sun.com/*
+*://*.gitmemory.com/*
+*://programmerstart.com/*
+*://*.programmersought.com/*
 0001113.com
 0001403.cn
 000222msc.com
@@ -73721,4 +73724,4 @@ zzzzbj.com
 *://*.zuoqudashi.net/*
 *://kknews.cc/*
 *://read01.com/*
-*://www.kafan.cn/* Update weekly at 2021-03-06 10:47:59 UTC+0800
+*://www.kafan.cn/* Update weekly at 2021-03-07 08:07:45 UTC+0800

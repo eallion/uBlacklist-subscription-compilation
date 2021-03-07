@@ -410,6 +410,7 @@
 *://*.gfsstp.com/*
 *://*.ggc-asia.com/*
 *://*.gionee.com/*
+*://*.gitmemory.com/*
 *://*.gkgjws.com/*
 *://*.glassessalecp.com/*
 *://*.gogonews.cc/*
@@ -740,6 +741,7 @@
 *://*.power.baidu.com/*
 *://*.program-hub.cn/*
 *://*.programgo.com/*
+*://*.programmersought.com/*
 *://*.projectservers.net/*
 *://*.proteome.cn/*
 *://*.proxxoo.com/*
@@ -1608,6 +1610,7 @@
 *://product.mxpkw.com/*
 *://product.pconline.com.cn/*
 *://product.yesky.com/*
+*://programmerstart.com/*
 *://python5.com/*
 *://qa.1r1g.com/*
 *://qastack.cn/*
@@ -2098,7 +2101,7 @@
 *://www.jznk99.com/*
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/* Update weekly at 2021-03-06 10:47:59 UTC+0800
+*://www.kafan.cn/* Update weekly at 2021-03-07 08:07:45 UTC+0800
 *://www.kaiser-garden.com/*
 *://www.kakatongmeng.net/*
 *://www.kalonggou520.com/*
