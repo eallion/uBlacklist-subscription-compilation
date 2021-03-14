@@ -2212,6 +2212,7 @@ bypidenver.com
 *://*.bbsah.com/*
 *://*.cjavapy.com/*
 *://*.cn.com/*
+*://*.codebug.vip/*
 *://*.codeday.me/*
 *://*.codenong.com/*
 *://*.compozi.com/*
@@ -2274,6 +2275,7 @@ bypidenver.com
 *://*.sincereschool.com/*
 *://*.sm1234.net/*
 *://*.sma.so/*
+*://*.snowcoal.com/*
 *://*.soft-vn.net/*
 *://*.soinside.com/*
 *://*.sqzlsy.cn/*
@@ -2292,6 +2294,7 @@ bypidenver.com
 *://*.voidcc.com/*
 *://*.voidcn.com/*
 *://*.vpnmentor.com/*
+*://*.waymanamechurch.org/*
 *://*.wdfxw.net/*
 *://*.weivb.com/*
 *://*.wjpy55.com/*
@@ -2344,6 +2347,7 @@ bypidenver.com
 *://answer-id.com/*
 *://app.youfa.coms.hk/*
 *://artez.org.cn/*
+*://ask.seowhy.com/*
 *://ask.zol.com.cn/*
 *://auditioneasterhelm.com/*
 *://baijiahao.baidu.com/*
@@ -2381,6 +2385,7 @@ bypidenver.com
 *://cx.17house.com/*
 *://detail.zol.com.cn/*
 *://digwow.net/*
+*://dlcswm.com/*
 *://dm004.com/*
 *://down.znds.com/*
 *://download.csdn.net/*
@@ -2391,13 +2396,18 @@ bypidenver.com
 *://essaymin.com/*
 *://feetwindyoung-5.live/*
 *://feishuang406.com/*
+*://flyzyblog.com/*
 *://fonnambar.info/*
 *://freetribe.me/*
+*://fyf.wx-wx.net/*
 *://g36yexigghnzong.icu/*
 *://ggchewl.com/*
 *://guolianglaoshi.com/*
+*://hairunwatertr.com/*
+*://hantenglaw.com/*
 *://herexjabar.over-blog.com/*
 *://hk.uwenku.com/*
+*://hnsqnlhh.com/*
 *://holy-smile.com/*
 *://homiemall.com/*
 *://huisuobbs.net/*
@@ -2427,10 +2437,12 @@ bypidenver.com
 *://looknews.cc/*
 *://lqkweb.com/*
 *://m.201347.uk.com/*
+*://m.3g.qqs9.com/*
 *://m.51dongshi.com/*
 *://m.copyan.com/*
 *://m.daihema.com/*
 *://m.eoudu.com/*
+*://m.fy35.com/*
 *://m.hljysbk.com/*
 *://m.iask.sina.com.cn/*
 *://m.ishare.iask.sina.com.cn/*
@@ -2542,8 +2554,11 @@ bypidenver.com
 *://www.39qq.com/*
 *://www.3li.cc/*
 *://www.4561234.com/*
+*://www.4pee.com/*
+*://www.501776.com/*
 *://www.511477.com/*
 *://www.51dongshi.com/*
+*://www.51ygw.com/*
 *://www.52book.me/*
 *://www.54jqr.com/*
 *://www.5577.com/*
@@ -2557,6 +2572,7 @@ bypidenver.com
 *://www.912688.com/*
 *://www.92aliyun.com/*
 *://www.9999ktv.com/*
+*://www.9game.cn/*
 *://www.ab2s.com/*
 *://www.academicsaviour.com/*
 *://www.admin5.org/*
@@ -2566,6 +2582,7 @@ bypidenver.com
 *://www.alexandresoma.com/*
 *://www.aliyun.com/*
 *://www.aliyundjq.cn/*
+*://www.aliyunjc.net/*
 *://www.aliyunyh.com/*
 *://www.amcpp.com/*
 *://www.amzkd.cn/*
@@ -2580,6 +2597,8 @@ bypidenver.com
 *://www.baidu.com/sf/*
 *://www.bairun0769.com/*
 *://www.baydue.com/*
+*://www.bbba5.com/*
+*://www.bbin-n.com/*
 *://www.bbsmax.com/*
 *://www.bdqxgw.com/*
 *://www.be55.net/*
@@ -2620,6 +2639,7 @@ bypidenver.com
 *://www.dama123.com/*
 *://www.dayupaiming.com/*
 *://www.ddooo.com/*
+*://www.ddpei.com/*
 *://www.debug8.com/*
 *://www.diannaoxianka.com/*
 *://www.dianping.com/*
@@ -2660,6 +2680,7 @@ bypidenver.com
 *://www.gongkongmro.com/*
 *://www.guangbaobei.net/*
 *://www.guzhifa.com/*
+*://www.gygg9.com/*
 *://www.habeiwaiyuxuexiao.com/*
 *://www.haoecn.com/*
 *://www.harngtong.url.tw/*
@@ -2711,6 +2732,7 @@ bypidenver.com
 *://www.linxia930.com/*
 *://www.linyuhui.net/*
 *://www.lngyy.com/*
+*://www.loc.pp.ua/*
 *://www.lowdownsires.com/*
 *://www.lunwenpress.com/*
 *://www.lunwentop.net/*
@@ -2764,6 +2786,7 @@ bypidenver.com
 *://www.right.com.cn/FORUM/search.php?*
 *://www.riji365.org/*
 *://www.ruan8.com/*
+*://www.ruiwen.com/*
 *://www.runsem.com/*
 *://www.ruten.com.tw/*
 *://www.sayweee.com/*
@@ -2807,6 +2830,7 @@ bypidenver.com
 *://www.uppercanadahealth.com/*
 *://www.usaqi.com/*
 *://www.uwenku.com/*
+*://www.uxys.com/*
 *://www.vavab.net/*
 *://www.vmall.com/*
 *://www.vpsmr.com/*
@@ -2832,11 +2856,13 @@ bypidenver.com
 *://www.xspdf.com/*
 *://www.xtfeed.cn/*
 *://www.xueman288.com/*
+*://www.xyyhs.net/*
 *://www.xz7.com/*
 *://www.yiper.org/*
 *://www.yiyisoft.com/*
 *://www.yiyult.com/*
 *://www.youzhanlu.com/*
+*://www.youzibook.cc/*
 *://www.yqgmall.com/*
 *://www.yuanmacha.com/*
 *://www.yuedidai.com/*
@@ -73390,6 +73416,7 @@ zzzzbj.com
 *://bradstreetcra.com/*
 *://bryanalders.com/*
 *://bvwc.lumea-verlag.de/*
+*://c.biancheng.net/*
 *://ceji.ayotechnology.de/*
 *://christadavidson.com/*
 *://cn.filedict.com/*
@@ -73429,6 +73456,7 @@ zzzzbj.com
 *://jjtk.lebenszeichen-fuerdieewigkeit.de/*
 *://jrccn.cn/*
 *://jrpw.webdesign-kiel-hamburg.de/*
+*://k.sina.cn/*
 *://kaicen.cn/*
 *://kinb.donauroyal.de/*
 *://kjch.ebaohui.cn/*
@@ -73445,6 +73473,8 @@ zzzzbj.com
 *://m.copyan.com/*
 *://m.dingjisc.com/*
 *://m.ebw100.com/*
+*://m.feimiao.cn/*
+*://m.gdgbn.com/*
 *://m.gdyadu.com/*
 *://m.glass321.com/*
 *://m.isdngo.xyz/*
@@ -73491,8 +73521,11 @@ zzzzbj.com
 *://sgub.kerstinraphahn.de/*
 *://shenzhenxw.net/*
 *://shufadashi.com/*
+*://soft.zhiding.cn/*
 *://sswhsign.com/*
 *://stackoverrun.com/*
+*://suiyishop.cn/*
+*://sunnyshushu.com/*
 *://sxcpsjapp.org/*
 *://tfud.ffw-ellzee.de/*
 *://tortortor.pw/*
@@ -73516,14 +73549,17 @@ zzzzbj.com
 *://www.0tpe.com/*
 *://www.10tiao.com/*
 *://www.1688.com/*
+*://www.17qq.com/*
 *://www.18183.com/*
 *://www.1888generator.com/*
 *://www.23cpc.com/*
 *://www.329329.com/*
 *://www.3333xbxb.com/*
+*://www.365jz.com/*
 *://www.3dmax8.com/*
 *://www.3li.cc/*
 *://www.3rxing.org/*
+*://www.51dongshi.com/*
 *://www.58pjy.com/*
 *://www.600911.cn/*
 *://www.684758.com/*
@@ -73542,9 +73578,11 @@ zzzzbj.com
 *://www.amazon.com/*
 *://www.anhuilife.com/*
 *://www.anyolife.com/*
+*://www.asianjps.com/*
 *://www.azsalon527.com/*
 *://www.baidu.com/*
 *://www.bdqxgw.com/*
+*://www.bhscy.com/*
 *://www.bjcsjsc.com/*
 *://www.bnee.net/*
 *://www.bunian.cn/*
@@ -73552,12 +73590,15 @@ zzzzbj.com
 *://www.bzxfgj.com/*
 *://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
+*://www.chusan.com/*
 *://www.cnblogs.com/*
 *://www.codenong.com/*
+*://www.codeprj.com/*
 *://www.coder.work/*
 *://www.colabug.com/*
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
+*://www.cxhm.net/*
 *://www.da-quan.net/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
@@ -73609,6 +73650,7 @@ zzzzbj.com
 *://www.manew.com/*
 *://www.mei521.com/*
 *://www.moulin-larroque.com/*
+*://www.movervip.com/*
 *://www.mzgsmc.com/*
 *://www.nbyoho.com/*
 *://www.nj118114.cn/*
@@ -73621,6 +73663,7 @@ zzzzbj.com
 *://www.qh24.com/*
 *://www.qu02.com/*
 *://www.right.com.cn/*
+*://www.sanye.cx/*
 *://www.shejiedu.com/*
 *://www.shufadashi.com/*
 *://www.shuzhiduo.com/*
@@ -73628,11 +73671,14 @@ zzzzbj.com
 *://www.sldfc.cn/*
 *://www.ssf.cc/*
 *://www.ssfiction.com/*
+*://www.ssgmm.com/*
 *://www.taobao.com/*
 *://www.techhubonline.com/*
 *://www.tongfengqu.com/*
 *://www.tqhnet.com/*
+*://www.trstil.com/*
 *://www.trust1688.com/*
+*://www.tspweb.com/*
 *://www.tty-1.net/*
 *://www.uoften.com/*
 *://www.uucan.cn/*
@@ -73656,6 +73702,7 @@ zzzzbj.com
 *://www.ymw.cn/*
 *://www.yuanmas.com/*
 *://www.yunmeibeijing.com/*
+*://www.yxjdcc.com/*
 *://www.yyyyv.cn/*
 *://www.zdexe.com/*
 *://www.zhangshengrong.com/*
@@ -73672,6 +73719,7 @@ zzzzbj.com
 *://yff.hbs163.com/*
 *://yilj.programmierbare-materie.de/*
 *://yp.jd.com/*
+*://yrhtech.com/*
 *://ywcreations.com/*
 *://zeepline.pw/*
 *://zkjh.fieldball.de/*
@@ -73724,4 +73772,4 @@ zzzzbj.com
 *://*.zuoqudashi.net/*
 *://kknews.cc/*
 *://read01.com/*
-*://www.kafan.cn/* Update weekly at 2021-03-07 08:07:45 UTC+0800
+*://www.kafan.cn/* Update weekly at 2021-03-14 08:07:37 UTC+0800
