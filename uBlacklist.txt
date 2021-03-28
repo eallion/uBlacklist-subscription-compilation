@@ -1,4 +1,5 @@
 
+ Update weekly at 2021-03-28 08:30:01 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -154,6 +155,7 @@
 *://*.a372.cn/*
 *://*.aalahty.cn/*
 *://*.abadisurvey.com/*
+*://*.abbyychina.com/*
 *://*.abks.hfges.top/*
 *://*.aeo.com.cn/*
 *://*.aew-sdn.com/*
@@ -174,6 +176,7 @@
 *://*.angiefans.com/*
 *://*.anqu998.com/*
 *://*.answer-id.com/*
+*://*.answiz.com/*
 *://*.antarcticshop.com/*
 *://*.anysafer.com/*
 *://*.aosae.com/*
@@ -290,6 +293,7 @@
 *://*.cjsoso.com/*
 *://*.ckshishang.com/*
 *://*.classicalguitarandbeyond.com/*
+*://*.cmen.cc/*
 *://*.cn.com/*
 *://*.cnpython.com/*
 *://*.code-adviser.com/*
@@ -300,6 +304,7 @@
 *://*.codeflow.site/*
 *://*.codenong.com/*
 *://*.coder.work/*
+*://*.codercto.com/*
 *://*.codesoftchina.com/*
 *://*.codetd.com/*
 *://*.codycn.com/*
@@ -477,6 +482,8 @@
 *://*.hd800.net/*
 *://*.hdnkm.com/*
 *://*.hedo188.com/*
+*://*.hellodemos.com/*
+*://*.helloworldkb.com/*
 *://*.helplib.com/*
 *://*.henankuai328.bid/*
 *://*.hfflvfc.site/*
@@ -548,6 +555,7 @@
 *://*.izlax.cn/*
 *://*.jalsys.com/*
 *://*.javaer101.com/*
+*://*.javashuo.com/*
 *://*.jayunqi.com/*
 *://*.jb51.net/*
 *://*.jdon.com/*
@@ -1363,7 +1371,6 @@
 *://*/so.php?s=*
 *://*/so/*
 *://00w5.com/*
-*://0317car.cn/*
 *://03o6.wocrek.tw/*
 *://0550pet.cn/*
 *://0691888.net/*
@@ -1410,6 +1417,7 @@
 *://app.youfa.coms.hk/*
 *://appdevx.com/*
 *://artez.org.cn/*
+*://ask.csdn.net/*
 *://ask.seowhy.com/*
 *://ask.zol.com.cn/*
 *://ata-academy.com/*
@@ -1418,8 +1426,10 @@
 *://automaticmoms.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://aylusenanzhuang.com/*
+*://baby918gardeneffect.live/*
 *://baiduchangsheng.com/*
 *://baijiahao.baidu.com/*
+*://baike.baidu.com/tashuo/*
 *://bbs.csdn.net/*
 *://bbs.guaruan.com/*
 *://bbs.mydigit.cn/*
@@ -1515,6 +1525,7 @@
 *://e-bamboo.com/*
 *://eclyq.co/*
 *://ecshweb.pchome.com.tw/*
+*://edu.51cto.com/*
 *://ee.ofweek.com/*
 *://egny.fieldball.de/*
 *://elonzs.com/*
@@ -1622,6 +1633,7 @@
 *://kuoe.vip-erfolgscoach.de/*
 *://lefurc.com/*
 *://lfbpos.com/*
+*://libriblu.it/*
 *://list.jd.com/*
 *://liuxue.xdf.cn/*
 *://llsc.mikeprange.de/*
@@ -1663,6 +1675,7 @@
 *://m.mp3suck.com/*
 *://m.outmc.com/*
 *://m.pai-hang-bang.com/*
+*://m.pjtime.com/*
 *://m.quanmama.com/*
 *://m.qz40.com/*
 *://m.qzjlw.com.cn/*
@@ -1671,6 +1684,7 @@
 *://m.s0hfci9.tcbdtd.tw/*
 *://m.set.zoektips.com/*
 *://m.shbingluo.com/*
+*://m.sina.com.hk/*
 *://m.systemcity.cn/*
 *://m.tj-book.com/*
 *://m.wandoujia.com/*
@@ -1763,6 +1777,7 @@
 *://salvavidas.com/*
 *://scguteli.com/*
 *://scinn.org.ua/*
+*://search.bilibili.com/*
 *://search.jd.com/*
 *://search.suning.com/*
 *://seo.maro6.com/*
@@ -2123,7 +2138,6 @@
 *://www.dx-zzrc.com/*
 *://www.dxguanxian.org/*
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*
@@ -2302,7 +2316,7 @@
 *://www.jznk99.com/*
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/* Update weekly at 2021-03-21 08:07:58 UTC+0800
+*://www.kafan.cn/**://0317car.cn/*
 *://www.kaiser-garden.com/*
 *://www.kakatongmeng.net/*
 *://www.kalonggou520.com/*
@@ -2370,6 +2384,7 @@
 *://www.mojaladja.com/*
 *://www.moneytlk.com/*
 *://www.moon811.com/*
+*://www.mosaby.com/*
 *://www.moulin-larroque.com/*
 *://www.movervip.com/*
 *://www.movie-swords.com/*
@@ -2606,6 +2621,7 @@
 *://www.weiqunwang.com/*
 *://www.weiyoou8.com/*
 *://www.wenxuecity.com/*
+*://www.west.cn/docs/*
 *://www.westwindford.com/*
 *://www.whstm.com/*
 *://www.win10xiazai.com/*
@@ -2624,6 +2640,7 @@
 *://www.www-4749000.com/*
 *://www.wywb0818.com/*
 *://www.x17crni16-2.net/*
+*://www.x64pro.com/*
 *://www.xadzmj.com/*
 *://www.xahaihongbz.com/*
 *://www.xangc.com/*
@@ -2649,6 +2666,7 @@
 *://www.xyj321.com/*
 *://www.xyyhs.net/*
 *://www.xz7.com/*
+*://www.y5.hk/*
 *://www.ya-abalfazl.com/*
 *://www.ygynykj.com/*
 *://www.yhhytyn.com/*
@@ -2670,6 +2688,7 @@
 *://www.yqgmall.com/*
 *://www.yuanmacha.com/*
 *://www.yuanmas.com/*
+*://www.yuanshihuoguo.com/*
 *://www.yuchentt.com/*
 *://www.yuedidai.com/*
 *://www.yuhuxx.com/*
@@ -2752,7 +2771,7 @@
 *://zidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
-*://zrsd.schorfheidecarport.de/**://*.abbyychina.com/*
+*://zrsd.schorfheidecarport.de/**://www.e-learn.cn/*
 *://zs12.hbs163.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
@@ -16146,7 +16165,9 @@ anshuo.ga
 anshuo.gq
 anshuo.ml
 ansuan.ml
+answer-id.com
 answerhub.com
+answiz.com
 antacuolin.com
 antaimed.com
 antarcticshop.com
@@ -17473,6 +17494,7 @@ bbsbbs18.cn
 bbsbbs24.cn
 bbsbbs4.cn
 bbslife.com
+bbsmax.com
 bbsrich.com
 bbstc.cn
 bbswt.com
@@ -22894,8 +22916,10 @@ codedump.io
 codeexplain.com
 codeflash.net
 codegur.com
+codenong.com
 codeotel.com
 coder.work
+codercto.com
 coderexception.com
 codes51.com
 codesec.net
@@ -36928,6 +36952,7 @@ itaweinisi.com
 itbbnet.com
 itbiz365.com
 itbytc.com
+itdaan.com
 itdadao.com
 itddc.com
 itdqs.com
@@ -36956,6 +36981,7 @@ itpse.com
 itpux.com
 itpyybs.com
 itqiangren.com
+itranslater.com
 itseqh.date
 itserviceoutsourcing.net
 itsmf.com.cn
@@ -57083,6 +57109,7 @@ st1010.com
 st5i.com
 st666.com
 stablecoin.net
+stacknoob.com
 stackoom.com
 stackoverflow.dluat.com
 stackoverflowtr.com
@@ -70680,6 +70707,7 @@ yuanjava.com
 yuanjialin.com
 yuanjir.com
 yuanlaiyujia.com
+yuanmacha.com
 yuanmadaohang.com
 yuanmeilove.com
 yuanmingyuany.com
