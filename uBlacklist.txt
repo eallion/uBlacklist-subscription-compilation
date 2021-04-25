@@ -1,4 +1,5 @@
- Update weekly at 2021-04-18 08:30:29 UTC+0800
+
+ Update weekly at 2021-04-25 08:31:56 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -425,6 +426,7 @@
 *://*.down.tech.sina.com.cn/*
 *://*.dpwatch8.com/*
 *://*.dqzdhw.com/*
+*://*.dtmao.cc/*
 *://*.duanzh.com/*
 *://*.duanzhihu.com/*
 *://*.dunstanhardcastle.com/*
@@ -588,6 +590,7 @@
 *://*.hk.kuaiso.com/*
 *://*.hkcleanmymac.com/*
 *://*.hkhvd.com/*
+*://*.hkk666.com/*
 *://*.hmgzj.cn/*
 *://*.hnfangkeyi.com/*
 *://*.hnfyzx.com/*
@@ -648,6 +651,7 @@
 *://*.it-swarm.dev/*
 *://*.it-swarm.net/*
 *://*.it.findeen.com/*
+*://*.it.net.cn/*
 *://*.it1352.com/*
 *://*.itdaan.com/*
 *://*.itranslater.com/*
@@ -1520,7 +1524,6 @@
 *://*/so.php?s=*
 *://*/so/*
 *://00w5.com/*
-*://0317car.cn/*
 *://03o6.wocrek.tw/*
 *://0550pet.cn/*
 *://0691888.net/*
@@ -1817,6 +1820,7 @@
 *://m.glass321.com/*
 *://m.hljysbk.com/*
 *://m.iask.sina.com.cn/*
+*://m.imooc.com/*
 *://m.isdngo.xyz/*
 *://m.ishare.iask.sina.com.cn/*
 *://m.iyzhz.com/*
@@ -2006,6 +2010,7 @@
 *://vvex.konsolenboard.de/*
 *://vzqz.fieldball.de/*
 *://waalbb.com/*
+*://wap.alounsse.com/*
 *://wap.mii-lab.com/*
 *://wap.yesky.com/*
 *://wap.zdface.com/*
@@ -2231,6 +2236,7 @@
 *://www.cmuswe.com/*
 *://www.cn-bet.com/*
 *://www.cnblogs.com/*
+*://www.cnqlk.com/*
 *://www.cnshhbs.com/*
 *://www.cnwaizi.com/*
 *://www.cocoachina.com/*
@@ -2485,7 +2491,7 @@
 *://www.jznk99.com/*
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://www.sejuku.net/*
+*://www.kafan.cn/**://0317car.cn/*
 *://www.kaiser-garden.com/*
 *://www.kakatongmeng.net/*
 *://www.kalonggou520.com/*
@@ -2673,6 +2679,7 @@
 *://www.shumitomo.net/*
 *://www.shuoshuokong.com/*
 *://www.shuzhiduo.com/*
+*://www.shxmtech.com/*
 *://www.shxy888.com/*
 *://www.shyhcf.com/*
 *://www.siamzip.com/*
@@ -2829,6 +2836,7 @@
 *://www.xinfuq.cn/*
 *://www.xinhexinli.com/*
 *://www.xinyanwenyi.com/*
+*://www.xitongcheng.com/*
 *://www.xpj665577.com/*
 *://www.xspdf.com/*
 *://www.xtfeed.cn/*
@@ -2849,6 +2857,7 @@
 *://www.yitusport.net/*
 *://www.yiyisoft.com/*
 *://www.yiyult.com/*
+*://www.ylfjs.com/*
 *://www.ymei189.com/*
 *://www.ymw.cn/*
 *://www.yongnamtour.com/*
@@ -2945,7 +2954,7 @@
 *://zidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
-*://zrsd.schorfheidecarport.de/*
+*://zrsd.schorfheidecarport.de/**://www.sejuku.net/*
 *://zs12.hbs163.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
