@@ -1,5 +1,5 @@
 
- Update weekly at 2021-04-25 08:31:56 UTC+0800
+ Update weekly at 2021-05-02 08:23:05 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -295,6 +295,7 @@
 *://*.bstcy.com/*
 *://*.btwmch.com/*
 *://*.bu-shen.com/*
+*://*.buffalo-mn.org/*
 *://*.bullforyou.com/*
 *://*.bunnyinside.com/*
 *://*.buylun.com/*
@@ -1678,6 +1679,7 @@
 *://download.csdn.net/*
 *://dq.tieba.com/*
 *://dun.163.com/*
+*://dvb56.com/*
 *://dxjrcw.com/*
 *://e-bamboo.com/*
 *://eclyq.co/*
@@ -1805,6 +1807,7 @@
 *://m.361t.org/*
 *://m.3g.qqs9.com/*
 *://m.51dongshi.com/*
+*://m.9ji.com/*
 *://m.abctbh.com/*
 *://m.ccdswl.com/*
 *://m.cnmmv.com/*
@@ -1859,10 +1862,12 @@
 *://m.yisu.com/*
 *://m.yxdwj.com/*
 *://m.yzlqzx.xyz/*
+*://m.zcool.com.cn/*
 *://m.zhuangku.com/*
 *://machbbs.com/*
 *://macklinddays.com/*
 *://make.mk/*
+*://maokun.blog.csdn.net/*
 *://mayphatmaynen.com/*
 *://medium.com/*
 *://meifa.izhufu.net/*
@@ -2637,6 +2642,7 @@
 *://www.qxqpw.net/*
 *://www.qyqyxx.com/*
 *://www.qyxychem.com/*
+*://www.r41z.com/*
 *://www.rayjcasting.com/*
 *://www.rcmdc.com.ua/*
 *://www.rcmingliu.com/*
@@ -2694,6 +2700,7 @@
 *://www.snepfsu-nancy-metz.net/*
 *://www.sociablelabs.com/*
 *://www.sockvalley.com/*
+*://www.sohu.com/a/*
 *://www.sojson.com/blog/*
 *://www.sonanone.com/*
 *://www.sonyexplorascience.com/*
@@ -2941,6 +2948,7 @@
 *://yyzsmusic.com/*
 *://z3otwulx.zpyzya.tw/*
 *://zaowanjia.com/*
+*://zbaen.com/*
 *://zeepline.pw/*
 *://zenodo.org/*
 *://zeroungcje5g5.pixnet.net/*

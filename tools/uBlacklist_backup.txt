@@ -2932,6 +2932,7 @@ cloud.tencent.com/developer/information
 *://*.aqmdjx.com/*
 *://*.bbjkw.net/*
 *://*.bbsah.com/*
+*://*.buffalo-mn.org/*
 *://*.cjavapy.com/*
 *://*.cmen.cc/*
 *://*.cn.com/*
@@ -3135,6 +3136,7 @@ cloud.tencent.com/developer/information
 *://down.znds.com/*
 *://download.csdn.net/*
 *://dq.tieba.com/*
+*://dvb56.com/*
 *://eclyq.co/*
 *://ecshweb.pchome.com.tw/*
 *://edu.51cto.com/*
@@ -3187,6 +3189,7 @@ cloud.tencent.com/developer/information
 *://m.201347.uk.com/*
 *://m.3g.qqs9.com/*
 *://m.51dongshi.com/*
+*://m.9ji.com/*
 *://m.copyan.com/*
 *://m.daihema.com/*
 *://m.eoudu.com/*
@@ -3216,8 +3219,10 @@ cloud.tencent.com/developer/information
 *://m.xing73.com/*
 *://m.yanghua.net/*
 *://m.yxdwj.com/*
+*://m.zcool.com.cn/*
 *://machbbs.com/*
 *://make.mk/*
+*://maokun.blog.csdn.net/*
 *://mingtwang.com/*
 *://mitosediesel.ro.to/*
 *://mlog.club/*
@@ -3444,6 +3449,7 @@ cloud.tencent.com/developer/information
 *://www.guzhifa.com/*
 *://www.gygg9.com/*
 *://www.habeiwaiyuxuexiao.com/*
+*://www.hanlefang.net/*
 *://www.haoecn.com/*
 *://www.harngtong.url.tw/*
 *://www.hchygw.com/*
@@ -3549,6 +3555,7 @@ cloud.tencent.com/developer/information
 *://www.quanmaimai.com/*
 *://www.quanmama.com/*
 *://www.qxqpw.net/*
+*://www.r41z.com/*
 *://www.rayjcasting.com/*
 *://www.rejoiceblog.com/*
 *://www.rghn.com.cn/*
@@ -3572,6 +3579,7 @@ cloud.tencent.com/developer/information
 *://www.sldfc.cn/*
 *://www.sociablelabs.com/*
 *://www.sockvalley.com/*
+*://www.sohu.com/a/*
 *://www.sojson.com/blog/*
 *://www.stacknoob.com/*
 *://www.suning.com/*
@@ -3666,6 +3674,7 @@ cloud.tencent.com/developer/information
 *://yageshu.com/*
 *://yq.aliyun.com/*
 *://yuming.qxbbs.org/*
+*://zbaen.com/*
 *://zh.wizcase.com/*
 *://zhidao.baidu.com/*
 *://zhidao.baidu.hk/*
@@ -74455,4 +74464,4 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://i88ko.com/*
 *://www.huangyao1688.com/*
 @*://www.zhihu.com/*
- Update weekly at 2021-04-25 08:31:56 UTC+0800
+ Update weekly at 2021-05-02 08:23:05 UTC+0800
