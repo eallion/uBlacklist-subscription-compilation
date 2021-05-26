@@ -16,7 +16,9 @@
 
 支持的搜索引擎：（由 uBlacklist 插件决定）
 - [Google](https://www.google.com/ncr?gws_rd=ssl)
+- [Bing](https://www.bing.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Ecosia](https://www.ecosia.org/)
 - [Startpage](https://www.startpage.com/)
 
 # 用法：
