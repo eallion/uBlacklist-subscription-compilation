@@ -1,4 +1,4 @@
- Update weekly at 2021-05-30 08:47:17 UTC+0800
+ Update weekly at 2021-06-06 08:33:33 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.1001yx.com/*
@@ -324,6 +324,9 @@
 *://*.aptengli.com/*
 *://*.aqmdjx.com/*
 *://*.bbjkw.net/*
+*://codingdict.com/*
+*://*.wikicell.org/*
+*://*.4meahc.com/*
 *://*.bbsah.com/*
 *://*.buffalo-mn.org/*
 *://*.cjavapy.com/*
@@ -1135,6 +1138,8 @@
 *://programmerstart.com/*
 *://*.programmersought.com/*
 *://*.bleepcoder.com/*
+*://codehero.jp/*
+
 *://0317car.cn/*
 *://52movs.com/*
 *://66.wendadaohang.com/*

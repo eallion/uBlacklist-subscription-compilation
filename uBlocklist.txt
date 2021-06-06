@@ -1,5 +1,5 @@
 
- Update weekly at 2021-05-30 08:47:17 UTC+0800
+ Update weekly at 2021-06-06 08:33:33 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -94,6 +94,7 @@
 *://*.4blc.com/*
 *://*.4c94.cn/*
 *://*.4fei.cn/*
+*://*.4meahc.com/*
 *://*.4pee.com/*
 *://*.4r8.nfjhn.com/*
 *://*.507q96.cn/*
@@ -1375,6 +1376,7 @@
 *://*.whshenhai.cn/*
 *://*.whysw88.com/*
 *://*.wienfm.com/*
+*://*.wikicell.org/*
 *://*.wikioi.com/*
 *://*.windrimbuilding.com/*
 *://*.wispypages.com/*
@@ -1685,6 +1687,8 @@
 *://cn846.com/*
 *://code-examples.net/*
 *://codeday.me/*
+*://codehero.jp/*
+*://codingdict.com/*
 *://commingday.com/*
 *://concienciaplena.es/*
 *://contact-who-called.com/*
