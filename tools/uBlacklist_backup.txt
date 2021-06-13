@@ -1,4 +1,4 @@
- Update weekly at 2021-06-06 08:33:33 UTC+0800
+ Update weekly at 2021-06-13 08:18:16 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.1001yx.com/*
@@ -313,7 +313,9 @@
 *://*.21food.cn/*
 *://*.361t.org/*
 *://*.3cwu.com/*
+*://*.4meahc.com/*
 *://*.51xuexiaoyi.com/*
+*://*.61655.app/*
 *://*.91wuxi.com/*
 *://*.97hs.com/*
 *://*.9idudu.com/*
@@ -324,9 +326,6 @@
 *://*.aptengli.com/*
 *://*.aqmdjx.com/*
 *://*.bbjkw.net/*
-*://codingdict.com/*
-*://*.wikicell.org/*
-*://*.4meahc.com/*
 *://*.bbsah.com/*
 *://*.buffalo-mn.org/*
 *://*.cjavapy.com/*
@@ -434,6 +433,7 @@
 *://*.waymanamechurch.org/*
 *://*.wdfxw.net/*
 *://*.weivb.com/*
+*://*.wikicell.org/*
 *://*.wjpy55.com/*
 *://*.xbuba.com/*
 *://*.xcx1024.com/*
@@ -527,6 +527,7 @@
 *://cn.jptele.com/*
 *://cn846.com/*
 *://code-examples.net/*
+*://codingdict.com/*
 *://contact-who-called.com/*
 *://copyfuture.com/*
 *://cx.17house.com/*
@@ -567,12 +568,14 @@
 *://hzhcontrols.com/*
 *://iask.sina.com.cn/*
 *://ilvruan.com/*
+*://investfundhjl.web.app/*
 *://ishiker.com/*
 *://item.jd.com/*
 *://itigic.com/*
 *://jinan110.com/*
 *://jsrc588.com/*
 *://jump2.bdimg.com/*
+*://jutuilian.com/*
 *://k.sina.cn/*
 *://kantie.org/*
 *://kao-bo.com/*
@@ -599,6 +602,7 @@
 *://m.copyan.com/*
 *://m.daihema.com/*
 *://m.eoudu.com/*
+*://m.fengli.com/*
 *://m.fy35.com/*
 *://m.hljysbk.com/*
 *://m.iask.sina.com.cn/*
@@ -653,6 +657,7 @@
 *://qayaboo.co/*
 *://qcsdn.com/*
 *://qipai.coms.hk/*
+*://quitko.com/*
 *://qwtcpt.com/*
 *://read01.com/*
 *://s.weibo.com/*
@@ -740,6 +745,7 @@
 *://www.7711182.com/*
 *://www.7kuo.com/*
 *://www.7sebook.com/*
+*://www.809505.com/*
 *://www.912688.com/*
 *://www.92aliyun.com/*
 *://www.9999ktv.com/*
@@ -777,6 +783,7 @@
 *://www.bifengo.com/*
 *://www.bitedie.com/*
 *://www.blockvalue.com/*
+*://www.bmcsjmj.com/*
 *://www.boaosheou.com/*
 *://www.bobofun.com/*
 *://www.bokcms.com/*
@@ -916,6 +923,7 @@
 *://www.linyuhui.net/*
 *://www.lngyy.com/*
 *://www.loc.pp.ua/*
+*://www.lohine.com/*
 *://www.lowdownsires.com/*
 *://www.lunwenpress.com/*
 *://www.lunwentop.net/*
@@ -935,7 +943,9 @@
 *://www.mosaby.com/*
 *://www.movervip.com/*
 *://www.mscto.com/*
+*://www.muzijie.com/*
 *://www.mxj.com.cn/*
+*://www.mycvcv.com/*
 *://www.myoschain.com/*
 *://www.nanrenwy.com/*
 *://www.njqg.net/*
@@ -983,6 +993,7 @@
 *://www.ruten.com.tw/*
 *://www.sayweee.com/*
 *://www.sblunwen.com/*
+*://www.senangp.com/*
 *://www.share2downloads.com/*
 *://www.shbjbwx.com/*
 *://www.shoudian.org/*
@@ -1057,6 +1068,7 @@
 *://www.xspdf.com/*
 *://www.xtfeed.cn/*
 *://www.xueman288.com/*
+*://www.xulander.com/*
 *://www.xyyhs.net/*
 *://www.xz7.com/*
 *://www.y5.hk/*
@@ -1076,6 +1088,7 @@
 *://www.zgxnjc.com/*
 *://www.zhangshengrong.com/*
 *://www.zhanjuzhizao.com/*
+*://www.zhengyuan818.cn/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
 *://www.zhufaner.com/*

@@ -1,5 +1,5 @@
 
- Update weekly at 2021-06-06 08:33:33 UTC+0800
+ Update weekly at 2021-06-13 08:18:16 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -124,6 +124,7 @@
 *://*.5k33i.cn/*
 *://*.5pk.ah.2j0.iyu.y7.l99.m.7d6y.com/*
 *://*.611fu.com/*
+*://*.61655.app/*
 *://*.635sc.com/*
 *://*.65at.cc/*
 *://*.666so.cn/*
@@ -1800,6 +1801,7 @@
 *://idcmai.com/*
 *://ilvruan.com/*
 *://insronda.cat/*
+*://investfundhjl.web.app/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://ishiker.com/*
 *://ispe-dach.org/*
@@ -1819,6 +1821,7 @@
 *://jrpw.webdesign-kiel-hamburg.de/*
 *://jsrc588.com/*
 *://jump2.bdimg.com/*
+*://jutuilian.com/*
 *://jwton.com/*
 *://jxsbbs.com/*
 *://k.sina.cn/*
@@ -1867,6 +1870,7 @@
 *://m.ebw100.com/*
 *://m.eoudu.com/*
 *://m.feimiao.cn/*
+*://m.fengli.com/*
 *://m.fy35.com/*
 *://m.gdgbn.com/*
 *://m.gdyadu.com/*
@@ -1981,6 +1985,7 @@
 *://qiaofu66.blog.sohu.com/*
 *://qipai.coms.hk/*
 *://qooqo.ru/*
+*://quitko.com/*
 *://qwtcpt.com/*
 *://qzjlnm.com/*
 *://rcuk.bsc.by/*
@@ -2158,6 +2163,7 @@
 *://www.7s.com.tw/*
 *://www.7sebook.com/*
 *://www.7yil.com/*
+*://www.809505.com/*
 *://www.886sp.com/*
 *://www.88xiao.com/*
 *://www.8hhi.com/*
@@ -2241,6 +2247,7 @@
 *://www.bjfy88.com/*
 *://www.bjxinwangtongda.com/*
 *://www.blockvalue.com/*
+*://www.bmcsjmj.com/*
 *://www.bnee.net/*
 *://www.boaosheou.com/*
 *://www.bobofun.com/*
@@ -2588,6 +2595,7 @@
 *://www.lngyy.com/*
 *://www.lnmonet.com/*
 *://www.loc.pp.ua/*
+*://www.lohine.com/*
 *://www.loveeducation123.com/*
 *://www.lowdownsires.com/*
 *://www.ludonova.com/*
@@ -2630,8 +2638,10 @@
 *://www.movervip.com/*
 *://www.movie-swords.com/*
 *://www.mscto.com/*
+*://www.muzijie.com/*
 *://www.mwcyls.com/*
 *://www.mxj.com.cn/*
+*://www.mycvcv.com/*
 *://www.mydone.net/*
 *://www.myoschain.com/*
 *://www.myproskills.com/*
@@ -2735,6 +2745,7 @@
 *://www.seattleskate.com/*
 *://www.sejuku.net/*
 *://www.sempsph.com/*
+*://www.senangp.com/*
 *://www.seolanddirect.com/*
 *://www.seviquorum.com/*
 *://www.sexyandhot.net/*
@@ -2919,6 +2930,7 @@
 *://www.xtfeed.cn/*
 *://www.xuanchuandan.net/*
 *://www.xueman288.com/*
+*://www.xulander.com/*
 *://www.xyj321.com/*
 *://www.xyyhs.net/*
 *://www.xz7.com/*
@@ -2972,6 +2984,7 @@
 *://www.zhanyiyk.com/*
 *://www.zhengfeng843.com/*
 *://www.zhengrongshuo.com/*
+*://www.zhengyuan818.cn/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
 *://www.zhonglintrade.com/*
