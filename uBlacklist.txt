@@ -1,5 +1,6 @@
 
- Update weekly at 2021-06-27 08:13:10 UTC+0800
+ Update weekly at 2021-07-04 08:15:06 UTC+0800
+*://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -12,7 +13,6 @@
 *://*.054wan.com/*
 *://*.0551.us/*
 *://*.069.net/*
-*://*.0714news.com/*
 *://*.0752173.com/*
 *://*.079.254560.top/*
 *://*.086wl.com/*
@@ -184,6 +184,7 @@
 *://*.aaiv.net/*
 *://*.aalahty.cn/*
 *://*.abadisurvey.com/*
+*://*.abbyychina.com/*
 *://*.abdwap.work/*
 *://*.abks.hfges.top/*
 *://*.acehfoto.com/*
@@ -1629,6 +1630,7 @@
 *://baijiahao.baidu.com/*
 *://baike.baidu.com/tashuo/*
 *://bameifaze.com/*
+*://base64.work/so/*
 *://bbs.csdn.net/*
 *://bbs.guaruan.com/*
 *://bbs.mydigit.cn/*
@@ -2562,7 +2564,7 @@
 *://www.jznk99.com/*
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*.000.org.cn/*
+*://www.kafan.cn/*0001113.com
 *://www.kaiser-garden.com/*
 *://www.kakatongmeng.net/*
 *://www.kalonggou520.com/*
@@ -3051,7 +3053,7 @@
 *://zidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
-*://zrsd.schorfheidecarport.de/**://*.abbyychina.com/*
+*://zrsd.schorfheidecarport.de/**://*.0714news.com/*
 *://zs12.hbs163.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
@@ -3061,7 +3063,6 @@
 /.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
-0001113.com
 0001403.cn
 000222msc.com
 0002842.cn
