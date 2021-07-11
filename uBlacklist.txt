@@ -1,5 +1,5 @@
 
- Update weekly at 2021-07-04 08:15:06 UTC+0800
+ Update weekly at 2021-07-11 08:16:24 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -747,6 +747,7 @@
 *://*.kknews.cc/*
 *://*.kkth.xj.cn/*
 *://*.klian.com/*
+*://*.kontur-sb.ru/*
 *://*.kotaeta.com/*
 *://*.koubeiblog.com/*
 *://*.ksctec.com/*
@@ -1612,6 +1613,7 @@
 *://anlander.com/*
 *://answer-id.com/*
 *://ap.instructure.com/*
+*://app.3dmgame.com/*
 *://app.livestorm.co/*
 *://app.youfa.coms.hk/*
 *://appdevx.com/*
@@ -1710,7 +1712,9 @@
 *://data.yantaichanglong.com/*
 *://dawoxi.com/*
 *://ddxiangmu.com/*
+*://ddxinwen.com/*
 *://detail.zol.com.cn/*
+*://developer.aliyun.com/articlezt/*
 *://dfs38.com/*
 *://dfuw.redandgold.de/*
 *://dguun.com/*
@@ -1894,6 +1898,7 @@
 *://m.outmc.com/*
 *://m.pai-hang-bang.com/*
 *://m.pjtime.com/*
+*://m.qu99.com/*
 *://m.quanmama.com/*
 *://m.qz40.com/*
 *://m.qzjlw.com.cn/*
@@ -1961,6 +1966,7 @@
 *://oneho.cn/*
 *://oreu.singulus.it/*
 *://oscareluca.com/*
+*://overcoder.net/*
 *://p1htmlkernalweb.mybluemix.net/*
 *://pai-hang-bang.com/*
 *://park.zunmi.cn/*
@@ -1992,6 +1998,7 @@
 *://qzjlnm.com/*
 *://rcuk.bsc.by/*
 *://read01.com/*
+*://regiaodecister.pt/*
 *://rohv.madame-creations.fr/*
 *://rt5l.mmzgm.com/*
 *://s.weibo.com/*
@@ -2115,6 +2122,7 @@
 *://www.1888generator.com/*
 *://www.1984w.com/*
 *://www.1itao.com/*
+*://www.20592.top/*
 *://www.21ic.com/*
 *://www.2265.com/*
 *://www.23cpc.com/*
@@ -2145,6 +2153,7 @@
 *://www.4pee.com/*
 *://www.501776.com/*
 *://www.511477.com/*
+*://www.513210.com/*
 *://www.51dongshi.com/*
 *://www.51huandian.com/*
 *://www.51ygw.com/*
@@ -2294,6 +2303,7 @@
 *://www.chamberjkt.com/*
 *://www.chaoju.com/*
 *://www.chepinnet.com/*
+*://www.chhh.com/*
 *://www.chien-elevage.com/*
 *://www.china-joint.com/*
 *://www.chinahengchuan.com/*
@@ -2338,6 +2348,7 @@
 *://www.cuplayer.com/*
 *://www.cuponens.com/*
 *://www.cxhm.net/*
+*://www.cxyzjd.com/*
 *://www.cylsolar.com/*
 *://www.czfaw.com/*
 *://www.da-quan.net/*
@@ -2446,6 +2457,7 @@
 *://www.greenteaone.com/*
 *://www.grey-rocks.com/*
 *://www.gszylw.com/*
+*://www.gtuanb.com/*
 *://www.guangbaobei.net/*
 *://www.guilinruiyi.com/*
 *://www.guzhifa.com/*
@@ -2508,6 +2520,7 @@
 *://www.i52917.com/*
 *://www.i5seo.com/*
 *://www.icangshu111.com/*
+*://www.icode9.com/*
 *://www.ihantian.com/*
 *://www.iiiiso.com/*
 *://www.il-shop.cn/*
@@ -2571,6 +2584,7 @@
 *://www.kaozhenghao.com/*
 *://www.keithlcooper.com/*
 *://www.kimintae.com/*
+*://www.kmkejipd.com/*
 *://www.ku3101.net/*
 *://www.kutu66.com/*
 *://www.kzcha.com/*
@@ -2687,12 +2701,14 @@
 *://www.parichyimin.com/*
 *://www.pck777.com/*
 *://www.pclovers.net/*
+*://www.pconline.com.cn/3g/*
 *://www.pconline.com.cn/other_pic*
 *://www.pcpc.me/*
 *://www.pesyz.com/*
 *://www.phoenixups.com/*
 *://www.pianshen.com/*
 *://www.piemidia.com/*
+*://www.ping-jia.net/*
 *://www.pizzasprint.com/*
 *://www.playsport.cc/*
 *://www.pledgetoshare.com/*
@@ -2711,6 +2727,7 @@
 *://www.qh24.com/*
 *://www.qianchusai.com/*
 *://www.qingtingip.com/*
+*://www.qnapnas.com.cn/*
 *://www.qq366.cn/*
 *://www.qqtn.com/*
 *://www.qqxmail.com/*
@@ -2759,6 +2776,7 @@
 *://www.share2downloads.com/*
 *://www.shbjbwx.com/*
 *://www.shejiedu.com/*
+*://www.shenbo299.com/*
 *://www.shengmaln.com/*
 *://www.shoudian.org/*
 *://www.shouji211.com/*
@@ -2781,6 +2799,7 @@
 *://www.slmnqq.com/*
 *://www.slyujia.com/*
 *://www.smokinjoescigarettes.com/*
+*://www.smpchome.com/*
 *://www.snepfsu-nancy-metz.net/*
 *://www.sociablelabs.com/*
 *://www.sockvalley.com/*
@@ -2876,6 +2895,7 @@
 *://www.voidcn.com/*
 *://www.voorp.com/*
 *://www.voxaccounts.com/*
+*://www.voycn.com/*
 *://www.vpsmm.com/*
 *://www.vpsmr.com/*
 *://www.vrzxwz.com/*
@@ -3006,6 +3026,7 @@
 *://www.zjdfsm.com/*
 *://www.zmnedu.com/*
 *://www.znds.com/*
+*://www.znj.com/*
 *://www.zou114.net/*
 *://www.zrahh.com/*
 *://www.zrtz001.com/*
