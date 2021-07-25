@@ -1,5 +1,5 @@
 
- Update weekly at 2021-07-18 08:16:58 UTC+0800
+ Update weekly at 2021-07-25 08:16:30 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -1850,6 +1850,7 @@
 *://kuoe.vip-erfolgscoach.de/*
 *://lefurc.com/*
 *://lfbpos.com/*
+*://lhyd.top/*
 *://libriblu.it/*
 *://list.jd.com/*
 *://list.suning.com/*
@@ -2064,6 +2065,7 @@
 *://twbet.com.tw/*
 *://twww.wahmbeckerheide.de/*
 *://ub4.com/*
+*://ubuntuqa.com/*
 *://ukcarbulbs.com/*
 *://ultimaterctoys.com/*
 *://unhn.le-marquisat.fr/*
@@ -2287,8 +2289,10 @@
 *://www.can-linx.com/*
 *://www.cangningmucai.com/*
 *://www.caogenbj.com/*
+*://www.captainbed.net/*
 *://www.carmne.com/*
 *://www.carousell.com.hk/*
+*://www.cbedai.net/*
 *://www.ccddzlq.com/*
 *://www.ccduijimen.net/*
 *://www.ccn688.com/*
@@ -3082,6 +3086,7 @@
 /.*\/.*\?(?:s|so)=.*/
 /.*\/so\.php/
 /.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
+/^https?\:\/\/.*?\/list\?q=[a-zA-Z%0-9]*$/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 0001403.cn
