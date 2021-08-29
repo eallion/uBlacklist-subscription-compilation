@@ -1,4 +1,4 @@
- Update weekly at 2021-08-22 08:17:15 UTC+0800
+ Update weekly at 2021-08-29 08:18:53 UTC+0800
 *://www.e-learn.cn/*
 *://www.hotbak.net/*
 *://www.kutu66.com/*
@@ -2982,6 +2982,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.1688.com/*
 *://*.17qq.com/*
 *://*.21food.cn/*
+*://*.2qun.net/*
 *://*.361t.org/*
 *://*.3cwu.com/*
 *://*.4meahc.com/*
@@ -2999,6 +3000,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.bbjkw.net/*
 *://*.bbsah.com/*
 *://*.buffalo-mn.org/*
+*://*.china.cn/*
 *://*.cjavapy.com/*
 *://*.cmen.cc/*
 *://*.cn.com/*
@@ -3010,6 +3012,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.compozi.com/*
 *://*.csolmy.com/*
 *://*.cundang.cc/*
+*://*.cxybb.com/*
 *://*.da-quan.net/*
 *://*.dacongyun.com/*
 *://*.dav01.com/*
@@ -3057,6 +3060,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.kutu66.com/*
 *://*.lai18.com/*
 *://*.liwu.bi/*
+*://*.loudoun-valley.com/*
 *://*.lovfp.com/*
 *://*.megavolt67.ru/*
 *://*.mfwf.cn.com/*
@@ -3183,6 +3187,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://bloomingtonventures.com/*
+*://book.jd.com/publish/Search?*
 *://brd2a.com/*
 *://brrmn.com/*
 *://bug200.com/*
@@ -3216,6 +3221,8 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://download.csdn.net/*
 *://dq.tieba.com/*
 *://dvb56.com/*
+*://easyhaitao.com/*
+*://eatash.com/*
 *://eclyq.co/*
 *://ecshweb.pchome.com.tw/*
 *://edu.51cto.com/*
@@ -3226,11 +3233,13 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://feetwindyoung-5.live/*
 *://feishuang406.com/*
 *://flyzyblog.com/*
+*://flyzyblog.net/*
 *://fonnambar.info/*
 *://freetribe.me/*
 *://fyf.wx-wx.net/*
 *://g36yexigghnzong.icu/*
 *://ggchewl.com/*
+*://githubmemory.com/*
 *://guolianglaoshi.com/*
 *://hairunwatertr.com/*
 *://hantenglaw.com/*
@@ -3249,9 +3258,11 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://item.jd.com/*
 *://itigic.com/*
 *://jinan110.com/*
+*://js.wszjl.com/*
 *://jsrc588.com/*
 *://jump2.bdimg.com/*
 *://jutuilian.com/*
+*://juweibangong.com/*
 *://k.sina.cn/*
 *://kantie.org/*
 *://kao-bo.com/*
@@ -3300,6 +3311,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://m.set.zoektips.com/*
 *://m.sina.com.hk/*
 *://m.suning.com/*
+*://m.tcjd360.com/*
 *://m.wandoujia.com/*
 *://m.weibo.cn/*
 *://m.weimob.com/*
@@ -3331,6 +3343,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://product.3g.pconline.com.cn/*
 *://product.mxpkw.com/*
 *://product.pconline.com.cn/*
+*://product.suning.com/*
 *://product.yesky.com/*
 *://qa.1r1g.com/*
 *://qastack.cn/*
@@ -3363,6 +3376,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://stackoverrun.com/*
 *://stackscn.com/*
 *://tangshijianfei.com/*
+*://tao.hooos.com/*
 *://teachrock.org/*
 *://teddit.ggc-project.de/*
 *://teranews.net/*
@@ -3375,6 +3389,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://ubuntuqa.com/*
 *://ukcarbulbs.com/*
 *://ultimaterctoys.com/*
+*://union-click.jd.com/*
 *://uqseo.com/*
 *://videomediaseochannel.com/*
 *://villahermosahonduras.com/*
@@ -3390,6 +3405,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://wntzx.cn/*
 *://world.taobao.com/*
 *://wpsousuo.cn/*
+*://www.0411ct.com/*
 *://www.0755qxhj.com/*
 *://www.07diy.com/*
 *://www.09vv.cn/*
@@ -3399,6 +3415,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.1984w.com/*
 *://www.1itao.com/*
 *://www.20592.top/*
+*://www.218407.com/*
 *://www.21ic.com/*
 *://www.2265.com/*
 *://www.23cpc.com/*
@@ -3441,6 +3458,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.academicsaviour.com/*
 *://www.admin5.org/*
 *://www.affloc.com/*
+*://www.aicaigoupifa.com/*
 *://www.aiskycn.com/*
 *://www.ajpsp.com/*
 *://www.alexandresoma.com/*
@@ -3530,7 +3548,9 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.dzydieo.site/*
 *://www.e-nikah.com/*
 *://www.easyatm.com.tw/*
+*://www.easyhaitao.com/*
 *://www.eeq8.com/*
+*://www.ejdz.cn/*
 *://www.enjing.com/*
 *://www.essayzhidao.com/*
 *://www.etbot.net/*
@@ -3566,6 +3586,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.heibai.org/*
 *://www.hello.so/*
 *://www.helplib.cn/*
+*://www.hisour.com/*
 *://www.histrend.hk/*
 *://www.hiufriend.com/*
 *://www.hotbak.net/*
@@ -3585,6 +3606,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.ihantian.com/*
 *://www.il-shop.cn/*
 *://www.illitpress.com/*
+*://www.it-swarm.cn/*
 *://www.it-swarm.dev/*
 *://www.iteye.com/*
 *://www.ixigua.com/*
@@ -3628,6 +3650,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.macaodaily.com/*
 *://www.mail-qq.com/*
 *://www.maill.com.cn/*
+*://www.meisuitaotao.com/*
 *://www.miaoshoulu.net/*
 *://www.miliol.org/*
 *://www.mintwl.com/*
@@ -3642,6 +3665,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.mxj.com.cn/*
 *://www.mycvcv.com/*
 *://www.myoschain.com/*
+*://www.mywjzdm.com/*
 *://www.nanrenwy.com/*
 *://www.njqg.net/*
 *://www.njsz99.com/*
@@ -3665,6 +3689,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.ping-jia.net/*
 *://www.pnstudy.com/*
 *://www.price.com.hk/*
+*://www.programmersought.com/*
 *://www.ptkaishan.com/*
 *://www.q578.com/*
 *://www.qcnsw.com/*
@@ -3713,6 +3738,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.suning.com/*
 *://www.sxwshm.com/*
 *://www.szyxmy.com/*
+*://www.taoanf.com/*
 *://www.taobao.com/*
 *://www.taobao.lc/*
 *://www.taoshudang.com/*
@@ -3728,6 +3754,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.tongfengqu.com/*
 *://www.tpyyes.com/*
 *://www.trust1688.com/*
+*://www.tspweb.com/*
 *://www.tuocheng.cc/*
 *://www.twblogs.net/*
 *://www.twoeggz.com/*
@@ -3759,6 +3786,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.xddv.com/*
 *://www.xhsdzjys.com/*
 *://www.xia3.com/*
+*://www.xiandai2012.com/*
 *://www.xiaoheidiannao.com/*
 *://www.xiaozhishi.net/*
 *://www.xiexialai.com/*
@@ -3776,6 +3804,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.xz7.com/*
 *://www.y5.hk/*
 *://www.yiper.org/*
+*://www.yixinit.com/*
 *://www.yiyisoft.com/*
 *://www.yiyult.com/*
 *://www.ylfjs.com/*
@@ -3806,9 +3835,12 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.zybashi.com/*
 *://www.zzchenhui.com/*
 *://x4x2.com/*
+*://xsyfs.com/*
+*://xunii.com/*
 *://yageshu.com/*
 *://yq.aliyun.com/*
 *://yuming.qxbbs.org/*
+*://z.baidu.com/*
 *://zbaen.com/*
 *://zh.wizcase.com/*
 *://zhidao.baidu.com/*
@@ -74702,7 +74734,8 @@ zzzzbj.com
 *://*.bleepcoder.com/*
 *://codehero.jp/*
 *://base64.work/so/*
-
+*://*.awesomeopensource.com/*
+*://*.it-mure.jp.net/*
 *://*.abbyychina.com/*
 *://*.bartender.cc/*
 *://*.betterzipcn.com/*
