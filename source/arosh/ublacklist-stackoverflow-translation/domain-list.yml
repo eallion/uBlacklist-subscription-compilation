@@ -1,0 +1,363 @@
+- domain: 'code-examples.net'
+  evidence: https://code-examples.net/ja/q/246c591
+  original: https://stackoverflow.com/questions/38192529/
+  note:
+- domain: 'kotaeta.com'
+  evidence: https://kotaeta.com/53238761
+  original: https://arduino.stackexchange.com/questions/21605/
+  note:
+- domain: 'code.i-harness.com'
+  evidence: https://code.i-harness.com/ja-jp/q/1cc697
+  original: https://stackoverflow.com/questions/1885847/
+  note:
+- domain: 'living-sun.com'
+  evidence: https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html
+  original: https://stackoverflow.com/questions/1599464/
+  note:
+- domain: 'tutorialmore.com'
+  evidence: https://tutorialmore.com/questions-838617.htm
+  original: https://superuser.com/questions/1183564/
+  note:
+- domain: 'qastack.jp'
+  evidence: https://qastack.jp/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.ru'
+  evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
+  original: https://stackoverflow.com/q/13150343
+  note:
+- domain: 'qastack.it'
+  evidence: https://qastack.it/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.mx'
+  evidence: https://qastack.mx/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.com.br'
+  evidence: https://qastack.com.br/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.info.tr'
+  evidence: https://qastack.info.tr/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.in.th'
+  evidence: https://qastack.in.th/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.com.de'
+  evidence: https://qastack.com.de/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.fr'
+  evidence: https://qastack.fr/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.cn'
+  evidence: https://qastack.cn/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.com.ua'
+  evidence: https://qastack.com.ua/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.co.in'
+  evidence: https://qastack.co.in/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.kr'
+  evidence: https://qastack.kr/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.vn'
+  evidence: https://qastack.vn/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.net.bd'
+  evidence: https://qastack.net.bd/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qa-stack.pl'
+  evidence: https://qa-stack.pl/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'qastack.id'
+  evidence: https://qastack.id/programming/11227809/
+  original: https://stackoverflow.com/questions/11227809/
+  note:
+- domain: 'www.coder.work'
+  evidence: https://www.coder.work/article/3794436
+  original: https://stackoverflow.com/questions/13375357/
+  note:
+- domain: 'www.it-swarm-ja.tech'
+  evidence: https://www.it-swarm-ja.tech/ja/linux/944475555/
+  original: https://superuser.com/questions/1347723/
+  note: redirects to `www.it-mure.jp.net`
+- domain: 'www.it-swarm.jp.net'
+  evidence: https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/
+  original: https://stackoverflow.com/q/14543896
+  note: redirects to `www.it-mure.jp.net`
+- domain: 'www.it-mure.jp.net'
+  evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
+  original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
+  note:
+- domain: 'www.it-swarm-ja.com'
+  evidence: https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/
+  original: https://stackoverflow.com/q/46955147
+  note:
+- domain: 'www.it-swarm.com.ru'
+  evidence: https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
+  original: https://stackoverflow.com/q/3367415
+  note:
+- domain: '*.codeflow.site'
+  evidence: https://qa.codeflow.site/
+  original:
+  note: This domain is used for redirection to `codeguides.site`
+- domain: 'codeguides.site'
+  evidence: https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery
+  original: https://stackoverflow.com/q/950037
+  note:
+- domain: 'overcoder.net'
+  evidence: https://overcoder.net/q/4014591/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D1%85-%D0%BF%D1%80%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE
+  original: https://stackoverflow.com/questions/11500794/
+  note:
+- domain: 'coderoad.ru'
+  evidence: https://coderoad.ru/927358/%D0%9A%D0%B0%D0%BA-%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C-%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B-%D0%B2-Git
+  original: https://stackoverflow.com/questions/927358/
+  note:
+- domain: 'www.generacodice.blog'
+  evidence: https://www.generacodice.blog/jp/articolo/52938/
+  original: https://stackoverflow.com/questions/814167/
+  note: This site is used for redirection to `www.generacodice.com`
+- domain: 'www.generacodice.it'
+  evidence: https://www.generacodice.it/jp/articolo/126815/
+  original: https://stackoverflow.com/questions/199468/
+  note: This site is used for redirection to `www.generacodice.com`
+- domain: 'www.generacodice.com'
+  evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
+  original: https://stackoverflow.com/questions/1439719
+  note:
+- domain: 'www.javaer101.com'
+  evidence: https://www.javaer101.com/ja/article/2084594.html
+  original: https://stackoverflow.com/questions/35394937/
+  note:
+- domain: '*.voidcc.com'
+  evidence: http://ja.voidcc.com/question/p-glmhmyzr-pk.html
+  original: https://stackoverflow.com/questions/48042872/
+  note:
+- domain: 'alwaysemmyhope.com'
+  evidence: https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html
+  original: https://stackoverflow.com/q/7647818
+  note:
+- domain: '*.siwib.org'
+  evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
+  original: https://stackoverflow.com/q/50951955
+  note:
+- domain: '*.fluffyfables.com'
+  evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
+  original: https://stackoverflow.com/q/50951955
+  note:
+- domain: 'www.fixes.pub'
+  evidence: https://www.fixes.pub/program/38000.html
+  original: https://stackoverflow.com/q/49289575
+  note:
+- domain: 'knews.vip'
+  evidence: https://knews.vip/postcrawl/stack/view?site=so&key=76312086
+  original: https://stackoverflow.com/q/63314288
+  note:
+- domain: 'isolution.pro'
+  evidence: https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru
+  original: https://android.stackexchange.com/q/232739
+  note:
+- domain: '*.uwenku.com'
+  evidence: http://ja.uwenku.com/question/p-oafoukjq-gq.html
+  original: https://stackoverflow.com/questions/48045748
+  note:
+- domain: 'lycaeum.dev'
+  evidence: https://lycaeum.dev/ja/questions/29482
+  original: https://stackoverflow.com/questions/29482
+  note:
+- domain: 'brocante.dev'
+  evidence: https://brocante.dev/ja/questions/5223
+  original: https://stackoverflow.com/questions/5223
+  note:
+- domain: 'classmethod.dev'
+  evidence: https://classmethod.dev/ja/questions/1414365
+  original: https://stackoverflow.com/questions/1414365
+  note: This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.)
+- domain: 'stormcrow.dev'
+  evidence: https://stormcrow.dev/ja/questions/1030169
+  original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
+  note:
+- domain: '*.athabasca-foto.com'
+  evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
+  original: https://stackoverflow.com/questions/604424
+  note:
+- domain: '*.zsharp.org'
+  evidence: https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT
+  original: https://stackoverflow.com/questions/3143698
+  note:
+- domain: '*.projectbackpack.org'
+  evidence: https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ
+  original: https://stackoverflow.com/questions/1414365
+  note:
+- domain: '*.waymanamechurch.org'
+  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
+  original: https://stackoverflow.com/questions/784929
+  note:
+- domain: '*.sunflowercreations.org'
+  evidence: https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF
+  original: https://stackoverflow.com/questions/3204380
+  note:
+- domain: '*.cfadnc.org'
+  evidence: https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX
+  original: https://stackoverflow.com/questions/36688321
+  note:
+- domain: '*.fitforlearning.org'
+  evidence: https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI
+  original: https://stackoverflow.com/questions/36574351
+  note:
+- domain: '*.panaindustrial.com'
+  evidence: https://ja.panaindustrial.com/401278-how-to-change-the-default-RQJPUK
+  original: https://stackoverflow.com/questions/11756442
+  note:
+- domain: '*.sierrasummit2005.org'
+  evidence: https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB
+  original: https://stackoverflow.com/questions/11756442
+  note:
+- domain: '*.theshuggahpies.com'
+  evidence: https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ
+  original: https://stackoverflow.com/questions/784929
+  note:
+- domain: '*.pcbconline.org'
+  evidence: https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT
+  original: https://stackoverflow.com/questions/17341670
+  note:
+- domain: 'www.nuomiphp.com'
+  evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
+  original: https://stackoverflow.com/questions/60451458
+  note:
+- domain: 'ubuntu.buildwebhost.com'
+  evidence: https://ubuntu.buildwebhost.com/ja/q/214411
+  original: https://askubuntu.com/questions/940701
+  note:
+- domain: 'www.debugcn.com'
+  evidence: https://www.debugcn.com/ja/article/106110221.html
+  original: https://stackoverflow.com/questions/14452824
+  note:
+- domain: '*.sch22.org'
+  evidence: https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL
+  original: https://stackoverflow.com/questions/14452824/
+  note:
+- domain: '*.gupgallery.com'
+  evidence: https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL
+  original: https://stackoverflow.com/questions/14452824/
+  note:
+- domain: '*.amuddycup.com'
+  evidence: https://ja.amuddycup.com/162943-command-executed-via-ssh-does-JKQSGP-article
+  original: https://superuser.com/q/652729
+  note:
+- domain: '*.ecnf2016.org'
+  evidence: https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article
+  original: https://askubuntu.com/questions/940701
+  note:
+- domain: '*.softwareuser.asklobster.com'
+  evidence: https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/
+  original: https://superuser.com/questions/97342/
+  note:
+- domain: '*.domainelespailles.net'
+  evidence: https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article
+  original: https://superuser.com/questions/97342/
+  note:
+- domain: '*.ec-europe.org'
+  evidence: https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD
+  original: https://stackoverflow.com/questions/48291366
+  note:
+- domain: '*.pakostnici.com'
+  evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
+  original: https://stackoverflow.com/questions/48291366
+  note:
+- domain: 'try2explore.com'
+  evidence: https://try2explore.com/questions/jp/10003161
+  original: https://stackoverflow.com/questions/806000/
+  note:
+- domain: 'laravelquestions.com'
+  evidence: https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/
+  original: https://stackoverflow.com/questions/66850521/
+  node:
+- domain: 'itectec.com'
+  evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
+  original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
+  note:
+- domain: 'stackovergo.com'
+  evidence: https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance
+  original: https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance
+  note:
+- domain: '*.faithcov.org'
+  evidence: https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY
+  original: https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream
+  note:
+- domain: '*.noblenaz.org'
+  evidence: https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article
+  original: https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm
+  note:
+- domain: 'www.py4u.net'
+  evidence: https://www.py4u.net/discuss/777925
+  original: https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta
+  note:
+- domain: '*.culinarydegree.info'
+  evidence: https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR
+  original: https://stackoverflow.com/q/13054371
+  note:
+- domain: '*.safehavenpetrescue.org'
+  evidence: https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP
+  original: https://stackoverflow.com/q/63978924
+  note:
+- domain: 'www.kejisen.com'
+  evidence: https://www.kejisen.com/ja/article/191198197.html
+  original: https://stackoverflow.com/questions/64633223
+  note:
+- domain: 'qapicks.com'
+  evidence: https://qapicks.com/question/1668131-87a39319fa31
+  original: https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu
+  note:
+- domain: 'issues-world.com'
+  evidence: https://issues-world.com/ftypesoverloadingargumentsimplic/
+  original: https://stackoverflow.com/q/8828279
+  note:
+- domain: '*.narkive.jp'
+  evidence: https://security.narkive.jp/oBrsVjXh
+  original: https://security.stackexchange.com/questions/373/open-source-penetration-test-automation
+  note:
+- domain: '*.ourladylakes.org'
+  evidence: https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP
+  original: https://stackoverflow.com/questions/2193412/xslt-not-contains-check
+  note:
+- domain: intellipaat.com
+  evidence: https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random
+  original: https://stackoverflow.com/questions/30030659/
+  note:
+- domain: article.docway.net
+  evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
+  original: https://stackoverflow.com/q/7106679
+  note:
+- domain: 'codehero.jp'
+  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
+  original: https://stackoverflow.com/questions/29482
+  note:
+- domain: 'quabr.com'
+  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
+  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
+- domain: '*.stackovernet.xyz'
+  evidence: https://scicomp.stackovernet.xyz/ja/q/38
+  original: https://scicomp.stackexchange.com/questions/83/
+  note: It appears to have been closed, but it still shows up in Google searches.
+- domain: 'konnichiwasekai.com'
+  evidence: https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C
+  original: https://stackoverflow.com/q/64258999
+  note: It appears to have been closed, but it still shows up in Google searches.
+- domain: 'www.voidjp.com'
+  evidence: https://www.voidjp.com/29482/
+  original: https://stackoverflow.com/questions/29482
+  note: It appears to have been closed, but it still shows up in Google searches.
