@@ -10,3 +10,4 @@ git submodule add https://github.com/nonPointer/uBlacklist-Subscription.git sour
 git submodule add https://github.com/scyrte/uBlacklist-Subscription.git source/scyrte
 git submodule add https://github.com/xNathan/uBlacklist-subscription.git source/xNathan
 git submodule add https://github.com/yangjingchuang/ublacklist-subscription.git source/yangjingchuang
+git submodule add https://github.com/arosh/ublacklist-stackoverflow-translation source/arosh
