@@ -1,5 +1,4 @@
-
- Update weekly at 2021-09-14 08:03:27 UTC+0800
+ Update weekly at 2021-09-19 08:19:15 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -2759,7 +2758,7 @@
 *://www.jznk99.com/*
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*00000258.com
+*://www.kafan.cn/**://code-examples.net/*
 *://www.kaiser-garden.com/*
 *://www.kakatongmeng.net/*
 *://www.kalonggou520.com/*
@@ -3102,6 +3101,7 @@
 *://www.wcwol.com/*
 *://www.wdzj.com/*
 *://www.weareassets.com/*
+*://www.webdevqa.jp.net/*
 *://www.webplus.org.cn/*
 *://www.wedoawards.com/*
 *://www.weiboroom.com/*
@@ -3279,7 +3279,7 @@
 *://zidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
-*://zrsd.schorfheidecarport.de/**://code-examples.net/*
+*://zrsd.schorfheidecarport.de/*
 *://zs12.hbs163.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
@@ -3290,6 +3290,7 @@
 /^https?\:\/\/.*?\/list\?q=[a-zA-Z%0-9]*$/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+00000258.com
 0001113.com
 0001403.cn
 000222msc.com
