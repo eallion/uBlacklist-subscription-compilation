@@ -1,4 +1,4 @@
- Update weekly at 2021-09-19 08:19:15 UTC+0800
+ Update weekly at 2021-09-26 08:20:06 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -1989,6 +1989,7 @@
 *://m.eoudu.com/*
 *://m.feimiao.cn/*
 *://m.fengli.com/*
+*://m.fofama.com/*
 *://m.fy35.com/*
 *://m.gdgbn.com/*
 *://m.gdyadu.com/*
@@ -2043,6 +2044,7 @@
 *://m.zhuangku.com/*
 *://machbbs.com/*
 *://macklinddays.com/*
+*://maguai.com/*
 *://make.mk/*
 *://maokun.blog.csdn.net/*
 *://mayphatmaynen.com/*
@@ -2074,6 +2076,7 @@
 *://news.tom.com/*
 *://news.znds.com/*
 *://nextpublic.de/*
+*://ni.cafegatto.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
 *://oeofo.com/*
@@ -2130,6 +2133,7 @@
 *://quabr.com/*
 *://quitko.com/*
 *://qwtcpt.com/*
+*://qzczd.com/*
 *://qzjlnm.com/*
 *://rcuk.bsc.by/*
 *://read01.com/*
@@ -2195,6 +2199,7 @@
 *://thevpn.shop/*
 *://thewikihow.com/*
 *://tic.ocls.info/*
+*://tjshuju.com/*
 *://top.chinaz.com/*
 *://tortortor.pw/*
 *://tp50.com/*
@@ -2280,6 +2285,7 @@
 *://www.23cpc.com/*
 *://www.24withyoo.com/*
 *://www.2616.com.cn/*
+*://www.268583.com/*
 *://www.26gou.net/*
 *://www.295a.com/*
 *://www.3062.net.cn/*
@@ -2436,6 +2442,7 @@
 *://www.buythebestbuy.com/*
 *://www.bvalve.es/*
 *://www.bypidenver.com/*
+*://www.byswq.com/*
 *://www.bzljjf.com/*
 *://www.bzxfgj.com/*
 *://www.c2231.com/*
@@ -2814,6 +2821,7 @@
 *://www.maill.com.cn/*
 *://www.maishuini.com/*
 *://www.makland42.com/*
+*://www.malonda.buzz/*
 *://www.mamaza.com/*
 *://www.manew.com/*
 *://www.mathieubolard.com/*
@@ -3078,6 +3086,7 @@
 *://www.usaqi.com/*
 *://www.uucan.cn/*
 *://www.uwenku.com/*
+*://www.uwin100.com/*
 *://www.uxys.com/*
 *://www.vadlavan.com/*
 *://www.vavab.net/*
@@ -3281,6 +3290,7 @@
 *://zlvj.signalhund.de/*
 *://zrsd.schorfheidecarport.de/*
 *://zs12.hbs163.com/*
+*://zzyyo.com/*
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
 /(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/

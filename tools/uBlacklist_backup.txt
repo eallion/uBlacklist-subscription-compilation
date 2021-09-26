@@ -499,7 +499,7 @@
 *://sweetcelebrationpa.com/*
 *://i88ko.com/*
 *://www.huangyao1688.com/*
- Update weekly at 2021-09-19 08:19:15 UTC+0800
+ Update weekly at 2021-09-26 08:20:06 UTC+0800
 *://blog.csdn.net/*
 *://cn.voidcc.com/*
 *://codeday.me/*
@@ -1076,6 +1076,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://m.daihema.com/*
 *://m.eoudu.com/*
 *://m.fengli.com/*
+*://m.fofama.com/*
 *://m.fy35.com/*
 *://m.hljysbk.com/*
 *://m.iask.sina.com.cn/*
@@ -1168,6 +1169,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://teratas-movietv.over-blog.com/*
 *://thevpn.shop/*
 *://thewikihow.com/*
+*://tjshuju.com/*
 *://top.chinaz.com/*
 *://tp50.com/*
 *://tw.phonecardsoftware.com/*
@@ -74953,6 +74955,7 @@ zzzzbj.com
 *://m.yisu.com/*
 *://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
+*://maguai.com/*
 *://mayphatmaynen.com/*
 *://meifa.izhufu.net/*
 *://mjzj.com/*
@@ -74962,6 +74965,7 @@ zzzzbj.com
 *://natura-karite.com/*
 *://nbri.stephan-messling.de/*
 *://neutrikmall.com/*
+*://ni.cafegatto.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
 *://okoo.5watches.de/*
@@ -74978,6 +74982,7 @@ zzzzbj.com
 *://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
 *://qooqo.ru/*
+*://qzczd.com/*
 *://qzjlnm.com/*
 *://rohv.madame-creations.fr/*
 *://sabp.natural-born-schrubber.de/*
@@ -75023,6 +75028,7 @@ zzzzbj.com
 *://www.1888generator.com/*
 *://www.23cpc.com/*
 *://www.2616.com.cn/*
+*://www.268583.com/*
 *://www.329329.com/*
 *://www.3333xbxb.com/*
 *://www.365jz.com/*
@@ -75064,6 +75070,7 @@ zzzzbj.com
 *://www.bunian.cn/*
 *://www.buscodepto.com/*
 *://www.buythebestbuy.com/*
+*://www.byswq.com/*
 *://www.bzxfgj.com/*
 *://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
@@ -75093,6 +75100,7 @@ zzzzbj.com
 *://www.drjordanmall.com/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
+*://www.eeq8.com/*
 *://www.eternalcq.com/*
 *://www.fdzbfjc.com/*
 *://www.fengshouniao.cn/*
@@ -75133,6 +75141,7 @@ zzzzbj.com
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
 *://www.maishuini.com/*
+*://www.malonda.buzz/*
 *://www.mamaza.com/*
 *://www.manew.com/*
 *://www.mdeditor.tw/*
@@ -75178,6 +75187,7 @@ zzzzbj.com
 *://www.uoften.com/*
 *://www.urpimp.com/*
 *://www.uucan.cn/*
+*://www.uwin100.com/*
 *://www.voidcn.com/*
 *://www.vpsmm.com/*
 *://www.vrzxwz.com/*
@@ -75228,3 +75238,4 @@ zzzzbj.com
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
 *://zrsd.schorfheidecarport.de/*
+*://zzyyo.com/*
