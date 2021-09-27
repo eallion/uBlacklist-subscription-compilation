@@ -499,7 +499,7 @@
 *://sweetcelebrationpa.com/*
 *://i88ko.com/*
 *://www.huangyao1688.com/*
- Update weekly at 2021-09-26 08:20:06 UTC+0800
+ Update weekly at 2021-09-27 23:36:06 UTC+0800
 *://blog.csdn.net/*
 *://cn.voidcc.com/*
 *://codeday.me/*
@@ -647,6 +647,7 @@
 *://codehero.jp/*
 *://quabr.com/*
 *://www.webdevqa.jp.net/*
+*://qapicks.com/*
 *://*.stackovernet.xyz/*
 *://konnichiwasekai.com/*
 *://www.voidjp.com/*
