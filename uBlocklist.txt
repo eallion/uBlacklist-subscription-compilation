@@ -1,4 +1,4 @@
- Update weekly at 2021-09-27 23:36:06 UTC+0800
+ Update weekly at 2021-10-03 08:20:26 UTC+0800
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.005i.com/*
@@ -1651,6 +1651,7 @@
 *://0691888.net/*
 *://0w9.harpnetworkinc.com/*
 *://0xzx.com/*
+*://118.193.38.103/*
 *://123ggy.com/*
 *://170068.com/*
 *://1cm8858.com/*
@@ -1658,6 +1659,7 @@
 *://20779.dazfqw.tw/*
 *://20779.sgjscr.tw/*
 *://20779.xkdifz.tw/*
+*://23086096.carucc.com/*
 *://252yy.net/*
 *://26ch.com/*
 *://360nas.com/*
@@ -1893,6 +1895,7 @@
 *://hz-heng-li.com/*
 *://hzhcontrols.com/*
 *://hzhjjx.com/*
+*://hziho.com/*
 *://hzsnby.com/*
 *://hzzmqx.com/*
 *://i88ko.com/*
@@ -1994,6 +1997,7 @@
 *://m.gdgbn.com/*
 *://m.gdyadu.com/*
 *://m.glass321.com/*
+*://m.hanlefang.net/*
 *://m.hljysbk.com/*
 *://m.iask.sina.com.cn/*
 *://m.imooc.com/*
@@ -2205,6 +2209,7 @@
 *://tp50.com/*
 *://truelovenet.com/*
 *://try2explore.com/*
+*://ttaaj.com/*
 *://tushuo.jk51.com/*
 *://tutorialmore.com/*
 *://tw.phonecardsoftware.com/*
@@ -2402,6 +2407,7 @@
 *://www.baidu.com/*
 *://www.baidu.com/sf/*
 *://www.bairun0769.com/*
+*://www.ballhaus.buzz/*
 *://www.barbers-auctions.co.uk/*
 *://www.baydue.com/*
 *://www.bbba5.com/*
@@ -2521,6 +2527,7 @@
 *://www.cxhm.net/*
 *://www.cxyzjd.com/*
 *://www.cylsolar.com/*
+*://www.czag88.com/*
 *://www.czfaw.com/*
 *://www.da-quan.net/*
 *://www.dabbsports.com/*
@@ -2683,6 +2690,7 @@
 *://www.hq396.com/*
 *://www.hqhmc.com/*
 *://www.hsjl5821808.com/*
+*://www.hsksuo.com/*
 *://www.hszw.org/*
 *://www.htczmy.com/*
 *://www.htliqingguan.com/*
@@ -2755,6 +2763,7 @@
 *://www.jnjuzhen.com/*
 *://www.jnmeisige.com/*
 *://www.jrnongye.com/*
+*://www.jsnongnong.com/*
 *://www.jsxbbyq.com/*
 *://www.jtche.com/*
 *://www.jun365.net/*
@@ -3084,6 +3093,7 @@
 *://www.urpimp.com/*
 *://www.usanabc.com/*
 *://www.usaqi.com/*
+*://www.utppzuj.buzz/*
 *://www.uucan.cn/*
 *://www.uwenku.com/*
 *://www.uwin100.com/*
@@ -3220,6 +3230,7 @@
 *://www.zhangshengrong.com/*
 *://www.zhanjuzhizao.com/*
 *://www.zhanyiyk.com/*
+*://www.zhcw77.com/*
 *://www.zhengfeng843.com/*
 *://www.zhengrongshuo.com/*
 *://www.zhengyuan818.cn/*
@@ -3245,7 +3256,6 @@
 *://www.zybashi.com/*
 *://www.zzchangsheng.com/*
 *://www.zzchenhui.com/*
-*://www112200.com/*
 *://wwwc809.com/*
 *://x4x2.com/*
 *://xckd.hamsterkiste-deutsch.de/*
@@ -3262,6 +3272,7 @@
 *://yangmao.info/*
 *://yaoba.tv/*
 *://yff.hbs163.com/*
+*://yiemu.com/*
 *://yilj.programmierbare-materie.de/*
 *://yimatx.com/*
 *://yp.jd.com/*

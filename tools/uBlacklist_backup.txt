@@ -499,7 +499,7 @@
 *://sweetcelebrationpa.com/*
 *://i88ko.com/*
 *://www.huangyao1688.com/*
- Update weekly at 2021-09-27 23:36:06 UTC+0800
+ Update weekly at 2021-10-03 08:20:26 UTC+0800
 *://blog.csdn.net/*
 *://cn.voidcc.com/*
 *://codeday.me/*
@@ -74858,6 +74858,8 @@ zzzxxw.com
 zzzz0013.com
 zzzzbj.com
 *://0317car.cn/*
+*://118.193.38.103/*
+*://23086096.carucc.com/*
 *://52movs.com/*
 *://66.wendadaohang.com/*
 *://adsc.krank-durch-mobilfunk.de/*
@@ -74907,6 +74909,7 @@ zzzzbj.com
 *://hosf.flusskreuzfahrten-elbe.de/*
 *://hoteles.bluevalencia.com/*
 *://hzhjjx.com/*
+*://hziho.com/*
 *://iamlishuo.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://iter01.com/*
@@ -74940,6 +74943,7 @@ zzzzbj.com
 *://m.gdgbn.com/*
 *://m.gdyadu.com/*
 *://m.glass321.com/*
+*://m.hanlefang.net/*
 *://m.isdngo.xyz/*
 *://m.jb51.net/*
 *://m.mk369.com/*
@@ -75000,6 +75004,7 @@ zzzzbj.com
 *://tfud.ffw-ellzee.de/*
 *://tortortor.pw/*
 *://truelovenet.com/*
+*://ttaaj.com/*
 *://tushuo.jk51.com/*
 *://twww.wahmbeckerheide.de/*
 *://unhn.le-marquisat.fr/*
@@ -75063,6 +75068,7 @@ zzzzbj.com
 *://www.azsalon527.com/*
 *://www.babyitellyou.com/*
 *://www.baidu.com/*
+*://www.ballhaus.buzz/*
 *://www.bdqxgw.com/*
 *://www.bhscy.com/*
 *://www.bjcsjsc.com/*
@@ -75089,6 +75095,7 @@ zzzzbj.com
 *://www.cqchildren.com/*
 *://www.cxhm.net/*
 *://www.cxyzjd.com/*
+*://www.czag88.com/*
 *://www.da-quan.net/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
@@ -75123,6 +75130,7 @@ zzzzbj.com
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
+*://www.hsksuo.com/*
 *://www.hyhome.com.cn/*
 *://www.ispsd2015.com/*
 *://www.itjie.com/*
@@ -75134,6 +75142,7 @@ zzzzbj.com
 *://www.jd.com/*
 *://www.jeepxie.net/*
 *://www.jishuwen.com/*
+*://www.jsnongnong.com/*
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kfwrlc.com/*
@@ -75187,6 +75196,7 @@ zzzzbj.com
 *://www.tty-1.net/*
 *://www.uoften.com/*
 *://www.urpimp.com/*
+*://www.utppzuj.buzz/*
 *://www.uucan.cn/*
 *://www.uwin100.com/*
 *://www.voidcn.com/*
@@ -75219,10 +75229,10 @@ zzzzbj.com
 *://www.yyyyv.cn/*
 *://www.zdexe.com/*
 *://www.zhangshengrong.com/*
+*://www.zhcw77.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
 *://www.zui88.com/*
-*://www112200.com/*
 *://wwwc809.com/*
 *://xckd.hamsterkiste-deutsch.de/*
 *://xqdj.hahnbacher-fotos.de/*
@@ -75231,6 +75241,7 @@ zzzzbj.com
 *://xunii.com/*
 *://yangmao.info/*
 *://yff.hbs163.com/*
+*://yiemu.com/*
 *://yilj.programmierbare-materie.de/*
 *://yp.jd.com/*
 *://yrhtech.com/*
