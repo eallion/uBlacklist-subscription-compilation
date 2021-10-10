@@ -39,16 +39,16 @@ jobs:
       run: |
         rm -rf source
         mkdir source
-        git clone --depth 1 https://github.com/YeSilin/uBlacklist.git source/YeSilin/uBlacklist    
-        git clone --depth 1 https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git source/cobaltdisco/Google-Chinese-Results-Blocklist    
-        git clone --depth 1 https://github.com/gyli/Blocklist.git source/gyli/Blocklist    
-        git clone --depth 1 https://github.com/h-matsuo/uBlacklist-subscription-for-developer.git source/h-matsuo/uBlacklist-subscription-for-developer    
-        git clone --depth 1 https://github.com/littleserendipity/uBlacklist-Subscription.git source/littleserendipity/uBlacklist-Subscription    
-        git clone --depth 1 https://github.com/liubiantao/uBlacklist-Websites.git source/liubiantao/uBlacklist-Websites    
-        git clone --depth 1 https://github.com/nonPointer/uBlacklist-Subscription.git source/nonPointer/uBlacklist-Subscription    
-        git clone --depth 1 https://github.com/scyrte/uBlacklist-Subscription.git source/scyrte/uBlacklist-Subscription    
-        git clone --depth 1 https://github.com/xNathan/uBlacklist-subscription.git source/xNathan/uBlacklist-subscription    
-        git clone --depth 1 https://github.com/arosh/ublacklist-stackoverflow-translation.git source/arosh/ublacklist-stackoverflow-translation 
+        git clone --depth 1 https://github.com/YeSilin/uBlacklist.git source/YeSilin/uBlacklist
+        git clone --depth 1 https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git source/cobaltdisco/Google-Chinese-Results-Blocklist
+        git clone --depth 1 https://github.com/gyli/Blocklist.git source/gyli/Blocklist
+        git clone --depth 1 https://github.com/h-matsuo/uBlacklist-subscription-for-developer.git source/h-matsuo/uBlacklist-subscription-for-developer
+        git clone --depth 1 https://github.com/littleserendipity/uBlacklist-Subscription.git source/littleserendipity/uBlacklist-Subscription
+        git clone --depth 1 https://github.com/liubiantao/uBlacklist-Websites.git source/liubiantao/uBlacklist-Websites
+        git clone --depth 1 https://github.com/nonPointer/uBlacklist-Subscription.git source/nonPointer/uBlacklist-Subscription
+        git clone --depth 1 https://github.com/scyrte/uBlacklist-Subscription.git source/scyrte/uBlacklist-Subscription
+        git clone --depth 1 https://github.com/xNathan/uBlacklist-subscription.git source/xNathan/uBlacklist-subscription
+        git clone --depth 1 https://github.com/arosh/ublacklist-stackoverflow-translation.git source/arosh/ublacklist-stackoverflow-translation
         # git clone --depth 1 https://github.com/yangjingchuang/ublacklist-subscription.git source/yangjingchuang/ublacklist-subscription
 
     - name: Merge txt
