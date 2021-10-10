@@ -1,30 +1,37 @@
-[submodule "source/YeSilin"]
-	path = source/YeSilin
+[submodule "source/YeSilin/uBlacklist"]
+	path = source/YeSilin/uBlacklist
 	url = https://github.com/YeSilin/uBlacklist.git
-[submodule "source/cobaltdisco"]
-	path = source/cobaltdisco
+[submodule "source/cobaltdisco/Google-Chinese-Results-Blocklist"]
+	path = source/cobaltdisco/Google-Chinese-Results-Blocklist
 	url = https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git
-[submodule "source/h-matsuo"]
-	path = source/h-matsuo
-	url = https://github.com/h-matsuo/uBlacklist-subscription-for-developer
-[submodule "source/littleserendipity"]
-	path = source/littleserendipity
+[submodule "source/gyli/Blocklist"]
+	path = source/gyli/Blocklist
+	url = https://github.com/gyli/Blocklist.git
+[submodule "source/h-matsuo/uBlacklist-subscription-for-developer"]
+	path = source/h-matsuo/uBlacklist-subscription-for-developer
+	url = https://github.com/h-matsuo/uBlacklist-subscription-for-developer.git
+[submodule "source/littleserendipity/uBlacklist-Subscription"]
+	path = source/littleserendipity/uBlacklist-Subscription
 	url = https://github.com/littleserendipity/uBlacklist-Subscription.git
-[submodule "source/liubiantao"]
-	path = source/liubiantao
+[submodule "source/liubiantao/uBlacklist-Websites"]
+	path = source/liubiantao/uBlacklist-Websites
 	url = https://github.com/liubiantao/uBlacklist-Websites.git
-[submodule "source/nonPointer"]
-	path = source/nonPointer
+[submodule "source/nonPointer/uBlacklist-Subscription"]
+	path = source/nonPointer/uBlacklist-Subscription
 	url = https://github.com/nonPointer/uBlacklist-Subscription.git
-[submodule "source/scyrte"]
-	path = source/scyrte
+[submodule "source/scyrte/uBlacklist-Subscription"]
+	path = source/scyrte/uBlacklist-Subscription
 	url = https://github.com/scyrte/uBlacklist-Subscription.git
-[submodule "source/xNathan"]
-	path = source/xNathan
+[submodule "source/xNathan/uBlacklist-subscription"]
+	path = source/xNathan/uBlacklist-subscription
 	url = https://github.com/xNathan/uBlacklist-subscription.git
-[submodule "source/arosh"]
-	path = source/xNathan
+[submodule "source/arosh/ublacklist-stackoverflow-translation"]
+	path = source/arosh/ublacklist-stackoverflow-translation
 	url = https://github.com/arosh/ublacklist-stackoverflow-translation.git
-#[submodule "source/yangjingchuang"]
-#	path = source/yangjingchuang
-#	url = https://github.com/yangjingchuang/ublacklist-subscription.git
+[submodule "source/DivineEngine/uBlacklist"]
+	path = source/DivineEngine/uBlacklist
+	url = https://github.com/DivineEngine/uBlacklist.git
+
+[submodule "source/dallaslu/penzai-list"]
+	path = source/dallaslu/penzai-list
+	url = https://github.com/dallaslu/penzai-list.git
