@@ -498,3 +498,5 @@
 *://sweetcelebrationpa.com/*
 *://i88ko.com/*
 *://www.huangyao1688.com/*
+title/小.(百科 | 知识) 网/
+title/.* - 小.(百科 | 知识) 网/
