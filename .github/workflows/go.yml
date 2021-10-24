@@ -67,7 +67,7 @@ jobs:
         cd tools
         mv uBlacklist uBlacklist.txt
         go run main.go
-        cat -s uBlacklist | sed '/^[[:space:]]*$/d'
+        cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
         cd ..
         cp uBlacklist.txt uBlocklist.txt -f
