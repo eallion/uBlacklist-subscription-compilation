@@ -12,7 +12,7 @@
 
 # 功能
 
-通过匹配域名的方式，屏蔽搜索引擎的搜索结果。主要是屏蔽中文SEO垃圾站。  
+通过匹配域名的方式，屏蔽搜索引擎的搜索结果。主要是屏蔽中文 SEO 垃圾站。  
 
 支持的搜索引擎：（由 uBlacklist 插件决定）
 - [Google](https://www.google.com/ncr?gws_rd=ssl)
@@ -27,17 +27,18 @@
 - Chrome： <https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
 - Firefox： <https://addons.mozilla.org/en-US/firefox/addon/ublacklist/>
 - Edge：<https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
+- Safari (macOS / iOS)：<https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640>
 
 ### 二、设置插件
 
 #### 设置 - 订阅：
 
-> 订阅黑名单列表:
+> 订阅黑名单列表：
 
 添加订阅：  
-选择一个列表添加到 Subscription 订阅中：（如下图所示）  
+选择一个列表添加到 Subscription 订阅中：（如下图所示）
 
-- GitHub 列表 （大陆部分地区可能被墙或者速度慢）
+- GitHub 列表（大陆部分地区可能被墙或者速度慢）
 
 `https://git.io/ublacklist`  
 `https://git.io/ublocklist` # For BLM
@@ -47,7 +48,7 @@
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
-上面4个列表的内容一模一样，任意选择一个即可。
+上面 4 个列表的内容一模一样，任意选择一个即可。
 
 **能稳定访问 GitHub 的用户推荐使用：**  
 ```
