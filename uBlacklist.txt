@@ -1,5 +1,5 @@
 
- Update weekly at 2021-10-24 12:50:45 UTC+0800
+ Update weekly at 2021-10-31 08:20:19 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -8863,9 +8863,11 @@
 *://4000840088.com/*
 *://45.207.61.193/*
 *://47.242.32.226/*
+*://500yi.com/*
 *://51read365.com/*
 *://52movs.com/*
 *://66.wendadaohang.com/*
+*://67dwest.com/*
 *://6painted8.com/*
 *://7xhy.com/*
 *://7yil.com/*
@@ -9003,7 +9005,9 @@
 *://concienciaplena.es/*
 *://contact-who-called.com/*
 *://copyfuture.com/*
+*://cproda.com/*
 *://cqaodesai.com/*
+*://crzmjf.com/*
 *://csm-osumi.org/*
 *://currybs2ddcf8.pixnet.net/*
 *://cx.17house.com/*
@@ -9219,6 +9223,7 @@
 *://ksdlsk.com/*
 *://kstuca.kharkov.ua/*
 *://kuaibao.qq.com/*
+*://kuaichuanyun.net/*
 *://kuaisusou.cc/*
 *://kuoe.vip-erfolgscoach.de/*
 *://langningpiano.com/*
@@ -9244,6 +9249,7 @@
 *://lpgit.com/*
 *://lqkweb.com/*
 *://lycaeum.dev/*
+*://m.0558wjxsc.com/*
 *://m.201347.uk.com/*
 *://m.361t.org/*
 *://m.3g.qqs9.com/*
@@ -9284,6 +9290,7 @@
 *://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
+*://m.nas-portal.com/*
 *://m.outmc.com/*
 *://m.pai-hang-bang.com/*
 *://m.pjtime.com/*
@@ -9466,6 +9473,7 @@
 *://shufadashi.com/*
 *://sites.google.com/*
 *://slickdeals.net/*
+*://social.lhquan.com/*
 *://sodocumentation.net/*
 *://soft.zhiding.cn/*
 *://softwarebrother.com/*
@@ -9660,6 +9668,7 @@
 *://www.58huangye.com/*
 *://www.58pjy.com/*
 *://www.591h9.com/*
+*://www.5a3q.com/*
 *://www.5dir.cn/*
 *://www.5ugas.com/*
 *://www.600911.cn/*
@@ -9684,6 +9693,7 @@
 *://www.8hhi.com/*
 *://www.8thstreetevo.com/*
 *://www.912688.com/*
+*://www.91exam.org/*
 *://www.92141001.url.tw/*
 *://www.92aliyun.com/*
 *://www.99937888.com/*
@@ -9840,12 +9850,14 @@
 *://www.chinavolcan.com/*
 *://www.chinawenwang.com/*
 *://www.chixian.net/*
+*://www.chkkkk.com/*
 *://www.cholegas.com/*
 *://www.chuangchenchem.com/*
 *://www.chusan.com/*
 *://www.cidugw.com/*
 *://www.cjdx.net/*
 *://www.ckck530.com/*
+*://www.claysmarketing.com/*
 *://www.cmuswe.com/*
 *://www.cn-bet.com/*
 *://www.cnblogs.com/*
@@ -9871,6 +9883,7 @@
 *://www.cqchildren.com/*
 *://www.cqlj8.com/*
 *://www.cqzcds.com/*
+*://www.creationwh.com/*
 *://www.creativelyclaire.com/*
 *://www.crifan.com/*
 *://www.csdetec.com/*
@@ -9927,6 +9940,7 @@
 *://www.doublebay.com.tw/*
 *://www.doukou.com/*
 *://www.downyi.com/*
+*://www.dqkidcastle.com/*
 *://www.drjordanmall.com/*
 *://www.dsakj11.com/*
 *://www.dsmumen.com/*
@@ -9958,6 +9972,7 @@
 *://www.eviolinrepair.com/*
 *://www.exmlo.com/*
 *://www.exportitnow.com/*
+*://www.fabaoonline.com/*
 *://www.fablabs.io/*
 *://www.faithoutreach-orissa.com/*
 *://www.fast8.com/*
@@ -9991,6 +10006,7 @@
 *://www.fxxz.com/*
 *://www.fxyibai.com/*
 *://www.fydqw.com/*
+*://www.fzjdkj.com/*
 *://www.gan-ren.com/*
 *://www.gaytubeboy.com/*
 *://www.gdboxinda.com/*
@@ -10010,6 +10026,7 @@
 *://www.gohku.com/*
 *://www.gollahop.com/*
 *://www.gongkongmro.com/*
+*://www.google.com/*
 *://www.goproprice.com/*
 *://www.gpsdaohangyi.net/*
 *://www.greenteaone.com/*
@@ -10252,6 +10269,7 @@
 *://www.miaoshoulu.net/*
 *://www.milacms.com/*
 *://www.miliol.org/*
+*://www.mingliupiaofang.com/*
 *://www.mintwl.com/*
 *://www.mirsemyan.com/*
 *://www.mlook.mobi/*
@@ -10266,6 +10284,7 @@
 *://www.movie-swords.com/*
 *://www.moxisq.com/*
 *://www.mscto.com/*
+*://www.musicmedea.com/*
 *://www.muzijie.com/*
 *://www.mwcyls.com/*
 *://www.mxj.com.cn/*
@@ -10392,6 +10411,7 @@
 *://www.sdfymy777.com/*
 *://www.sdyongqiang.net/*
 *://www.sdyz.net/*
+*://www.sdzhqp.com/*
 *://www.seattleskate.com/*
 *://www.sejuku.net/*
 *://www.sempsph.com/*
@@ -10426,6 +10446,7 @@
 *://www.sispesp.org.br/*
 *://www.sjxc2008.com/*
 *://www.sjzlangtai.com/*
+*://www.skbpw.com/*
 *://www.sldfc.cn/*
 *://www.slmnqq.com/*
 *://www.slyujia.com/*
@@ -10561,9 +10582,11 @@
 *://www.weidik.com/*
 *://www.weiqunwang.com/*
 *://www.weiyoou8.com/*
+*://www.wenjuan.com/*
 *://www.wenxuecity.com/*
 *://www.west.cn/docs/*
 *://www.westwindford.com/*
+*://www.wfguoneng.cn/*
 *://www.whstm.com/*
 *://www.win10set.com/*
 *://www.win10xiazai.com/*
@@ -10605,6 +10628,7 @@
 *://www.xiaozhishi.net/*
 *://www.xiexialai.com/*
 *://www.xilaisi.net/*
+*://www.xin25.cn/*
 *://www.xinfuq.cn/*
 *://www.xinhexinli.com/*
 *://www.xinnet.com/xinzhi/*
@@ -10615,6 +10639,7 @@
 *://www.xpj665577.com/*
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
+*://www.xsybtqp.com/*
 *://www.xtfeed.cn/*
 *://www.xtoolsoft.com/*
 *://www.xuanchuandan.net/*
@@ -10692,6 +10717,7 @@
 *://www.zhipanyou.com/*
 *://www.zhonglintrade.com/*
 *://www.zhongtaiprinting.cn/*
+*://www.zhongtoujianlian.com/*
 *://www.zhouqinghua24.com/*
 *://www.zhoushanhediao.net/*
 *://www.zhufaner.com/*
@@ -10700,6 +10726,7 @@
 *://www.zicaith.com/*
 *://www.zixingvision.com/*
 *://www.zjdfsm.com/*
+*://www.zjnv.net/*
 *://www.zkaf4d.cn/*
 *://www.zmnedu.com/*
 *://www.znds.com/*
