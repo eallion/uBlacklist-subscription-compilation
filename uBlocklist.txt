@@ -1,5 +1,4 @@
 
- Update weekly at 2021-10-31 08:20:19 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -14,7 +13,6 @@
 #de.jbckj.com
 #eu.fwbdl.com
 #yx.kbjcuiru.com
-*://*.000.org.cn/*
 *://*.001553.cn/*
 *://*.001nlp.com/*
 *://*.003zuqiu.com/*
@@ -8648,7 +8646,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*[uBlock Origin]
+*://*.zhzzx.com/**://*.000.org.cn/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -8828,7 +8826,6 @@
 *://*/so.php?s=*
 *://*/so/*
 *://00w5.com/*
-*://0317car.cn/*
 *://03o6.wocrek.tw/*
 *://0550pet.cn/*
 *://0691888.net/*
@@ -8936,7 +8933,6 @@
 *://bishangme.com/*
 *://bjcvc.com.cn/*
 *://blacksprocket.com/*
-*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10180,7 +10176,7 @@
 *://www.jznk99.com/*
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*https://www.itranslater.com/qa/details/2325844172554634240
+*://www.kafan.cn/**://0317car.cn/*
 *://www.kaiser-garden.com/*
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -29505,6 +29501,7 @@ Arrayshift.com
 Coordino.com
 OSQA.com
 Question2Answer.com
+[uBlock Origin]
 a-capshop.com
 a-cn.com
 a-cuhk.com
@@ -50867,6 +50864,7 @@ htsuye.com
 htszlt.com
 htt555.com
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
+https://www.itranslater.com/qa/details/2325844172554634240
 httpso.cn
 httpy.net
 httvd88.cn
@@ -75511,8 +75509,8 @@ tisoft.cn
 tisohu.cn
 titan-winches.com
 titan24.com
-title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/.001553.cn
+title/.* - 小.(百科 | 知识) 网/ Update weekly at 2021-11-07 08:20:14 UTC+0800
+title/.* - 小.(百科|知识)网$/*://blog.csdn.net/*
 title/.*一键访问国外网站/
 title/.*点击一次就可以出国/
 title/^.*[ ]-[ ]小.(百科|知识)网$/
