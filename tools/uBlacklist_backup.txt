@@ -499,13 +499,14 @@
 *://i88ko.com/*
 *://www.huangyao1688.com/*
 title/小.(百科 | 知识) 网/
-title/.* - 小.(百科 | 知识) 网/ Update weekly at 2021-11-07 08:20:14 UTC+0800
+title/.* - 小.(百科 | 知识) 网/ Update weekly at 2021-11-14 08:20:30 UTC+0800
 ! Junk
 *://www.baidu.com/*
 *://*.csdn.net/*
 
 ! Content Farm
 title/小.(百科|知识)网/
+*://cn.aliyun.com/sswm/*
 *://*.da-quan.net/*
 *://*.hotbak.net*
 *://*.pai-hang-bang.com/*
@@ -520,26 +521,32 @@ title/小.(百科|知识)网/
 *://*.07yue.com/*
 *://*.268382.com/*
 *://*.4k8k.xyz/*
+*://*.521253.com/*
 *://*.5a3q.com/*
 *://*.5yun.org/*
+*://*.a1fz.com/*
 *://*.b22w.cn/*
 *://*.bamuyi.com/*
 *://*.bbsmax.com/*
 *://*.ceden.cn/*
 *://*.codeleading.com/*
 *://*.codenong.com/*
+*://*.codeprj.com/*
 *://*.cxybb.com/*
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
+*://*.dazhuanlan.com/*
 *://*.docway.net/*
 *://*.g408.com/*
 *://*.gh-2.net/*
 *://*.guizhouxiaochi123.com/*
 *://*.hanlefang.net/*
 *://*.helplib.com/*
+*://*.hezs88.com/*
 *://*.hongshaocai.com/*
 *://*.ipeizi.xyz/*
 *://*.jb51.cc/*
+*://*.jianboge.com/*
 *://*.jishuwen.com/*
 *://*.jmvw.cn/*
 *://*.jsfengchao.com/*
@@ -560,40 +567,61 @@ title/小.(百科|知识)网/
 *://*.soinside.com/*
 *://*.systemcity.cn/*
 *://*.thinbug.com/*
+*://*.tmtkz.com/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
 *://*.voorp.com/*
 *://*.vxyb.cn/*
 *://*.wenyanet.com/*
+*://*.win10set.com/*
 *://*.wj458.com/*
 *://*.xjqy.org/*
+*://*.yhbearing.net/*
+*://*.yuucee.com/*
+*://*.yxzcbj.com/*
+*://*.yzmagazine.com/*
+*://*.zhixiangbaozhuang.net/*
+*://*.zhongleishiye.com/*
+*://*.zsythn.com/*
 *://*.zuofajingyan.com/*
 *://*.zymseo.com/*
 *://118.193.38.103/*
 *://159.138.37.243/*
 *://373406.com/*
 *://373524.com/*
+*://aasou.cc/*
+*://abcsou.cc/*
 *://androidcookie.com/*
+*://anysearch.cc/*
 *://bjcvc.com.cn/*
 *://bossnet.com.cn/*
+*://chaosou.cc/*
 *://codeday.me/*
 *://dafx.cc/*
 *://daimajiaoliu.com/*
+*://dasearch.cc/*
 *://dditblog.com/*
 *://ddxinwen.com/*
 *://fazhiyanjiu.cn/*
 *://gameboys.net/*
 *://git2get.com/*
 *://hacker66.me/*
+*://haokuaisou.cc/*
+*://haosh.cc/*
+*://huiss.cc/*
 *://hyk0751.com/*
 *://hziho.com/*
 *://itranslater.com/*
 *://jianboge.com/*
+*://jssou.cc/*
 *://kuaisusou.cc/*
+*://kusearch.cc/*
 *://langningpiano.com/*
+*://lefx.cc/*
 *://linksou.cc/*
 *://mincoon.com/*
 *://needmorefood.com/*
+*://notesearch.cc/*
 *://nwuja.com/*
 *://qastack.cn/*
 *://qdmana.com/*
@@ -601,14 +629,21 @@ title/小.(百科|知识)网/
 *://runxinzhi.com/*
 *://shengqian001.com/*
 *://softwarebrother.com/*
+*://sounote.cc/*
 *://stackoom.com/*
 *://syy79.com/*
+*://tititi.cc/*
 *://tujiebar.com/*
+*://websou.cc/*
 *://weisearch.cc/*
+*://wsearch.cc/*
+*://wtsearch.cc/*
+*://www.smf10.com/*
 *://www.xknote.com/*
 *://xbuba.com/*
 *://xinsearch.cc/*
 *://yousearch.cc/*
+*://yues.org/*
 *://zxsou.cc/*
 
 ! Feeb
@@ -92076,6 +92111,7 @@ title/.*一键访问国外网站/
 5k33i.cn
 5pk.ah.2j0.iyu.y7.l99.m.7d6y.com
 611fu.com
+626927.com
 635sc.com
 65at.cc
 666so.cn
@@ -92199,6 +92235,7 @@ baiduwangpan.cn
 bainei.com
 baishengyl82.date
 bajieyou.com
+banmashuo.com
 baojiabao.com
 barcode-label.com.cn
 basoso.com
@@ -92266,16 +92303,20 @@ cbbxk.com
 ccqczzy.com
 cdbao.ex5.ipv6.xjklmy.com
 cdbgp.com
+cdmana.com
 cencelli.it
 ceping.info
 cesdnet.com
 cfpsf.com
 chacalanghanoi.com
 chagzh.com
+changhe-china.com
 chaojiss.com
+chaosou.cc
 chaoyue.link
 check4herpes.com
 chengzi1058.com
+chenyuhi.com
 chezaiyi.cn/
 chihome.com.tw
 chihovet.com.tw
@@ -92295,6 +92336,7 @@ classicalguitarandbeyond.com
 cnaijiaren.com
 cnto411.com
 cnzzcdn.com
+codeantenna.com
 codebug.vip
 codejzy.com
 codenong.com
@@ -92318,6 +92360,8 @@ ctyyn.com
 cubeproductions.net
 custompatches4u.com
 cxjygj.com
+cxybb.com
+cxymm.net
 cxyzjd.com
 cy-hl.com
 cybei.com
@@ -92364,6 +92408,7 @@ disnnai.com.tw
 djyz007.com
 dlcswm.com
 dlpzj.com
+dlyswlkj.com
 doczj.com
 donglian640.com
 dongnanshan.com
@@ -92378,6 +92423,7 @@ duanzhihu.com
 dunstanhardcastle.com
 duoduohelp.com
 duonao.cc
+dushiliangpin.com
 dxxc.com
 dy1633.com
 dy1991.com
@@ -92392,6 +92438,7 @@ ecvss.org
 ed2ks.com
 edwardianjewellery.com
 eeq8.com
+eferrit.com
 efwm.qswrj.download
 egfoem.com
 ek162.com
@@ -92552,6 +92599,7 @@ hfxxgang.com
 hgfzf.cn
 hgmfy.cn
 hgqbq.cn
+hhhtjtb.com.cn
 hicaopan.com
 highdesertboutiquevendors.com
 hipstacowboys.com
@@ -92602,6 +92650,7 @@ hz-xin.com
 hzbgp.com
 hzreader.com
 i3baby.com
+i4k.xyz
 iaac.com.cn
 ibnsales.com
 icanopen.com
@@ -92631,11 +92680,14 @@ iter01.com
 itigic.com
 itranslater.com
 itread01.com
+its203.com
+its404.com
 itw01.com
 iuham.com
 iy80.com
 iyangzhi.com
 izlax.cn
+j1o.net
 jalsys.com
 javaer101.com
 javaroad.cn
@@ -92646,6 +92698,7 @@ jbshy.com
 jbsmzx.com
 jbstilwellauthor.com
 jccreate.com
+jcodecraeer.com
 ji9.org
 jiajufenxiao.com
 jiajvhuishou.com
@@ -92686,6 +92739,7 @@ jskf999.com
 jslzx.com
 jsnongnong.com
 jsso.cc
+jssou.cc
 jswyhq.com
 jun365.net
 jusoso.com
@@ -92716,6 +92770,7 @@ kknews.cc
 kkth.xj.cn
 kliwei.com
 kljfgj.com
+ksou.cc
 ksxianglu.com
 kuaidi.ping-jia.net
 kuaidichaxun.com.cn
@@ -92790,6 +92845,7 @@ lzf2012.usa10.sethost.cn
 m7v.org
 machbbs.com
 mai520.cn
+mamicode.com
 mammothlakescrib.com
 manongjc.com
 manuals.plus
@@ -92877,6 +92933,7 @@ nxtoten.com
 nyp655.com
 o2onlyone.net
 obnseo.com
+odeleading.com
 odf-ts.com/directory
 odkeji.com
 offblastsoftworks.com
@@ -92905,6 +92962,7 @@ pai-hang-bang.com
 palicaishi.com
 pan.haoii123.com
 pan.yini.me
+panzhongjiaoliu.com
 parkous.com
 paruze.com
 pcok100.com
@@ -92934,6 +92992,7 @@ psgy.qqabf.download
 puataiwan.com
 pukatiyu.com
 pybyb.com
+pythonmana.com
 pzft.xekjn.top
 q2xaea.aqzlmy.pw
 q578.com
@@ -92982,12 +93041,14 @@ reallifetucson.com
 relcare.com.cn
 renniboix.loan
 renrengou1.com
+repingke.com
 rickyljonesphotography.com
 rightwithgod.net
 rjqyl.com
 rkgpc.date
 robertmwagner.com
 rockero.com.py
+ronzhuan.com
 royaloakblean.com
 rtmj.net
 ruonu.com
@@ -93003,10 +93064,12 @@ saojiejie.023mp.net
 saopaulocalling.org
 saryagash-tour.com
 sbskf.com
+scftzs.com
 scptol.com
 scw68.com
 sdbeta_com.sx11xuan561.review
 sdcaifeng.com
+sdcgzk.com
 sdcnjt.com
 sdfymy777.com
 sdhuawen.com
@@ -93023,6 +93086,7 @@ seedsbuddy.com
 seemk.com
 sh-jieao.com
 shangdixinxi.com
+shangmayuan.com
 shantiyogatupelo.com
 shanyouwang.com
 shatangju.net
@@ -93043,6 +93107,7 @@ shsjing.com
 shtianbao.com
 shuangsan.cn
 shuobaico.com
+shuzhiduo.com
 shve.org
 shxy888.com
 shzewang.com
@@ -93116,6 +93181,7 @@ sou.linmingyao.cn
 sou.sfe8.com
 soudiy.com
 soumoye.com
+sounote.cc
 souzhuang.cn
 soydemac.com
 specialty-tire.com
@@ -93136,11 +93202,13 @@ subversionromance.com
 sugarfree-photo.com
 sulianqi.cn
 sundaeshoes.com
+sunnews.cc
 sunnews.site
 supermobileqa.com
 suxa.org
 svwlx.cn
 sweattheplay.com
+swiftbn.com
 sya66.com
 sync-computers.com
 systemcity.cn
@@ -93151,10 +93219,12 @@ szredsafe.com
 takecare.com.tw
 talleralcubo.com
 tanghtine.com
+taofx.cc
 taozx.cn
 tapatalk.com
 taptapdashonline.com
 tarinaka.com
+tbbee.cc
 tceic.com
 tdjgw.com
 teamumwelt.buzz
@@ -93207,6 +93277,7 @@ tsns.xyz
 tttiii.cc
 tujour.com
 tvkrimpenerwaard.nl
+tw511.com
 twgjy.com
 twgreatdaily.com
 twypage.com
@@ -93221,6 +93292,7 @@ u2ws.com
 u88sz.com
 uberalift.com
 ubid4it.org
+ujoy.net
 universalusbinstallerdownload.com
 uomgb.com
 uqseo.com
@@ -93305,10 +93377,12 @@ woso.cn
 wowoka.com
 wpwfg.cn
 wsearch.cc
+wui5.com
 wuji8.com
 wumeiyoupin.com
 wwtw.yeane.top
 www-54197.com
+www.youchuang365.com
 www3.udpdu.com
 wxhgfl.com
 wyel.okqqz.top
@@ -93328,13 +93402,16 @@ xgcs98.com
 xianfanglei.com
 xianjinghn.com
 xiaobaike.net
+xiaobenzi.com
 xiaohui482.com
 xiaosou.cc
 xiaozhishi.net
 xieetuuy.com
 xilr.uwudk.top
 xima.org
+xindd.cc
 xinfuq.cn
+xinfx.cc
 xinguge.cn
 xinhexinli.com
 xjdpg.cn
@@ -93371,6 +93448,7 @@ yibinyd.com
 yichao77.com
 yidiansousuo.com
 yiemu.com
+yifx.cc
 yingyuwen.com
 yinweiaihuoguo.com
 yinxiu266.com
@@ -93397,6 +93475,7 @@ yqtg178.com
 yqzxdq.com
 ys2344.com
 ysboss.cn
+ysou.cc
 ysou.pw
 yteh.xpwqq.download
 ytmushroom.com
@@ -93477,8 +93556,11 @@ zzhesheng.com
 zzjwcf.com
 zzyyo.com
 118.193.38.103
+cloud.tencent.com/developer/ask
 cloud.tencent.com/developer/information
+support.huaweicloud.com/topic
 www.cnpython.com/qa
+www.huaweicloud.com/theme
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -93628,6 +93710,7 @@ www.cnpython.com/qa
 *://*.5k33i.cn/*
 *://*.5pk.ah.2j0.iyu.y7.l99.m.7d6y.com/*
 *://*.611fu.com/*
+*://*.626927.com/*
 *://*.635sc.com/*
 *://*.65at.cc/*
 *://*.666so.cn/*
@@ -93751,6 +93834,7 @@ www.cnpython.com/qa
 *://*.bainei.com/*
 *://*.baishengyl82.date/*
 *://*.bajieyou.com/*
+*://*.banmashuo.com/*
 *://*.baojiabao.com/*
 *://*.barcode-label.com.cn/*
 *://*.basoso.com/*
@@ -93818,16 +93902,20 @@ www.cnpython.com/qa
 *://*.ccqczzy.com/*
 *://*.cdbao.ex5.ipv6.xjklmy.com/*
 *://*.cdbgp.com/*
+*://*.cdmana.com/*
 *://*.cencelli.it/*
 *://*.ceping.info/*
 *://*.cesdnet.com/*
 *://*.cfpsf.com/*
 *://*.chacalanghanoi.com/*
 *://*.chagzh.com/*
+*://*.changhe-china.com/*
 *://*.chaojiss.com/*
+*://*.chaosou.cc/*
 *://*.chaoyue.link/*
 *://*.check4herpes.com/*
 *://*.chengzi1058.com/*
+*://*.chenyuhi.com/*
 *://*.chezaiyi.cn/
 *://*.chihome.com.tw/*
 *://*.chihovet.com.tw/*
@@ -93847,6 +93935,7 @@ www.cnpython.com/qa
 *://*.cnaijiaren.com/*
 *://*.cnto411.com/*
 *://*.cnzzcdn.com/*
+*://*.codeantenna.com/*
 *://*.codebug.vip/*
 *://*.codejzy.com/*
 *://*.codenong.com/*
@@ -93870,6 +93959,8 @@ www.cnpython.com/qa
 *://*.cubeproductions.net/*
 *://*.custompatches4u.com/*
 *://*.cxjygj.com/*
+*://*.cxybb.com/*
+*://*.cxymm.net/*
 *://*.cxyzjd.com/*
 *://*.cy-hl.com/*
 *://*.cybei.com/*
@@ -93916,6 +94007,7 @@ www.cnpython.com/qa
 *://*.djyz007.com/*
 *://*.dlcswm.com/*
 *://*.dlpzj.com/*
+*://*.dlyswlkj.com/*
 *://*.doczj.com/*
 *://*.donglian640.com/*
 *://*.dongnanshan.com/*
@@ -93930,12 +94022,14 @@ www.cnpython.com/qa
 *://*.dunstanhardcastle.com/*
 *://*.duoduohelp.com/*
 *://*.duonao.cc/*
+*://*.dushiliangpin.com/*
 *://*.dxxc.com/*
 *://*.dy1633.com/*
 *://*.dy1991.com/*
 *://*.dyzdy.cn/*
 *://*.e-kunye.com/*
 *://*.eagle-pkg.buzz/*
+*://*.eamimi.com/*
 *://*.easyzc.com/*
 *://*.eayzer.com/*
 *://*.ebook123.cc/*
@@ -93944,6 +94038,7 @@ www.cnpython.com/qa
 *://*.ed2ks.com/*
 *://*.edwardianjewellery.com/*
 *://*.eeq8.com/*
+*://*.eferrit.com/*
 *://*.efwm.qswrj.download/*
 *://*.egfoem.com/*
 *://*.ek162.com/*
@@ -94104,6 +94199,7 @@ www.cnpython.com/qa
 *://*.hgfzf.cn/*
 *://*.hgmfy.cn/*
 *://*.hgqbq.cn/*
+*://*.hhhtjtb.com.cn/*
 *://*.hicaopan.com/*
 *://*.highdesertboutiquevendors.com/*
 *://*.hipstacowboys.com/*
@@ -94154,6 +94250,7 @@ www.cnpython.com/qa
 *://*.hzbgp.com/*
 *://*.hzreader.com/*
 *://*.i3baby.com/*
+*://*.i4k.xyz/*
 *://*.iaac.com.cn/*
 *://*.ibnsales.com/*
 *://*.icanopen.com/*
@@ -94183,11 +94280,14 @@ www.cnpython.com/qa
 *://*.itigic.com/*
 *://*.itranslater.com/*
 *://*.itread01.com/*
+*://*.its203.com/*
+*://*.its404.com/*
 *://*.itw01.com/*
 *://*.iuham.com/*
 *://*.iy80.com/*
 *://*.iyangzhi.com/*
 *://*.izlax.cn/*
+*://*.j1o.net/*
 *://*.jalsys.com/*
 *://*.javaer101.com/*
 *://*.javaroad.cn/*
@@ -94198,6 +94298,7 @@ www.cnpython.com/qa
 *://*.jbsmzx.com/*
 *://*.jbstilwellauthor.com/*
 *://*.jccreate.com/*
+*://*.jcodecraeer.com/*
 *://*.ji9.org/*
 *://*.jiajufenxiao.com/*
 *://*.jiajvhuishou.com/*
@@ -94238,6 +94339,7 @@ www.cnpython.com/qa
 *://*.jslzx.com/*
 *://*.jsnongnong.com/*
 *://*.jsso.cc/*
+*://*.jssou.cc/*
 *://*.jswyhq.com/*
 *://*.jun365.net/*
 *://*.jusoso.com/*
@@ -94268,6 +94370,7 @@ www.cnpython.com/qa
 *://*.kkth.xj.cn/*
 *://*.kliwei.com/*
 *://*.kljfgj.com/*
+*://*.ksou.cc/*
 *://*.ksxianglu.com/*
 *://*.kuaidi.ping-jia.net/*
 *://*.kuaidichaxun.com.cn/*
@@ -94342,6 +94445,7 @@ www.cnpython.com/qa
 *://*.m7v.org/*
 *://*.machbbs.com/*
 *://*.mai520.cn/*
+*://*.mamicode.com/*
 *://*.mammothlakescrib.com/*
 *://*.manongjc.com/*
 *://*.manuals.plus/*
@@ -94429,6 +94533,7 @@ www.cnpython.com/qa
 *://*.nyp655.com/*
 *://*.o2onlyone.net/*
 *://*.obnseo.com/*
+*://*.odeleading.com/*
 *://*.odf-ts.com/directory/*
 *://*.odkeji.com/*
 *://*.offblastsoftworks.com/*
@@ -94457,6 +94562,7 @@ www.cnpython.com/qa
 *://*.palicaishi.com/*
 *://*.pan.haoii123.com/*
 *://*.pan.yini.me/*
+*://*.panzhongjiaoliu.com/*
 *://*.parkous.com/*
 *://*.paruze.com/*
 *://*.pcok100.com/*
@@ -94486,6 +94592,7 @@ www.cnpython.com/qa
 *://*.puataiwan.com/*
 *://*.pukatiyu.com/*
 *://*.pybyb.com/*
+*://*.pythonmana.com/*
 *://*.pzft.xekjn.top/*
 *://*.q2xaea.aqzlmy.pw/*
 *://*.q578.com/*
@@ -94534,12 +94641,14 @@ www.cnpython.com/qa
 *://*.relcare.com.cn/*
 *://*.renniboix.loan/*
 *://*.renrengou1.com/*
+*://*.repingke.com/*
 *://*.rickyljonesphotography.com/*
 *://*.rightwithgod.net/*
 *://*.rjqyl.com/*
 *://*.rkgpc.date/*
 *://*.robertmwagner.com/*
 *://*.rockero.com.py/*
+*://*.ronzhuan.com/*
 *://*.royaloakblean.com/*
 *://*.rtmj.net/*
 *://*.ruonu.com/*
@@ -94555,10 +94664,12 @@ www.cnpython.com/qa
 *://*.saopaulocalling.org/*
 *://*.saryagash-tour.com/*
 *://*.sbskf.com/*
+*://*.scftzs.com/*
 *://*.scptol.com/*
 *://*.scw68.com/*
 *://*.sdbeta_com.sx11xuan561.review/*
 *://*.sdcaifeng.com/*
+*://*.sdcgzk.com/*
 *://*.sdcnjt.com/*
 *://*.sdfymy777.com/*
 *://*.sdhuawen.com/*
@@ -94575,6 +94686,7 @@ www.cnpython.com/qa
 *://*.seemk.com/*
 *://*.sh-jieao.com/*
 *://*.shangdixinxi.com/*
+*://*.shangmayuan.com/*
 *://*.shantiyogatupelo.com/*
 *://*.shanyouwang.com/*
 *://*.shatangju.net/*
@@ -94595,6 +94707,7 @@ www.cnpython.com/qa
 *://*.shtianbao.com/*
 *://*.shuangsan.cn/*
 *://*.shuobaico.com/*
+*://*.shuzhiduo.com/*
 *://*.shve.org/*
 *://*.shxy888.com/*
 *://*.shzewang.com/*
@@ -94668,6 +94781,7 @@ www.cnpython.com/qa
 *://*.sou.sfe8.com/*
 *://*.soudiy.com/*
 *://*.soumoye.com/*
+*://*.sounote.cc/*
 *://*.souzhuang.cn/*
 *://*.soydemac.com/*
 *://*.specialty-tire.com/*
@@ -94688,11 +94802,13 @@ www.cnpython.com/qa
 *://*.sugarfree-photo.com/*
 *://*.sulianqi.cn/*
 *://*.sundaeshoes.com/*
+*://*.sunnews.cc/*
 *://*.sunnews.site/*
 *://*.supermobileqa.com/*
 *://*.suxa.org/*
 *://*.svwlx.cn/*
 *://*.sweattheplay.com/*
+*://*.swiftbn.com/*
 *://*.sya66.com/*
 *://*.sync-computers.com/*
 *://*.systemcity.cn/*
@@ -94703,10 +94819,12 @@ www.cnpython.com/qa
 *://*.takecare.com.tw/*
 *://*.talleralcubo.com/*
 *://*.tanghtine.com/*
+*://*.taofx.cc/*
 *://*.taozx.cn/*
 *://*.tapatalk.com/*
 *://*.taptapdashonline.com/*
 *://*.tarinaka.com/*
+*://*.tbbee.cc/*
 *://*.tceic.com/*
 *://*.tdjgw.com/*
 *://*.teamumwelt.buzz/*
@@ -94759,6 +94877,7 @@ www.cnpython.com/qa
 *://*.tttiii.cc/*
 *://*.tujour.com/*
 *://*.tvkrimpenerwaard.nl/*
+*://*.tw511.com/*
 *://*.twgjy.com/*
 *://*.twgreatdaily.com/*
 *://*.twypage.com/*
@@ -94773,6 +94892,7 @@ www.cnpython.com/qa
 *://*.u88sz.com/*
 *://*.uberalift.com/*
 *://*.ubid4it.org/*
+*://*.ujoy.net/*
 *://*.universalusbinstallerdownload.com/*
 *://*.uomgb.com/*
 *://*.uqseo.com/*
@@ -94857,10 +94977,12 @@ www.cnpython.com/qa
 *://*.wowoka.com/*
 *://*.wpwfg.cn/*
 *://*.wsearch.cc/*
+*://*.wui5.com/*
 *://*.wuji8.com/*
 *://*.wumeiyoupin.com/*
 *://*.wwtw.yeane.top/*
 *://*.www-54197.com/*
+*://*.www.youchuang365.com/*
 *://*.www3.udpdu.com/*
 *://*.wxhgfl.com/*
 *://*.wyel.okqqz.top/*
@@ -94880,13 +95002,16 @@ www.cnpython.com/qa
 *://*.xianfanglei.com/*
 *://*.xianjinghn.com/*
 *://*.xiaobaike.net/*
+*://*.xiaobenzi.com/*
 *://*.xiaohui482.com/*
 *://*.xiaosou.cc/*
 *://*.xiaozhishi.net/*
 *://*.xieetuuy.com/*
 *://*.xilr.uwudk.top/*
 *://*.xima.org/*
+*://*.xindd.cc/*
 *://*.xinfuq.cn/*
+*://*.xinfx.cc/*
 *://*.xinguge.cn/*
 *://*.xinhexinli.com/*
 *://*.xjdpg.cn/*
@@ -94923,6 +95048,7 @@ www.cnpython.com/qa
 *://*.yichao77.com/*
 *://*.yidiansousuo.com/*
 *://*.yiemu.com/*
+*://*.yifx.cc/*
 *://*.yingyuwen.com/*
 *://*.yinweiaihuoguo.com/*
 *://*.yinxiu266.com/*
@@ -94949,6 +95075,7 @@ www.cnpython.com/qa
 *://*.yqzxdq.com/*
 *://*.ys2344.com/*
 *://*.ysboss.cn/*
+*://*.ysou.cc/*
 *://*.ysou.pw/*
 *://*.yteh.xpwqq.download/*
 *://*.ytmushroom.com/*
@@ -95029,8 +95156,11 @@ www.cnpython.com/qa
 *://*.zzjwcf.com/*
 *://*.zzyyo.com/*
 *://118.193.38.103/*
+*://cloud.tencent.com/developer/ask/*
 *://cloud.tencent.com/developer/information/*
+*://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
+*://www.huaweicloud.com/theme/*
 *://*.abbyychina.com/*
 *://*.bartender.cc/*
 *://*.betterzipcn.com/*
@@ -95757,6 +95887,18 @@ www.google.*##.isv-r[data-ru^="https://kotaeta.com/"]
 www.google.*##.VFACy[href^="https://kotaeta.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://kotaeta.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://kotaeta.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://answer-id.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://answer-id.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://answer-id.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://answer-id.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answer-id.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="answer-id.com"]
+www.ecosia.org##.result[data-url^="https://answer-id.com/"]
+startpage.com##.w-gl__result-title[href^="https://answer-id.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://answer-id.com/"]
+www.google.*##.VFACy[href^="https://answer-id.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://answer-id.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://answer-id.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://code.i-harness.com/"]:upward(.xpdopen)
@@ -96465,6 +96607,18 @@ www.google.*##.isv-r[data-ru^="https://ubuntu.buildwebhost.com/"]
 www.google.*##.VFACy[href^="https://ubuntu.buildwebhost.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntu.buildwebhost.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://ubuntu.buildwebhost.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://ubuntuaa.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://ubuntuaa.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntuaa.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="ubuntuaa.com"]
+www.ecosia.org##.result[data-url^="https://ubuntuaa.com/"]
+startpage.com##.w-gl__result-title[href^="https://ubuntuaa.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://ubuntuaa.com/"]
+www.google.*##.VFACy[href^="https://ubuntuaa.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntuaa.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://ubuntuaa.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.debugcn.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.debugcn.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.debugcn.com/"]:upward(.xpdopen)
@@ -96573,18 +96727,18 @@ www.google.*##.isv-r[data-ru*="pakostnici.com/"]
 www.google.*##.VFACy[href*="pakostnici.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="pakostnici.com"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="pakostnici.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://try2explore.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://try2explore.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://try2explore.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://try2explore.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://try2explore.com/"]:upward(.b_algo)
+www.google.*##.kCrYT > a[href*="try2explore.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href*="try2explore.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href*="try2explore.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href*="try2explore.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href*="try2explore.com/"]:upward(.b_algo)
 duckduckgo.com##div[data-domain$="try2explore.com"]
-www.ecosia.org##.result[data-url^="https://try2explore.com/"]
-startpage.com##.w-gl__result-title[href^="https://try2explore.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://try2explore.com/"]
-www.google.*##.VFACy[href^="https://try2explore.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://try2explore.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://try2explore.com/"]:upward(.tile--img)
+www.ecosia.org##.result[data-url*="try2explore.com/"]
+startpage.com##.w-gl__result-title[href*="try2explore.com/"]:upward(F.w-gl__result)
+www.google.*##.isv-r[data-ru*="try2explore.com/"]
+www.google.*##.VFACy[href*="try2explore.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##a[title$="try2explore.com"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href*="try2explore.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://laravelquestions.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://laravelquestions.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://laravelquestions.com/"]:upward(.xpdopen)
@@ -96753,6 +96907,18 @@ www.google.*##.isv-r[data-ru*="article.docway.net/"]
 www.google.*##.VFACy[href*="article.docway.net/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="article.docway.net"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="article.docway.net/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://xiu2.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://xiu2.net/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://xiu2.net/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://xiu2.net/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://xiu2.net/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="xiu2.net"]
+www.ecosia.org##.result[data-url^="https://xiu2.net/"]
+startpage.com##.w-gl__result-title[href^="https://xiu2.net/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://xiu2.net/"]
+www.google.*##.VFACy[href^="https://xiu2.net/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://xiu2.net/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://xiu2.net/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://codehero.jp/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codehero.jp/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://codehero.jp/"]:upward(.xpdopen)
@@ -96801,18 +96967,18 @@ www.google.*##.isv-r[data-ru^="https://qapicks.com/"]
 www.google.*##.VFACy[href^="https://qapicks.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qapicks.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://qapicks.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href*="exceptionshub.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href*="exceptionshub.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href*="exceptionshub.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href*="exceptionshub.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href*="exceptionshub.com/"]:upward(.b_algo)
+www.google.*##.kCrYT > a[href^="/url?q=https://exceptionshub.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://exceptionshub.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://exceptionshub.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://exceptionshub.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://exceptionshub.com/"]:upward(.b_algo)
 duckduckgo.com##div[data-domain$="exceptionshub.com"]
-www.ecosia.org##.result[data-url*="exceptionshub.com/"]
-startpage.com##.w-gl__result-title[href*="exceptionshub.com/"]:upward(F.w-gl__result)
-www.google.*##.isv-r[data-ru*="exceptionshub.com/"]
-www.google.*##.VFACy[href*="exceptionshub.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##a[title$="exceptionshub.com"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href*="exceptionshub.com/"]:upward(.tile--img)
+www.ecosia.org##.result[data-url^="https://exceptionshub.com/"]
+startpage.com##.w-gl__result-title[href^="https://exceptionshub.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://exceptionshub.com/"]
+www.google.*##.VFACy[href^="https://exceptionshub.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://exceptionshub.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://exceptionshub.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://newbedev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://newbedev.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://newbedev.com/"]:upward(.xpdopen)
@@ -96837,8 +97003,21 @@ www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
 www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.codenong.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.codenong.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.codenong.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.codenong.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.codenong.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.codenong.com"]
+www.ecosia.org##.result[data-url^="https://www.codenong.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.codenong.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.codenong.com/"]
+www.google.*##.VFACy[href^="https://www.codenong.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.codenong.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.codenong.com/"]:upward(.tile--img)
 *://code-examples.net/*
 *://kotaeta.com/*
+*://answer-id.com/*
 *://code.i-harness.com/*
 *://living-sun.com/*
 *://tutorialmore.com/*
@@ -96898,6 +97077,7 @@ duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--i
 *://*.pcbconline.org/*
 *://www.nuomiphp.com/*
 *://ubuntu.buildwebhost.com/*
+*://ubuntuaa.com/*
 *://www.debugcn.com/*
 *://*.sch22.org/*
 *://*.gupgallery.com/*
@@ -96907,7 +97087,7 @@ duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--i
 *://*.domainelespailles.net/*
 *://*.ec-europe.org/*
 *://*.pakostnici.com/*
-*://try2explore.com/*
+*://*.try2explore.com/*
 *://laravelquestions.com/*
 *://itectec.com/*
 *://stackovergo.com/*
@@ -96922,13 +97102,15 @@ duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--i
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
 *://article.docway.net/*
+*://xiu2.net/*
 *://codehero.jp/*
 *://quabr.com/*
 *://www.webdevqa.jp.net/*
 *://qapicks.com/*
-*://*.exceptionshub.com/*
+*://exceptionshub.com/*
 *://newbedev.com/*
 *://pretagteam.com/*
+*://www.codenong.com/*
 *://*.0714news.com/*
 *://*.1688.com/*
 *://*.17qq.com/*
