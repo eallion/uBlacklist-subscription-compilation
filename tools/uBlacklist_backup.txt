@@ -74475,6 +74475,8 @@ title/.*一键访问国外网站/
 *://m.isdngo.xyz/*
 *://m.jb51.net/*
 *://m.jianfeizhishiku.com/*
+*://m.jstianyun.com/*
+*://m.kaisha88.com/*
 *://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
@@ -74585,6 +74587,7 @@ title/.*一键访问国外网站/
 *://wncwebsolutions.com/*
 *://wsao.kerstinraphahn.de/*
 *://wthe.singende-wirte.de/*
+*://wtsearch.cc/*
 *://ww.106jsk.com/*
 *://ww1.wode6.com/*
 *://www.00004.org/*
@@ -74598,6 +74601,7 @@ title/.*一键访问国外网站/
 *://www.17qq.com/*
 *://www.18183.com/*
 *://www.1888generator.com/*
+*://www.218574.com/*
 *://www.235249.com/*
 *://www.23cpc.com/*
 *://www.2616.com.cn/*
@@ -74709,6 +74713,7 @@ title/.*一键访问国外网站/
 *://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
 *://www.e5a5x.com/*
+*://www.easyatm.com.tw/*
 *://www.eddingmkt.com/*
 *://www.eeq8.com/*
 *://www.eternalcq.com/*
@@ -74725,6 +74730,7 @@ title/.*一键访问国外网站/
 *://www.gdboxinda.com/*
 *://www.ghzssj.com/*
 *://www.glblkfw.com/*
+*://www.grfyw.com/*
 *://www.guzhifa.com/*
 *://www.gxbbm.com/*
 *://www.gxqxd.com/*
@@ -84071,6 +84077,7 @@ title/小.(百科|知识)网/
 .797590.com
 .79umi0z.cn
 .7aj4vik.cn
+.7chetuan.com
 .7cka.com
 .7dapps.com
 .7daysle.com
@@ -85280,6 +85287,7 @@ title/小.(百科|知识)网/
 .dmfxy.com
 .dmgogo.com
 .dmi286.com
+.dmjx.com
 .dmxylll.com
 .dn878ou.cn
 .dnc8.cn
@@ -85684,6 +85692,7 @@ title/小.(百科|知识)网/
 .fyy5.com
 .fyybs.com
 .fzflbj.com
+.fzfydbj.com
 .fzlive.cn
 .fzsmlcn.com
 .fzxunjie.com
@@ -85780,6 +85789,7 @@ title/小.(百科|知识)网/
 .glassfibre.cn
 .glcq55s.cn
 .gldplus.com
+.glehe.com
 .glhsmm.com
 .glhxrh.com
 .gln8fbe.cn
@@ -86283,6 +86293,7 @@ title/小.(百科|知识)网/
 .hzjdt.com
 .hzjgjk.com
 .hzjihe.com
+.hzjiucheng.com
 .hzjj0s4.cn
 .hzjkw.cn
 .hzjqhz.com
@@ -86686,6 +86697,7 @@ title/小.(百科|知识)网/
 .jzcqs.com
 .jzdxcmm.com
 .jznbzl.com
+.jzsalq.com
 .jzship88.com
 .jzsytj.com
 .jzyxmx.com
@@ -86780,6 +86792,7 @@ title/小.(百科|知识)网/
 .klmnv.cn
 .klqcw.cn
 .klt88.com
+.km0769.com
 .km67.cn
 .kmbiyouhz.com
 .kmbvpjo.cn
@@ -87616,6 +87629,7 @@ title/小.(百科|知识)网/
 .op081ek.cn
 .opag.buzz
 .opeck.cn
+.optoviki.buzz
 .oqgeyvg.cn
 .oqyeiaw.cn
 .orbit-marine.buzz
@@ -88601,6 +88615,7 @@ title/小.(百科|知识)网/
 .t0tmdqj.cn
 .t109jgz.cn
 .t1njhjn.cn
+.t2gcap.com
 .t2zmjr0.cn
 .t3ql4vu.cn
 .t3tu774.cn
@@ -90845,6 +90860,7 @@ title/小.(百科|知识)网/
 *://*.797590.com/*
 *://*.79umi0z.cn/*
 *://*.7aj4vik.cn/*
+*://*.7chetuan.com/*
 *://*.7cka.com/*
 *://*.7dapps.com/*
 *://*.7daysle.com/*
@@ -92054,6 +92070,7 @@ title/小.(百科|知识)网/
 *://*.dmfxy.com/*
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
+*://*.dmjx.com/*
 *://*.dmxylll.com/*
 *://*.dn878ou.cn/*
 *://*.dnc8.cn/*
@@ -92458,6 +92475,7 @@ title/小.(百科|知识)网/
 *://*.fyy5.com/*
 *://*.fyybs.com/*
 *://*.fzflbj.com/*
+*://*.fzfydbj.com/*
 *://*.fzlive.cn/*
 *://*.fzsmlcn.com/*
 *://*.fzxunjie.com/*
@@ -92554,6 +92572,7 @@ title/小.(百科|知识)网/
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
+*://*.glehe.com/*
 *://*.glhsmm.com/*
 *://*.glhxrh.com/*
 *://*.gln8fbe.cn/*
@@ -93057,6 +93076,7 @@ title/小.(百科|知识)网/
 *://*.hzjdt.com/*
 *://*.hzjgjk.com/*
 *://*.hzjihe.com/*
+*://*.hzjiucheng.com/*
 *://*.hzjj0s4.cn/*
 *://*.hzjkw.cn/*
 *://*.hzjqhz.com/*
@@ -93460,6 +93480,7 @@ title/小.(百科|知识)网/
 *://*.jzcqs.com/*
 *://*.jzdxcmm.com/*
 *://*.jznbzl.com/*
+*://*.jzsalq.com/*
 *://*.jzship88.com/*
 *://*.jzsytj.com/*
 *://*.jzyxmx.com/*
@@ -93554,6 +93575,7 @@ title/小.(百科|知识)网/
 *://*.klmnv.cn/*
 *://*.klqcw.cn/*
 *://*.klt88.com/*
+*://*.km0769.com/*
 *://*.km67.cn/*
 *://*.kmbiyouhz.com/*
 *://*.kmbvpjo.cn/*
@@ -94390,6 +94412,7 @@ title/小.(百科|知识)网/
 *://*.op081ek.cn/*
 *://*.opag.buzz/*
 *://*.opeck.cn/*
+*://*.optoviki.buzz/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
 *://*.orbit-marine.buzz/*
@@ -95375,6 +95398,7 @@ title/小.(百科|知识)网/
 *://*.t0tmdqj.cn/*
 *://*.t109jgz.cn/*
 *://*.t1njhjn.cn/*
+*://*.t2gcap.com/*
 *://*.t2zmjr0.cn/*
 *://*.t3ql4vu.cn/*
 *://*.t3tu774.cn/*
@@ -96875,18 +96899,6 @@ www.google.*##.isv-r[data-ru^="https://living-sun.com/"]
 www.google.*##.VFACy[href^="https://living-sun.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://living-sun.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://living-sun.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://tutorialmore.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://tutorialmore.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://tutorialmore.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://tutorialmore.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tutorialmore.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="tutorialmore.com"]
-www.ecosia.org##.result[data-url^="https://tutorialmore.com/"]
-startpage.com##.w-gl__result-title[href^="https://tutorialmore.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://tutorialmore.com/"]
-www.google.*##.VFACy[href^="https://tutorialmore.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://tutorialmore.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://tutorialmore.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://qastack.jp/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qastack.jp/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://qastack.jp/"]:upward(.xpdopen)
@@ -97271,18 +97283,6 @@ www.google.*##.isv-r[data-ru*="voidcc.com/"]
 www.google.*##.VFACy[href*="voidcc.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="voidcc.com"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="voidcc.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://alwaysemmyhope.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://alwaysemmyhope.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://alwaysemmyhope.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://alwaysemmyhope.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://alwaysemmyhope.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="alwaysemmyhope.com"]
-www.ecosia.org##.result[data-url^="https://alwaysemmyhope.com/"]
-startpage.com##.w-gl__result-title[href^="https://alwaysemmyhope.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://alwaysemmyhope.com/"]
-www.google.*##.VFACy[href^="https://alwaysemmyhope.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://alwaysemmyhope.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://alwaysemmyhope.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href*="siwib.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="siwib.org/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href*="siwib.org/"]:upward(.xpdopen)
@@ -97943,18 +97943,6 @@ www.google.*##.isv-r[data-ru^="https://newbedev.com/"]
 www.google.*##.VFACy[href^="https://newbedev.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://newbedev.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://newbedev.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://pretagteam.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://pretagteam.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://pretagteam.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://pretagteam.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pretagteam.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="pretagteam.com"]
-www.ecosia.org##.result[data-url^="https://pretagteam.com/"]
-startpage.com##.w-gl__result-title[href^="https://pretagteam.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
-www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.codenong.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.codenong.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.codenong.com/"]:upward(.xpdopen)
@@ -98003,12 +97991,47 @@ www.google.*##.isv-r[data-ru^="https://pythonwd.com/"]
 www.google.*##.VFACy[href^="https://pythonwd.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://pythonwd.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://tutorialmore.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://tutorialmore.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://tutorialmore.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://tutorialmore.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tutorialmore.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="tutorialmore.com"]
+www.ecosia.org##.result[data-url^="https://tutorialmore.com/"]
+startpage.com##.w-gl__result-title[href^="https://tutorialmore.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://tutorialmore.com/"]
+www.google.*##.VFACy[href^="https://tutorialmore.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://tutorialmore.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://tutorialmore.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://alwaysemmyhope.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://alwaysemmyhope.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://alwaysemmyhope.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://alwaysemmyhope.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://alwaysemmyhope.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="alwaysemmyhope.com"]
+www.ecosia.org##.result[data-url^="https://alwaysemmyhope.com/"]
+startpage.com##.w-gl__result-title[href^="https://alwaysemmyhope.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://alwaysemmyhope.com/"]
+www.google.*##.VFACy[href^="https://alwaysemmyhope.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://alwaysemmyhope.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://alwaysemmyhope.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://pretagteam.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://pretagteam.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://pretagteam.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://pretagteam.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pretagteam.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="pretagteam.com"]
+www.ecosia.org##.result[data-url^="https://pretagteam.com/"]
+startpage.com##.w-gl__result-title[href^="https://pretagteam.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
+www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
 *://code.i-harness.com/*
 *://living-sun.com/*
-*://tutorialmore.com/*
 *://qastack.jp/*
 *://qastack.ru/*
 *://qastack.it/*
@@ -98041,7 +98064,6 @@ duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img
 *://www.generacodice.com/*
 *://www.javaer101.com/*
 *://*.voidcc.com/*
-*://alwaysemmyhope.com/*
 *://*.siwib.org/*
 *://*.fluffyfables.com/*
 *://www.fixes.pub/*
@@ -98097,10 +98119,12 @@ duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img
 *://qapicks.com/*
 *://exceptionshub.com/*
 *://newbedev.com/*
-*://pretagteam.com/*
 *://www.codenong.com/*
 *://cainiaojiaocheng.com/*
 *://routinepanic.com/*
 *://pythonwd.com/*
+*://tutorialmore.com/*
+*://alwaysemmyhope.com/*
+*://pretagteam.com/*
 @*://www.zhihu.com/*
- Update weekly at 2021-11-21 08:20:59 UTC+0800
+ Update weekly at 2021-11-28 08:21:19 UTC+0800

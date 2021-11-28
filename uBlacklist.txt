@@ -1,5 +1,5 @@
 
- Update weekly at 2021-11-21 08:20:59 UTC+0800
+ Update weekly at 2021-11-28 08:21:19 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1026,6 +1026,7 @@
 *://*.797590.com/*
 *://*.79umi0z.cn/*
 *://*.7aj4vik.cn/*
+*://*.7chetuan.com/*
 *://*.7cka.com/*
 *://*.7dapps.com/*
 *://*.7daysle.com/*
@@ -2611,6 +2612,7 @@
 *://*.dmfxy.com/*
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
+*://*.dmjx.com/*
 *://*.dmxylll.com/*
 *://*.dn878ou.cn/*
 *://*.dnc8.cn/*
@@ -3145,6 +3147,7 @@
 *://*.fyy5.com/*
 *://*.fyybs.com/*
 *://*.fzflbj.com/*
+*://*.fzfydbj.com/*
 *://*.fzjk.kxhsm.top/*
 *://*.fzlive.cn/*
 *://*.fzsmlcn.com/*
@@ -3276,6 +3279,7 @@
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
+*://*.glehe.com/*
 *://*.glhsmm.com/*
 *://*.glhxrh.com/*
 *://*.gln8fbe.cn/*
@@ -3919,6 +3923,7 @@
 *://*.hzjdt.com/*
 *://*.hzjgjk.com/*
 *://*.hzjihe.com/*
+*://*.hzjiucheng.com/*
 *://*.hzjj0s4.cn/*
 *://*.hzjkw.cn/*
 *://*.hzjqhz.com/*
@@ -4453,6 +4458,7 @@
 *://*.jzdxcmm.com/*
 *://*.jzhyfrp.com/*
 *://*.jznbzl.com/*
+*://*.jzsalq.com/*
 *://*.jzship88.com/*
 *://*.jzsytj.com/*
 *://*.jzxfz.com/*
@@ -4577,6 +4583,7 @@
 *://*.klmnv.cn/*
 *://*.klqcw.cn/*
 *://*.klt88.com/*
+*://*.km0769.com/*
 *://*.km67.cn/*
 *://*.kmbiyouhz.com/*
 *://*.kmbvpjo.cn/*
@@ -5660,6 +5667,7 @@
 *://*.opeck.cn/*
 *://*.open.com.hk/*
 *://*.optima-ski.com/*
+*://*.optoviki.buzz/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
 *://*.orbit-marine.buzz/*
@@ -7000,6 +7008,7 @@
 *://*.t0tmdqj.cn/*
 *://*.t109jgz.cn/*
 *://*.t1njhjn.cn/*
+*://*.t2gcap.com/*
 *://*.t2zmjr0.cn/*
 *://*.t3ql4vu.cn/*
 *://*.t3tu774.cn/*
@@ -9362,6 +9371,8 @@
 *://m.jd.com/*
 *://m.jianfeizhishiku.com/*
 *://m.jiasuba.com/*
+*://m.jstianyun.com/*
+*://m.kaisha88.com/*
 *://m.kan186.com/*
 *://m.kjw.cc/*
 *://m.manyushijia.com/*
@@ -9711,6 +9722,7 @@
 *://www.1itao.com/*
 *://www.20592.top/*
 *://www.218407.com/*
+*://www.218574.com/*
 *://www.21ic.com/*
 *://www.2265.com/*
 *://www.235249.com/*
@@ -10131,6 +10143,7 @@
 *://www.gpsdaohangyi.net/*
 *://www.greenteaone.com/*
 *://www.grey-rocks.com/*
+*://www.grfyw.com/*
 *://www.gszylw.com/*
 *://www.gtuanb.com/*
 *://www.guangbaobei.net/*
@@ -11749,6 +11762,7 @@
 .797590.com
 .79umi0z.cn
 .7aj4vik.cn
+.7chetuan.com
 .7cka.com
 .7dapps.com
 .7daysle.com
@@ -12957,6 +12971,7 @@
 .dmfxy.com
 .dmgogo.com
 .dmi286.com
+.dmjx.com
 .dmxylll.com
 .dn878ou.cn
 .dnc8.cn
@@ -13360,6 +13375,7 @@
 .fyy5.com
 .fyybs.com
 .fzflbj.com
+.fzfydbj.com
 .fzlive.cn
 .fzsmlcn.com
 .fzxunjie.com
@@ -13456,6 +13472,7 @@
 .glassfibre.cn
 .glcq55s.cn
 .gldplus.com
+.glehe.com
 .glhsmm.com
 .glhxrh.com
 .gln8fbe.cn
@@ -13959,6 +13976,7 @@
 .hzjdt.com
 .hzjgjk.com
 .hzjihe.com
+.hzjiucheng.com
 .hzjj0s4.cn
 .hzjkw.cn
 .hzjqhz.com
@@ -14362,6 +14380,7 @@
 .jzcqs.com
 .jzdxcmm.com
 .jznbzl.com
+.jzsalq.com
 .jzship88.com
 .jzsytj.com
 .jzyxmx.com
@@ -14456,6 +14475,7 @@
 .klmnv.cn
 .klqcw.cn
 .klt88.com
+.km0769.com
 .km67.cn
 .kmbiyouhz.com
 .kmbvpjo.cn
@@ -15292,6 +15312,7 @@
 .op081ek.cn
 .opag.buzz
 .opeck.cn
+.optoviki.buzz
 .oqgeyvg.cn
 .oqyeiaw.cn
 .orbit-marine.buzz
@@ -16277,6 +16298,7 @@
 .t0tmdqj.cn
 .t109jgz.cn
 .t1njhjn.cn
+.t2gcap.com
 .t2zmjr0.cn
 .t3ql4vu.cn
 .t3tu774.cn
