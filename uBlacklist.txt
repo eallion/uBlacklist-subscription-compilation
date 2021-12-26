@@ -1,5 +1,5 @@
 
- Update weekly at 2021-12-19 08:23:10 UTC+0800
+ Update weekly at 2021-12-26 08:23:50 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -9068,7 +9068,6 @@
 *://aihao8w.com/*
 *://aihejin.com/*
 *://aizhaoni.com/*
-*://alwaysemmyhope.com/*
 *://andrew-reynolds-bootcamp.com/*
 *://androidcookie.com/*
 *://anjinxjhx.com/*
@@ -9181,6 +9180,7 @@
 *://cn.jptele.com/*
 *://cn.voidcc.com/*
 *://cn846.com/*
+*://cndgn.com/*
 *://cnkth.liugushan.com/*
 *://cnls8.com/*
 *://code-examples.net/*
@@ -10389,6 +10389,7 @@
 *://www.ispsd2015.com/*
 *://www.istangola.net/*
 *://www.it-mure.jp.net/*
+*://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.cn/*
@@ -37982,12 +37983,12 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href*="uwenku.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="voidcc.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="waymanamechurch.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="zsharp.org/"]:upward(.b_algo)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://alwaysemmyhope.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answer-id.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://brocante.dev/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://cainiaojiaocheng.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://christfever.in/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://classmethod.dev/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://cndgn.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://code-examples.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://code.i-harness.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codeguides.site/"]:upward(.b_algo)
@@ -38047,6 +38048,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.generacodice.com/
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.generacodice.it/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.ghcc.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-mure.jp.net/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm-fr.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm-ja.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm-ja.tech/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm.com.ru/"]:upward(.b_algo)
@@ -38060,12 +38062,12 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.titanwolf.org/"]:
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.webdevqa.jp.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.xsprogram.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://xiu2.net/"]:upward(.b_algo)
-cn.bing.com,www.bing.com##.inflnk[href^="https://alwaysemmyhope.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://answer-id.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://brocante.dev/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://cainiaojiaocheng.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://christfever.in/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://classmethod.dev/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://cndgn.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://code-examples.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://code.i-harness.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://codeguides.site/"]:upward(.dgControl_list > li)
@@ -38125,6 +38127,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://www.generacodice.com/"]:upward(
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.generacodice.it/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.ghcc.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-mure.jp.net/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm-fr.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm-ja.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm-ja.tech/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm.com.ru/"]:upward(.dgControl_list > li)
@@ -41939,12 +41942,12 @@ duckduckgo.com##.tile--img__sub[href*="uwenku.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="voidcc.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="waymanamechurch.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="zsharp.org/"]:upward(.tile--img)
-duckduckgo.com##.tile--img__sub[href^="https://alwaysemmyhope.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://answer-id.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://brocante.dev/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://cainiaojiaocheng.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://christfever.in/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://classmethod.dev/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://cndgn.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://code-examples.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://code.i-harness.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://codeguides.site/"]:upward(.tile--img)
@@ -42004,6 +42007,7 @@ duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.com/"]:upward(.t
 duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.it/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.ghcc.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-mure.jp.net/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm-fr.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm-ja.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm-ja.tech/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm.com.ru/"]:upward(.tile--img)
@@ -42017,7 +42021,6 @@ duckduckgo.com##.tile--img__sub[href^="https://www.titanwolf.org/"]:upward(.tile
 duckduckgo.com##.tile--img__sub[href^="https://www.webdevqa.jp.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.xsprogram.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://xiu2.net/"]:upward(.tile--img)
-duckduckgo.com##div[data-domain$="alwaysemmyhope.com"]
 duckduckgo.com##div[data-domain$="amuddycup.com"]
 duckduckgo.com##div[data-domain$="answer-id.com"]
 duckduckgo.com##div[data-domain$="article.docway.net"]
@@ -42027,6 +42030,7 @@ duckduckgo.com##div[data-domain$="cainiaojiaocheng.com"]
 duckduckgo.com##div[data-domain$="cfadnc.org"]
 duckduckgo.com##div[data-domain$="christfever.in"]
 duckduckgo.com##div[data-domain$="classmethod.dev"]
+duckduckgo.com##div[data-domain$="cndgn.com"]
 duckduckgo.com##div[data-domain$="code-examples.net"]
 duckduckgo.com##div[data-domain$="code.i-harness.com"]
 duckduckgo.com##div[data-domain$="codeflow.site"]
@@ -42115,6 +42119,7 @@ duckduckgo.com##div[data-domain$="www.generacodice.com"]
 duckduckgo.com##div[data-domain$="www.generacodice.it"]
 duckduckgo.com##div[data-domain$="www.ghcc.net"]
 duckduckgo.com##div[data-domain$="www.it-mure.jp.net"]
+duckduckgo.com##div[data-domain$="www.it-swarm-fr.com"]
 duckduckgo.com##div[data-domain$="www.it-swarm-ja.com"]
 duckduckgo.com##div[data-domain$="www.it-swarm-ja.tech"]
 duckduckgo.com##div[data-domain$="www.it-swarm.com.ru"]
@@ -73602,12 +73607,12 @@ startpage.com##.w-gl__result-title[href*="uwenku.com/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="voidcc.com/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="waymanamechurch.org/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="zsharp.org/"]:upward(F.w-gl__result)
-startpage.com##.w-gl__result-title[href^="https://alwaysemmyhope.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://answer-id.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://brocante.dev/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://cainiaojiaocheng.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://christfever.in/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://classmethod.dev/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://cndgn.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://code-examples.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://code.i-harness.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://codeguides.site/"]:upward(.w-gl__result)
@@ -73667,6 +73672,7 @@ startpage.com##.w-gl__result-title[href^="https://www.generacodice.com/"]:upward
 startpage.com##.w-gl__result-title[href^="https://www.generacodice.it/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.ghcc.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-mure.jp.net/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://www.it-swarm-fr.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-swarm-ja.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-swarm-ja.tech/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-swarm.com.ru/"]:upward(.w-gl__result)
@@ -81309,12 +81315,12 @@ www.ecosia.org##.result[data-url*="uwenku.com/"]
 www.ecosia.org##.result[data-url*="voidcc.com/"]
 www.ecosia.org##.result[data-url*="waymanamechurch.org/"]
 www.ecosia.org##.result[data-url*="zsharp.org/"]
-www.ecosia.org##.result[data-url^="https://alwaysemmyhope.com/"]
 www.ecosia.org##.result[data-url^="https://answer-id.com/"]
 www.ecosia.org##.result[data-url^="https://brocante.dev/"]
 www.ecosia.org##.result[data-url^="https://cainiaojiaocheng.com/"]
 www.ecosia.org##.result[data-url^="https://christfever.in/"]
 www.ecosia.org##.result[data-url^="https://classmethod.dev/"]
+www.ecosia.org##.result[data-url^="https://cndgn.com/"]
 www.ecosia.org##.result[data-url^="https://code-examples.net/"]
 www.ecosia.org##.result[data-url^="https://code.i-harness.com/"]
 www.ecosia.org##.result[data-url^="https://codeguides.site/"]
@@ -81374,6 +81380,7 @@ www.ecosia.org##.result[data-url^="https://www.generacodice.com/"]
 www.ecosia.org##.result[data-url^="https://www.generacodice.it/"]
 www.ecosia.org##.result[data-url^="https://www.ghcc.net/"]
 www.ecosia.org##.result[data-url^="https://www.it-mure.jp.net/"]
+www.ecosia.org##.result[data-url^="https://www.it-swarm-fr.com/"]
 www.ecosia.org##.result[data-url^="https://www.it-swarm-ja.com/"]
 www.ecosia.org##.result[data-url^="https://www.it-swarm-ja.tech/"]
 www.ecosia.org##.result[data-url^="https://www.it-swarm.com.ru/"]
@@ -81421,12 +81428,12 @@ www.google.*##.C8nzq[href*="uwenku.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="voidcc.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="waymanamechurch.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="zsharp.org/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://alwaysemmyhope.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://answer-id.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://brocante.dev/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://cainiaojiaocheng.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://christfever.in/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://classmethod.dev/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://cndgn.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://code-examples.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codeguides.site/"]:upward(.xpd)
@@ -81486,6 +81493,7 @@ www.google.*##.C8nzq[href^="https://www.generacodice.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.generacodice.it/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.ghcc.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-mure.jp.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.it-swarm-fr.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-swarm-ja.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-swarm-ja.tech/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-swarm.com.ru/"]:upward(.xpd)
@@ -81533,12 +81541,12 @@ www.google.*##.VFACy[href*="uwenku.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="voidcc.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="waymanamechurch.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="zsharp.org/"]:upward(.isv-r)
-www.google.*##.VFACy[href^="https://alwaysemmyhope.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://answer-id.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://brocante.dev/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://cainiaojiaocheng.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://christfever.in/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://classmethod.dev/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://cndgn.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://code-examples.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://code.i-harness.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://codeguides.site/"]:upward(.isv-r)
@@ -81598,6 +81606,7 @@ www.google.*##.VFACy[href^="https://www.generacodice.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.generacodice.it/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.ghcc.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-mure.jp.net/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://www.it-swarm-fr.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-swarm-ja.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-swarm-ja.tech/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-swarm.com.ru/"]:upward(.isv-r)
@@ -81645,12 +81654,12 @@ www.google.*##.aI1xUe .sXtWJb[href*="uwenku.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="voidcc.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="waymanamechurch.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="zsharp.org/"]:upward(.aI1xUe)
-www.google.*##.aI1xUe .sXtWJb[href^="https://alwaysemmyhope.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://answer-id.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://brocante.dev/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://cainiaojiaocheng.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://christfever.in/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://classmethod.dev/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://cndgn.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://code-examples.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://code.i-harness.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://codeguides.site/"]:upward(.aI1xUe)
@@ -81710,6 +81719,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://www.generacodice.com/"]:upward(.aI1
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.generacodice.it/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.ghcc.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-mure.jp.net/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm-fr.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm-ja.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm-ja.tech/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm.com.ru/"]:upward(.aI1xUe)
@@ -81757,12 +81767,12 @@ www.google.*##.isv-r[data-ru*="uwenku.com/"]
 www.google.*##.isv-r[data-ru*="voidcc.com/"]
 www.google.*##.isv-r[data-ru*="waymanamechurch.org/"]
 www.google.*##.isv-r[data-ru*="zsharp.org/"]
-www.google.*##.isv-r[data-ru^="https://alwaysemmyhope.com/"]
 www.google.*##.isv-r[data-ru^="https://answer-id.com/"]
 www.google.*##.isv-r[data-ru^="https://brocante.dev/"]
 www.google.*##.isv-r[data-ru^="https://cainiaojiaocheng.com/"]
 www.google.*##.isv-r[data-ru^="https://christfever.in/"]
 www.google.*##.isv-r[data-ru^="https://classmethod.dev/"]
+www.google.*##.isv-r[data-ru^="https://cndgn.com/"]
 www.google.*##.isv-r[data-ru^="https://code-examples.net/"]
 www.google.*##.isv-r[data-ru^="https://code.i-harness.com/"]
 www.google.*##.isv-r[data-ru^="https://codeguides.site/"]
@@ -81822,6 +81832,7 @@ www.google.*##.isv-r[data-ru^="https://www.generacodice.com/"]
 www.google.*##.isv-r[data-ru^="https://www.generacodice.it/"]
 www.google.*##.isv-r[data-ru^="https://www.ghcc.net/"]
 www.google.*##.isv-r[data-ru^="https://www.it-mure.jp.net/"]
+www.google.*##.isv-r[data-ru^="https://www.it-swarm-fr.com/"]
 www.google.*##.isv-r[data-ru^="https://www.it-swarm-ja.com/"]
 www.google.*##.isv-r[data-ru^="https://www.it-swarm-ja.tech/"]
 www.google.*##.isv-r[data-ru^="https://www.it-swarm.com.ru/"]
@@ -81869,12 +81880,12 @@ www.google.*##.kCrYT > a[href*="uwenku.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="voidcc.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="waymanamechurch.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="zsharp.org/"]:upward(.xpd)
-www.google.*##.kCrYT > a[href^="/url?q=https://alwaysemmyhope.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://answer-id.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://brocante.dev/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://cainiaojiaocheng.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://christfever.in/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://classmethod.dev/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://cndgn.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://code-examples.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://codeguides.site/"]:upward(.xpd)
@@ -81934,6 +81945,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.com/"]:upward(.x
 www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.it/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.ghcc.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-mure.jp.net/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm-fr.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm-ja.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm-ja.tech/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm.com.ru/"]:upward(.xpd)
@@ -81981,12 +81993,12 @@ www.google.*##.xpdopen .sXtWJb[href*="uwenku.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="voidcc.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="waymanamechurch.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="zsharp.org/"]:upward(.xpdopen)
-www.google.*##.xpdopen .sXtWJb[href^="https://alwaysemmyhope.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://answer-id.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://brocante.dev/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://cainiaojiaocheng.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://christfever.in/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://classmethod.dev/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://cndgn.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://code-examples.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://code.i-harness.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://codeguides.site/"]:upward(.xpdopen)
@@ -82046,6 +82058,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.com/"]:upward(.xp
 www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.it/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.ghcc.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-mure.jp.net/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm-fr.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm-ja.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm-ja.tech/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm.com.ru/"]:upward(.xpdopen)
