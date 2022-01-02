@@ -1,4 +1,4 @@
- Update weekly at 2021-12-26 08:23:50 UTC+0800
+ Update weekly at 2022-01-02 08:23:17 UTC+0800
 [uBlock Origin]
 ! Title: uBlacklist Stack Overflow Translation
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1338,6 +1338,18 @@ www.google.*##.isv-r[data-ru^="https://cndgn.com/"]
 www.google.*##.VFACy[href^="https://cndgn.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://cndgn.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://cndgn.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://codersatellite.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://codersatellite.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://codersatellite.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://codersatellite.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codersatellite.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="codersatellite.com"]
+www.ecosia.org##.result[data-url^="https://codersatellite.com/"]
+startpage.com##.w-gl__result-title[href^="https://codersatellite.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://codersatellite.com/"]
+www.google.*##.VFACy[href^="https://codersatellite.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://codersatellite.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://codersatellite.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.blog/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.generacodice.blog/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.blog/"]:upward(.xpdopen)
@@ -1485,6 +1497,7 @@ duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.com/"]:upward(.t
 *://stackoom.com/*
 *://christfever.in/*
 *://cndgn.com/*
+*://codersatellite.com/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
@@ -88332,6 +88345,7 @@ zzzzbj.com
 .tudou478.cn
 .tudou56.com
 .tudoudileii.com
+.tuokehj.com
 .turf-seed-china.buzz
 .tusfam.com
 .tuvanduhoc.buzz
@@ -95116,6 +95130,7 @@ zzzzbj.com
 *://*.tudou478.cn/*
 *://*.tudou56.com/*
 *://*.tudoudileii.com/*
+*://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
 *://*.tusfam.com/*
 *://*.tuvanduhoc.buzz/*
@@ -96336,30 +96351,40 @@ zzzzbj.com
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
+*://*.021east.com/*
 *://*.0714news.com/*
 *://*.1688.com/*
 *://*.17qq.com/*
 *://*.21food.cn/*
+*://*.22352.xyz/*
 *://*.2qun.net/*
+*://*.33376.xyz/*
 *://*.361t.org/*
 *://*.3cwu.com/*
 *://*.4meahc.com/*
 *://*.51xuexiaoyi.com/*
 *://*.61655.app/*
+*://*.87647.xyz/*
+*://*.876jy.cc/*
+*://*.876jy.vip/*
+*://*.8848hr.com/*
 *://*.91wuxi.com/*
 *://*.97hs.com/*
 *://*.9idudu.com/*
 *://*.aalahty.cn/*
+*://*.aesml.com/*
 *://*.ajhujiao.com/*
 *://*.androidcookie.com/*
 *://*.answers.gethuman.com/*
 *://*.appspot.com/*
 *://*.aptengli.com/*
 *://*.aqmdjx.com/*
+*://*.ayxbwy.com/*
 *://*.bbjkw.net/*
 *://*.bbsah.com/*
 *://*.brainandspineschool.com/*
 *://*.buffalo-mn.org/*
+*://*.camlya.com/*
 *://*.china.cn/*
 *://*.cjavapy.com/*
 *://*.cmen.cc/*
@@ -96380,6 +96405,7 @@ zzzzbj.com
 *://*.dkfp88.cn/*
 *://*.dovov.com/*
 *://*.dtmao.cc/*
+*://*.duboot.com/*
 *://*.eue5xbp.site/*
 *://*.fofa.so/*
 *://*.framedfm.net/*
@@ -96416,6 +96442,7 @@ zzzzbj.com
 *://*.jb51.net/*
 *://*.jdon.com/*
 *://*.jhfgl.com/*
+*://*.jiao-yiqie.info/*
 *://*.jishuwen.com/*
 *://*.joecomp.com/*
 *://*.jqgcs123.com/*
@@ -96428,6 +96455,7 @@ zzzzbj.com
 *://*.ksyzakq.com/*
 *://*.kutu66.com/*
 *://*.lai18.com/*
+*://*.linuxprobe.com/*
 *://*.liwu.bi/*
 *://*.loudoun-valley.com/*
 *://*.lovfp.com/*
@@ -96437,10 +96465,12 @@ zzzzbj.com
 *://*.mfwf.cn.com/*
 *://*.mop.com/*
 *://*.mos86.com/*
+*://*.njfpled.com/*
 *://*.oomake.com/*
 *://*.outofmemory.cn/*
 *://*.pai-hang-bang.com/*
 *://*.panjk.com/*
+*://*.paradacreativa.es/*
 *://*.piqiuda.com/*
 *://*.py.cn/*
 *://*.qciss.net/*
@@ -96452,6 +96482,7 @@ zzzzbj.com
 *://*.rukomos.ru/*
 *://*.scpaean.com/*
 *://*.sdxinli.org/*
+*://*.shyaki.com/*
 *://*.sincereschool.com/*
 *://*.sm1234.net/*
 *://*.sma.so/*
@@ -96476,6 +96507,7 @@ zzzzbj.com
 *://*.tumlls.xyz/*
 *://*.tysp.org/*
 *://*.uk.com/*
+*://*.unansea.com/*
 *://*.uosohyc.site/*
 *://*.vlexpert.com/*
 *://*.voidcc.com/*
@@ -96485,6 +96517,7 @@ zzzzbj.com
 *://*.wdfxw.net/*
 *://*.weivb.com/*
 *://*.wikicell.org/*
+*://*.wintoog.com.cn/*
 *://*.wjpy55.com/*
 *://*.xbuba.com/*
 *://*.xcx1024.com/*
@@ -96499,11 +96532,13 @@ zzzzbj.com
 *://*.yao51.com/*
 *://*.yijiayi88.com/*
 *://*.yisu.com/*
+*://*.ymgjedu.com/*
 *://*.you-android.com/*
 *://*.youduoxi.com/*
 *://*.yujiedh.xyz/*
 *://*.yyfensi.com/*
 *://*.zakcret.xyz/*
+*://*.zaoyouxi.com/*
 *://*.zglangying.com/*
 *://*.zjzmxny.com/*
 *://*/?s=*
@@ -97025,6 +97060,7 @@ zzzzbj.com
 *://www.hanlefang.net/*
 *://www.haoecn.com/*
 *://www.harngtong.url.tw/*
+*://www.hcgtx.com/*
 *://www.hchygw.com/*
 *://www.heibai.org/*
 *://www.hello.so/*
