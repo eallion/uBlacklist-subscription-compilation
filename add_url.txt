@@ -500,3 +500,4 @@
 *://www.huangyao1688.com/*
 title/小.(百科 | 知识) 网/
 title/.* - 小.(百科 | 知识) 网/
+*://githubmemory.com/*
