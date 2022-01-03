@@ -1,4 +1,4 @@
- Update weekly at 2022-01-02 08:23:17 UTC+0800
+ Update weekly at 2022-01-03 17:15:55 UTC+0800
 [uBlock Origin]
 ! Title: uBlacklist Stack Overflow Translation
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -98636,4 +98636,6 @@ title/.* - 小.(百科|知识)网$/*://www.sejuku.net/*
 *://i88ko.com/*
 *://www.huangyao1688.com/*
 title/小.(百科 | 知识) 网/
-title/.* - 小.(百科 | 知识) 网/@*://www.zhihu.com/*
+title/.* - 小.(百科 | 知识) 网/
+*://githubmemory.com/*
+@*://www.zhihu.com/*
