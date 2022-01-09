@@ -1,4 +1,4 @@
- Update weekly at 2022-01-03 17:15:55 UTC+0800
+ Update weekly at 2022-01-09 08:23:52 UTC+0800
 [uBlock Origin]
 ! Title: uBlacklist Stack Overflow Translation
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1350,6 +1350,42 @@ www.google.*##.isv-r[data-ru^="https://codersatellite.com/"]
 www.google.*##.VFACy[href^="https://codersatellite.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://codersatellite.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://codersatellite.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href*="coredump.biz/"]:upward(.xpd)
+www.google.*##.C8nzq[href*="coredump.biz/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href*="coredump.biz/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href*="coredump.biz/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href*="coredump.biz/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="coredump.biz"]
+www.ecosia.org##.result[data-url*="coredump.biz/"]
+startpage.com##.w-gl__result-title[href*="coredump.biz/"]:upward(F.w-gl__result)
+www.google.*##.isv-r[data-ru*="coredump.biz/"]
+www.google.*##.VFACy[href*="coredump.biz/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##a[title$="coredump.biz"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href*="coredump.biz/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://farath.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://farath.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://farath.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://farath.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://farath.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="farath.com"]
+www.ecosia.org##.result[data-url^="https://farath.com/"]
+startpage.com##.w-gl__result-title[href^="https://farath.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://farath.com/"]
+www.google.*##.VFACy[href^="https://farath.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://farath.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://farath.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://devbugfix.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://devbugfix.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://devbugfix.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://devbugfix.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://devbugfix.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="devbugfix.com"]
+www.ecosia.org##.result[data-url^="https://devbugfix.com/"]
+startpage.com##.w-gl__result-title[href^="https://devbugfix.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://devbugfix.com/"]
+www.google.*##.VFACy[href^="https://devbugfix.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://devbugfix.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://devbugfix.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.blog/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.generacodice.blog/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.blog/"]:upward(.xpdopen)
@@ -1498,6 +1534,9 @@ duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.com/"]:upward(.t
 *://christfever.in/*
 *://cndgn.com/*
 *://codersatellite.com/*
+*://*.coredump.biz/*
+*://farath.com/*
+*://devbugfix.com/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
@@ -2161,6 +2200,7 @@ title/小.(百科|知识)网/
 100860.com
 101fashion.com.tw
 10241314.com
+1024dns.com
 103.hk
 10615.com.cn
 1141.net
@@ -2192,6 +2232,7 @@ title/小.(百科|知识)网/
 19kaifu.com
 1mpi.com
 1pyy.com
+1r1g.cn
 1r1g.com
 1wfd.com
 20122011.org
@@ -2235,6 +2276,7 @@ title/小.(百科|知识)网/
 356ae.com
 360adsolutions.com
 360du.net.cn
+373415.com
 373524.com
 38953h.cn
 392623.com
@@ -2248,6 +2290,7 @@ title/小.(百科|知识)网/
 3v4.net
 400839.com
 4382.loan
+4563.org
 4659866.com
 4743.loan
 4910.com
@@ -2295,6 +2338,7 @@ title/小.(百科|知识)网/
 686232.com
 68suan.com
 68xi.com
+693585.com
 6ke89.cn
 70ol.com
 710dnuv.com
@@ -2345,6 +2389,7 @@ a372.cn
 aaiv.net
 aasou.cc
 abadisurvey.com
+abcsou.cc
 abdwap.work
 abks.hfges.top
 ac590.com
@@ -2353,6 +2398,7 @@ actorsfit.com
 adwithaglobal.com
 aeo.com.cn
 aew-sdn.com
+ahafm.com
 ahaqsyfj.com
 ahm7.com
 ahmudan.com
@@ -2368,6 +2414,7 @@ aliziarealestate.com
 allside.news
 allweblink.com
 almtlakes.org
+ambkct.com
 ameliapharm.com
 amxpj000.com
 amxpj25.com
@@ -2390,6 +2437,7 @@ aosae.com
 appleglitz.com
 aptvgo.com
 archtek.com.tw
+art2008.net
 artwebradio.com
 ask.todgo.com
 askaic.com
@@ -2400,6 +2448,7 @@ atwhcb.com
 austrade-ch.com
 ayhbte168.com
 ayqqszx.com
+b7xe.com
 baba100.com
 baidle.com
 baidu.com.024women.com
@@ -2430,6 +2479,7 @@ bdw365.com
 becreativeblog.com
 bellevuewatourism.com
 beqve.cn
+besetsod.com
 bestpdm.com
 bg8399.com
 bhjck.com
@@ -2471,6 +2521,8 @@ bubuko.com
 bushini.de
 business-web-sites-hosting.com
 buylun.com
+buzzhollowrailroad.com
+bv2ex.com
 bvjpsb.net
 bxlac.com
 bynss.com
@@ -2480,6 +2532,7 @@ ca88-com.net
 caao.net
 cadfanholidays.co.uk
 cafegatto.com
+caihonggang.com
 caijing114.com
 cameron-a-reviews.com
 cancer0086.com
@@ -2507,6 +2560,7 @@ chenyuhi.com
 chezaiyi.cn
 chihome.com.tw
 chihovet.com.tw
+chika-web.net
 china-jianzhu.com
 china-nzgys.com
 chinadmd.com
@@ -2547,6 +2601,7 @@ ctcea.org
 ctocio.com.cn
 ctyyn.com
 cubeproductions.net
+cuoshuo.com
 custompatches4u.com
 cxjygj.com
 cxybb.com
@@ -2559,16 +2614,21 @@ cyclesurfstudio.com
 cyhs888.com
 cyhtzd.com
 czmuhe.com
+czsfj.cn
 czsjsb.com
 da-quan.net
 dacongyun.com
+dafx.cc
 daidaigou.org
 daigoupiggy.com
+daimajiaoliu.com
 dainifei.info
 daizhiduo.com
 dajobrinkman.net
 damingweb.com
+dancerspointewinchester.com
 daokeyou.top
+dauphinislandcondos.com
 daxuesou.com
 daydaynews.cc
 dc120.com.cn
@@ -2586,6 +2646,7 @@ dgbx888.com
 dghuigao.com
 dglangan.com
 dglnfk.com
+dgscjd.com
 dgso.cn
 dgth88.com
 dgwaves.com
@@ -2602,17 +2663,20 @@ dlcswm.com
 dljinhaian.com
 dlpzj.com
 dlyswlkj.com
+docway.net
 doczj.com
 donglian640.com
 dongnanshan.com
 dongxzs.com
 doo.me
 doreenbabycare.com
+dovov.com
 dpwatch8.com
 dqzdhw.com
 dtybnh.com
 duanzh.com
 duanzhihu.com
+duboot.com
 dunstanhardcastle.com
 duoduohelp.com
 duonao.cc
@@ -2643,6 +2707,7 @@ energietarieven-vergelijken.com
 entertainment14.net
 eooele.com
 eqisou.net
+eqisz.com
 erdie826.com
 esame.cn
 eshidai.com
@@ -2665,6 +2730,7 @@ farsportswheels.com
 fastso.cn
 fatie.me
 fbws.razot.top
+fcaweb.de
 feihongxuexiao.com
 feijiangpack.com
 fenglangty.com
@@ -2703,15 +2769,19 @@ fuwuqiceping.com
 fuyimokuai.com
 fuyingdq.com
 fuzadu.com
+fwqzdm.com
 fwtd.cn
+fy6m.com
 fydqw.com
 fzjk.kxhsm.top
 gaaf.klvgb.loan
 gadgetarq.com
 gadgetstroop.com
 gaiwen.com
+galacticnewsone.com
 gametalk.site
 gaojiq.cn
+gapemill.com
 gbfgg.cn
 gd12121.com
 gdbgp.com
@@ -2732,7 +2802,10 @@ ggsloreleykoelnde.com
 ghosttrainbuilder.com
 gionee.com
 giters.com
+github-wiki-see.page
+githubhelp.com
 githubmemory.com
+gitmemory.cn
 gitmemory.com
 gjfs.com.cn
 gkgjws.com
@@ -2746,6 +2819,8 @@ gouma.org
 gouo.cn
 graphenstone-china.com
 grcamerada.com
+greenengineeringgroup.com
+greentravelnwanders.co
 grinstreet.ru
 gsmxm.com
 gsmy791.com
@@ -2778,12 +2853,14 @@ hao136.com
 hao4k.cn
 hao8.net
 haohuolife.com
+haokuaisou.cc
 haoqu.org
 haorizs.com
 haoxp123.com
 haoyar.com
 haoyiwuliu.com
 happyjyjt.com
+harmonyteck.com
 hayaliicraat.com
 hbbslkj.com
 hbhuiran.com
@@ -2799,6 +2876,8 @@ heciao.com.tw
 hedo188.com
 help315.com.cn
 henankuai328.bid
+herokuapp.com
+herpesoutbreaktreatment-reviews.com
 hezu6pro.cn
 hfiphone.com
 hfxxgang.com
@@ -2807,6 +2886,7 @@ hgmfy.cn
 hgqbq.cn
 hhhtjtb.com.cn
 hicaopan.com
+hiegong.com
 highdesertboutiquevendors.com
 hipstacowboys.com
 hitalk.site
@@ -2826,6 +2906,7 @@ hntece.com
 hnxel.com
 homeliva.com
 homewanchai.com
+honerint.com
 honghuahui.app
 hongkongxzm.com
 hongsheng1998.com
@@ -2845,6 +2926,7 @@ huangjinqihuo.com
 huankangfc.com
 huanqiao406.com
 huanyuxumu.com
+huaweicloud.com/s
 huayeshuzi.com
 hubin148.com
 huo123.cc
@@ -2865,6 +2947,7 @@ icanopen.com
 icareemr.com
 icb2011.com
 icmat.net
+icoosky.com
 igarden365.com
 ijinfa.cn
 ik4.es
@@ -2872,6 +2955,7 @@ ikue.info
 imadebrand.com
 image.haosou.com
 immo-logis.net
+inf.news
 innofthedovedallas.com
 insideabritishmumskitchen.com
 insitedesigns.net
@@ -2879,8 +2963,10 @@ insurancefindersonline.com
 intowuzhen.com
 io04.com
 iolstl.com
+ipfsdrop.com
 ironbuffalocomics.com
 iso22000certification.com
+issueexplorer.com
 istartips.com
 it-swarm.cn
 it1352.com
@@ -2932,10 +3018,12 @@ jixiangfang.ws
 jiyifa.com
 jjj.gra-bnoqp.mianfeiwenku.com
 jk.zhihu.la
+jkyeg.com
 jlytgs.com
 jmjiedai.com
 jms88bwq.com
 jmydtc.com
+jn-job.com
 jnhf888.com
 jnhxkt.com
 jnluhongjs.com
@@ -2999,6 +3087,7 @@ kusearch.cc
 kushalinfra.com
 kushibar.com.tw
 kutu66.com
+kvkft.com
 kxwo.com
 kxxzz.com
 kyotohana.com
@@ -3014,6 +3103,8 @@ lawpert.com
 lawpingsew.com
 lbbaptist.com
 lcjkgc.cn
+ldzx.me
+leaktiff.com
 leewaynyc.net
 lemonbiscuitcrumbs.com
 leosem.com
@@ -3024,6 +3115,7 @@ li36b.com
 lighteningtikes.com
 lightfly.com.cn
 likecs.com
+likeji.net
 linksou.cc
 linksure.cn
 linqq.net
@@ -3035,8 +3127,10 @@ lkjfglass.com
 lkmheatlock.com
 lldn.net
 llzdhb.com
+lmubbs.com
 lnbird.com
 locvps.xyz
+lollmold.com
 loltftpro.com
 lomoo.com
 longtengkaibo.com
@@ -3055,6 +3149,7 @@ luton-china.com
 luxury-condos-miami.com
 lvse.com
 lvv2.com
+lvyou5.net
 lwesedu.com
 lxway.com
 lxway.net
@@ -3072,7 +3167,12 @@ mammothlakescrib.com
 manongjc.com
 manuals.plus
 manyanu.com
+manyushijia.com
+manze.com
 maoxinda.com
+marriedgames.com.br
+mauriziofontana.ch
+mch5k.com
 mcp-one.com
 mdeditor.tw
 mdlpg.com
@@ -3131,6 +3231,7 @@ nanmuxuan.com
 naotan020.com
 nas-portal.com
 natashaenglehardt.com
+nbdig.com
 nbyoho.com
 ncgtw.com
 ncshanhe.com
@@ -3144,6 +3245,7 @@ newtoday.cc
 nexteer.cc
 nicesou.cc
 nimasou.me
+ninisanj.com
 niostack.com
 niubb.net
 niul.net
@@ -3159,11 +3261,14 @@ notesearch.cc
 noticiarmoz.com
 notwiki.cn
 novascotiascott.com
+nrgmmu.net
 ntustsg.com
+nutritiontheatre.com
 nwuja.com
 nxtoten.com
 nyp655.com
 o2onlyone.net
+oartheir.com
 obnseo.com
 odeleading.com
 odf-ts.com
@@ -3175,15 +3280,18 @@ ohoneyjade.com
 oikm.net
 okzixun.net
 oliobonamini.com
+omatomeloanhikaku.com
 omniwise.com.tw
 oneho.cn
 onlineschoolsmontana.com
 ooxy.esgpm.top
 optima-ski.com
 ose.cc
+osetc.com
 ost-us.com
 ostack.cn
 otrjobmatch.com
+oudebaosw.com
 ouiot.com
 outshine.cn
 ouyiyule8.com
@@ -3203,6 +3311,7 @@ pcok100.com
 peiyige.com
 penzai.com
 persarea.com
+pervalkoje.lt
 pexim.vn
 photoplayhouse.com
 pianshen.com
@@ -3212,13 +3321,16 @@ pitalitobicentenario.com
 pjmrw.cn
 pjszy.com
 pktl.net
+planetarium-list.com
 platinumpro-online.com
 play-track.com
 pledz.cn
 pmyx.net
 pny555.com
+portlockgalleries.com
 ppfocus.com
 pretagteam.com
+print-ireland.com
 products212.com
 programmer.help
 programmerall.com
@@ -3237,6 +3349,7 @@ q8ab.com
 qastack.cn
 qcuao.top
 qdjjldaigou.com
+qhmnls.com
 qiain.com
 qiandaohutrip.cn
 qianzhaopeng.com
@@ -3274,15 +3387,19 @@ re2n9p.fmtywj.pw
 read01.com
 read678.com
 reallifetucson.com
+refertheme.com
 relcare.com.cn
 renniboix.loan
 renrengou1.com
 repingke.com
 repoarchive.com
+rezhishi.net
 rickyljonesphotography.com
 rightwithgod.net
 rjqyl.com
 rkgpc.date
+rmljlt.com
+robertbissett.com
 robertmwagner.com
 rockero.com.py
 ronzhuan.com
@@ -3296,6 +3413,7 @@ s0898.com
 sadyr.party
 saerim.net
 salon-diana.net
+samsungtime.com
 sanwenba.com
 saojiejie.023mp.net
 saopaulocalling.org
@@ -3463,14 +3581,16 @@ szbgp.com
 sznovalux.com
 szredsafe.com
 t-salon.cc
+t38g.com
 takecare.com.tw
+takedown.icu
 talleralcubo.com
 tanghtine.com
 taofx.cc
 taozx.cn
-tapatalk.com
 taptapdashonline.com
 tarinaka.com
+tauferer-ahrntal.eu
 tbbee.cc
 tceic.com
 tdjgw.com
@@ -3490,6 +3610,7 @@ thegentlemensboxinggym.com
 thelatinoartproject.com
 thelittlestrawberryfarm.com
 themortgagebeyondnetwork.com
+therejunction.com
 theupsstoredc.net
 thinbug.com
 tianman602.com
@@ -3527,8 +3648,10 @@ trik-tips.com
 trsl.me
 trust1688.com
 tsns.xyz
+tspweb.com
 tttiii.cc
 tujour.com
+tuokehj.com
 tvkrimpenerwaard.nl
 tw511.com
 twgjy.com
@@ -3553,6 +3676,7 @@ usechinavpn.com
 usku.xawqr.accountant
 uslos.com
 uwenku.com
+v1ex.com
 v6lr.adnfn.link
 valuesfootprint.com
 vcaaz.com
@@ -3611,8 +3735,10 @@ wenda123.org
 wenku1.com
 wenshanok.com
 wenshuw.com
+wenyanet.com
 westsectionclub.com
 whitneytembelis.com
+whjjms.com
 whldl.com
 whysw88.com
 wienfm.com
@@ -3645,6 +3771,7 @@ www3.udpdu.com
 wxhgfl.com
 wyel.okqqz.top
 wywqw.net
+wzfbydq.com
 wznk.net
 x3mr.cn
 x77ba.com
@@ -3672,6 +3799,7 @@ xinfuq.cn
 xinfx.cc
 xinguge.cn
 xinhexinli.com
+xiroou.com
 xjdpg.cn
 xjguke.com.cn
 xjlmst.com
@@ -3682,7 +3810,9 @@ xmtx88.com
 xmyt88.com
 xrbi.net
 xs.zhihu.la
+xshdkj.com
 xtoolsoft.com
+xuehua.us
 xuie.pw
 xuyich.com
 xxwmm.com
@@ -3745,6 +3875,7 @@ ytmushroom.com
 ytswx.com
 yu72.com
 yuanmacha.com
+yuccaglobalgroup.com
 yuediqu.com
 yues.org
 yuffz.com
@@ -3800,6 +3931,7 @@ zhuoyuelunwenwang.com
 zibolongmoo.com
 zihonggong.com
 zijl.cn
+zipaijingpin.cc
 zipperjob.cn
 zircondentalcraft.com
 zixundingzhi.com
@@ -3820,13 +3952,17 @@ zxbx.awejp.top
 zxsou.cc
 zxsy5.com
 zyldjd.com
+zymseo.com
 zyqct.com
 zz759.com
 zzhesheng.com
 zzjwcf.com
 zzyyo.com
+114.55.26.126
 118.193.38.103
+159.138.37.243
 23.95.222.127
+39.108.60.68
 47.241.89.120
 cloud.tencent.com/developer/ask
 cloud.tencent.com/developer/information
@@ -3872,6 +4008,7 @@ title/.*一键访问国外网站/
 *://*.100860.com/*
 *://*.101fashion.com.tw/*
 *://*.10241314.com/*
+*://*.1024dns.com/*
 *://*.103.hk/*
 *://*.10615.com.cn/*
 *://*.1141.net/*
@@ -3903,6 +4040,7 @@ title/.*一键访问国外网站/
 *://*.19kaifu.com/*
 *://*.1mpi.com/*
 *://*.1pyy.com/*
+*://*.1r1g.cn/*
 *://*.1r1g.com/*
 *://*.1wfd.com/*
 *://*.20122011.org/*
@@ -3946,6 +4084,7 @@ title/.*一键访问国外网站/
 *://*.356ae.com/*
 *://*.360adsolutions.com/*
 *://*.360du.net.cn/*
+*://*.373415.com/*
 *://*.373524.com/*
 *://*.38953h.cn/*
 *://*.392623.com/*
@@ -3959,6 +4098,7 @@ title/.*一键访问国外网站/
 *://*.3v4.net/*
 *://*.400839.com/*
 *://*.4382.loan/*
+*://*.4563.org/*
 *://*.4659866.com/*
 *://*.4743.loan/*
 *://*.4910.com/*
@@ -4006,6 +4146,7 @@ title/.*一键访问国外网站/
 *://*.686232.com/*
 *://*.68suan.com/*
 *://*.68xi.com/*
+*://*.693585.com/*
 *://*.6ke89.cn/*
 *://*.70ol.com/*
 *://*.710dnuv.com/*
@@ -4056,6 +4197,7 @@ title/.*一键访问国外网站/
 *://*.aaiv.net/*
 *://*.aasou.cc/*
 *://*.abadisurvey.com/*
+*://*.abcsou.cc/*
 *://*.abdwap.work/*
 *://*.abks.hfges.top/*
 *://*.ac590.com/*
@@ -4064,6 +4206,7 @@ title/.*一键访问国外网站/
 *://*.adwithaglobal.com/*
 *://*.aeo.com.cn/*
 *://*.aew-sdn.com/*
+*://*.ahafm.com/*
 *://*.ahaqsyfj.com/*
 *://*.ahm7.com/*
 *://*.ahmudan.com/*
@@ -4079,6 +4222,7 @@ title/.*一键访问国外网站/
 *://*.allside.news/*
 *://*.allweblink.com/*
 *://*.almtlakes.org/*
+*://*.ambkct.com/*
 *://*.ameliapharm.com/*
 *://*.amxpj000.com/*
 *://*.amxpj25.com/*
@@ -4101,6 +4245,7 @@ title/.*一键访问国外网站/
 *://*.appleglitz.com/*
 *://*.aptvgo.com/*
 *://*.archtek.com.tw/*
+*://*.art2008.net/*
 *://*.artwebradio.com/*
 *://*.ask.todgo.com/*
 *://*.askaic.com/*
@@ -4111,6 +4256,7 @@ title/.*一键访问国外网站/
 *://*.austrade-ch.com/*
 *://*.ayhbte168.com/*
 *://*.ayqqszx.com/*
+*://*.b7xe.com/*
 *://*.baba100.com/*
 *://*.baidle.com/*
 *://*.baidu.com.024women.com/*
@@ -4141,6 +4287,7 @@ title/.*一键访问国外网站/
 *://*.becreativeblog.com/*
 *://*.bellevuewatourism.com/*
 *://*.beqve.cn/*
+*://*.besetsod.com/*
 *://*.bestpdm.com/*
 *://*.bg8399.com/*
 *://*.bhjck.com/*
@@ -4182,6 +4329,8 @@ title/.*一键访问国外网站/
 *://*.bushini.de/*
 *://*.business-web-sites-hosting.com/*
 *://*.buylun.com/*
+*://*.buzzhollowrailroad.com/*
+*://*.bv2ex.com/*
 *://*.bvjpsb.net/*
 *://*.bxlac.com/*
 *://*.bynss.com/*
@@ -4191,6 +4340,7 @@ title/.*一键访问国外网站/
 *://*.caao.net/*
 *://*.cadfanholidays.co.uk/*
 *://*.cafegatto.com/*
+*://*.caihonggang.com/*
 *://*.caijing114.com/*
 *://*.cameron-a-reviews.com/*
 *://*.cancer0086.com/*
@@ -4218,6 +4368,7 @@ title/.*一键访问国外网站/
 *://*.chezaiyi.cn/*
 *://*.chihome.com.tw/*
 *://*.chihovet.com.tw/*
+*://*.chika-web.net/*
 *://*.china-jianzhu.com/*
 *://*.china-nzgys.com/*
 *://*.chinadmd.com/*
@@ -4258,6 +4409,7 @@ title/.*一键访问国外网站/
 *://*.ctocio.com.cn/*
 *://*.ctyyn.com/*
 *://*.cubeproductions.net/*
+*://*.cuoshuo.com/*
 *://*.custompatches4u.com/*
 *://*.cxjygj.com/*
 *://*.cxybb.com/*
@@ -4270,16 +4422,21 @@ title/.*一键访问国外网站/
 *://*.cyhs888.com/*
 *://*.cyhtzd.com/*
 *://*.czmuhe.com/*
+*://*.czsfj.cn/*
 *://*.czsjsb.com/*
 *://*.da-quan.net/*
 *://*.dacongyun.com/*
+*://*.dafx.cc/*
 *://*.daidaigou.org/*
 *://*.daigoupiggy.com/*
+*://*.daimajiaoliu.com/*
 *://*.dainifei.info/*
 *://*.daizhiduo.com/*
 *://*.dajobrinkman.net/*
 *://*.damingweb.com/*
+*://*.dancerspointewinchester.com/*
 *://*.daokeyou.top/*
+*://*.dauphinislandcondos.com/*
 *://*.daxuesou.com/*
 *://*.daydaynews.cc/*
 *://*.dc120.com.cn/*
@@ -4297,6 +4454,7 @@ title/.*一键访问国外网站/
 *://*.dghuigao.com/*
 *://*.dglangan.com/*
 *://*.dglnfk.com/*
+*://*.dgscjd.com/*
 *://*.dgso.cn/*
 *://*.dgth88.com/*
 *://*.dgwaves.com/*
@@ -4313,17 +4471,20 @@ title/.*一键访问国外网站/
 *://*.dljinhaian.com/*
 *://*.dlpzj.com/*
 *://*.dlyswlkj.com/*
+*://*.docway.net/*
 *://*.doczj.com/*
 *://*.donglian640.com/*
 *://*.dongnanshan.com/*
 *://*.dongxzs.com/*
 *://*.doo.me/*
 *://*.doreenbabycare.com/*
+*://*.dovov.com/*
 *://*.dpwatch8.com/*
 *://*.dqzdhw.com/*
 *://*.dtybnh.com/*
 *://*.duanzh.com/*
 *://*.duanzhihu.com/*
+*://*.duboot.com/*
 *://*.dunstanhardcastle.com/*
 *://*.duoduohelp.com/*
 *://*.duonao.cc/*
@@ -4354,6 +4515,7 @@ title/.*一键访问国外网站/
 *://*.entertainment14.net/*
 *://*.eooele.com/*
 *://*.eqisou.net/*
+*://*.eqisz.com/*
 *://*.erdie826.com/*
 *://*.esame.cn/*
 *://*.eshidai.com/*
@@ -4376,6 +4538,7 @@ title/.*一键访问国外网站/
 *://*.fastso.cn/*
 *://*.fatie.me/*
 *://*.fbws.razot.top/*
+*://*.fcaweb.de/*
 *://*.feihongxuexiao.com/*
 *://*.feijiangpack.com/*
 *://*.fenglangty.com/*
@@ -4414,15 +4577,19 @@ title/.*一键访问国外网站/
 *://*.fuyimokuai.com/*
 *://*.fuyingdq.com/*
 *://*.fuzadu.com/*
+*://*.fwqzdm.com/*
 *://*.fwtd.cn/*
+*://*.fy6m.com/*
 *://*.fydqw.com/*
 *://*.fzjk.kxhsm.top/*
 *://*.gaaf.klvgb.loan/*
 *://*.gadgetarq.com/*
 *://*.gadgetstroop.com/*
 *://*.gaiwen.com/*
+*://*.galacticnewsone.com/*
 *://*.gametalk.site/*
 *://*.gaojiq.cn/*
+*://*.gapemill.com/*
 *://*.gbfgg.cn/*
 *://*.gd12121.com/*
 *://*.gdbgp.com/*
@@ -4443,7 +4610,10 @@ title/.*一键访问国外网站/
 *://*.ghosttrainbuilder.com/*
 *://*.gionee.com/*
 *://*.giters.com/*
+*://*.github-wiki-see.page/*
+*://*.githubhelp.com/*
 *://*.githubmemory.com/*
+*://*.gitmemory.cn/*
 *://*.gitmemory.com/*
 *://*.gjfs.com.cn/*
 *://*.gkgjws.com/*
@@ -4457,6 +4627,8 @@ title/.*一键访问国外网站/
 *://*.gouo.cn/*
 *://*.graphenstone-china.com/*
 *://*.grcamerada.com/*
+*://*.greenengineeringgroup.com/*
+*://*.greentravelnwanders.co/*
 *://*.grinstreet.ru/*
 *://*.gsmxm.com/*
 *://*.gsmy791.com/*
@@ -4489,12 +4661,14 @@ title/.*一键访问国外网站/
 *://*.hao4k.cn/*
 *://*.hao8.net/*
 *://*.haohuolife.com/*
+*://*.haokuaisou.cc/*
 *://*.haoqu.org/*
 *://*.haorizs.com/*
 *://*.haoxp123.com/*
 *://*.haoyar.com/*
 *://*.haoyiwuliu.com/*
 *://*.happyjyjt.com/*
+*://*.harmonyteck.com/*
 *://*.hayaliicraat.com/*
 *://*.hbbslkj.com/*
 *://*.hbhuiran.com/*
@@ -4510,6 +4684,8 @@ title/.*一键访问国外网站/
 *://*.hedo188.com/*
 *://*.help315.com.cn/*
 *://*.henankuai328.bid/*
+*://*.herokuapp.com/*
+*://*.herpesoutbreaktreatment-reviews.com/*
 *://*.hezu6pro.cn/*
 *://*.hfiphone.com/*
 *://*.hfxxgang.com/*
@@ -4518,6 +4694,7 @@ title/.*一键访问国外网站/
 *://*.hgqbq.cn/*
 *://*.hhhtjtb.com.cn/*
 *://*.hicaopan.com/*
+*://*.hiegong.com/*
 *://*.highdesertboutiquevendors.com/*
 *://*.hipstacowboys.com/*
 *://*.hitalk.site/*
@@ -4537,6 +4714,7 @@ title/.*一键访问国外网站/
 *://*.hnxel.com/*
 *://*.homeliva.com/*
 *://*.homewanchai.com/*
+*://*.honerint.com/*
 *://*.honghuahui.app/*
 *://*.hongkongxzm.com/*
 *://*.hongsheng1998.com/*
@@ -4556,6 +4734,7 @@ title/.*一键访问国外网站/
 *://*.huankangfc.com/*
 *://*.huanqiao406.com/*
 *://*.huanyuxumu.com/*
+*://*.huaweicloud.com/s/*
 *://*.huayeshuzi.com/*
 *://*.hubin148.com/*
 *://*.huo123.cc/*
@@ -4576,6 +4755,7 @@ title/.*一键访问国外网站/
 *://*.icareemr.com/*
 *://*.icb2011.com/*
 *://*.icmat.net/*
+*://*.icoosky.com/*
 *://*.igarden365.com/*
 *://*.ijinfa.cn/*
 *://*.ik4.es/*
@@ -4583,6 +4763,7 @@ title/.*一键访问国外网站/
 *://*.imadebrand.com/*
 *://*.image.haosou.com/*
 *://*.immo-logis.net/*
+*://*.inf.news/*
 *://*.innofthedovedallas.com/*
 *://*.insideabritishmumskitchen.com/*
 *://*.insitedesigns.net/*
@@ -4590,8 +4771,10 @@ title/.*一键访问国外网站/
 *://*.intowuzhen.com/*
 *://*.io04.com/*
 *://*.iolstl.com/*
+*://*.ipfsdrop.com/*
 *://*.ironbuffalocomics.com/*
 *://*.iso22000certification.com/*
+*://*.issueexplorer.com/*
 *://*.istartips.com/*
 *://*.it-swarm.cn/*
 *://*.it1352.com/*
@@ -4643,10 +4826,12 @@ title/.*一键访问国外网站/
 *://*.jiyifa.com/*
 *://*.jjj.gra-bnoqp.mianfeiwenku.com/*
 *://*.jk.zhihu.la/*
+*://*.jkyeg.com/*
 *://*.jlytgs.com/*
 *://*.jmjiedai.com/*
 *://*.jms88bwq.com/*
 *://*.jmydtc.com/*
+*://*.jn-job.com/*
 *://*.jnhf888.com/*
 *://*.jnhxkt.com/*
 *://*.jnluhongjs.com/*
@@ -4710,6 +4895,7 @@ title/.*一键访问国外网站/
 *://*.kushalinfra.com/*
 *://*.kushibar.com.tw/*
 *://*.kutu66.com/*
+*://*.kvkft.com/*
 *://*.kxwo.com/*
 *://*.kxxzz.com/*
 *://*.kyotohana.com/*
@@ -4725,6 +4911,8 @@ title/.*一键访问国外网站/
 *://*.lawpingsew.com/*
 *://*.lbbaptist.com/*
 *://*.lcjkgc.cn/*
+*://*.ldzx.me/*
+*://*.leaktiff.com/*
 *://*.leewaynyc.net/*
 *://*.lemonbiscuitcrumbs.com/*
 *://*.leosem.com/*
@@ -4735,6 +4923,7 @@ title/.*一键访问国外网站/
 *://*.lighteningtikes.com/*
 *://*.lightfly.com.cn/*
 *://*.likecs.com/*
+*://*.likeji.net/*
 *://*.linksou.cc/*
 *://*.linksure.cn/*
 *://*.linqq.net/*
@@ -4746,8 +4935,10 @@ title/.*一键访问国外网站/
 *://*.lkmheatlock.com/*
 *://*.lldn.net/*
 *://*.llzdhb.com/*
+*://*.lmubbs.com/*
 *://*.lnbird.com/*
 *://*.locvps.xyz/*
+*://*.lollmold.com/*
 *://*.loltftpro.com/*
 *://*.lomoo.com/*
 *://*.longtengkaibo.com/*
@@ -4766,6 +4957,7 @@ title/.*一键访问国外网站/
 *://*.luxury-condos-miami.com/*
 *://*.lvse.com/*
 *://*.lvv2.com/*
+*://*.lvyou5.net/*
 *://*.lwesedu.com/*
 *://*.lxway.com/*
 *://*.lxway.net/*
@@ -4783,7 +4975,12 @@ title/.*一键访问国外网站/
 *://*.manongjc.com/*
 *://*.manuals.plus/*
 *://*.manyanu.com/*
+*://*.manyushijia.com/*
+*://*.manze.com/*
 *://*.maoxinda.com/*
+*://*.marriedgames.com.br/*
+*://*.mauriziofontana.ch/*
+*://*.mch5k.com/*
 *://*.mcp-one.com/*
 *://*.mdeditor.tw/*
 *://*.mdlpg.com/*
@@ -4842,6 +5039,7 @@ title/.*一键访问国外网站/
 *://*.naotan020.com/*
 *://*.nas-portal.com/*
 *://*.natashaenglehardt.com/*
+*://*.nbdig.com/*
 *://*.nbyoho.com/*
 *://*.ncgtw.com/*
 *://*.ncshanhe.com/*
@@ -4855,6 +5053,7 @@ title/.*一键访问国外网站/
 *://*.nexteer.cc/*
 *://*.nicesou.cc/*
 *://*.nimasou.me/*
+*://*.ninisanj.com/*
 *://*.niostack.com/*
 *://*.niubb.net/*
 *://*.niul.net/*
@@ -4870,11 +5069,14 @@ title/.*一键访问国外网站/
 *://*.noticiarmoz.com/*
 *://*.notwiki.cn/*
 *://*.novascotiascott.com/*
+*://*.nrgmmu.net/*
 *://*.ntustsg.com/*
+*://*.nutritiontheatre.com/*
 *://*.nwuja.com/*
 *://*.nxtoten.com/*
 *://*.nyp655.com/*
 *://*.o2onlyone.net/*
+*://*.oartheir.com/*
 *://*.obnseo.com/*
 *://*.odeleading.com/*
 *://*.odf-ts.com/*
@@ -4886,15 +5088,18 @@ title/.*一键访问国外网站/
 *://*.oikm.net/*
 *://*.okzixun.net/*
 *://*.oliobonamini.com/*
+*://*.omatomeloanhikaku.com/*
 *://*.omniwise.com.tw/*
 *://*.oneho.cn/*
 *://*.onlineschoolsmontana.com/*
 *://*.ooxy.esgpm.top/*
 *://*.optima-ski.com/*
 *://*.ose.cc/*
+*://*.osetc.com/*
 *://*.ost-us.com/*
 *://*.ostack.cn/*
 *://*.otrjobmatch.com/*
+*://*.oudebaosw.com/*
 *://*.ouiot.com/*
 *://*.outshine.cn/*
 *://*.ouyiyule8.com/*
@@ -4914,6 +5119,7 @@ title/.*一键访问国外网站/
 *://*.peiyige.com/*
 *://*.penzai.com/*
 *://*.persarea.com/*
+*://*.pervalkoje.lt/*
 *://*.pexim.vn/*
 *://*.photoplayhouse.com/*
 *://*.pianshen.com/*
@@ -4923,13 +5129,16 @@ title/.*一键访问国外网站/
 *://*.pjmrw.cn/*
 *://*.pjszy.com/*
 *://*.pktl.net/*
+*://*.planetarium-list.com/*
 *://*.platinumpro-online.com/*
 *://*.play-track.com/*
 *://*.pledz.cn/*
 *://*.pmyx.net/*
 *://*.pny555.com/*
+*://*.portlockgalleries.com/*
 *://*.ppfocus.com/*
 *://*.pretagteam.com/*
+*://*.print-ireland.com/*
 *://*.products212.com/*
 *://*.programmer.help/*
 *://*.programmerall.com/*
@@ -4948,6 +5157,7 @@ title/.*一键访问国外网站/
 *://*.qastack.cn/*
 *://*.qcuao.top/*
 *://*.qdjjldaigou.com/*
+*://*.qhmnls.com/*
 *://*.qiain.com/*
 *://*.qiandaohutrip.cn/*
 *://*.qianzhaopeng.com/*
@@ -4985,15 +5195,19 @@ title/.*一键访问国外网站/
 *://*.read01.com/*
 *://*.read678.com/*
 *://*.reallifetucson.com/*
+*://*.refertheme.com/*
 *://*.relcare.com.cn/*
 *://*.renniboix.loan/*
 *://*.renrengou1.com/*
 *://*.repingke.com/*
 *://*.repoarchive.com/*
+*://*.rezhishi.net/*
 *://*.rickyljonesphotography.com/*
 *://*.rightwithgod.net/*
 *://*.rjqyl.com/*
 *://*.rkgpc.date/*
+*://*.rmljlt.com/*
+*://*.robertbissett.com/*
 *://*.robertmwagner.com/*
 *://*.rockero.com.py/*
 *://*.ronzhuan.com/*
@@ -5007,6 +5221,7 @@ title/.*一键访问国外网站/
 *://*.sadyr.party/*
 *://*.saerim.net/*
 *://*.salon-diana.net/*
+*://*.samsungtime.com/*
 *://*.sanwenba.com/*
 *://*.saojiejie.023mp.net/*
 *://*.saopaulocalling.org/*
@@ -5174,14 +5389,16 @@ title/.*一键访问国外网站/
 *://*.sznovalux.com/*
 *://*.szredsafe.com/*
 *://*.t-salon.cc/*
+*://*.t38g.com/*
 *://*.takecare.com.tw/*
+*://*.takedown.icu/*
 *://*.talleralcubo.com/*
 *://*.tanghtine.com/*
 *://*.taofx.cc/*
 *://*.taozx.cn/*
-*://*.tapatalk.com/*
 *://*.taptapdashonline.com/*
 *://*.tarinaka.com/*
+*://*.tauferer-ahrntal.eu/*
 *://*.tbbee.cc/*
 *://*.tceic.com/*
 *://*.tdjgw.com/*
@@ -5201,6 +5418,7 @@ title/.*一键访问国外网站/
 *://*.thelatinoartproject.com/*
 *://*.thelittlestrawberryfarm.com/*
 *://*.themortgagebeyondnetwork.com/*
+*://*.therejunction.com/*
 *://*.theupsstoredc.net/*
 *://*.thinbug.com/*
 *://*.tianman602.com/*
@@ -5238,8 +5456,10 @@ title/.*一键访问国外网站/
 *://*.trsl.me/*
 *://*.trust1688.com/*
 *://*.tsns.xyz/*
+*://*.tspweb.com/*
 *://*.tttiii.cc/*
 *://*.tujour.com/*
+*://*.tuokehj.com/*
 *://*.tvkrimpenerwaard.nl/*
 *://*.tw511.com/*
 *://*.twgjy.com/*
@@ -5264,6 +5484,7 @@ title/.*一键访问国外网站/
 *://*.usku.xawqr.accountant/*
 *://*.uslos.com/*
 *://*.uwenku.com/*
+*://*.v1ex.com/*
 *://*.v6lr.adnfn.link/*
 *://*.valuesfootprint.com/*
 *://*.vcaaz.com/*
@@ -5322,8 +5543,10 @@ title/.*一键访问国外网站/
 *://*.wenku1.com/*
 *://*.wenshanok.com/*
 *://*.wenshuw.com/*
+*://*.wenyanet.com/*
 *://*.westsectionclub.com/*
 *://*.whitneytembelis.com/*
+*://*.whjjms.com/*
 *://*.whldl.com/*
 *://*.whysw88.com/*
 *://*.wienfm.com/*
@@ -5356,6 +5579,7 @@ title/.*一键访问国外网站/
 *://*.wxhgfl.com/*
 *://*.wyel.okqqz.top/*
 *://*.wywqw.net/*
+*://*.wzfbydq.com/*
 *://*.wznk.net/*
 *://*.x3mr.cn/*
 *://*.x77ba.com/*
@@ -5383,6 +5607,7 @@ title/.*一键访问国外网站/
 *://*.xinfx.cc/*
 *://*.xinguge.cn/*
 *://*.xinhexinli.com/*
+*://*.xiroou.com/*
 *://*.xjdpg.cn/*
 *://*.xjguke.com.cn/*
 *://*.xjlmst.com/*
@@ -5393,7 +5618,9 @@ title/.*一键访问国外网站/
 *://*.xmyt88.com/*
 *://*.xrbi.net/*
 *://*.xs.zhihu.la/*
+*://*.xshdkj.com/*
 *://*.xtoolsoft.com/*
+*://*.xuehua.us/*
 *://*.xuie.pw/*
 *://*.xuyich.com/*
 *://*.xxwmm.com/*
@@ -5456,6 +5683,7 @@ title/.*一键访问国外网站/
 *://*.ytswx.com/*
 *://*.yu72.com/*
 *://*.yuanmacha.com/*
+*://*.yuccaglobalgroup.com/*
 *://*.yuediqu.com/*
 *://*.yues.org/*
 *://*.yuffz.com/*
@@ -5511,6 +5739,7 @@ title/.*一键访问国外网站/
 *://*.zibolongmoo.com/*
 *://*.zihonggong.com/*
 *://*.zijl.cn/*
+*://*.zipaijingpin.cc/*
 *://*.zipperjob.cn/*
 *://*.zircondentalcraft.com/*
 *://*.zixundingzhi.com/*
@@ -5531,13 +5760,17 @@ title/.*一键访问国外网站/
 *://*.zxsou.cc/*
 *://*.zxsy5.com/*
 *://*.zyldjd.com/*
+*://*.zymseo.com/*
 *://*.zyqct.com/*
 *://*.zz759.com/*
 *://*.zzhesheng.com/*
 *://*.zzjwcf.com/*
 *://*.zzyyo.com/*
+*://114.55.26.126/*
 *://118.193.38.103/*
+*://159.138.37.243/*
 *://23.95.222.127/*
+*://39.108.60.68/*
 *://47.241.89.120/*
 *://cloud.tencent.com/developer/ask/*
 *://cloud.tencent.com/developer/information/*

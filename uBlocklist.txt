@@ -1,5 +1,5 @@
 
- Update weekly at 2022-01-03 17:15:55 UTC+0800
+ Update weekly at 2022-01-09 08:23:52 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -216,6 +216,7 @@
 *://*.101shequ.com/*
 *://*.101super.buzz/*
 *://*.10241314.com/*
+*://*.1024dns.com/*
 *://*.103.hk/*
 *://*.1037293.cn/*
 *://*.1040chz.cn/*
@@ -364,6 +365,7 @@
 *://*.1pyy.com/*
 *://*.1qplay.com/*
 *://*.1qsd.com/*
+*://*.1r1g.cn/*
 *://*.1r1g.com/*
 *://*.1shouxi.com/*
 *://*.1sta7r0.cn/*
@@ -569,6 +571,7 @@
 *://*.369bt.cn/*
 *://*.36ho.com/*
 *://*.36wi.com/*
+*://*.373415.com/*
 *://*.373524.com/*
 *://*.37485.cn/*
 *://*.3777cq.com/*
@@ -679,6 +682,7 @@
 *://*.4486084.cn/*
 *://*.450204s.cn/*
 *://*.45410.cn/*
+*://*.4563.org/*
 *://*.45710.cn/*
 *://*.457ft0p.cn/*
 *://*.45bq.com/*
@@ -962,6 +966,7 @@
 *://*.68sxtc.com/*
 *://*.68xcw.com/*
 *://*.68xi.com/*
+*://*.693585.com/*
 *://*.69700008.com/*
 *://*.69d27va.cn/*
 *://*.69lives.buzz/*
@@ -1300,6 +1305,7 @@
 *://*.abbyjd.com/*
 *://*.abbyychina.com/*
 *://*.abcpowerwash.buzz/*
+*://*.abcsou.cc/*
 *://*.abdwap.work/*
 *://*.abitibimining.buzz/*
 *://*.abks.hfges.top/*
@@ -1368,6 +1374,7 @@
 *://*.aggw3fw.cn/*
 *://*.agoracentredestudis.buzz/*
 *://*.agui98.com/*
+*://*.ahafm.com/*
 *://*.ahaqsyfj.com/*
 *://*.ahead-consulting.buzz/*
 *://*.ahfi02z.cn/*
@@ -1459,6 +1466,7 @@
 *://*.alsace-casino.buzz/*
 *://*.alsorsl.buzz/*
 *://*.altierisauto.buzz/*
+*://*.ambkct.com/*
 *://*.ameliapharm.com/*
 *://*.amercoffee.buzz/*
 *://*.americankidswear.buzz/*
@@ -1564,6 +1572,7 @@
 *://*.art-e-factum.buzz/*
 *://*.art027.cn/*
 *://*.art0510.com/*
+*://*.art2008.net/*
 *://*.artachodelpino-abogados.buzz/*
 *://*.artaroundtheglobe.buzz/*
 *://*.artbikinis.buzz/*
@@ -1647,6 +1656,7 @@
 *://*.b5211.cn/*
 *://*.b6exgus.cn/*
 *://*.b79l.com/*
+*://*.b7xe.com/*
 *://*.b8pop.cn/*
 *://*.b9j.njaym.com/*
 *://*.baba100.com/*
@@ -1764,6 +1774,7 @@
 *://*.bentbpi.com/*
 *://*.beqve.cn/*
 *://*.bertonerimarble.buzz/*
+*://*.besetsod.com/*
 *://*.bessca.com/*
 *://*.bessybug.buzz/*
 *://*.best-of-best.buzz/*
@@ -1983,6 +1994,8 @@
 *://*.buwoline.buzz/*
 *://*.buyhomehub.cn/*
 *://*.buylun.com/*
+*://*.buzzhollowrailroad.com/*
+*://*.bv2ex.com/*
 *://*.bvjpsb.net/*
 *://*.bwclkkh.cn/*
 *://*.bx8z.cn/*
@@ -2025,6 +2038,7 @@
 *://*.cahors-la.buzz/*
 *://*.caida168.com/*
 *://*.caiguoxww.com/*
+*://*.caihonggang.com/*
 *://*.caijing114.com/*
 *://*.cailaiipo.com/*
 *://*.cailunwang.com/*
@@ -2160,6 +2174,7 @@
 *://*.chezaiyi.cn/*
 *://*.chihome.com.tw/*
 *://*.chihovet.com.tw/*
+*://*.chika-web.net/*
 *://*.childefish.com/*
 *://*.china-jianzhu.com/*
 *://*.china-nzgys.com/*
@@ -2316,6 +2331,7 @@
 *://*.copoen.cn/*
 *://*.copyan.com/*
 *://*.corbistore.buzz/*
+*://*.coredump.biz/*
 *://*.coreldrawchina.com/*
 *://*.corkyevans.buzz/*
 *://*.corningfranklinhealth.buzz/*
@@ -2402,6 +2418,7 @@
 *://*.cumslinger.buzz/*
 *://*.cundang.cc/*
 *://*.cunzad.cn/*
+*://*.cuoshuo.com/*
 *://*.curitis.cn/*
 *://*.curlinglaviolette.buzz/*
 *://*.custompatches4u.com/*
@@ -2457,6 +2474,7 @@
 *://*.czokzz.com/*
 *://*.czoxhg.com/*
 *://*.czrkzc.com/*
+*://*.czsfj.cn/*
 *://*.czsjsb.com/*
 *://*.czssd.com/*
 *://*.czstar.cn/*
@@ -2483,8 +2501,10 @@
 *://*.dadayx.com/*
 *://*.daewoohair.buzz/*
 *://*.dafahao.com/*
+*://*.dafx.cc/*
 *://*.daidaigou.org/*
 *://*.daigoupiggy.com/*
+*://*.daimajiaoliu.com/*
 *://*.dainifei.info/*
 *://*.daiyun787.cn/*
 *://*.daizhiduo.com/*
@@ -2497,6 +2517,7 @@
 *://*.damingweb.com/*
 *://*.damoyinhu.com/*
 *://*.damth.com/*
+*://*.dancerspointewinchester.com/*
 *://*.dansww.buzz/*
 *://*.daogoutuan.com/*
 *://*.daokeyou.top/*
@@ -2507,6 +2528,7 @@
 *://*.datatables.club/*
 *://*.datatianji.com/*
 *://*.datianlong.cn/*
+*://*.dauphinislandcondos.com/*
 *://*.dav01.com/*
 *://*.davidsonandrade.buzz/*
 *://*.daxuesou.com/*
@@ -2578,6 +2600,7 @@
 *://*.dglangan.com/*
 *://*.dglhuojia.com/*
 *://*.dglnfk.com/*
+*://*.dgscjd.com/*
 *://*.dgshuma.com/*
 *://*.dgso.cn/*
 *://*.dgth88.com/*
@@ -2871,6 +2894,7 @@
 *://*.epx75vk.cn/*
 *://*.eq-laboratories.buzz/*
 *://*.eqisou.net/*
+*://*.eqisz.com/*
 *://*.eqve8n3.cn/*
 *://*.eqwvd5a.cn/*
 *://*.eqy5ym6.cn/*
@@ -2984,6 +3008,7 @@
 *://*.fbijeans.cn/*
 *://*.fbws.razot.top/*
 *://*.fc912.com/*
+*://*.fcaweb.de/*
 *://*.fcbqg.com/*
 *://*.fccjxxw.com/*
 *://*.fcgad.cn/*
@@ -3171,6 +3196,7 @@
 *://*.fvz329.cn/*
 *://*.fwbdl.com/*
 *://*.fwq120.com/*
+*://*.fwqzdm.com/*
 *://*.fwtd.cn/*
 *://*.fx047.com/*
 *://*.fx2l5.com/*
@@ -3178,6 +3204,7 @@
 *://*.fx6t.com/*
 *://*.fxdsgc.com/*
 *://*.fxjsrd.cn/*
+*://*.fy6m.com/*
 *://*.fydqw.com/*
 *://*.fyjxzl.com/*
 *://*.fynqyz.com/*
@@ -3211,6 +3238,7 @@
 *://*.gadgetstroop.com/*
 *://*.gahongyun.com/*
 *://*.gaiwen.com/*
+*://*.galacticnewsone.com/*
 *://*.galleri50.com/*
 *://*.gamejs123.com/*
 *://*.gamesxfp.cn/*
@@ -3222,6 +3250,7 @@
 *://*.gaokaobj.cn/*
 *://*.gaolou9899.cn/*
 *://*.gaomi88.com/*
+*://*.gapemill.com/*
 *://*.garantiparamatik.buzz/*
 *://*.gatelodgekinross.com/*
 *://*.gatenet1.buzz/*
@@ -3303,7 +3332,10 @@
 *://*.girard-lakecity.buzz/*
 *://*.girlboy.cn/*
 *://*.giters.com/*
+*://*.github-wiki-see.page/*
+*://*.githubhelp.com/*
 *://*.githubmemory.com/*
+*://*.gitmemory.cn/*
 *://*.gitmemory.com/*
 *://*.gittxgd.cn/*
 *://*.gizchina.it/*
@@ -3392,6 +3424,8 @@
 *://*.great-hall.cn/*
 *://*.greatparker.buzz/*
 *://*.greattop.cn/*
+*://*.greenengineeringgroup.com/*
+*://*.greentravelnwanders.co/*
 *://*.grhqrx.cn/*
 *://*.grinstreet.ru/*
 *://*.grizwood.buzz/*
@@ -3563,6 +3597,7 @@
 *://*.haohetech.com/*
 *://*.haohuolife.com/*
 *://*.haojiaya.com/*
+*://*.haokuaisou.cc/*
 *://*.haoqu.org/*
 *://*.haoqzk.com/*
 *://*.haorizs.com/*
@@ -3574,6 +3609,7 @@
 *://*.happy128.com/*
 *://*.happy1801.com/*
 *://*.happyjyjt.com/*
+*://*.harmonyteck.com/*
 *://*.harrysurplus.buzz/*
 *://*.hawaii-jewelry.buzz/*
 *://*.haxituan.com/*
@@ -3670,7 +3706,9 @@
 *://*.heqianwang.com/*
 *://*.heritagemortgagebroker.buzz/*
 *://*.hermanogabriel.buzz/*
+*://*.herokuapp.com/*
 *://*.herotu.com/*
+*://*.herpesoutbreaktreatment-reviews.com/*
 *://*.hexielaw.com/*
 *://*.heyuanheng.com/*
 *://*.hezs88.com/*
@@ -3707,6 +3745,7 @@
 *://*.hhonorscardaccountonline.buzz/*
 *://*.hhq5hq.cn/*
 *://*.hicaopan.com/*
+*://*.hiegong.com/*
 *://*.hiensse.com/*
 *://*.higginsvillemfa.buzz/*
 *://*.highclassass.buzz/*
@@ -3800,6 +3839,7 @@
 *://*.homeshownet.buzz/*
 *://*.homewanchai.com/*
 *://*.homopathic.buzz/*
+*://*.honerint.com/*
 *://*.honfleurhill.buzz/*
 *://*.honghuahui.app/*
 *://*.hongkonginstyle.buzz/*
@@ -3890,6 +3930,7 @@
 *://*.huanyuxumu.com/*
 *://*.huaqiang168.cn/*
 *://*.huataiok.com/*
+*://*.huaweicloud.com/s/*
 *://*.huaxing198.com/*
 *://*.huayeshuzi.com/*
 *://*.huayuanme.com/*
@@ -4021,6 +4062,7 @@
 *://*.icmat.net/*
 *://*.icnmall.com/*
 *://*.iconworkshop.cn/*
+*://*.icoosky.com/*
 *://*.icopy.site/*
 *://*.icp-bbs.com/*
 *://*.icplf.cn/*
@@ -4086,6 +4128,7 @@
 *://*.imzx9e7.cn/*
 *://*.in-soft.cn/*
 *://*.incj1ce.cn/*
+*://*.inf.news/*
 *://*.infinite-visions.buzz/*
 *://*.infonerve.com/*
 *://*.inkworker.com/*
@@ -4109,6 +4152,7 @@
 *://*.iolstl.com/*
 *://*.ipcnpdu.cn/*
 *://*.ipeizi.xyz/*
+*://*.ipfsdrop.com/*
 *://*.ipgclub.com/*
 *://*.iphonezu.com/*
 *://*.ipolarstar.cn/*
@@ -4125,6 +4169,7 @@
 *://*.iskeke.com/*
 *://*.island-magic.buzz/*
 *://*.iso22000certification.com/*
+*://*.issueexplorer.com/*
 *://*.istartips.com/*
 *://*.it-mure.jp.net/*
 *://*.it-swarm.cn/*
@@ -4341,6 +4386,7 @@
 *://*.jk9i330.cn/*
 *://*.jke5.com/*
 *://*.jke7a9o.cn/*
+*://*.jkyeg.com/*
 *://*.jl9d.com/*
 *://*.jldczl.com/*
 *://*.jlhxhg.com/*
@@ -4366,6 +4412,7 @@
 *://*.jmweizheng.com/*
 *://*.jmydtc.com/*
 *://*.jmzpqy.com/*
+*://*.jn-job.com/*
 *://*.jn38800.com/*
 *://*.jngk4d4.cn/*
 *://*.jnhf888.com/*
@@ -4721,6 +4768,7 @@
 *://*.kuwanppc.com/*
 *://*.kuwcuzo.cn/*
 *://*.kuxuan06.cn/*
+*://*.kvkft.com/*
 *://*.kvztngq.cn/*
 *://*.kwfvivoice.com/*
 *://*.kwsnc.cn/*
@@ -4804,9 +4852,11 @@
 *://*.ldofi24.cn/*
 *://*.ldpgsbt.cn/*
 *://*.ldqijkv.cn/*
+*://*.ldzx.me/*
 *://*.le16rb0.cn/*
 *://*.le1q0cn.cn/*
 *://*.leafguardusa.buzz/*
+*://*.leaktiff.com/*
 *://*.leapskyward.buzz/*
 *://*.led-b.cn/*
 *://*.ledong.net.cn/*
@@ -4873,6 +4923,7 @@
 *://*.lihengfur.com/*
 *://*.likebl.com/*
 *://*.likecs.com/*
+*://*.likeji.net/*
 *://*.lilyid.com/*
 *://*.lindberg-import.buzz/*
 *://*.lingerieorless.buzz/*
@@ -4938,6 +4989,7 @@
 *://*.lmmcqhr.cn/*
 *://*.lmspt.com/*
 *://*.lmtdtc.com/*
+*://*.lmubbs.com/*
 *://*.lmx8.cn/*
 *://*.ln8hours.com/*
 *://*.lnbird.com/*
@@ -4952,6 +5004,7 @@
 *://*.logadmin.cn/*
 *://*.logoshejishi.com/*
 *://*.loldlle.com/*
+*://*.lollmold.com/*
 *://*.loltftpro.com/*
 *://*.lomobaby.com/*
 *://*.lomoo.com/*
@@ -5041,6 +5094,7 @@
 *://*.lvse.com/*
 *://*.lvtu78.com/*
 *://*.lvv2.com/*
+*://*.lvyou5.net/*
 *://*.lvyoucloud.com/*
 *://*.lvzhg.com/*
 *://*.lwesedu.com/*
@@ -5150,11 +5204,14 @@
 *://*.manongjc.com/*
 *://*.manuals.plus/*
 *://*.manyanu.com/*
+*://*.manyushijia.com/*
+*://*.manze.com/*
 *://*.maoxinda.com/*
 *://*.maoxinjiexie.cn/*
 *://*.mapxl.buzz/*
 *://*.maqima.com/*
 *://*.mariaswebdesign.buzz/*
+*://*.marriedgames.com.br/*
 *://*.marshluca.com/*
 *://*.marybethhouse.buzz/*
 *://*.maryellenmacke.buzz/*
@@ -5164,6 +5221,7 @@
 *://*.mathtype.cn/*
 *://*.matsa168.com/*
 *://*.mauhtcw.cn/*
+*://*.mauriziofontana.ch/*
 *://*.mavupzk.cn/*
 *://*.maximuum.com/*
 *://*.mbezdv.cn/*
@@ -5171,6 +5229,7 @@
 *://*.mcaren.com/*
 *://*.mcark.com/*
 *://*.mcbbc.net/*
+*://*.mch5k.com/*
 *://*.mcm888.com/*
 *://*.mcp-one.com/*
 *://*.mcp988.com/*
@@ -5465,6 +5524,7 @@
 *://*.nb7l8cm.cn/*
 *://*.nb930.cn/*
 *://*.nbdfsun.com/*
+*://*.nbdig.com/*
 *://*.nbdzyss.com/*
 *://*.nbmaitian.com/*
 *://*.nbqiandu.cn/*
@@ -5539,6 +5599,7 @@
 *://*.nimasou.me/*
 *://*.nimun.cn/*
 *://*.ninadz.com/*
+*://*.ninisanj.com/*
 *://*.niostack.com/*
 *://*.nipipi.cn/*
 *://*.nirlqqm.cn/*
@@ -5613,6 +5674,7 @@
 *://*.nqf8.cn/*
 *://*.nqg8.cn/*
 *://*.nqp8.cn/*
+*://*.nrgmmu.net/*
 *://*.nrjija.cn/*
 *://*.nrm8.cn/*
 *://*.nrmlmu.cn/*
@@ -5635,6 +5697,7 @@
 *://*.ntzhonglin.com/*
 *://*.nuanzhu100.com/*
 *://*.nujkw33.cn/*
+*://*.nutritiontheatre.com/*
 *://*.nv4sat.cn/*
 *://*.nvohcio.cn/*
 *://*.nvotent.cn/*
@@ -5672,6 +5735,7 @@
 *://*.o9qo0z4.cn/*
 *://*.oaddkx.cn/*
 *://*.oaktreecorp.buzz/*
+*://*.oartheir.com/*
 *://*.oasisbanquet.buzz/*
 *://*.oayjgxt.cn/*
 *://*.oaz7k8r.cn/*
@@ -5722,6 +5786,7 @@
 *://*.olkyg.cn/*
 *://*.olxls.com/*
 *://*.om00ibj.cn/*
+*://*.omatomeloanhikaku.com/*
 *://*.omerdesser.buzz/*
 *://*.omniwise.com.tw/*
 *://*.omsri.cn/*
@@ -5757,6 +5822,7 @@
 *://*.ork8t2.cn/*
 *://*.os8d0f.cn/*
 *://*.ose.cc/*
+*://*.osetc.com/*
 *://*.osevcy0.cn/*
 *://*.osgeo.cn/*
 *://*.osmazt.cn/*
@@ -5769,6 +5835,7 @@
 *://*.otcrong.com/*
 *://*.otrjobmatch.com/*
 *://*.otu80jn.cn/*
+*://*.oudebaosw.com/*
 *://*.ouiot.com/*
 *://*.ouliandianqi.cn/*
 *://*.ouqin2018.com/*
@@ -5870,6 +5937,7 @@
 *://*.persarea.com/*
 *://*.personalcreatiions.buzz/*
 *://*.personbiler.buzz/*
+*://*.pervalkoje.lt/*
 *://*.pet-hk.buzz/*
 *://*.peterrohner.buzz/*
 *://*.pexf.cn/*
@@ -5928,6 +5996,7 @@
 *://*.pktl.net/*
 *://*.pl91.cn/*
 *://*.planet7tech.buzz/*
+*://*.planetarium-list.com/*
 *://*.planetelex.buzz/*
 *://*.planetoffside.buzz/*
 *://*.plant-wide.buzz/*
@@ -5966,6 +6035,7 @@
 *://*.porno-rama.buzz/*
 *://*.pornolesbians.buzz/*
 *://*.pornovisio.buzz/*
+*://*.portlockgalleries.com/*
 *://*.postgit.com/*
 *://*.potclue.cn/*
 *://*.power.baidu.com/*
@@ -5985,6 +6055,7 @@
 *://*.premieredomain.buzz/*
 *://*.pretagteam.com/*
 *://*.prg8.cn/*
+*://*.print-ireland.com/*
 *://*.priyiuc.cn/*
 *://*.products212.com/*
 *://*.program-hub.cn/*
@@ -6111,6 +6182,7 @@
 *://*.qhiqrur.cn/*
 *://*.qhjxt.com/*
 *://*.qhleihao.com/*
+*://*.qhmnls.com/*
 *://*.qhqfaor.cn/*
 *://*.qi4csl.cn/*
 *://*.qiain.com/*
@@ -6313,6 +6385,7 @@
 *://*.redsunbaby.cn/*
 *://*.redveronica.buzz/*
 *://*.reevm.com/*
+*://*.refertheme.com/*
 *://*.relcare.com.cn/*
 *://*.relocate-us.buzz/*
 *://*.remorquesboeglin.buzz/*
@@ -6328,6 +6401,7 @@
 *://*.resolutionrealtyinc.buzz/*
 *://*.retainedvscontingent.buzz/*
 *://*.return-on-ideas.buzz/*
+*://*.rezhishi.net/*
 *://*.rf67.cn/*
 *://*.rf9zuz.cn/*
 *://*.rfa.org/*
@@ -6367,12 +6441,14 @@
 *://*.rlz8.cn/*
 *://*.rmj8.cn/*
 *://*.rml8.cn/*
+*://*.rmljlt.com/*
 *://*.rmoorepc.buzz/*
 *://*.rnwgj.com/*
 *://*.rnx8.cn/*
 *://*.ro5bgz2.cn/*
 *://*.robbceleb.buzz/*
 *://*.robco-enterprises.buzz/*
+*://*.robertbissett.com/*
 *://*.robertjutras.buzz/*
 *://*.robertmwagner.com/*
 *://*.rockero.com.py/*
@@ -6485,6 +6561,7 @@
 *://*.salon-diana.net/*
 *://*.salonseudunasunnot.buzz/*
 *://*.samsungcopier.buzz/*
+*://*.samsungtime.com/*
 *://*.sanajp.cn/*
 *://*.sanchilv.com/*
 *://*.sanfeng88.cn/*
@@ -7101,6 +7178,7 @@
 *://*.t1njhjn.cn/*
 *://*.t2gcap.com/*
 *://*.t2zmjr0.cn/*
+*://*.t38g.com/*
 *://*.t3ql4vu.cn/*
 *://*.t3tu774.cn/*
 *://*.t3yf190.cn/*
@@ -7120,6 +7198,7 @@
 *://*.taishengworld.com/*
 *://*.tajz5c.cn/*
 *://*.takecare.com.tw/*
+*://*.takedown.icu/*
 *://*.talleralcubo.com/*
 *://*.tallships2000.buzz/*
 *://*.taluopp.com/*
@@ -7134,7 +7213,6 @@
 *://*.taoxiaodui.com/*
 *://*.taoxingyou.com/*
 *://*.taozx.cn/*
-*://*.tapatalk.com/*
 *://*.taptapdashonline.com/*
 *://*.tarinaka.com/*
 *://*.tasarikurkmod.buzz/*
@@ -7143,6 +7221,7 @@
 *://*.tatest.cn/*
 *://*.tauckbridges.buzz/*
 *://*.tauckvacations4less.buzz/*
+*://*.tauferer-ahrntal.eu/*
 *://*.tazmw.com/*
 *://*.tb590.com/*
 *://*.tb67.cn/*
@@ -7211,6 +7290,7 @@
 *://*.theogreiner.buzz/*
 *://*.thepenguinsquad.buzz/*
 *://*.therapist-list.buzz/*
+*://*.therejunction.com/*
 *://*.thermtecuk.buzz/*
 *://*.theshakerinn.buzz/*
 *://*.theshuggahpies.com/*
@@ -7372,6 +7452,7 @@
 *://*.tsltw.com/*
 *://*.tsm8.cn/*
 *://*.tsns.xyz/*
+*://*.tspweb.com/*
 *://*.tsr8.cn/*
 *://*.tsydys.com/*
 *://*.tt1d5qj.cn/*
@@ -7548,6 +7629,7 @@
 *://*.uzaixlx.cn/*
 *://*.v02gsr9.cn/*
 *://*.v1cw96b.cn/*
+*://*.v1ex.com/*
 *://*.v28x0f0.cn/*
 *://*.v2athyh.cn/*
 *://*.v4my0o4.cn/*
@@ -7830,6 +7912,7 @@
 *://*.whitehurstclark.buzz/*
 *://*.whitescorporation.buzz/*
 *://*.whitneytembelis.com/*
+*://*.whjjms.com/*
 *://*.whjnrj.com/*
 *://*.whldl.com/*
 *://*.whm00f6.cn/*
@@ -8016,6 +8099,7 @@
 *://*.wzbanjiags.com/*
 *://*.wzbjbj.com/*
 *://*.wzf8g.cn/*
+*://*.wzfbydq.com/*
 *://*.wzgdvtn.cn/*
 *://*.wzjxwl.com/*
 *://*.wznk.net/*
@@ -8161,6 +8245,7 @@
 *://*.xiongantb.com/*
 *://*.xipx09.cn/*
 *://*.xiqingkeji.com/*
+*://*.xiroou.com/*
 *://*.xisuyan.cn/*
 *://*.xitongqingli.com/*
 *://*.xiuczi3.cn/*
@@ -8246,6 +8331,7 @@
 *://*.xs85.cn/*
 *://*.xs87.cn/*
 *://*.xsajiaoyu.com/*
+*://*.xshdkj.com/*
 *://*.xshellcn.com/*
 *://*.xshop580.com/*
 *://*.xshyjtls.com/*
@@ -8269,6 +8355,7 @@
 *://*.xuanyiqq.com/*
 *://*.xue59.cn/*
 *://*.xuebaosan.com/*
+*://*.xuehua.us/*
 *://*.xuejingjia.com/*
 *://*.xuesw.net/*
 *://*.xuezhuandaosu.cn/*
@@ -8584,6 +8671,7 @@
 *://*.yuantaoyun.com/*
 *://*.yubosc.com/*
 *://*.yucaikeji.com/*
+*://*.yuccaglobalgroup.com/*
 *://*.yuda1223.com/*
 *://*.yuechaji.com/*
 *://*.yuechetuan.com/*
@@ -8840,6 +8928,7 @@
 *://*.zihwxqd.cn/*
 *://*.zijl.cn/*
 *://*.zijqabf.cn/*
+*://*.zipaijingpin.cc/*
 *://*.zipperjob.cn/*
 *://*.zircondentalcraft.com/*
 *://*.zisenvren.com/*
@@ -9022,6 +9111,7 @@
 *://0w9.harpnetworkinc.com/*
 *://0xzx.com/*
 *://108nb.com/*
+*://114.55.26.126/*
 *://118.193.38.103/*
 *://123ggy.com/*
 *://159.138.37.243/*
@@ -9046,6 +9136,7 @@
 *://373524.com/*
 *://3777cq.com/*
 *://37chouchou.com/*
+*://39.108.60.68/*
 *://3ctyri.gkhpii.tw/*
 *://3g.163.com/*
 *://3g.china.com/*
@@ -9244,6 +9335,7 @@
 *://ddxinwen.com/*
 *://de.jbckj.com/*
 *://detail.zol.com.cn/*
+*://devbugfix.com/*
 *://developer.aliyun.com/articlezt/*
 *://dfs38.com/*
 *://dfuw.redandgold.de/*
@@ -9292,6 +9384,7 @@
 *://f5.pm/*
 *://faculdadearidesa.instructure.com/*
 *://fanqiang.network/*
+*://farath.com/*
 *://fazhiyanjiu.cn/*
 *://feetwindyoung-5.live/*
 *://feishuang406.com/*
@@ -19586,6 +19679,7 @@
 10241314.com
 102428.net
 1024baidu.com
+1024dns.com
 1024huo.com
 1024nrrz.top
 1024w.xyz
@@ -19752,6 +19846,7 @@
 1137088.com
 113723.vip
 113htvs.com
+114.55.26.126
 1140532.com
 1141.net
 1144288.com
@@ -20444,6 +20539,7 @@
 158xbmgj.com
 158xsjylc.com
 158ylyhyl.com
+159.138.37.243
 15918724277.com
 15921261.xyz
 1593640.com
@@ -20955,6 +21051,7 @@
 1q4.org
 1qqz.com
 1qzd.com
+1r1g.cn
 1r1g.com
 1r3.org
 1r8d.info
@@ -22870,6 +22967,7 @@
 372pbnl.com
 37316.net
 373338.com
+373415.com
 373524.com
 3738.com
 373fhgp.com
@@ -23037,6 +23135,7 @@
 38txt.org
 38vh.net
 38wlw.com
+39.108.60.68
 39.net
 3900w.com
 39011.com
@@ -23754,6 +23853,7 @@
 456000.cc
 45612b.com
 4562310.com
+4563.org
 4563jj.com
 4565903.cn
 4567221.com
@@ -26562,6 +26662,7 @@
 6931062.cn
 6931701.cn
 6933315.cn
+693585.com
 693dxef.com
 693mqci.com
 693usla.com
@@ -30054,6 +30155,7 @@ abc965.com
 abcformule1.com
 abcpb.com
 abcseg.com
+abcsou.cc
 abcstressmanagement.com
 abcuj.com
 abcyuedu.xyz
@@ -30481,6 +30583,7 @@ ah6g.com
 ah718.com
 ah9fu.com
 ahaea.com
+ahafm.com
 ahaibei.cn
 ahangyun.com
 ahaoriyu.com
@@ -31826,6 +31929,7 @@ arsenalofhypocrisy.com
 arsenalsc.eu
 art-1900.com
 art-child.com
+art2008.net
 art2cd.com
 art369.net
 artcurie.net
@@ -32290,6 +32394,7 @@ b732ai71.gdn
 b73v1.win
 b746.cn
 b78w.com
+b7xe.com
 b8035.com
 b809.com
 b847.cn
@@ -33161,6 +33266,7 @@ berrite.com
 berry0123.cn
 bes.org.cn
 beser1905.com
+besetsod.com
 besrnvu.com
 bessky.com
 besstder.net
@@ -35337,11 +35443,13 @@ buzhaye.com
 buzhengzhai.com
 buzhouz.com
 buzoutani.com
+buzzhollowrailroad.com
 buzzjoker.com
 bv091.com
 bv15.com
 bv1946touzhu.com
 bv1946wdyl.com
+bv2ex.com
 bv2no.com
 bv3.com.cn
 bvbk.com.cn
@@ -35929,6 +36037,7 @@ caidesheng.com
 caifengdai.com
 caifenshang.net
 caigentann.com
+caihonggang.com
 caihongtiyu.com
 caihuilinv.cn
 caiigou.com
@@ -37195,6 +37304,7 @@ chigowater.com
 chihome.com.tw
 chihovet.com.tw
 chik.net.cn
+chika-web.net
 chikesoar.com
 chilanl.com
 child-development.org
@@ -37979,6 +38089,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href*="article.docway.net/"]:upward(
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="athabasca-foto.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="cfadnc.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="codeflow.site/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href*="coredump.biz/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="culinarydegree.info/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="developreference.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="domainelespailles.net/"]:upward(.b_algo)
@@ -38021,8 +38132,10 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codehero.jp/"]:upward
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coderedirect.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coderoad.ru/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codersatellite.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://devbugfix.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://easysavecode.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://exceptionshub.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://farath.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://intellipaat.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://isolution.pro/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://issues-world.com/"]:upward(.b_algo)
@@ -38101,8 +38214,10 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://codehero.jp/"]:upward(.dgContro
 cn.bing.com,www.bing.com##.inflnk[href^="https://coderedirect.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://coderoad.ru/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://codersatellite.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://devbugfix.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://easysavecode.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://exceptionshub.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://farath.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://intellipaat.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://isolution.pro/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://issues-world.com/"]:upward(.dgControl_list > li)
@@ -38173,6 +38288,7 @@ cn.bing.com,www.bing.com##a[title$="article.docway.net"]:upward(.dgControl_list 
 cn.bing.com,www.bing.com##a[title$="athabasca-foto.com"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="cfadnc.org"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="codeflow.site"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##a[title$="coredump.biz"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="culinarydegree.info"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="developreference.com"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="domainelespailles.net"]:upward(.dgControl_list > li)
@@ -39401,6 +39517,7 @@ cuntel.com
 cunyinbo.com
 cuo8.cc
 cuokj.com
+cuoshuo.com
 cuowubangzhu.com
 cup2002.com
 cup2005.com
@@ -39841,6 +39958,7 @@ czqxst.com
 czrgd.com
 czrtip.net
 czs.com
+czsfj.cn
 czsgt.cn
 czshentong.com
 czshunchi.com
@@ -39999,6 +40117,7 @@ dafousa.net
 dafpc.com
 dafupip.com
 dafwz.com
+dafx.cc
 dafxww.com
 daged.net
 daginza.com
@@ -40032,6 +40151,7 @@ dailita.com
 dailyfantasytaxes.com
 dailyss.com
 daim-corp.cn
+daimajiaoliu.com
 dainifei.info
 daipeini.com
 daixianqi.com
@@ -40096,6 +40216,7 @@ dan-ji.cn
 dan8.cc
 dan988.loan
 danbaimei.com
+dancerspointewinchester.com
 dancowparentingcenter.com
 dandaiya.com
 dandongyu.com
@@ -40203,6 +40324,7 @@ datapuzi.com
 datasos120.cn
 datesumo.com
 datongzx.com
+dauphinislandcondos.com
 davebuckman.net
 daveharward.com
 davemadethis.com
@@ -40819,6 +40941,7 @@ dgrubber.com.cn
 dgrundongfang.com
 dgs85.cn
 dgscience.com
+dgscjd.com
 dgsde.com
 dgsdtong.com
 dgsf56.com
@@ -41481,6 +41604,7 @@ doctorojos.com
 doctorsks.com
 docusys.net
 docvox.net
+docway.net
 doczj.com
 doducity.com
 dofe.com.cn
@@ -41631,6 +41755,7 @@ douyile.com
 douytv.com
 douzihong.com
 dovone.com
+dovov.com
 dowangzhan.com
 down110.com
 down265.com
@@ -41932,6 +42057,7 @@ duanzh.com
 duanzhihu.com
 dubailvyou.com
 dubaiworldchampionship.com
+duboot.com
 duboren.com
 duchang888.com
 duchangwangzhanvip.com
@@ -41940,6 +42066,7 @@ duckduckgo.com##.tile--img__sub[href*="article.docway.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="athabasca-foto.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="cfadnc.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="codeflow.site/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href*="coredump.biz/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="culinarydegree.info/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="developreference.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="domainelespailles.net/"]:upward(.tile--img)
@@ -41982,8 +42109,10 @@ duckduckgo.com##.tile--img__sub[href^="https://codehero.jp/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://coderedirect.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://coderoad.ru/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://codersatellite.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://devbugfix.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://easysavecode.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://exceptionshub.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://farath.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://intellipaat.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://isolution.pro/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://issues-world.com/"]:upward(.tile--img)
@@ -42067,7 +42196,9 @@ duckduckgo.com##div[data-domain$="codehero.jp"]
 duckduckgo.com##div[data-domain$="coderedirect.com"]
 duckduckgo.com##div[data-domain$="coderoad.ru"]
 duckduckgo.com##div[data-domain$="codersatellite.com"]
+duckduckgo.com##div[data-domain$="coredump.biz"]
 duckduckgo.com##div[data-domain$="culinarydegree.info"]
+duckduckgo.com##div[data-domain$="devbugfix.com"]
 duckduckgo.com##div[data-domain$="developreference.com"]
 duckduckgo.com##div[data-domain$="domainelespailles.net"]
 duckduckgo.com##div[data-domain$="easysavecode.com"]
@@ -42075,6 +42206,7 @@ duckduckgo.com##div[data-domain$="ec-europe.org"]
 duckduckgo.com##div[data-domain$="ecnf2016.org"]
 duckduckgo.com##div[data-domain$="exceptionshub.com"]
 duckduckgo.com##div[data-domain$="faithcov.org"]
+duckduckgo.com##div[data-domain$="farath.com"]
 duckduckgo.com##div[data-domain$="fitforlearning.org"]
 duckduckgo.com##div[data-domain$="fluffyfables.com"]
 duckduckgo.com##div[data-domain$="gupgallery.com"]
@@ -43308,6 +43440,7 @@ eqbxm.us
 eqfpw.com
 eqiedu.com
 eqisou.net
+eqisz.com
 eqixh.cn
 eqknc.win
 eqo-optics.com
@@ -43928,6 +44061,7 @@ fc3dzmzh6.com
 fc3ycfx13.com
 fc43236.com
 fc5.net.cn
+fcaweb.de
 fcbdns.cn
 fcbhevnd.net
 fcdauu.info
@@ -45311,6 +45445,7 @@ fwjinsha.com
 fwjpw.com
 fwkessler.com
 fwq.com
+fwqzdm.com
 fwqzr.com
 fwtbq.com
 fwtd.cn
@@ -45376,6 +45511,7 @@ fxztw.cn
 fy1192.com
 fy5580.com
 fy6899.com
+fy6m.com
 fybancai.com
 fybch.com
 fybet1.com
@@ -45587,6 +45723,7 @@ gaizhun.cn
 gakcu.com
 gaku.org.cn
 gal-job.net
+galacticnewsone.com
 galanz-nj.com
 galaxymacau.com
 galhqc.com
@@ -45726,6 +45863,7 @@ gaoyouzx.com
 gaozhong4017.com
 gaozxww.com
 gap.org.cn
+gapemill.com
 gapinglass.com
 gapqing5.cc
 gardencourte.com
@@ -46345,8 +46483,11 @@ gistfm.com
 gitaristusesija.lv
 giters.com
 gitgeek.cc
+github-wiki-see.page
+githubhelp.com
 githubmemory.com
 gitime.cn
+gitmemory.cn
 gitmemory.com
 gitstudy.com
 gitudeh.com
@@ -46894,6 +47035,7 @@ gree0916.com
 green-environmentalprotection.com
 greenchina.net
 greendland.com
+greenengineeringgroup.com
 greeninfall.com
 greeninv.net
 greenmill.com
@@ -46902,6 +47044,7 @@ greenqilu.org
 greenrationbook.com
 greenseawood.com
 greensheng.com
+greentravelnwanders.co
 greenvilleumc.net
 greenwalnut.net
 greezu.com
@@ -48327,6 +48470,7 @@ haokan168.com
 haoke520.com
 haokecai1.com
 haokoo.com
+haokuaisou.cc
 haokunchem.com
 haolinlaobao.com
 haolongchem.com
@@ -48399,6 +48543,7 @@ harian24.com
 harlemedia.com
 harmony-haven.com
 harmonycsh.com
+harmonyteck.com
 harnovee.com
 harvestpoly.com
 hasanakman.com
@@ -49194,7 +49339,9 @@ heresyoursigndiyworkshop.com
 hermes-gift.com
 hermesbeltsale.com
 heroesleaderschampions.org
+herokuapp.com
 heromobi.cn
+herpesoutbreaktreatment-reviews.com
 hertzian.cn
 herz-bag.com
 hesdtte.com
@@ -50086,6 +50233,7 @@ hidess.cn
 hidna.net
 hidraulica.ro
 hidvds.com
+hiegong.com
 hifghd.info
 hifgym.com
 hifige.com
@@ -50865,6 +51013,7 @@ homostudio.net
 homylk.info
 hon-da.net
 honboe.com
+honerint.com
 honestar.com
 honeycool.cn
 honeywork.net
@@ -51537,6 +51686,7 @@ huatiepdm.com
 huatingholidayinn.com
 huatuoco.com
 huavs.com
+huaweicloud.com/s
 huaweikeji.com
 huaxia-nlp.com
 huaxia66.com
@@ -52430,6 +52580,7 @@ icnicn.com
 icnpp.com
 icnthh.loan
 icon-china.com
+icoosky.com
 icpas.org.il
 icpatec.com
 icpchaxun.com
@@ -52809,6 +52960,7 @@ induyaofang.com
 indxz.com
 inetfaq.com
 inewya.com
+inf.news
 infinite-mystery.com
 infinitus.mobi
 infinity-rc.com
@@ -52921,6 +53073,7 @@ ipayp.top
 ipdrivesus.com
 ipdy.pw
 ipexonline.org
+ipfsdrop.com
 ipgea.net
 iphin658.com
 iphone-gfq.com
@@ -53023,6 +53176,7 @@ issimo.com.cn
 issinga.com
 isspue.com
 isss988.com
+issueexplorer.com
 ist-idea.com
 istaiguo.com
 istartips.com
@@ -55873,6 +56027,7 @@ jkwzsh.com
 jkwzt.com
 jkwzx.com
 jkyb528.com
+jkyeg.com
 jkys0.com
 jkys1.com
 jkys2.com
@@ -57706,6 +57861,7 @@ jmzdq.com
 jmzh.net
 jmzsy.com
 jn-greenagro.com
+jn-job.com
 jn-sw.com
 jn14.net
 jn2016gcpj.com
@@ -60326,6 +60482,7 @@ kvdax.com
 kvfijf0.com
 kvfz.cc
 kvhah.com
+kvkft.com
 kvlll.com
 kvmy.net
 kvnag.com
@@ -60982,6 +61139,7 @@ ldxcn.com
 ldxd.net
 ldxinwen.com
 ldyk.net
+ldzx.me
 le-chu.cn
 le-cn.net
 le016.com
@@ -60994,6 +61152,7 @@ lead-led.cn
 leadeca.com
 leaderprice8.com
 leadings.net
+leaktiff.com
 leanfap.com
 leanyon.com
 leapfan.com
@@ -61534,6 +61693,7 @@ likechuan2006.com
 likecn.com
 likecs.com
 likedome.com
+likeji.net
 likezb.com
 likuduo.com
 lil.com
@@ -61921,6 +62081,7 @@ lmrpnaa.cn
 lmsjfs.com
 lmszj.com
 lmtxjt.com
+lmubbs.com
 lmuwi.com
 lmwsfwz.com
 lmxsjzt.com
@@ -62012,6 +62173,7 @@ loihvsd.net
 loki-shops.com
 lolbebek.xyz
 loler666.com
+lollmold.com
 lolpills.com
 lolsoso.com
 loltftpro.com
@@ -62633,6 +62795,7 @@ lvxshes.com
 lvyikang.net
 lvyou.gq
 lvyou114.com
+lvyou5.net
 lvyou556.com
 lvyoucits.com
 lvyougaofeng.com
@@ -63192,6 +63355,8 @@ manuals.plus
 manyanu.com
 manyao8.net
 manyuejiaqi.com
+manyushijia.com
+manze.com
 mao-ren.com
 maoba.com
 maoeyan.com
@@ -63215,6 +63380,7 @@ markmcculloch.com
 markus-domy.pl
 marlowphotography.com
 maro6.com
+marriedgames.com.br
 marshalglobal.com
 marsupv.com
 martysa.com
@@ -63234,6 +63400,7 @@ mattdotson.com
 matthewthorburn.com
 mattiasp.se
 mauriceponga.eu
+mauriziofontana.ch
 mavidenizholding.com
 mavikep.com
 max-nb.com
@@ -63267,6 +63434,7 @@ mcdnfr.cn
 mcefu.com
 mcevoyandfarmer-pathology.com
 mcfc34.com
+mch5k.com
 mchqlt.com
 mcidata.com
 mclyj.cn
@@ -64570,6 +64738,7 @@ ningmengsuangai.com
 ningqihoo.cn
 ningxiamlg.com
 ningxiao7.cn
+ninisanj.com
 ninky.info
 ninnian.cn
 ninsa.cn
@@ -65113,6 +65282,7 @@ nrbhf.com
 nrbnn.bid
 nrdici.com
 nrehd.com
+nrgmmu.net
 nrhch.com
 nrie.com.cn
 nrmk.net
@@ -65298,6 +65468,7 @@ nurui.top
 nusuan.cn
 nusyea.com
 nutan.top
+nutritiontheatre.com
 nutvp.com
 nuuia.net
 nuwei.top
@@ -65602,6 +65773,7 @@ oal.asia
 oanda58.com
 oanly.com
 oapsc.com
+oartheir.com
 oaxk.net.cn
 obaobscura.com
 obasalahei520.tk
@@ -65869,6 +66041,7 @@ olympress.com
 olyosm.us
 om18.com
 omafa.com
+omatomeloanhikaku.com
 omfyd.cn
 omjia.net
 omjj.net
@@ -66039,6 +66212,7 @@ osd99.com
 ose.cc
 ose234.com
 osec46.win
+osetc.com
 osgeo.org.cn
 oshai.top
 oshawa.cc
@@ -66087,6 +66261,7 @@ ou09.com
 oualido.com
 oubei.icu
 oucemba.com
+oudebaosw.com
 oudidg.com
 oudihuating.com
 oudiweixiu.net
@@ -66598,6 +66773,7 @@ persarea.com
 personal-trainer-galway.com
 personneldecisions.cn
 pertala.net
+pervalkoje.lt
 pet0312.com
 pet168.com
 pet265.cn
@@ -66996,6 +67172,7 @@ plakhao.com
 planbank.net
 planet-lucie.org
 planet4shoes.com
+planetarium-list.com
 plastic-g.com
 platenhof.com
 platinumpro-online.com
@@ -67150,6 +67327,7 @@ poqkh.com
 pore-cor.com
 pornxxxxxxhdtubefree.com
 portlandrooftearoff.com
+portlockgalleries.com
 portraitiert.de
 portserco.com
 poseng.top
@@ -67279,6 +67457,7 @@ prhzz.cn
 pricejonesllc.com
 prime-mgt.com
 print-0755.com
+print-ireland.com
 printinga2z.com
 prism-us.com
 prispi.com
@@ -68067,6 +68246,7 @@ qhkjnet.com
 qhlydc.org
 qhlyt.com
 qhmkj.com
+qhmnls.com
 qhmuye.com
 qhnn.net
 qhnrh.com
@@ -69372,6 +69552,7 @@ reeet.com
 reenvo.cn
 refee.net
 refenglu.net
+refertheme.com
 refore.com.cn
 refoxrelocation.com
 reheath-hk.com
@@ -69480,6 +69661,7 @@ revistayate.com
 revistwitt.com
 rewin-china.net
 reyang.net
+rezhishi.net
 rferj.cn
 rfghnbm.net
 rfgvwsmy.net
@@ -69711,6 +69893,7 @@ rmgkxscu.com
 rmjemy.com
 rmk9.com
 rmkjw.cn
+rmljlt.com
 rmqas.cn
 rmrdg.com
 rmrjfmux.net
@@ -69758,6 +69941,7 @@ roawug.com
 robannah.com
 robat.com
 robbiehill.net
+robertbissett.com
 robertmwagner.com
 robot99.com
 rocchobart.com
@@ -70381,6 +70565,7 @@ samrers.com
 samsenroad.com
 samsung-wh.com
 samsunggw.com
+samsungtime.com
 samuelriveraphotography.com
 sanbaicao.com
 sanbenshu.net
@@ -73607,6 +73792,7 @@ startpage.com##.w-gl__result-title[href*="article.docway.net/"]:upward(F.w-gl__r
 startpage.com##.w-gl__result-title[href*="athabasca-foto.com/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="cfadnc.org/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="codeflow.site/"]:upward(F.w-gl__result)
+startpage.com##.w-gl__result-title[href*="coredump.biz/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="culinarydegree.info/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="developreference.com/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="domainelespailles.net/"]:upward(F.w-gl__result)
@@ -73649,8 +73835,10 @@ startpage.com##.w-gl__result-title[href^="https://codehero.jp/"]:upward(.w-gl__r
 startpage.com##.w-gl__result-title[href^="https://coderedirect.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://coderoad.ru/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://codersatellite.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://devbugfix.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://easysavecode.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://exceptionshub.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://farath.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://intellipaat.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://isolution.pro/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://issues-world.com/"]:upward(.w-gl__result)
@@ -75168,6 +75356,7 @@ t25site.com
 t287.net
 t2dk.com
 t30z7.cn
+t38g.com
 t3tuan.com
 t4438.com
 t4808.cn
@@ -75268,6 +75457,7 @@ tajinying.com
 tajygg.com
 takecare.com.tw
 takedaipromote.com
+takedown.icu
 talatabi.com
 talkaboutfurniture.com
 talkinator.com
@@ -75379,7 +75569,6 @@ taozfu998.com
 taozi88.com
 taozii.com
 taozx.cn
-tapatalk.com
 tapgic.com
 tappsnc.com
 tappusa.com
@@ -75398,6 +75587,7 @@ tasjft.com
 taslnc.com
 tatanmould.com
 tattytoys.com
+tauferer-ahrntal.eu
 taunha.com
 tauom.com
 tawish.net
@@ -75825,6 +76015,7 @@ thenuys.com
 theofaassen.de
 theoloqui.net
 theravenwatch.com
+therejunction.com
 therelationalmarketer.com
 thermaltechnology.cn
 thermalxy.com
@@ -77557,6 +77748,7 @@ tunzp.com
 tuobaxing.com
 tuofajbk.com
 tuofatf.com
+tuokehj.com
 tuonugs.net
 tuoqf.com
 tuotech.cn
@@ -78584,6 +78776,7 @@ v177.cn
 v178.cn
 v19qi.cn
 v1bet999e.net
+v1ex.com
 v1tbyl.com
 v2.gg
 v285.cn
@@ -79973,6 +80166,7 @@ wenwen.sogou.com
 wenwengou.com
 wenxi-e.com
 wenxinchaiqian.com
+wenyanet.com
 wenyecn.com
 wenzeer.com
 wenzhihong88.com
@@ -80173,6 +80367,7 @@ whjgjc.net
 whjgjyw.org.cn
 whjhqyy.com
 whjinghua.com
+whjjms.com
 whjjtst.com
 whjlldhj.com
 whjrxw.com
@@ -81316,6 +81511,7 @@ www.ecosia.org##.result[data-url*="article.docway.net/"]
 www.ecosia.org##.result[data-url*="athabasca-foto.com/"]
 www.ecosia.org##.result[data-url*="cfadnc.org/"]
 www.ecosia.org##.result[data-url*="codeflow.site/"]
+www.ecosia.org##.result[data-url*="coredump.biz/"]
 www.ecosia.org##.result[data-url*="culinarydegree.info/"]
 www.ecosia.org##.result[data-url*="developreference.com/"]
 www.ecosia.org##.result[data-url*="domainelespailles.net/"]
@@ -81358,8 +81554,10 @@ www.ecosia.org##.result[data-url^="https://codehero.jp/"]
 www.ecosia.org##.result[data-url^="https://coderedirect.com/"]
 www.ecosia.org##.result[data-url^="https://coderoad.ru/"]
 www.ecosia.org##.result[data-url^="https://codersatellite.com/"]
+www.ecosia.org##.result[data-url^="https://devbugfix.com/"]
 www.ecosia.org##.result[data-url^="https://easysavecode.com/"]
 www.ecosia.org##.result[data-url^="https://exceptionshub.com/"]
+www.ecosia.org##.result[data-url^="https://farath.com/"]
 www.ecosia.org##.result[data-url^="https://intellipaat.com/"]
 www.ecosia.org##.result[data-url^="https://isolution.pro/"]
 www.ecosia.org##.result[data-url^="https://issues-world.com/"]
@@ -81430,6 +81628,7 @@ www.google.*##.C8nzq[href*="article.docway.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="athabasca-foto.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="cfadnc.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="codeflow.site/"]:upward(.xpd)
+www.google.*##.C8nzq[href*="coredump.biz/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="culinarydegree.info/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="developreference.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="domainelespailles.net/"]:upward(.xpd)
@@ -81472,8 +81671,10 @@ www.google.*##.C8nzq[href^="https://codehero.jp/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://coderedirect.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://coderoad.ru/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codersatellite.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://devbugfix.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://easysavecode.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://exceptionshub.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://farath.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://intellipaat.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://isolution.pro/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://issues-world.com/"]:upward(.xpd)
@@ -81544,6 +81745,7 @@ www.google.*##.VFACy[href*="article.docway.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="athabasca-foto.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="cfadnc.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="codeflow.site/"]:upward(.isv-r)
+www.google.*##.VFACy[href*="coredump.biz/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="culinarydegree.info/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="developreference.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="domainelespailles.net/"]:upward(.isv-r)
@@ -81586,8 +81788,10 @@ www.google.*##.VFACy[href^="https://codehero.jp/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://coderedirect.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://coderoad.ru/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://codersatellite.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://devbugfix.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://easysavecode.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://exceptionshub.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://farath.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://intellipaat.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://isolution.pro/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://issues-world.com/"]:upward(.isv-r)
@@ -81658,6 +81862,7 @@ www.google.*##.aI1xUe .sXtWJb[href*="article.docway.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="athabasca-foto.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="cfadnc.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="codeflow.site/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href*="coredump.biz/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="culinarydegree.info/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="developreference.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="domainelespailles.net/"]:upward(.aI1xUe)
@@ -81700,8 +81905,10 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://codehero.jp/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://coderedirect.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://coderoad.ru/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://codersatellite.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://devbugfix.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://easysavecode.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://exceptionshub.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://farath.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://intellipaat.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://isolution.pro/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://issues-world.com/"]:upward(.aI1xUe)
@@ -81772,6 +81979,7 @@ www.google.*##.isv-r[data-ru*="article.docway.net/"]
 www.google.*##.isv-r[data-ru*="athabasca-foto.com/"]
 www.google.*##.isv-r[data-ru*="cfadnc.org/"]
 www.google.*##.isv-r[data-ru*="codeflow.site/"]
+www.google.*##.isv-r[data-ru*="coredump.biz/"]
 www.google.*##.isv-r[data-ru*="culinarydegree.info/"]
 www.google.*##.isv-r[data-ru*="developreference.com/"]
 www.google.*##.isv-r[data-ru*="domainelespailles.net/"]
@@ -81814,8 +82022,10 @@ www.google.*##.isv-r[data-ru^="https://codehero.jp/"]
 www.google.*##.isv-r[data-ru^="https://coderedirect.com/"]
 www.google.*##.isv-r[data-ru^="https://coderoad.ru/"]
 www.google.*##.isv-r[data-ru^="https://codersatellite.com/"]
+www.google.*##.isv-r[data-ru^="https://devbugfix.com/"]
 www.google.*##.isv-r[data-ru^="https://easysavecode.com/"]
 www.google.*##.isv-r[data-ru^="https://exceptionshub.com/"]
+www.google.*##.isv-r[data-ru^="https://farath.com/"]
 www.google.*##.isv-r[data-ru^="https://intellipaat.com/"]
 www.google.*##.isv-r[data-ru^="https://isolution.pro/"]
 www.google.*##.isv-r[data-ru^="https://issues-world.com/"]
@@ -81886,6 +82096,7 @@ www.google.*##.kCrYT > a[href*="article.docway.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="athabasca-foto.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="cfadnc.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="codeflow.site/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href*="coredump.biz/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="culinarydegree.info/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="developreference.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="domainelespailles.net/"]:upward(.xpd)
@@ -81928,8 +82139,10 @@ www.google.*##.kCrYT > a[href^="/url?q=https://codehero.jp/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://coderedirect.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://coderoad.ru/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://codersatellite.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://devbugfix.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://easysavecode.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://exceptionshub.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://farath.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://intellipaat.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://isolution.pro/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://issues-world.com/"]:upward(.xpd)
@@ -82000,6 +82213,7 @@ www.google.*##.xpdopen .sXtWJb[href*="article.docway.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="athabasca-foto.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="cfadnc.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="codeflow.site/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href*="coredump.biz/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="culinarydegree.info/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="developreference.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="domainelespailles.net/"]:upward(.xpdopen)
@@ -82042,8 +82256,10 @@ www.google.*##.xpdopen .sXtWJb[href^="https://codehero.jp/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://coderedirect.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://coderoad.ru/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://codersatellite.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://devbugfix.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://easysavecode.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://exceptionshub.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://farath.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://intellipaat.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://isolution.pro/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://issues-world.com/"]:upward(.xpdopen)
@@ -82532,6 +82748,7 @@ wzdarong.com
 wzdmzd.com
 wzdowell.com
 wzellis.com
+wzfbydq.com
 wzfws.com
 wzgj1988.com
 wzgky.com
@@ -83656,6 +83873,7 @@ xiqb.net
 xiqingguo.com
 xiqnp.com
 xiqupu.com
+xiroou.com
 xisbdgw.net
 xishandu.com
 xishiky.com
@@ -84286,6 +84504,7 @@ xsdxsy.com
 xsfsgq.com
 xsgmbarcode.com
 xsgredh.net
+xshdkj.com
 xshe.net.cn
 xshidian.com
 xshjaz.com
@@ -88252,6 +88471,7 @@ yubite.com
 yuboclub.com
 yubpiw.com
 yucaijiaoyu.cn
+yuccaglobalgroup.com
 yuce28.com
 yuchenms.com
 yuci0574.com
@@ -90016,6 +90236,7 @@ zimuzj.com
 ziod.info
 ziojohn.com
 zip-a.com
+zipaijingpin.cc
 zipibyte.com
 zipperjob.cn
 zipup.com.cn
@@ -91059,6 +91280,7 @@ zymnews.com
 zymng.com
 zymnh.com
 zympn.com
+zymseo.com
 zynews.cc
 zyngle.com
 zypbm.com
