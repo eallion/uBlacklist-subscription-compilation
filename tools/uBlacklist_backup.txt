@@ -107,6 +107,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.bit86.cn/*
 *://*.brainandspineschool.com/*
 *://*.buffalo-mn.org/*
+*://*.bugelun.com/*
 *://*.camlya.com/*
 *://*.china.cn/*
 *://*.cjavapy.com/*
@@ -193,6 +194,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.mfwf.cn.com/*
 *://*.mop.com/*
 *://*.mos86.com/*
+*://*.msfxt.com/*
 *://*.njfpled.com/*
 *://*.oomake.com/*
 *://*.outofmemory.cn/*
@@ -230,16 +232,19 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.techdevian.com/*
 *://*.theastrologypage.com/*
 *://*.tidewaterschool.org/*
+*://*.tintsoft.com/*
 *://*.tipsandtricks.tech/*
 *://*.todohealth.com/*
 *://*.tomzx.com/*
 *://*.trload.com/*
 *://*.trophieschester.com/*
+*://*.tspweb.com/*
 *://*.tumlls.xyz/*
 *://*.tysp.org/*
 *://*.uk.com/*
 *://*.unansea.com/*
 *://*.uosohyc.site/*
+*://*.uulucky.com/*
 *://*.vlexpert.com/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
@@ -96895,6 +96900,7 @@ title/小.(百科|知识)网/
 *://www.it-mure.jp.net/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm.com.ru/*
+*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://*.codeflow.site/*
 *://codeguides.site/*
@@ -97349,6 +97355,18 @@ www.google.*##.isv-r[data-ru^="https://www.it-swarm.com.ru/"]
 www.google.*##.VFACy[href^="https://www.it-swarm.com.ru/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm.com.ru/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm.com.ru/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.it-roy-ru.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.it-roy-ru.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.it-roy-ru.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-roy-ru.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-roy-ru.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.it-roy-ru.com"]
+www.ecosia.org##.result[data-url^="https://www.it-roy-ru.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.it-roy-ru.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.it-roy-ru.com/"]
+www.google.*##.VFACy[href^="https://www.it-roy-ru.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-roy-ru.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.it-roy-ru.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm-fr.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-swarm-fr.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm-fr.com/"]:upward(.xpdopen)
@@ -98681,7 +98699,7 @@ www.google.*##.isv-r[data-ru^="https://jpcodeqa.com/"]
 www.google.*##.VFACy[href^="https://jpcodeqa.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jpcodeqa.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://jpcodeqa.com/"]:upward(.tile--img)
- Update weekly at 2022-01-23 08:21:16 UTC+0800
+ Update weekly at 2022-01-30 08:22:16 UTC+0800
 *://www.e-learn.cn/*
 *://www.hotbak.net/*
 *://www.kutu66.com/*

@@ -1,5 +1,5 @@
 
- Update weekly at 2022-01-23 08:21:16 UTC+0800
+ Update weekly at 2022-01-30 08:22:16 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1993,6 +1993,7 @@
 *://*.bubuzhe.com/*
 *://*.buccelli.buzz/*
 *://*.buffalo-mn.org/*
+*://*.bugelun.com/*
 *://*.buitragonotaria.buzz/*
 *://*.bulinwh.com/*
 *://*.bullforyou.com/*
@@ -5452,6 +5453,7 @@
 *://*.mrhoward.buzz/*
 *://*.mrorm.com/*
 *://*.mrslevin.com/*
+*://*.msfxt.com/*
 *://*.mshc1.com/*
 *://*.msif.cn/*
 *://*.msjydq.com/*
@@ -7383,6 +7385,7 @@
 *://*.tile-factory.buzz/*
 *://*.tingguqinapp.com/*
 *://*.tingmeiw.com/*
+*://*.tintsoft.com/*
 *://*.tinystm.org/*
 *://*.tipsandtricks.tech/*
 *://*.titanapply.com/*
@@ -7671,6 +7674,7 @@
 *://*.utznrtd.cn/*
 *://*.uu246.com/*
 *://*.uucool.cn/*
+*://*.uulucky.com/*
 *://*.uuoccm.cn/*
 *://*.uus09v5.cn/*
 *://*.uvuqs50.cn/*
@@ -10579,6 +10583,7 @@
 *://www.ispsd2015.com/*
 *://www.istangola.net/*
 *://www.it-mure.jp.net/*
+*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
@@ -38265,6 +38270,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.generacodice.com/
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.generacodice.it/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.ghcc.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-mure.jp.net/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-roy-ru.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm-fr.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm-ja.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm-ja.tech/"]:upward(.b_algo)
@@ -38368,6 +38374,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://www.generacodice.com/"]:upward(
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.generacodice.it/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.ghcc.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-mure.jp.net/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-roy-ru.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm-fr.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm-ja.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm-ja.tech/"]:upward(.dgControl_list > li)
@@ -42284,6 +42291,7 @@ duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.com/"]:upward(.t
 duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.it/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.ghcc.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-mure.jp.net/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://www.it-roy-ru.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm-fr.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm-ja.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm-ja.tech/"]:upward(.tile--img)
@@ -42421,6 +42429,7 @@ duckduckgo.com##div[data-domain$="www.generacodice.com"]
 duckduckgo.com##div[data-domain$="www.generacodice.it"]
 duckduckgo.com##div[data-domain$="www.ghcc.net"]
 duckduckgo.com##div[data-domain$="www.it-mure.jp.net"]
+duckduckgo.com##div[data-domain$="www.it-roy-ru.com"]
 duckduckgo.com##div[data-domain$="www.it-swarm-fr.com"]
 duckduckgo.com##div[data-domain$="www.it-swarm-ja.com"]
 duckduckgo.com##div[data-domain$="www.it-swarm-ja.tech"]
@@ -74052,6 +74061,7 @@ startpage.com##.w-gl__result-title[href^="https://www.generacodice.com/"]:upward
 startpage.com##.w-gl__result-title[href^="https://www.generacodice.it/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.ghcc.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-mure.jp.net/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://www.it-roy-ru.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-swarm-fr.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-swarm-ja.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.it-swarm-ja.tech/"]:upward(.w-gl__result)
@@ -81792,6 +81802,7 @@ www.ecosia.org##.result[data-url^="https://www.generacodice.com/"]
 www.ecosia.org##.result[data-url^="https://www.generacodice.it/"]
 www.ecosia.org##.result[data-url^="https://www.ghcc.net/"]
 www.ecosia.org##.result[data-url^="https://www.it-mure.jp.net/"]
+www.ecosia.org##.result[data-url^="https://www.it-roy-ru.com/"]
 www.ecosia.org##.result[data-url^="https://www.it-swarm-fr.com/"]
 www.ecosia.org##.result[data-url^="https://www.it-swarm-ja.com/"]
 www.ecosia.org##.result[data-url^="https://www.it-swarm-ja.tech/"]
@@ -81930,6 +81941,7 @@ www.google.*##.C8nzq[href^="https://www.generacodice.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.generacodice.it/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.ghcc.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-mure.jp.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.it-roy-ru.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-swarm-fr.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-swarm-ja.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-swarm-ja.tech/"]:upward(.xpd)
@@ -82068,6 +82080,7 @@ www.google.*##.VFACy[href^="https://www.generacodice.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.generacodice.it/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.ghcc.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-mure.jp.net/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://www.it-roy-ru.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-swarm-fr.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-swarm-ja.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.it-swarm-ja.tech/"]:upward(.isv-r)
@@ -82206,6 +82219,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://www.generacodice.com/"]:upward(.aI1
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.generacodice.it/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.ghcc.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-mure.jp.net/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-roy-ru.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm-fr.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm-ja.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm-ja.tech/"]:upward(.aI1xUe)
@@ -82344,6 +82358,7 @@ www.google.*##.isv-r[data-ru^="https://www.generacodice.com/"]
 www.google.*##.isv-r[data-ru^="https://www.generacodice.it/"]
 www.google.*##.isv-r[data-ru^="https://www.ghcc.net/"]
 www.google.*##.isv-r[data-ru^="https://www.it-mure.jp.net/"]
+www.google.*##.isv-r[data-ru^="https://www.it-roy-ru.com/"]
 www.google.*##.isv-r[data-ru^="https://www.it-swarm-fr.com/"]
 www.google.*##.isv-r[data-ru^="https://www.it-swarm-ja.com/"]
 www.google.*##.isv-r[data-ru^="https://www.it-swarm-ja.tech/"]
@@ -82482,6 +82497,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.com/"]:upward(.x
 www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.it/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.ghcc.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-mure.jp.net/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.it-roy-ru.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm-fr.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm-ja.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm-ja.tech/"]:upward(.xpd)
@@ -82620,6 +82636,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.com/"]:upward(.xp
 www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.it/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.ghcc.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-mure.jp.net/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.it-roy-ru.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm-fr.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm-ja.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm-ja.tech/"]:upward(.xpdopen)
