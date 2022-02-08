@@ -70,7 +70,7 @@ jobs:
         cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
         cd ..
-        cp uBlacklist.txt uBlocklist.txt -f
+        ln -s uBlacklist.txt uBlocklist.txt
 
     - name: Commit files
       run: |
