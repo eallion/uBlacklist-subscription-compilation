@@ -1,5 +1,5 @@
 
- Update weekly at 2022-02-07 20:55:20 UTC+0800
+ Update weekly at 2022-02-08 12:02:03 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -2894,6 +2894,7 @@
 *://*.electricgreetings.buzz/*
 *://*.electronicstrip.buzz/*
 *://*.elemw.cn/*
+*://*.elfishgene.com/*
 *://*.elisongs.com/*
 *://*.ellceedee.buzz/*
 *://*.elsh79.cn/*
@@ -38172,6 +38173,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href*="developreference.com/"]:upwar
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="domainelespailles.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="ec-europe.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="ecnf2016.org/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href*="elfishgene.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="faithcov.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="fitforlearning.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="fluffyfables.com/"]:upward(.b_algo)
@@ -38437,6 +38439,7 @@ cn.bing.com,www.bing.com##a[title$="developreference.com"]:upward(.dgControl_lis
 cn.bing.com,www.bing.com##a[title$="domainelespailles.net"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="ec-europe.org"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="ecnf2016.org"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##a[title$="elfishgene.com"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="faithcov.org"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="fitforlearning.org"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="fluffyfables.com"]:upward(.dgControl_list > li)
@@ -42217,6 +42220,7 @@ duckduckgo.com##.tile--img__sub[href*="developreference.com/"]:upward(.tile--img
 duckduckgo.com##.tile--img__sub[href*="domainelespailles.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="ec-europe.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="ecnf2016.org/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href*="elfishgene.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="faithcov.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="fitforlearning.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="fluffyfables.com/"]:upward(.tile--img)
@@ -42389,6 +42393,7 @@ duckduckgo.com##div[data-domain$="easysavecode.com"]
 duckduckgo.com##div[data-domain$="ec-europe.org"]
 duckduckgo.com##div[data-domain$="ecnf2016.org"]
 duckduckgo.com##div[data-domain$="edupro.id"]
+duckduckgo.com##div[data-domain$="elfishgene.com"]
 duckduckgo.com##div[data-domain$="exceptionshub.com"]
 duckduckgo.com##div[data-domain$="faithcov.org"]
 duckduckgo.com##div[data-domain$="farath.com"]
@@ -74011,6 +74016,7 @@ startpage.com##.w-gl__result-title[href*="developreference.com/"]:upward(F.w-gl_
 startpage.com##.w-gl__result-title[href*="domainelespailles.net/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="ec-europe.org/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="ecnf2016.org/"]:upward(F.w-gl__result)
+startpage.com##.w-gl__result-title[href*="elfishgene.com/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="faithcov.org/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="fitforlearning.org/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="fluffyfables.com/"]:upward(F.w-gl__result)
@@ -81764,6 +81770,7 @@ www.ecosia.org##.result[data-url*="developreference.com/"]
 www.ecosia.org##.result[data-url*="domainelespailles.net/"]
 www.ecosia.org##.result[data-url*="ec-europe.org/"]
 www.ecosia.org##.result[data-url*="ecnf2016.org/"]
+www.ecosia.org##.result[data-url*="elfishgene.com/"]
 www.ecosia.org##.result[data-url*="faithcov.org/"]
 www.ecosia.org##.result[data-url*="fitforlearning.org/"]
 www.ecosia.org##.result[data-url*="fluffyfables.com/"]
@@ -81915,6 +81922,7 @@ www.google.*##.C8nzq[href*="developreference.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="domainelespailles.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="ec-europe.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="ecnf2016.org/"]:upward(.xpd)
+www.google.*##.C8nzq[href*="elfishgene.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="faithcov.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="fitforlearning.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="fluffyfables.com/"]:upward(.xpd)
@@ -82066,6 +82074,7 @@ www.google.*##.VFACy[href*="developreference.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="domainelespailles.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="ec-europe.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="ecnf2016.org/"]:upward(.isv-r)
+www.google.*##.VFACy[href*="elfishgene.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="faithcov.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="fitforlearning.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="fluffyfables.com/"]:upward(.isv-r)
@@ -82217,6 +82226,7 @@ www.google.*##.aI1xUe .sXtWJb[href*="developreference.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="domainelespailles.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="ec-europe.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="ecnf2016.org/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href*="elfishgene.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="faithcov.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="fitforlearning.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="fluffyfables.com/"]:upward(.aI1xUe)
@@ -82368,6 +82378,7 @@ www.google.*##.isv-r[data-ru*="developreference.com/"]
 www.google.*##.isv-r[data-ru*="domainelespailles.net/"]
 www.google.*##.isv-r[data-ru*="ec-europe.org/"]
 www.google.*##.isv-r[data-ru*="ecnf2016.org/"]
+www.google.*##.isv-r[data-ru*="elfishgene.com/"]
 www.google.*##.isv-r[data-ru*="faithcov.org/"]
 www.google.*##.isv-r[data-ru*="fitforlearning.org/"]
 www.google.*##.isv-r[data-ru*="fluffyfables.com/"]
@@ -82519,6 +82530,7 @@ www.google.*##.kCrYT > a[href*="developreference.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="domainelespailles.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="ec-europe.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="ecnf2016.org/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href*="elfishgene.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="faithcov.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="fitforlearning.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="fluffyfables.com/"]:upward(.xpd)
@@ -82670,6 +82682,7 @@ www.google.*##.xpdopen .sXtWJb[href*="developreference.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="domainelespailles.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="ec-europe.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="ecnf2016.org/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href*="elfishgene.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="faithcov.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="fitforlearning.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="fluffyfables.com/"]:upward(.xpdopen)

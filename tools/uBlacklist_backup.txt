@@ -3755,6 +3755,7 @@ www.huaweicloud.com/theme
 *://progi.pro/*
 *://jike.in/*
 *://www.web-dev-qa.com/*
+*://*.elfishgene.com/*
 [uBlock Origin]
 ! Title: uBlacklist Stack Overflow Translation
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -5574,6 +5575,18 @@ www.google.*##.isv-r[data-ru^="https://www.web-dev-qa.com/"]
 www.google.*##.VFACy[href^="https://www.web-dev-qa.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.web-dev-qa.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.web-dev-qa.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href*="elfishgene.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href*="elfishgene.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href*="elfishgene.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href*="elfishgene.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href*="elfishgene.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="elfishgene.com"]
+www.ecosia.org##.result[data-url*="elfishgene.com/"]
+startpage.com##.w-gl__result-title[href*="elfishgene.com/"]:upward(F.w-gl__result)
+www.google.*##.isv-r[data-ru*="elfishgene.com/"]
+www.google.*##.VFACy[href*="elfishgene.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##a[title$="elfishgene.com"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href*="elfishgene.com/"]:upward(.tile--img)
 # 2022.01.23更新
 # 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 # 
@@ -98841,7 +98854,7 @@ title/.*_一键访问国外网站/
 title/.*_点击一次就可以出国/
 title/.*【一键访问国外网站】/
 title/.*【点击一次就可以出国】/
- Update weekly at 2022-02-07 20:55:20 UTC+0800
+ Update weekly at 2022-02-08 12:02:03 UTC+0800
 @*://www.zhihu.com/*
 *://www.e-learn.cn/*
 *://www.hotbak.net/*
