@@ -1,3 +1,3 @@
-@*://www.zhihu.com/*
-@*://*.google.com/*
-@*://sites.google.com/*
+@*://www.zhihu.com/* 
+@*://*.google.com/* 
+@*://sites.google.com/* 
