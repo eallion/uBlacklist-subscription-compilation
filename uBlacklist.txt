@@ -1,5 +1,5 @@
 
- Update weekly at 2022-02-08 12:02:03 UTC+0800
+ Update weekly at 2022-02-12 13:53:16 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -9263,6 +9263,7 @@
 *://anlander.com/*
 *://anningbaby.com/*
 *://answer-id.com/*
+*://answerlib.com/*
 *://anysearch.cc/*
 *://ap.instructure.com/*
 *://app.3dmgame.com/*
@@ -10416,7 +10417,6 @@
 *://www.dx-zzrc.com/*
 *://www.dxguanxian.org/*
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*
@@ -30021,7 +30021,9 @@
 9zas.com
 9zbc.com
 9zhei.com
+@*://*.google.com/*
 @*://*.tspweb.com/*
+@*://sites.google.com/**://www.e-learn.cn/*
 @*://www.zhihu.com/*
 ASKBOT.com
 Arrayshift.com
@@ -38201,6 +38203,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href*="waymanamechurch.org/"]:upward
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="zsharp.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://alltodev.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answer-id.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answerlib.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://askdev.vn/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://brocante.dev/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://cainiaojiaocheng.com/"]:upward(.b_algo)
@@ -38315,6 +38318,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://xiu2.net/"]:upward(.b
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://younggeeks.in/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.inflnk[href^="https://alltodev.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://answer-id.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://answerlib.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://askdev.vn/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://brocante.dev/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://cainiaojiaocheng.com/"]:upward(.dgControl_list > li)
@@ -42248,6 +42252,7 @@ duckduckgo.com##.tile--img__sub[href*="waymanamechurch.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="zsharp.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://alltodev.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://answer-id.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://answerlib.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://askdev.vn/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://brocante.dev/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://cainiaojiaocheng.com/"]:upward(.tile--img)
@@ -42363,6 +42368,7 @@ duckduckgo.com##.tile--img__sub[href^="https://younggeeks.in/"]:upward(.tile--im
 duckduckgo.com##div[data-domain$="alltodev.com"]
 duckduckgo.com##div[data-domain$="amuddycup.com"]
 duckduckgo.com##div[data-domain$="answer-id.com"]
+duckduckgo.com##div[data-domain$="answerlib.com"]
 duckduckgo.com##div[data-domain$="article.docway.net"]
 duckduckgo.com##div[data-domain$="askdev.vn"]
 duckduckgo.com##div[data-domain$="athabasca-foto.com"]
@@ -74044,6 +74050,7 @@ startpage.com##.w-gl__result-title[href*="waymanamechurch.org/"]:upward(F.w-gl__
 startpage.com##.w-gl__result-title[href*="zsharp.org/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://alltodev.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://answer-id.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://answerlib.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://askdev.vn/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://brocante.dev/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://cainiaojiaocheng.com/"]:upward(.w-gl__result)
@@ -81798,6 +81805,7 @@ www.ecosia.org##.result[data-url*="waymanamechurch.org/"]
 www.ecosia.org##.result[data-url*="zsharp.org/"]
 www.ecosia.org##.result[data-url^="https://alltodev.com/"]
 www.ecosia.org##.result[data-url^="https://answer-id.com/"]
+www.ecosia.org##.result[data-url^="https://answerlib.com/"]
 www.ecosia.org##.result[data-url^="https://askdev.vn/"]
 www.ecosia.org##.result[data-url^="https://brocante.dev/"]
 www.ecosia.org##.result[data-url^="https://cainiaojiaocheng.com/"]
@@ -81950,6 +81958,7 @@ www.google.*##.C8nzq[href*="waymanamechurch.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="zsharp.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://alltodev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://answer-id.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://answerlib.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://askdev.vn/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://brocante.dev/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://cainiaojiaocheng.com/"]:upward(.xpd)
@@ -82102,6 +82111,7 @@ www.google.*##.VFACy[href*="waymanamechurch.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="zsharp.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://alltodev.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://answer-id.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://answerlib.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://askdev.vn/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://brocante.dev/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://cainiaojiaocheng.com/"]:upward(.isv-r)
@@ -82254,6 +82264,7 @@ www.google.*##.aI1xUe .sXtWJb[href*="waymanamechurch.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="zsharp.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://alltodev.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://answer-id.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://answerlib.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://askdev.vn/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://brocante.dev/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://cainiaojiaocheng.com/"]:upward(.aI1xUe)
@@ -82406,6 +82417,7 @@ www.google.*##.isv-r[data-ru*="waymanamechurch.org/"]
 www.google.*##.isv-r[data-ru*="zsharp.org/"]
 www.google.*##.isv-r[data-ru^="https://alltodev.com/"]
 www.google.*##.isv-r[data-ru^="https://answer-id.com/"]
+www.google.*##.isv-r[data-ru^="https://answerlib.com/"]
 www.google.*##.isv-r[data-ru^="https://askdev.vn/"]
 www.google.*##.isv-r[data-ru^="https://brocante.dev/"]
 www.google.*##.isv-r[data-ru^="https://cainiaojiaocheng.com/"]
@@ -82558,6 +82570,7 @@ www.google.*##.kCrYT > a[href*="waymanamechurch.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="zsharp.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://alltodev.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://answer-id.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://answerlib.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://askdev.vn/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://brocante.dev/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://cainiaojiaocheng.com/"]:upward(.xpd)
@@ -82710,6 +82723,7 @@ www.google.*##.xpdopen .sXtWJb[href*="waymanamechurch.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="zsharp.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://alltodev.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://answer-id.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://answerlib.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://askdev.vn/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://brocante.dev/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://cainiaojiaocheng.com/"]:upward(.xpdopen)
