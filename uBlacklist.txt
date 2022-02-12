@@ -1,5 +1,5 @@
 
- Update weekly at 2022-02-12 13:53:16 UTC+0800
+ Update weekly at 2022-02-12 13:57:23 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -10417,6 +10417,7 @@
 *://www.dx-zzrc.com/*
 *://www.dxguanxian.org/*
 *://www.dzydieo.site/*
+*://www.e-learn.cn/*
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*
@@ -30021,10 +30022,10 @@
 9zas.com
 9zbc.com
 9zhei.com
-@*://*.google.com/*
+@*://*.google.com/* 
 @*://*.tspweb.com/*
-@*://sites.google.com/**://www.e-learn.cn/*
-@*://www.zhihu.com/*
+@*://sites.google.com/* 
+@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
