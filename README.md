@@ -8,9 +8,12 @@
 
 本列表**比较激进**！会屏蔽少部分正规但低质量的中文网站。  
 所以个人建议搜索中文资料请用百度，uBlacklist 插件对百度无效。
-> 如果需要百度屏蔽插件请用：[Search engine filter](https://github.com/zhangolve/search-engine-filter)
+> 如果需要百度屏蔽插件请用：<https://github.com/zhangolve/search-engine-filter>
 
+> 推荐另一个插件：<https://github.com/danny0838/content-farm-terminator>
 # 功能
+
+**屏蔽中文内容农场！**【什么是[内容农场](https://zh.wikipedia.org/wiki/%E5%85%A7%E5%AE%B9%E8%BE%B2%E5%A0%B4)？】
 
 通过匹配域名的方式，屏蔽搜索引擎的搜索结果。主要是屏蔽中文 SEO 垃圾站。  
 
