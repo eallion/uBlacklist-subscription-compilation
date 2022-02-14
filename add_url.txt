@@ -501,3 +501,27 @@
 title/小.(百科 | 知识) 网/
 title/.* - 小.(百科 | 知识) 网/
 *://githubmemory.com/*
+://jiubayi.net/
+://baocaiyijia.com/
+://m.xbgo.com.cn/
+://xtgh.org.cn/
+://www.114zh.com/
+://jiaoqiubifenchaxun.wfleishi.com/
+://jnwcbz.net/
+://duolitejinshu.com/
+://www.kuangkai.com.cn/
+://mbs_do.yicheng-elevator.com/
+://mbs_do.yicheng-elevator.com/
+://mbs_do.yicheng-elevator.com/
+://www.sjdfwx.net/
+://www.gdyegu.com/
+://beingsn.cwk9.com/
+://dgjhxx.com/
+://www.winway99.com/
+://hbjiaozhan.com/
+://www.newwaylight.net/
+://www.ltsjjx.com/
+://www.jmshengjiangji.com/
+://www.tlyhc.0475dm.com/
+://m.aotaier.com.cn/
+://maweisong.net/ 
