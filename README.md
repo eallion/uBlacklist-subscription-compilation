@@ -22,6 +22,7 @@
 - [Bing](https://www.bing.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
+- [Qwant](https://www.qwant.com/)
 - [Startpage](https://www.startpage.com/)
 
 # 用法：
