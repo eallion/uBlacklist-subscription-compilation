@@ -751,3 +751,4 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.bzbinhai.com/*
 *://www.318tg.com/*
 *://www.glhsmm.com/* 
+*://.8kee.com/* 
