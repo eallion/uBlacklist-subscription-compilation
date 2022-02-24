@@ -3758,6 +3758,9 @@ www.huaweicloud.com/theme
 *://*.elfishgene.com/*
 *://answerlib.com/*
 *://sysadminde.com/*
+*://answacode.com/*
+*://fooobar.com/*
+*://ask-dev.ru/*
 [uBlock Origin]
 ! Title: uBlacklist Stack Overflow Translation
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -5613,7 +5616,43 @@ www.google.*##.isv-r[data-ru^="https://sysadminde.com/"]
 www.google.*##.VFACy[href^="https://sysadminde.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://sysadminde.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://sysadminde.com/"]:upward(.tile--img)
-# 2022.02.17更新
+www.google.*##.kCrYT > a[href^="/url?q=https://answacode.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://answacode.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://answacode.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://answacode.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answacode.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="answacode.com"]
+www.ecosia.org##.result[data-url^="https://answacode.com/"]
+startpage.com##.w-gl__result-title[href^="https://answacode.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://answacode.com/"]
+www.google.*##.VFACy[href^="https://answacode.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://answacode.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://answacode.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://fooobar.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://fooobar.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://fooobar.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://fooobar.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://fooobar.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="fooobar.com"]
+www.ecosia.org##.result[data-url^="https://fooobar.com/"]
+startpage.com##.w-gl__result-title[href^="https://fooobar.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://fooobar.com/"]
+www.google.*##.VFACy[href^="https://fooobar.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://fooobar.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://fooobar.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://ask-dev.ru/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://ask-dev.ru/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://ask-dev.ru/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://ask-dev.ru/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ask-dev.ru/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="ask-dev.ru"]
+www.ecosia.org##.result[data-url^="https://ask-dev.ru/"]
+startpage.com##.w-gl__result-title[href^="https://ask-dev.ru/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://ask-dev.ru/"]
+www.google.*##.VFACy[href^="https://ask-dev.ru/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://ask-dev.ru/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://ask-dev.ru/"]:upward(.tile--img)
+# 2022.02.21更新
 # 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 # 
 *://*.000.org.cn/*
@@ -6045,6 +6084,30 @@ duckduckgo.com##.tile--img__sub[href^="https://sysadminde.com/"]:upward(.tile--i
 *://*.mumujie.com/*
 *://*.quan05.com/*
 *://*.deafb.com/*
+*://*.373629.com/*
+*://*.qqwtt.com/*
+*://*.oqlgb.com/*
+*://*.daae.com.cn/*
+*://*.3hira.com/*
+*://*.tspweb.com/*
+*://*.stmarysmatricarambakkam.com/*
+*://*.dbgbr.com/*
+*://*.msha3.com/*
+*://*.aecbl.com/*
+*://*.hibbr.com/*
+*://*.fpmth.com/*
+*://*.tffnc.com/*
+*://*.freednewstimes.com/*
+*://*.thehubnews.net/*
+*://*.yam.com/*
+*://*.rolia.net/*
+*://*.kus-ng.com/*
+*://*.bujincycy.co/*
+*://*.2047.one/*
+*://*.hoidapvui.com/*
+*://*.n9btcx.co/*
+*://*.actuarygarden.com/*
+
 ! Junk
 *://www.baidu.com/*
 *://*.csdn.net/*
@@ -97969,6 +98032,7 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.aqmdjx.com/*
 *://*.asklobster.com/*
 *://*.ayxbwy.com/*
+*://*.baidu.com/s?word=*
 *://*.bbjkw.net/*
 *://*.bbsah.com/*
 *://*.bit86.cn/*
@@ -97988,6 +98052,7 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.codeprj.com/*
 *://*.compozi.com/*
 *://*.crackorg.com/*
+*://*.csdn.net/weixin_26722031/article/*
 *://*.csolmy.com/*
 *://*.cundang.cc/*
 *://*.cxybb.com/*
@@ -98002,7 +98067,9 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.duboot.com/*
 *://*.enmsb.com/*
 *://*.eue5xbp.site/*
+*://*.fhsas.com/*
 *://*.fofa.so/*
+*://*.fpppw.com/*
 *://*.framedfm.net/*
 *://*.freax.be/*
 *://*.freejournal.info/*
@@ -98052,6 +98119,7 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.kontur-sb.ru/*
 *://*.ksctec.com/*
 *://*.ksyzakq.com/*
+*://*.kunyuyuan.com/*
 *://*.kutu66.com/*
 *://*.lai18.com/*
 *://*.licenseapps.com/*
@@ -98060,6 +98128,7 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.loudoun-valley.com/*
 *://*.lovfp.com/*
 *://*.mango66.com/*
+*://*.mattkaydiary.com/*
 *://*.meetthebookworld.com/*
 *://*.megavolt67.ru/*
 *://*.metropaintballgames.com/*
@@ -98088,6 +98157,7 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.rukomos.ru/*
 *://*.scpaean.com/*
 *://*.sdxinli.org/*
+*://*.sefyc.com/*
 *://*.shyaki.com/*
 *://*.sincereschool.com/*
 *://*.sm1234.net/*
@@ -98095,6 +98165,7 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.smart-gamma.com/*
 *://*.snowcoal.com/*
 *://*.soft-vn.net/*
+*://*.sohoblink.com/*
 *://*.soinside.com/*
 *://*.sportsoho.com/*
 *://*.sqzlsy.cn/*
@@ -98110,12 +98181,14 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.tidewaterschool.org/*
 *://*.tintsoft.com/*
 *://*.tipsandtricks.tech/*
+*://*.tnbta.com/*
 *://*.todohealth.com/*
 *://*.tomzx.com/*
 *://*.trload.com/*
 *://*.trophieschester.com/*
 *://*.tspweb.com/*
 *://*.tumlls.xyz/*
+*://*.txcsjlb.com/*
 *://*.tysp.org/*
 *://*.uk.com/*
 *://*.unansea.com/*
@@ -98128,10 +98201,12 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.waymanamechurch.org/*
 *://*.wdfxw.net/*
 *://*.weivb.com/*
+*://*.wenbf.com/*
 *://*.wikicell.org/*
 *://*.wintoog.com.cn/*
 *://*.wjpy55.com/*
 *://*.wxkcg.com/*
+*://*.xagrtx.com/*
 *://*.xbuba.com/*
 *://*.xcx1024.com/*
 *://*.xhjjs365.com/*
@@ -98140,6 +98215,7 @@ title/.* - 小.(百科|知识)网$/.001553.cn
 *://*.xj-dd.com/*
 *://*.xjhxx.com/*
 *://*.xn----8sbnnlfdiifnglmc.xn--p1ai/*
+*://*.xnntw.com/*
 *://*.xuesw.net/*
 *://*.xzlbjg.com/*
 *://*.yangmao.info/*
@@ -98991,7 +99067,7 @@ title/.*_一键访问国外网站/
 title/.*_点击一次就可以出国/
 title/.*【一键访问国外网站】/
 title/.*【点击一次就可以出国】/
- Update weekly at 2022-02-20 08:30:11 UTC+0800
+ Update weekly at 2022-02-25 01:11:11 UTC+0800
 @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
@@ -99858,3 +99934,5 @@ thagoda.com
 igotojapan.com
 jpgooverseas.com
 bannercuts.com 
+it-hell.com
+www.it-hell.com 
