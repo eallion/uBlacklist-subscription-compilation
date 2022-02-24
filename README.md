@@ -39,8 +39,17 @@
 
 > 订阅黑名单列表：
 
-添加订阅：  
-选择一个列表添加到 Subscription 订阅中：（如下图所示）
+添加订阅：
+
+```
+https://git.io/ublacklist
+```
+
+如下图所示：
+
+![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
+
+下面 5 个备用列表的内容一模一样，任意选择一个也可以。
 
 - GitHub 列表（大陆部分地区可能被墙或者速度慢）
 
@@ -49,20 +58,9 @@
 
 - CDN 加速列表
 
-`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
+`https://cdn.eallion.com/uBlacklist.txt`  
+`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`  
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
-
-上面 4 个列表的内容一模一样，任意选择一个即可。
-
-**能稳定访问 GitHub 的用户推荐使用：**  
-```
-https://git.io/ublacklist
-```
-> <https://git.io/ublacklist>
-
-示例图：
-
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
 
 #### 设置 - 一般：（选填）
 

@@ -72,6 +72,25 @@ jobs:
         cd ..
         ln -s uBlacklist.txt uBlocklist.txt
 
+    - name: Upload to COS
+      uses: TencentCloud/cos-action@v1
+      with:
+        secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
+        secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
+        cos_bucket: ${{ secrets.COS_BUCKET }}
+        cos_region: ${{ secrets.COS_REGION }}
+        local_path: uBlacklist.txt
+        remote_path: /
+        clean: false
+
+    - name: Refresh CDN
+      uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
+      env:
+        SECRET_ID: ${{ secrets.TENCENT_CLOUD_SECRET_ID}}
+        SECRET_KEY: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
+        PATHS: "https://cdn.eallion.com/uBlacklist.txt"
+        FLUSH_TYPE: "flush" # optional
+
     - name: Commit files
       run: |
         git add -u
