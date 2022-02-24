@@ -72,25 +72,6 @@ jobs:
         cd ..
         ln -s uBlacklist.txt uBlocklist.txt
 
-    - name: Upload to COS
-      uses: TencentCloud/cos-action@v1
-      with:
-        secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
-        secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
-        cos_bucket: ${{ secrets.COS_BUCKET }}
-        cos_region: ${{ secrets.COS_REGION }}
-        local_path: uBlacklist.txt
-        remote_path: /
-        clean: false
-
-    - name: Refresh CDN
-      uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
-      env:
-        SECRET_ID: ${{ secrets.TENCENT_CLOUD_SECRET_ID}}
-        SECRET_KEY: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
-        PATHS: "https://cdn.eallion.com/uBlacklist.txt"
-        FLUSH_TYPE: "flush" # optional
-
     - name: Commit files
       run: |
         git add -u
@@ -99,3 +80,21 @@ jobs:
         git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
         git push origin main -f
         echo 🤘 Update complete.
+
+    - name: Upload to COS via COSCLI
+      run: |
+        wget https://github.com/tencentyun/coscli/releases/download/v0.10.2-beta/coscli-linux
+        mv coscli-linux coscli
+        chmod 755 coscli
+        cp tools/.cos.yaml ~/.cos.yaml
+        sed -i 's/TENCENT_CLOUD_SECRET_ID/${{ secrets.TENCENT_CLOUD_SECRET_ID }}/g' ~/.cos.yaml
+        sed -i 's/TENCENT_CLOUD_SECRET_KEY/${{ secrets.TENCENT_CLOUD_SECRET_KEY }}/g' ~/.cos.yaml
+        sed -i 's/TENCENT_CLOUD_BUCKETS/${{ secrets.TENCENT_CLOUD_BUCKETS }}/g' ~/.cos.yaml
+        ./coscli sync uBlacklist.txt cos://${{ secrets.TENCENT_CLOUD_BUCKETS }}/uBlacklist.txt -c ~/.cos.yaml
+
+    - name: Refresh CDN
+      run: |
+        sed -i 's/SecretId/${{ secrets.TENCENT_CLOUD_SECRET_ID }}/g' tools/cdn.go
+        sed -i 's/SecretKey/${{ secrets.TENCENT_CLOUD_SECRET_KEY }}/g' tools/cdn.go
+        cd tools
+        go run cdn.go

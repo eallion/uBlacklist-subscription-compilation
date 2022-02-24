@@ -1,0 +1,9 @@
+cos:
+  base:
+    secretid: "TENCENT_CLOUD_SECRET_ID"
+    secretkey: "TENCENT_CLOUD_SECRET_KEY"
+    sessiontoken: ""
+  buckets:
+  - name: "TENCENT_CLOUD_BUCKETS"
+    alias: "TENCENT_CLOUD_BUCKETS"
+    region: "ap-shanghai"
