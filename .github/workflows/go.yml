@@ -83,8 +83,7 @@ jobs:
 
     - name: Upload to COS via COSCLI
       run: |
-        wget https://github.com/tencentyun/coscli/releases/download/v0.10.2-beta/coscli-linux
-        mv coscli-linux coscli
+        wget https://github.com/tencentyun/coscli/releases/download/v0.10.2-beta/coscli-linux -qO coscli
         chmod 755 coscli
         cp tools/.cos.yaml ~/.cos.yaml
         sed -i 's/TENCENT_CLOUD_SECRET_ID/${{ secrets.TENCENT_CLOUD_SECRET_ID }}/g' ~/.cos.yaml
