@@ -81,15 +81,24 @@ jobs:
         git push origin main -f
         echo 🤘 Update complete.
 
-    - name: Upload to COS via COSCLI
-      run: |
-        wget https://github.com/tencentyun/coscli/releases/download/v0.10.2-beta/coscli-linux -qO coscli
-        chmod 755 coscli
-        cp tools/.cos.yaml ~/.cos.yaml
-        sed -i 's/TENCENT_CLOUD_SECRET_ID/${{ secrets.TENCENT_CLOUD_SECRET_ID }}/g' ~/.cos.yaml
-        sed -i 's/TENCENT_CLOUD_SECRET_KEY/${{ secrets.TENCENT_CLOUD_SECRET_KEY }}/g' ~/.cos.yaml
-        sed -i 's/TENCENT_CLOUD_BUCKETS/${{ secrets.TENCENT_CLOUD_BUCKETS }}/g' ~/.cos.yaml
-        ./coscli sync uBlacklist.txt cos://${{ secrets.TENCENT_CLOUD_BUCKETS }}/uBlacklist.txt -c ~/.cos.yaml
+#    - name: Upload to COS via COSCLI
+#      run: |
+#        wget https://github.com/tencentyun/coscli/releases/download/v0.10.2-beta/coscli-linux -qO coscli
+#        chmod 755 coscli
+#        cp tools/.cos.yaml ~/.cos.yaml
+#        sed -i 's/TENCENT_CLOUD_SECRET_ID/${{ secrets.TENCENT_CLOUD_SECRET_ID }}/g' ~/.cos.yaml
+#        sed -i 's/TENCENT_CLOUD_SECRET_KEY/${{ secrets.TENCENT_CLOUD_SECRET_KEY }}/g' ~/.cos.yaml
+#        sed -i 's/TENCENT_CLOUD_BUCKETS/${{ secrets.TENCENT_CLOUD_BUCKETS }}/g' ~/.cos.yaml
+#        ./coscli sync uBlacklist.txt cos://${{ secrets.TENCENT_CLOUD_BUCKETS }}/uBlacklist.txt -c ~/.cos.yaml
+
+    - name: Upload to COS
+      uses: zkqiang/tencent-cos-action@v0.1.0
+      with:
+        args: delete -f uBlacklist.txt && upload -rs uBlacklist.txt / -H "{'content-type':'text/plain;charset=utf-8'}"
+        secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
+        secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
+        bucket: ${{ secrets.TENCENT_CLOUD_BUCKETS }}
+        region: ap-shanghai
 
     - name: Refresh CDN
       run: |
