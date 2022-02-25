@@ -97,18 +97,22 @@ uBlacklist:
 
 Subscription:
 
-- [https://github.com/iorate/ublacklist-example-subscription](https://github.com/iorate/ublacklist-example-subscription)
+> 添加订阅源的时候，各订阅源均采用 Mit License 或无 License。如果有侵权行为，我会第一时间删除。
 
-- [https://github.com/YeSilin/uBlacklist](https://github.com/YeSilin/uBlacklist)
+- [https://github.com/arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation)
 - [https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
+- [https://github.com/dallaslu/penzai-list](https://github.com/dallaslu/penzai-list)
+- [https://github.com/DivineEngine/uBlacklist](https://github.com/DivineEngine/uBlacklist)
 - [https://github.com/gyli/Blocklist](https://github.com/gyli/Blocklist)
 - [https://github.com/h-matsuo/uBlacklist-subscription-for-developer](https://github.com/h-matsuo/uBlacklist-subscription-for-developer)
+- [https://github.com/iorate/ublacklist-example-subscription](https://github.com/iorate/ublacklist-example-subscription)
 - [https://github.com/littleserendipity/uBlacklist-Subscription](https://github.com/littleserendipity/uBlacklist-Subscription)
 - [https://github.com/liubiantao/uBlacklist-Websites](https://github.com/liubiantao/uBlacklist-Websites)
 - [https://github.com/nonPointer/uBlacklist-Subscription](https://github.com/nonPointer/uBlacklist-Subscription)
 - [https://github.com/scyrte/uBlacklist-Subscription](https://github.com/scyrte/uBlacklist-Subscription)
 - [https://github.com/xNathan/uBlacklist-subscription](https://github.com/xNathan/uBlacklist-subscription)
 - [https://github.com/yangjingchuang/ublacklist-subscription](https://github.com/yangjingchuang/ublacklist-subscription)
+- [https://github.com/YeSilin/uBlacklist](https://github.com/YeSilin/uBlacklist)
 
 
 # [LICENSE](https://github.com/me-shaon/GLWTPL)
