@@ -34,3 +34,6 @@
 [submodule "source/dallaslu/penzai-list"]
 	path = source/dallaslu/penzai-list
 	url = https://github.com/dallaslu/penzai-list.git
+[submodule "source/iorate/ublacklist-example-subscription"]
+	path = source/iorate/ublacklist-example-subscription
+	url = https://github.com/iorate/ublacklist-example-subscription
