@@ -1,5 +1,5 @@
 
- Update weekly at 2022-02-27 08:29:10 UTC+0800
+ Update weekly at 2022-03-06 08:28:11 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1591,6 +1591,7 @@
 *://*.arealcat.com/*
 *://*.argointernet.buzz/*
 *://*.ariadnesthread.cn/*
+*://*.arip-photo.org/*
 *://*.armour-tires.buzz/*
 *://*.arrow-sales.buzz/*
 *://*.arruo.com/*
@@ -38549,6 +38550,7 @@ cn-xinhongtai.com
 cn-zzp.com
 cn.18dao.net
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="amuddycup.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href*="arip-photo.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="article.docway.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="athabasca-foto.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href*="cfadnc.org/"]:upward(.b_algo)
@@ -38825,6 +38827,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://www.xsprogram.com/"]:upward(.dg
 cn.bing.com,www.bing.com##.inflnk[href^="https://xiu2.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://younggeeks.in/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="amuddycup.com"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##a[title$="arip-photo.org"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="article.docway.net"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="athabasca-foto.com"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##a[title$="cfadnc.org"]:upward(.dgControl_list > li)
@@ -42609,6 +42612,7 @@ duboren.com
 duchang888.com
 duchangwangzhanvip.com
 duckduckgo.com##.tile--img__sub[href*="amuddycup.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href*="arip-photo.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="article.docway.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="athabasca-foto.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href*="cfadnc.org/"]:upward(.tile--img)
@@ -42770,6 +42774,7 @@ duckduckgo.com##div[data-domain$="amuddycup.com"]
 duckduckgo.com##div[data-domain$="answacode.com"]
 duckduckgo.com##div[data-domain$="answer-id.com"]
 duckduckgo.com##div[data-domain$="answerlib.com"]
+duckduckgo.com##div[data-domain$="arip-photo.org"]
 duckduckgo.com##div[data-domain$="article.docway.net"]
 duckduckgo.com##div[data-domain$="ask-dev.ru"]
 duckduckgo.com##div[data-domain$="askdev.vn"]
@@ -74452,6 +74457,7 @@ starseatrade.com
 starszhy.net
 startlifew.com
 startpage.com##.w-gl__result-title[href*="amuddycup.com/"]:upward(F.w-gl__result)
+startpage.com##.w-gl__result-title[href*="arip-photo.org/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="article.docway.net/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="athabasca-foto.com/"]:upward(F.w-gl__result)
 startpage.com##.w-gl__result-title[href*="cfadnc.org/"]:upward(F.w-gl__result)
@@ -82228,6 +82234,7 @@ www.cnpython.com/qa
 www.comeseeme.org
 www.dopovidi-nanu.org.ua
 www.ecosia.org##.result[data-url*="amuddycup.com/"]
+www.ecosia.org##.result[data-url*="arip-photo.org/"]
 www.ecosia.org##.result[data-url*="article.docway.net/"]
 www.ecosia.org##.result[data-url*="athabasca-foto.com/"]
 www.ecosia.org##.result[data-url*="cfadnc.org/"]
@@ -82387,6 +82394,7 @@ www.ecosia.org##.result[data-url^="https://younggeeks.in/"]
 www.energia.imdea.org
 www.eurasianbrands.com
 www.google.*##.C8nzq[href*="amuddycup.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href*="arip-photo.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="article.docway.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="athabasca-foto.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href*="cfadnc.org/"]:upward(.xpd)
@@ -82544,6 +82552,7 @@ www.google.*##.C8nzq[href^="https://www.xsprogram.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://xiu2.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://younggeeks.in/"]:upward(.xpd)
 www.google.*##.VFACy[href*="amuddycup.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href*="arip-photo.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="article.docway.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="athabasca-foto.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href*="cfadnc.org/"]:upward(.isv-r)
@@ -82701,6 +82710,7 @@ www.google.*##.VFACy[href^="https://www.xsprogram.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://xiu2.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://younggeeks.in/"]:upward(.isv-r)
 www.google.*##.aI1xUe .sXtWJb[href*="amuddycup.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href*="arip-photo.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="article.docway.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="athabasca-foto.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href*="cfadnc.org/"]:upward(.aI1xUe)
@@ -82858,6 +82868,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://www.xsprogram.com/"]:upward(.aI1xUe
 www.google.*##.aI1xUe .sXtWJb[href^="https://xiu2.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://younggeeks.in/"]:upward(.aI1xUe)
 www.google.*##.isv-r[data-ru*="amuddycup.com/"]
+www.google.*##.isv-r[data-ru*="arip-photo.org/"]
 www.google.*##.isv-r[data-ru*="article.docway.net/"]
 www.google.*##.isv-r[data-ru*="athabasca-foto.com/"]
 www.google.*##.isv-r[data-ru*="cfadnc.org/"]
@@ -83015,6 +83026,7 @@ www.google.*##.isv-r[data-ru^="https://www.xsprogram.com/"]
 www.google.*##.isv-r[data-ru^="https://xiu2.net/"]
 www.google.*##.isv-r[data-ru^="https://younggeeks.in/"]
 www.google.*##.kCrYT > a[href*="amuddycup.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href*="arip-photo.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="article.docway.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="athabasca-foto.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href*="cfadnc.org/"]:upward(.xpd)
@@ -83172,6 +83184,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://www.xsprogram.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://xiu2.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://younggeeks.in/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href*="amuddycup.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href*="arip-photo.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="article.docway.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="athabasca-foto.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href*="cfadnc.org/"]:upward(.xpdopen)

@@ -3761,6 +3761,7 @@ www.huaweicloud.com/theme
 *://answacode.com/*
 *://fooobar.com/*
 *://ask-dev.ru/*
+*://*.arip-photo.org/*
 [uBlock Origin]
 ! Title: uBlacklist Stack Overflow Translation
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -5652,6 +5653,18 @@ www.google.*##.isv-r[data-ru^="https://ask-dev.ru/"]
 www.google.*##.VFACy[href^="https://ask-dev.ru/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ask-dev.ru/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://ask-dev.ru/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href*="arip-photo.org/"]:upward(.xpd)
+www.google.*##.C8nzq[href*="arip-photo.org/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href*="arip-photo.org/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href*="arip-photo.org/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href*="arip-photo.org/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="arip-photo.org"]
+www.ecosia.org##.result[data-url*="arip-photo.org/"]
+startpage.com##.w-gl__result-title[href*="arip-photo.org/"]:upward(F.w-gl__result)
+www.google.*##.isv-r[data-ru*="arip-photo.org/"]
+www.google.*##.VFACy[href*="arip-photo.org/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##a[title$="arip-photo.org"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href*="arip-photo.org/"]:upward(.tile--img)
 # 2022.02.21更新
 # 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 # 
@@ -99067,7 +99080,7 @@ title/.*_一键访问国外网站/
 title/.*_点击一次就可以出国/
 title/.*【一键访问国外网站】/
 title/.*【点击一次就可以出国】/
- Update weekly at 2022-02-27 08:29:10 UTC+0800
+ Update weekly at 2022-03-06 08:28:11 UTC+0800
 @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
