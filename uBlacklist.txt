@@ -1,5 +1,5 @@
 
- Update weekly at 2022-03-25 22:25:59 UTC+0800
+ Update weekly at 2022-03-27 08:34:26 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -9892,6 +9892,7 @@
 *://itranslater.com/*
 *://itscreativejuice.com/*  
 *://j.17qq.com/*
+*://jablogs.com/*
 *://jamyi.com/*
 *://janbuy.com/*  
 *://jclinicth.com/*  
@@ -9912,6 +9913,7 @@
 *://jnwcbz.net/
 *://jouhom.com/*  
 *://jpcodeqa.com/*
+*://jpdebug.com/*
 *://jpgooverseas.com/*  
 *://jpndev.com/*
 *://jqljc.com/*
@@ -38813,8 +38815,10 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://intellipaat.com/"]:up
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://isolution.pro/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://issues-world.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://itectec.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jablogs.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jike.in/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jpcodeqa.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jpdebug.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jpndev.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://knews.vip/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://kotaeta.com/"]:upward(.b_algo)
@@ -38932,8 +38936,10 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://intellipaat.com/"]:upward(.dgCo
 cn.bing.com,www.bing.com##.inflnk[href^="https://isolution.pro/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://issues-world.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://itectec.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://jablogs.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jike.in/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jpcodeqa.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://jpdebug.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jpndev.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://knews.vip/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://kotaeta.com/"]:upward(.dgControl_list > li)
@@ -42872,8 +42878,10 @@ duckduckgo.com##.tile--img__sub[href^="https://intellipaat.com/"]:upward(.tile--
 duckduckgo.com##.tile--img__sub[href^="https://isolution.pro/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://issues-world.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://itectec.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://jablogs.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://jike.in/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://jpcodeqa.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://jpdebug.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://jpndev.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://knews.vip/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://kotaeta.com/"]:upward(.tile--img)
@@ -43009,8 +43017,10 @@ duckduckgo.com##div[data-domain$="intellipaat.com"]
 duckduckgo.com##div[data-domain$="isolution.pro"]
 duckduckgo.com##div[data-domain$="issues-world.com"]
 duckduckgo.com##div[data-domain$="itectec.com"]
+duckduckgo.com##div[data-domain$="jablogs.com"]
 duckduckgo.com##div[data-domain$="jike.in"]
 duckduckgo.com##div[data-domain$="jpcodeqa.com"]
+duckduckgo.com##div[data-domain$="jpdebug.com"]
 duckduckgo.com##div[data-domain$="jpndev.com"]
 duckduckgo.com##div[data-domain$="knews.vip"]
 duckduckgo.com##div[data-domain$="kotaeta.com"]
@@ -74680,8 +74690,10 @@ startpage.com##.w-gl__result-title[href^="https://intellipaat.com/"]:upward(.w-g
 startpage.com##.w-gl__result-title[href^="https://isolution.pro/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://issues-world.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://itectec.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://jablogs.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://jike.in/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://jpcodeqa.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://jpdebug.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://jpndev.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://knews.vip/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://kotaeta.com/"]:upward(.w-gl__result)
@@ -82440,8 +82452,10 @@ www.ecosia.org##.result[data-url^="https://intellipaat.com/"]
 www.ecosia.org##.result[data-url^="https://isolution.pro/"]
 www.ecosia.org##.result[data-url^="https://issues-world.com/"]
 www.ecosia.org##.result[data-url^="https://itectec.com/"]
+www.ecosia.org##.result[data-url^="https://jablogs.com/"]
 www.ecosia.org##.result[data-url^="https://jike.in/"]
 www.ecosia.org##.result[data-url^="https://jpcodeqa.com/"]
+www.ecosia.org##.result[data-url^="https://jpdebug.com/"]
 www.ecosia.org##.result[data-url^="https://jpndev.com/"]
 www.ecosia.org##.result[data-url^="https://knews.vip/"]
 www.ecosia.org##.result[data-url^="https://kotaeta.com/"]
@@ -82598,8 +82612,10 @@ www.google.*##.C8nzq[href^="https://intellipaat.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://isolution.pro/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://issues-world.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://itectec.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://jablogs.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://jike.in/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://jpcodeqa.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://jpdebug.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://jpndev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://knews.vip/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://kotaeta.com/"]:upward(.xpd)
@@ -82756,8 +82772,10 @@ www.google.*##.VFACy[href^="https://intellipaat.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://isolution.pro/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://issues-world.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://itectec.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://jablogs.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://jike.in/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://jpcodeqa.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://jpdebug.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://jpndev.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://knews.vip/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://kotaeta.com/"]:upward(.isv-r)
@@ -82914,8 +82932,10 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://intellipaat.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://isolution.pro/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://issues-world.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://itectec.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://jablogs.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://jike.in/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://jpcodeqa.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://jpdebug.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://jpndev.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://knews.vip/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://kotaeta.com/"]:upward(.aI1xUe)
@@ -83072,8 +83092,10 @@ www.google.*##.isv-r[data-ru^="https://intellipaat.com/"]
 www.google.*##.isv-r[data-ru^="https://isolution.pro/"]
 www.google.*##.isv-r[data-ru^="https://issues-world.com/"]
 www.google.*##.isv-r[data-ru^="https://itectec.com/"]
+www.google.*##.isv-r[data-ru^="https://jablogs.com/"]
 www.google.*##.isv-r[data-ru^="https://jike.in/"]
 www.google.*##.isv-r[data-ru^="https://jpcodeqa.com/"]
+www.google.*##.isv-r[data-ru^="https://jpdebug.com/"]
 www.google.*##.isv-r[data-ru^="https://jpndev.com/"]
 www.google.*##.isv-r[data-ru^="https://knews.vip/"]
 www.google.*##.isv-r[data-ru^="https://kotaeta.com/"]
@@ -83230,8 +83252,10 @@ www.google.*##.kCrYT > a[href^="/url?q=https://intellipaat.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://isolution.pro/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://issues-world.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://itectec.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://jablogs.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://jike.in/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://jpcodeqa.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://jpdebug.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://jpndev.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://knews.vip/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://kotaeta.com/"]:upward(.xpd)
@@ -83388,8 +83412,10 @@ www.google.*##.xpdopen .sXtWJb[href^="https://intellipaat.com/"]:upward(.xpdopen
 www.google.*##.xpdopen .sXtWJb[href^="https://isolution.pro/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://issues-world.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://itectec.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://jablogs.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://jike.in/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://jpcodeqa.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://jpdebug.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://jpndev.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://knews.vip/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://kotaeta.com/"]:upward(.xpdopen)
