@@ -1,5 +1,4 @@
 
- Update weekly at 2022-03-27 08:34:26 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -17,7 +16,6 @@
 #eu.fwbdl.com
 #yx.kbjcuiru.com
 *://*.000.org.cn/*
-*://*.001553.cn/*
 *://*.001nlp.com/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -224,6 +222,7 @@
 *://*.101super.buzz/*
 *://*.10241314.com/*
 *://*.1024dns.com/*
+*://*.1024sou.com/*
 *://*.103.hk/*
 *://*.1037293.cn/*
 *://*.1040chz.cn/*
@@ -829,6 +828,7 @@
 *://*.520shoping.com/*
 *://*.521253.com/*
 *://*.52175565.com/*
+*://*.521cc.com/*
 *://*.521hunlian.com/*
 *://*.521wang.cn/*
 *://*.522324.com/*
@@ -2923,6 +2923,7 @@
 *://*.edithllp.cn/*
 *://*.ediuschina.com/*
 *://*.edkdq3q.cn/*
+*://*.edoghaitao.com/*
 *://*.eds555.com/*
 *://*.eduogou.com/*
 *://*.edv-buch.buzz/*
@@ -3394,6 +3395,7 @@
 *://*.gdjumoou.com/*
 *://*.gdpmtx.com/*
 *://*.gdrellet.com/*
+*://*.gdsdwan.com/*
 *://*.gdsyi.com/*
 *://*.gdzsgb.cn/*
 *://*.gdzyt007.com/*
@@ -3990,6 +3992,7 @@
 *://*.horecapolis.info/*
 *://*.horny-world.buzz/*
 *://*.host5778.com/*
+*://*.hostphb.com/*
 *://*.hosty.cc/*
 *://*.hostzxw.com/*
 *://*.hotbak.net*
@@ -4325,6 +4328,7 @@
 *://*.itaotaotao.com/*
 *://*.itchosun.buzz/*
 *://*.itdaan.com/*
+*://*.itecnote.com/*
 *://*.itectec.com/*
 *://*.iter01.com/*
 *://*.itigic.com/*
@@ -4707,6 +4711,7 @@
 *://*.jyx766d.cn/*
 *://*.jzcqs.com/*
 *://*.jzdxcmm.com/*
+*://*.jzhcgm.com/*
 *://*.jzhyfrp.com/*
 *://*.jznbzl.com/*
 *://*.jzsalq.com/*
@@ -5500,6 +5505,7 @@
 *://*.minijiaju.com/*
 *://*.minimidimaxidress.com/*
 *://*.mintcx.com/*
+*://*.mississippifaithinaction.org/*
 *://*.misterzeng.com/*
 *://*.mitchsmotorcycles.com/*
 *://*.mittagongmultimedia.com/*
@@ -7616,6 +7622,7 @@
 *://*.tlgg666.com/*
 *://*.tlheha.cn/*
 *://*.tlpoe.com/*
+*://*.tlyshi.com/*
 *://*.tlyzt.cn/*
 *://*.tm36.cn/*
 *://*.tm4bzoo.cn/*
@@ -8914,6 +8921,7 @@
 *://*.youqug.com/*
 *://*.youree.buzz/*
 *://*.yourselfdo.cn/*
+*://*.youwuqiong.top/*
 *://*.youxi369.com/*
 *://*.youxizhinancn.com/*
 *://*.youxwli.com/*
@@ -9102,6 +9110,7 @@
 *://*.zdccip.com/*
 *://*.zdes-film.com/*
 *://*.zdfaxhp.cn/*
+*://*.zditect.com/*
 *://*.ze3.234665.top/*
 *://*.ze7tpv2.cn/*
 *://*.zebh7.cn/*
@@ -9225,7 +9234,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*00000258.com
+*://*.zhzzx.com/**://*.001553.cn/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -9293,6 +9302,7 @@
 *://*.znaqn74.cn/*
 *://*.znfushi.com/*
 *://*.zngy57z.cn/*
+*://*.znj.com/*
 *://*.znkji.com/*
 *://*.znysg.com/*
 *://*.zoailive.com/*
@@ -9420,7 +9430,6 @@
 *://*/so/*
 *://.8kee.com/*  
 *://00w5.com/*
-*://0317car.cn/*
 *://03o6.wocrek.tw/*
 *://0550pet.cn/*
 *://0691888.net/*
@@ -9573,6 +9582,7 @@
 *://bjtmmh.com/*
 *://blacksprocket.com/*
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -11111,7 +11121,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://blog.csdn.net/*
+*://www.kafan.cn/**://0317car.cn/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -11862,7 +11872,7 @@
 *://zbaen.com/*
 *://zczz1.com/*
 *://zdccip.com/*
-*://zditect.com/*  
+*://zditect.com/*   Update weekly at 2022-04-03 08:33:08 UTC+0800
 *://zeepline.pw/*
 *://zenodo.org/*
 *://zeroungcje5g5.pixnet.net/*  
@@ -18677,6 +18687,7 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -77145,7 +77156,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/.001553.cn
+title/.* - 小.(百科|知识)网$/*://*.voidcc.com/*
 title/.*\s-\s.*知识网/
 title/.*\s-\s小.*百科网/
 title/.*_一键访问国外网站/
