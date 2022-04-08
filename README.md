@@ -49,7 +49,7 @@ https://git.io/ublacklist
 
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
 
-下面 5 个备用列表的内容一模一样，任意选择一个也可以。
+下面 4 个备用列表的内容一模一样，任意选择一个也可以。
 
 - GitHub 列表（大陆部分地区可能被墙或者速度慢）
 
@@ -57,8 +57,6 @@ https://git.io/ublacklist
 `https://git.io/ublocklist` # For BLM
 
 - CDN 加速列表
-
-`https://cdn.eallion.com/uBlacklist.txt`  
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`  
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
