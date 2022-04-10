@@ -1,5 +1,5 @@
 
- Update weekly at 2022-04-08 19:56:57 UTC+0800
+ Update weekly at 2022-04-10 08:30:42 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -2647,6 +2647,7 @@
 *://*.ddjone.com/*
 *://*.ddkkw.com/*
 *://*.ddoca.com/*
+*://*.ddpei.com/*
 *://*.ddsulian.com/*
 *://*.ddttb.com/*
 *://*.ddvweb.com/*
@@ -2930,6 +2931,7 @@
 *://*.ecvss.org/*
 *://*.ed2ks.com/*
 *://*.edchgo.cn/*
+*://*.editcode.net/*
 *://*.edithllp.cn/*
 *://*.ediuschina.com/*
 *://*.edkdq3q.cn/*
@@ -3027,6 +3029,7 @@
 *://*.estherboesche.com/*
 *://*.estjc9.com/*
 *://*.estt94.cn/*
+*://*.etbot.net/*
 *://*.ete68e1.cn/*
 *://*.etf-world.buzz/*
 *://*.etfdep.cn/*
@@ -4008,6 +4011,7 @@
 *://*.hostzxw.com/*
 *://*.hotbak.net*
 *://*.hotbak.net/*
+*://*.hotbgm.com/*
 *://*.hotel-britannic.buzz/*
 *://*.hotsync.cn/*
 *://*.houseword.com/*
@@ -5653,6 +5657,7 @@
 *://*.muzijx.com/*
 *://*.mv2i7.cn/*
 *://*.mvcomcz.cn/*
+*://*.mvpsky.com/*
 *://*.mwd8.cn/*
 *://*.mwngtki.cn/*
 *://*.mwr8.cn/*
@@ -8039,6 +8044,7 @@
 *://*.vpsmm.com/*
 *://*.vpsmr.com/*
 *://*.vpsurl.com/*
+*://*.vpsxxs.com/*
 *://*.vqgzsxm.cn/*
 *://*.vqtddz.cn/*
 *://*.vsb08zc.cn/*
@@ -8178,6 +8184,7 @@
 *://*.wenda.haosou.com/*
 *://*.wenda123.org/*
 *://*.wenduyun.com/*
+*://*.wenjiangs.com/*
 *://*.wenjuan.com/*
 *://*.wenku1.com/*
 *://*.wenlongkm.com/*
@@ -9514,6 +9521,8 @@
 *://4000571780.com/*
 *://4000840088.com/*
 *://45.207.61.193/*
+*://45.62.238.160/*
+*://4563.org/*
 *://47.241.89.120/*
 *://47.242.32.226/*
 *://500yi.com/*
@@ -9531,6 +9540,7 @@
 *://842504.com/*
 *://87426578.com/*  
 *://88854.co/*
+*://91ai.net/*
 *://91yqf.com/*
 *://942ks.com/*
 *://942wang.com/*
@@ -9560,6 +9570,7 @@
 *://aihao8w.com/*  
 *://aihejin.com/*
 *://aizhaoni.com/*
+*://aiznh.com/*
 *://alltodev.com/*
 *://andrew-reynolds-bootcamp.com/*
 *://androidcookie.com/*
@@ -9670,6 +9681,7 @@
 *://ccpaisen.com/*
 *://cctsuzhou.cn/*
 *://cdbike.net/*
+*://cdmana.com/*
 *://cefotiam.com/*
 *://ceji.ayotechnology.de/*
 *://cf628.com/*
@@ -9743,6 +9755,8 @@
 *://czsfsj.com/*  
 *://d.zymrg.com/*
 *://dacha-eco.kh.ua/*  
+*://dacongyun.com/*
+*://dafuhua.com/*
 *://dafx.cc/*
 *://daimajiaoliu.com/*
 *://daleneq61v16.pixnet.net/*  
@@ -9777,6 +9791,7 @@
 *://dmpp.nasp3-5.de/*
 *://docs.tita.com/*
 *://domihp.com/*  
+*://dongdaima.com/*
 *://dotblogs.com.tw/*
 *://down.znds.com/*
 *://download.csdn.net/*
@@ -9912,6 +9927,7 @@
 *://homiemall.com/*
 *://hosf.flusskreuzfahrten-elbe.de/*
 *://host5778.com/*
+*://hostzxw.com/*
 *://hoteles.bluevalencia.com/*
 *://houseword.com/*
 *://howtofix.io/*
@@ -9930,6 +9946,7 @@
 *://hzsnby.com/*  
 *://hztx88.com/*
 *://hzzmqx.com/*  
+*://i4k.xyz/*
 *://i88ko.com/*  
 *://iainv3.me/*  
 *://iamlishuo.com/*
@@ -9954,6 +9971,7 @@
 *://iskeke.com/*
 *://isolution.pro/*
 *://ispe-dach.org/*  
+*://issueexplorer.com/*
 *://issues-world.com/*
 *://it-hell.com/*  
 *://it.wenda123.org/*
@@ -9965,6 +9983,7 @@
 *://itranslater.com/*00000258.com
 *://its201.com/*
 *://its301.com/*
+*://its304.com/*
 *://its401.com/*
 *://itscreativejuice.com/*  
 *://j.17qq.com/*
@@ -10213,6 +10232,7 @@
 *://ngp.70c6nb.cn/*
 *://ni.cafegatto.com/*
 *://nice168.com/*  
+*://niul.net/*
 *://njaym.com/*  
 *://njchgd.com/*
 *://njvhjp.hybrishop.com/*
@@ -10262,6 +10282,7 @@
 *://product.suning.com/*
 *://product.yesky.com/*
 *://progi.pro/*
+*://programmer.group/*
 *://programmerstart.com/*
 *://python-stack.de/*
 *://python5.com/*
@@ -12004,6 +12025,7 @@
 *://wxzjmy.com/*
 *://x1rdl.com/*  
 *://x4x2.com/*
+*://xa8.net/*
 *://xbuba.com/*
 *://xbuba.com/questions/*
 *://xckd.hamsterkiste-deutsch.de/*
