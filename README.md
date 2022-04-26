@@ -39,11 +39,16 @@
 
 > 订阅黑名单列表：
 
-添加订阅：
+添加订阅：（git.io 短链接已弃用）
 
 ```
-https://git.io/ublacklist
+https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
 ```
+
+> Git.io deprecation
+> <https://github.blog/changelog/2022-04-25-git-io-deprecation/>
+
+~~`https://git.io/ublacklist`~~
 
 如下图所示：
 
@@ -53,8 +58,8 @@ https://git.io/ublacklist
 
 - GitHub 列表（大陆部分地区可能被墙或者速度慢）
 
-`https://git.io/ublacklist`  
-`https://git.io/ublocklist` # For BLM
+`https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt`  
+`https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/ublocklist.txt` # For BLM
 
 - CDN 加速列表
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`  
