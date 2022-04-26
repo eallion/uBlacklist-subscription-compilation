@@ -62,6 +62,7 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 `https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/ublocklist.txt` # For BLM
 
 - CDN 加速列表
+
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`  
 `https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
@@ -83,15 +84,9 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 
 # 添加/删除 域名
 
-1. 添加需要屏蔽的域名：
+请至 [Issues](https://github.com/eallion/uBlacklist-subscription-compilation/issues) 页面提交新 [Issue](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose)。
 
-- <https://github.com/eallion/uBlacklist-subscription-compilation/issues/4>
-- <https://github.com/eallion/uBlacklist-subscription-compilation/discussions/categories/addurl>
-
-2. 需要解除屏蔽的域名：
-
-- <https://github.com/eallion/uBlacklist-subscription-compilation/issues/5>
-- <https://github.com/eallion/uBlacklist-subscription-compilation/discussions/categories/reverseurl>
+[![GitHub issues](https://img.shields.io/github/issues/eallion/uBlacklist-subscription-compilation?logo=GitHub&color=4ec100&style=flat)](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose)
 
 # 感谢名单：
 
