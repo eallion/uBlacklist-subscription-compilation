@@ -54930,6 +54930,18 @@ www.google.*##.isv-r[data-ru^="https://programmierfrage.com/"]
 www.google.*##.VFACy[href^="https://programmierfrage.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://programmierfrage.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://programmierfrage.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://microeducate.tech/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://microeducate.tech/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://microeducate.tech/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://microeducate.tech/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://microeducate.tech/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="microeducate.tech"]
+www.ecosia.org##.result[data-url^="https://microeducate.tech/"]
+startpage.com##.w-gl__result-title[href^="https://microeducate.tech/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://microeducate.tech/"]
+www.google.*##.VFACy[href^="https://microeducate.tech/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://microeducate.tech/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://microeducate.tech/"]:upward(.tile--img)
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
@@ -55094,6 +55106,7 @@ duckduckgo.com##.tile--img__sub[href^="https://programmierfrage.com/"]:upward(.t
 *://iquestion.pro/*
 *://*.ntcdoon.org/*
 *://programmierfrage.com/*
+*://microeducate.tech/*
 *://blog.csdn.net/*
 *://cn.voidcc.com/*
 *://codeday.me/*
@@ -129853,7 +129866,7 @@ zzzwjc.net
 zzzxxw.com
 zzzz0013.com
 zzzzbj.com
- Update weekly at 2022-05-01 08:43:08 UTC+0800
+ Update weekly at 2022-05-08 08:33:24 UTC+0800
 @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 

@@ -1,5 +1,5 @@
 
- Update weekly at 2022-05-01 08:43:08 UTC+0800
+ Update weekly at 2022-05-08 08:33:24 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -10498,6 +10498,7 @@
 *://meisearch.cc/*
 *://menf.cc/*
 *://mfww.cc/*
+*://microeducate.tech/*
 *://mimeplay.top/*
 *://mincoon.com/*
 *://mingtwang.com/*
@@ -39744,6 +39745,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://kotaeta.com/"]:upward
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://laravelquestions.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://living-sun.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://lycaeum.dev/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://microeducate.tech/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://newbedev.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://overcoder.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pretagteam.com/"]:upward(.b_algo)
@@ -39868,6 +39870,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://kotaeta.com/"]:upward(.dgContro
 cn.bing.com,www.bing.com##.inflnk[href^="https://laravelquestions.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://living-sun.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://lycaeum.dev/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://microeducate.tech/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://newbedev.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://overcoder.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
@@ -43815,6 +43818,7 @@ duckduckgo.com##.tile--img__sub[href^="https://kotaeta.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://laravelquestions.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://living-sun.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://lycaeum.dev/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://microeducate.tech/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://newbedev.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://overcoder.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)
@@ -43958,6 +43962,7 @@ duckduckgo.com##div[data-domain$="laravelquestions.com"]
 duckduckgo.com##div[data-domain$="living-sun.com"]
 duckduckgo.com##div[data-domain$="lycaeum.dev"]
 duckduckgo.com##div[data-domain$="mediatagtw.com"]
+duckduckgo.com##div[data-domain$="microeducate.tech"]
 duckduckgo.com##div[data-domain$="narkive.jp"]
 duckduckgo.com##div[data-domain$="newbedev.com"]
 duckduckgo.com##div[data-domain$="noblenaz.org"]
@@ -75635,6 +75640,7 @@ startpage.com##.w-gl__result-title[href^="https://kotaeta.com/"]:upward(.w-gl__r
 startpage.com##.w-gl__result-title[href^="https://laravelquestions.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://living-sun.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://lycaeum.dev/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://microeducate.tech/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://newbedev.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://overcoder.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://pretagteam.com/"]:upward(.w-gl__result)
@@ -83401,6 +83407,7 @@ www.ecosia.org##.result[data-url^="https://kotaeta.com/"]
 www.ecosia.org##.result[data-url^="https://laravelquestions.com/"]
 www.ecosia.org##.result[data-url^="https://living-sun.com/"]
 www.ecosia.org##.result[data-url^="https://lycaeum.dev/"]
+www.ecosia.org##.result[data-url^="https://microeducate.tech/"]
 www.ecosia.org##.result[data-url^="https://newbedev.com/"]
 www.ecosia.org##.result[data-url^="https://overcoder.net/"]
 www.ecosia.org##.result[data-url^="https://pretagteam.com/"]
@@ -83565,6 +83572,7 @@ www.google.*##.C8nzq[href^="https://kotaeta.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://laravelquestions.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://living-sun.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://lycaeum.dev/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://microeducate.tech/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://newbedev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://overcoder.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://pretagteam.com/"]:upward(.xpd)
@@ -83729,6 +83737,7 @@ www.google.*##.VFACy[href^="https://kotaeta.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://laravelquestions.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://living-sun.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://lycaeum.dev/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://microeducate.tech/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://newbedev.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://overcoder.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
@@ -83893,6 +83902,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://kotaeta.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://laravelquestions.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://living-sun.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://lycaeum.dev/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://microeducate.tech/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://newbedev.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://overcoder.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://pretagteam.com/"]:upward(.aI1xUe)
@@ -84057,6 +84067,7 @@ www.google.*##.isv-r[data-ru^="https://kotaeta.com/"]
 www.google.*##.isv-r[data-ru^="https://laravelquestions.com/"]
 www.google.*##.isv-r[data-ru^="https://living-sun.com/"]
 www.google.*##.isv-r[data-ru^="https://lycaeum.dev/"]
+www.google.*##.isv-r[data-ru^="https://microeducate.tech/"]
 www.google.*##.isv-r[data-ru^="https://newbedev.com/"]
 www.google.*##.isv-r[data-ru^="https://overcoder.net/"]
 www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
@@ -84221,6 +84232,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://kotaeta.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://laravelquestions.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://living-sun.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://lycaeum.dev/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://microeducate.tech/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://newbedev.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://overcoder.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://pretagteam.com/"]:upward(.xpd)
@@ -84385,6 +84397,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://kotaeta.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://laravelquestions.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://living-sun.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://lycaeum.dev/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://microeducate.tech/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://newbedev.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://overcoder.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://pretagteam.com/"]:upward(.xpdopen)
