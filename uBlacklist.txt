@@ -1,5 +1,5 @@
 
- Update weekly at 2022-05-15 08:44:36 UTC+0800
+ Update weekly at 2022-05-22 08:36:15 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -42,6 +42,7 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
+*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -9513,7 +9514,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://*.021east.com/*
+*://*.zhzzx.com/**://*.abbyychina.com/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -9986,6 +9987,7 @@
 *://codeantenna.com/*
 *://codeday.me/*
 *://codefaq.ru/*
+*://codegrepr.com/*
 *://codeguides.site/*
 *://codehero.jp/*
 *://coder-solution-jp.com/*
@@ -10117,6 +10119,7 @@
 *://eoncon.com/*  
 *://eozy.vip-erfolgscoach.de/*
 *://erjiinfo.com/*
+*://errorsfixing.com/*
 *://erzet.cc/*
 *://esc0769.com/*
 *://esc0769.com/*  
@@ -10130,7 +10133,6 @@
 *://faculdadearidesa.instructure.com/*
 *://fan361.com/*  
 *://fanqiang.network/*
-*://farath.com/*
 *://fazhiyanjiu.cn/*
 *://feetwindyoung-5.live/*
 *://feishuang406.com/*
@@ -10153,6 +10155,7 @@
 *://fsnn.cc/*
 *://fsqyjt88.com/*
 *://fsweini.com/*
+*://fullstackuser.com/*
 *://fydqw.com/*
 *://fyf.wx-wx.net/*
 *://fzxunjie.com/*
@@ -10363,7 +10366,6 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
-*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaichuanyun.net/*
@@ -10635,6 +10637,7 @@
 *://pythonwd.com/*
 *://qa-stack.pl/*
 *://qa.1r1g.com/*
+*://qa.icopy.site/*
 *://qaae.cc/*
 *://qacc.cc/*
 *://qapicks.com/*
@@ -10693,6 +10696,7 @@
 *://rcuk.bsc.by/*  
 *://read01.com/*
 *://recalll.co/*
+*://reddit.fun/*
 *://regiaodecister.pt/*
 *://rocksearch.cc/*
 *://rohv.madame-creations.fr/*
@@ -10717,6 +10721,7 @@
 *://search.jd.com/*
 *://search.suning.com/*
 *://seo.maro6.com/*
+*://serveanswer.com/*
 *://sfen.cc/*
 *://sgjarts.com/*
 *://sgub.kerstinraphahn.de/*
@@ -10779,6 +10784,7 @@
 *://suyinglaw.com/*  
 *://sweetcelebrationpa.com/*  
 *://sxcpsjapp.org/*
+*://syntaxfix.com/*
 *://sysadminde.com/*
 *://syshizhi.com/*
 *://syw1000.com/*  
@@ -10904,7 +10910,6 @@
 *://web.coffee-storehouse.com.tw/*
 *://web.xingfashuini.com/*
 *://webdevdesigner.com/*
-*://webmonkez.com/*
 *://websou.cc/*
 *://wedt.rollender-bauernladen.de/*
 *://weekly-geekly-es.imtqy.com/*
@@ -10990,7 +10995,7 @@
 *://www.268583.com/*
 *://www.26gou.net/*  
 *://www.28f57.com/*
-*://www.28f57.com/**://www.cxybb.com/*
+*://www.28f57.com/**://ksou.cc/*
 *://www.295a.com/*
 *://www.2match2.buzz/*
 *://www.2vmt.com/*  
@@ -11317,6 +11322,7 @@
 *://www.cuponens.com/*  
 *://www.cvktvbox.com/*
 *://www.cxhm.net/*
+*://www.cxybb.com/*
 *://www.cxydev.cc/*
 *://www.cxygjd.com/*
 *://www.cxyread.cc/*
@@ -11687,7 +11693,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://www.sejuku.net/*
+*://www.kafan.cn/*00000258.com
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -11993,6 +11999,7 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
+*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -12197,6 +12204,9 @@
 *://www.wdfyw.com/*  
 *://www.wdzj.com/*
 *://www.weareassets.com/*  
+*://www.web-dev-qa-db-fr.com/*
+*://www.web-dev-qa-db-ja.com/*
+*://www.web-dev-qa-db-pt.com/*
 *://www.web-dev-qa.com/*
 *://www.webdevqa.jp.net/*
 *://www.webplus.org.cn/*
@@ -12517,7 +12527,7 @@
 *://zbaen.com/*
 *://zczz1.com/*
 *://zdccip.com/*
-*://zditect.com/*  *://code-examples.net/*
+*://zditect.com/*  @*://www.zhihu.com/* 
 *://zeepline.pw/*
 *://zenodo.org/*
 *://zeroungcje5g5.pixnet.net/*  
@@ -31537,7 +31547,6 @@
 @*://*.google.com/* 
 @*://*.tspweb.com/*
 @*://sites.google.com/* 
-@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
@@ -39733,6 +39742,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://cndgn.com/"]:upward(.
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://code-examples.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://code.i-harness.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codefaq.ru/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codegrepr.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codeguides.site/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codehero.jp/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coder-solution-jp.com/"]:upward(.b_algo)
@@ -39745,9 +39755,10 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://devbugfix.com/"]:upwa
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://devdreamz.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://easysavecode.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://edupro.id/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://errorsfixing.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://exceptionshub.com/"]:upward(.b_algo)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://farath.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://fooobar.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://fullstackuser.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://howtofix.io/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ibootweb.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://intellipaat.com/"]:upward(.b_algo)
@@ -39774,6 +39785,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://programmierfrage.com/
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://python-stack.de/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pythonwd.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qa-stack.pl/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qa.icopy.site/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qapicks.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qastack.cn/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qastack.co.in/"]:upward(.b_algo)
@@ -39794,7 +39806,9 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qastack.vn/"]:upward(
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://quabr.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://quares.ru/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://question-it.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://reddit.fun/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://routinepanic.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://serveanswer.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://sqlite.in/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackfault.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackfinder.jp.net/"]:upward(.b_algo)
@@ -39805,6 +39819,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackovergo.com/"]:up
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackqna.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stormcrow.dev/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://string.quest/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://syntaxfix.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://sysadminde.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tipsfordev.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tousu.in/"]:upward(.b_algo)
@@ -39812,7 +39827,6 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tutorialmore.com/"]:u
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntu.buildwebhost.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntuaa.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://webdevdesigner.com/"]:upward(.b_algo)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://webmonkez.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.5axxw.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.answerlib.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.buzzphp.com/"]:upward(.b_algo)
@@ -39843,6 +39857,9 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.semicolonworld.co
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.stackfinder.ru/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.titanwolf.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.web-dev-qa.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.webdevqa.jp.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.xsprogram.com/"]:upward(.b_algo)
@@ -39864,6 +39881,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://cndgn.com/"]:upward(.dgControl_
 cn.bing.com,www.bing.com##.inflnk[href^="https://code-examples.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://code.i-harness.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://codefaq.ru/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://codegrepr.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://codeguides.site/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://codehero.jp/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://coder-solution-jp.com/"]:upward(.dgControl_list > li)
@@ -39876,9 +39894,10 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://devbugfix.com/"]:upward(.dgCont
 cn.bing.com,www.bing.com##.inflnk[href^="https://devdreamz.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://easysavecode.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://edupro.id/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://errorsfixing.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://exceptionshub.com/"]:upward(.dgControl_list > li)
-cn.bing.com,www.bing.com##.inflnk[href^="https://farath.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://fooobar.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://fullstackuser.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://howtofix.io/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ibootweb.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://intellipaat.com/"]:upward(.dgControl_list > li)
@@ -39905,6 +39924,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://programmierfrage.com/"]:upward(
 cn.bing.com,www.bing.com##.inflnk[href^="https://python-stack.de/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://pythonwd.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qa-stack.pl/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://qa.icopy.site/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qapicks.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qastack.cn/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qastack.co.in/"]:upward(.dgControl_list > li)
@@ -39925,7 +39945,9 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://qastack.vn/"]:upward(.dgControl
 cn.bing.com,www.bing.com##.inflnk[href^="https://quabr.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://quares.ru/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://question-it.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://reddit.fun/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://routinepanic.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://serveanswer.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://sqlite.in/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stackfault.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stackfinder.jp.net/"]:upward(.dgControl_list > li)
@@ -39936,6 +39958,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://stackovergo.com/"]:upward(.dgCo
 cn.bing.com,www.bing.com##.inflnk[href^="https://stackqna.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stormcrow.dev/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://string.quest/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://syntaxfix.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://sysadminde.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://tipsfordev.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://tousu.in/"]:upward(.dgControl_list > li)
@@ -39943,7 +39966,6 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://tutorialmore.com/"]:upward(.dgC
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntu.buildwebhost.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntuaa.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://webdevdesigner.com/"]:upward(.dgControl_list > li)
-cn.bing.com,www.bing.com##.inflnk[href^="https://webmonkez.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.5axxw.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.answerlib.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.buzzphp.com/"]:upward(.dgControl_list > li)
@@ -39974,6 +39996,9 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://www.semicolonworld.com/"]:upwar
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.stackfinder.ru/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.titanwolf.org/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.web-dev-qa.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.webdevqa.jp.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.xsprogram.com/"]:upward(.dgControl_list > li)
@@ -43820,6 +43845,7 @@ duckduckgo.com##.tile--img__sub[href^="https://cndgn.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://code-examples.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://code.i-harness.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://codefaq.ru/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://codegrepr.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://codeguides.site/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://codehero.jp/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://coder-solution-jp.com/"]:upward(.tile--img)
@@ -43832,9 +43858,10 @@ duckduckgo.com##.tile--img__sub[href^="https://devbugfix.com/"]:upward(.tile--im
 duckduckgo.com##.tile--img__sub[href^="https://devdreamz.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://easysavecode.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://edupro.id/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://errorsfixing.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://exceptionshub.com/"]:upward(.tile--img)
-duckduckgo.com##.tile--img__sub[href^="https://farath.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://fooobar.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://fullstackuser.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://howtofix.io/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://ibootweb.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://intellipaat.com/"]:upward(.tile--img)
@@ -43861,6 +43888,7 @@ duckduckgo.com##.tile--img__sub[href^="https://programmierfrage.com/"]:upward(.t
 duckduckgo.com##.tile--img__sub[href^="https://python-stack.de/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://qa-stack.pl/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://qa.icopy.site/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://qapicks.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://qastack.cn/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://qastack.co.in/"]:upward(.tile--img)
@@ -43881,7 +43909,9 @@ duckduckgo.com##.tile--img__sub[href^="https://qastack.vn/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://quabr.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://quares.ru/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://question-it.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://reddit.fun/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://routinepanic.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://serveanswer.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://sqlite.in/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://stackfault.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://stackfinder.jp.net/"]:upward(.tile--img)
@@ -43892,6 +43922,7 @@ duckduckgo.com##.tile--img__sub[href^="https://stackovergo.com/"]:upward(.tile--
 duckduckgo.com##.tile--img__sub[href^="https://stackqna.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://stormcrow.dev/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://string.quest/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://syntaxfix.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://sysadminde.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://tipsfordev.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://tousu.in/"]:upward(.tile--img)
@@ -43899,7 +43930,6 @@ duckduckgo.com##.tile--img__sub[href^="https://tutorialmore.com/"]:upward(.tile-
 duckduckgo.com##.tile--img__sub[href^="https://ubuntu.buildwebhost.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://ubuntuaa.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://webdevdesigner.com/"]:upward(.tile--img)
-duckduckgo.com##.tile--img__sub[href^="https://webmonkez.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.5axxw.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.answerlib.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.buzzphp.com/"]:upward(.tile--img)
@@ -43930,6 +43960,9 @@ duckduckgo.com##.tile--img__sub[href^="https://www.semicolonworld.com/"]:upward(
 duckduckgo.com##.tile--img__sub[href^="https://www.stackfinder.ru/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.titanwolf.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.web-dev-qa.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.webdevqa.jp.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.xsprogram.com/"]:upward(.tile--img)
@@ -43959,6 +43992,7 @@ duckduckgo.com##div[data-domain$="code.i-harness.com"]
 duckduckgo.com##div[data-domain$="codefaq.info"]
 duckduckgo.com##div[data-domain$="codefaq.ru"]
 duckduckgo.com##div[data-domain$="codeflow.site"]
+duckduckgo.com##div[data-domain$="codegrepr.com"]
 duckduckgo.com##div[data-domain$="codeguides.site"]
 duckduckgo.com##div[data-domain$="codehero.jp"]
 duckduckgo.com##div[data-domain$="coder-solution-jp.com"]
@@ -43978,12 +44012,13 @@ duckduckgo.com##div[data-domain$="ec-europe.org"]
 duckduckgo.com##div[data-domain$="ecnf2016.org"]
 duckduckgo.com##div[data-domain$="edupro.id"]
 duckduckgo.com##div[data-domain$="elfishgene.com"]
+duckduckgo.com##div[data-domain$="errorsfixing.com"]
 duckduckgo.com##div[data-domain$="exceptionshub.com"]
 duckduckgo.com##div[data-domain$="faithcov.org"]
-duckduckgo.com##div[data-domain$="farath.com"]
 duckduckgo.com##div[data-domain$="fitforlearning.org"]
 duckduckgo.com##div[data-domain$="fluffyfables.com"]
 duckduckgo.com##div[data-domain$="fooobar.com"]
+duckduckgo.com##div[data-domain$="fullstackuser.com"]
 duckduckgo.com##div[data-domain$="gupgallery.com"]
 duckduckgo.com##div[data-domain$="howtofix.io"]
 duckduckgo.com##div[data-domain$="ibootweb.com"]
@@ -44021,6 +44056,7 @@ duckduckgo.com##div[data-domain$="projectbackpack.org"]
 duckduckgo.com##div[data-domain$="python-stack.de"]
 duckduckgo.com##div[data-domain$="pythonwd.com"]
 duckduckgo.com##div[data-domain$="qa-stack.pl"]
+duckduckgo.com##div[data-domain$="qa.icopy.site"]
 duckduckgo.com##div[data-domain$="qapicks.com"]
 duckduckgo.com##div[data-domain$="qastack.cn"]
 duckduckgo.com##div[data-domain$="qastack.co.in"]
@@ -44041,9 +44077,11 @@ duckduckgo.com##div[data-domain$="qastack.vn"]
 duckduckgo.com##div[data-domain$="quabr.com"]
 duckduckgo.com##div[data-domain$="quares.ru"]
 duckduckgo.com##div[data-domain$="question-it.com"]
+duckduckgo.com##div[data-domain$="reddit.fun"]
 duckduckgo.com##div[data-domain$="routinepanic.com"]
 duckduckgo.com##div[data-domain$="safehavenpetrescue.org"]
 duckduckgo.com##div[data-domain$="sch22.org"]
+duckduckgo.com##div[data-domain$="serveanswer.com"]
 duckduckgo.com##div[data-domain$="sierrasummit2005.org"]
 duckduckgo.com##div[data-domain$="siwib.org"]
 duckduckgo.com##div[data-domain$="softwareuser.asklobster.com"]
@@ -44058,6 +44096,7 @@ duckduckgo.com##div[data-domain$="stackqna.com"]
 duckduckgo.com##div[data-domain$="stormcrow.dev"]
 duckduckgo.com##div[data-domain$="string.quest"]
 duckduckgo.com##div[data-domain$="sunflowercreations.org"]
+duckduckgo.com##div[data-domain$="syntaxfix.com"]
 duckduckgo.com##div[data-domain$="sysadminde.com"]
 duckduckgo.com##div[data-domain$="theshuggahpies.com"]
 duckduckgo.com##div[data-domain$="tipsfordev.com"]
@@ -44070,7 +44109,6 @@ duckduckgo.com##div[data-domain$="uwenku.com"]
 duckduckgo.com##div[data-domain$="voidcc.com"]
 duckduckgo.com##div[data-domain$="waymanamechurch.org"]
 duckduckgo.com##div[data-domain$="webdevdesigner.com"]
-duckduckgo.com##div[data-domain$="webmonkez.com"]
 duckduckgo.com##div[data-domain$="www.5axxw.com"]
 duckduckgo.com##div[data-domain$="www.answerlib.com"]
 duckduckgo.com##div[data-domain$="www.buzzphp.com"]
@@ -44101,6 +44139,9 @@ duckduckgo.com##div[data-domain$="www.semicolonworld.com"]
 duckduckgo.com##div[data-domain$="www.stackfinder.ru"]
 duckduckgo.com##div[data-domain$="www.titanwolf.org"]
 duckduckgo.com##div[data-domain$="www.uebu-kaihatsu.jp.net"]
+duckduckgo.com##div[data-domain$="www.web-dev-qa-db-fr.com"]
+duckduckgo.com##div[data-domain$="www.web-dev-qa-db-ja.com"]
+duckduckgo.com##div[data-domain$="www.web-dev-qa-db-pt.com"]
 duckduckgo.com##div[data-domain$="www.web-dev-qa.com"]
 duckduckgo.com##div[data-domain$="www.webdevqa.jp.net"]
 duckduckgo.com##div[data-domain$="www.xsprogram.com"]
@@ -53307,7 +53348,6 @@ htsuye.com
 htszlt.com
 htt555.com
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
-https://www.itranslater.com/qa/details/2325844172554634240
 httpso.cn
 httpy.net
 httvd88.cn
@@ -75656,6 +75696,7 @@ startpage.com##.w-gl__result-title[href^="https://cndgn.com/"]:upward(.w-gl__res
 startpage.com##.w-gl__result-title[href^="https://code-examples.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://code.i-harness.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://codefaq.ru/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://codegrepr.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://codeguides.site/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://codehero.jp/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://coder-solution-jp.com/"]:upward(.w-gl__result)
@@ -75668,9 +75709,10 @@ startpage.com##.w-gl__result-title[href^="https://devbugfix.com/"]:upward(.w-gl_
 startpage.com##.w-gl__result-title[href^="https://devdreamz.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://easysavecode.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://edupro.id/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://errorsfixing.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://exceptionshub.com/"]:upward(.w-gl__result)
-startpage.com##.w-gl__result-title[href^="https://farath.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://fooobar.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://fullstackuser.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://howtofix.io/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://ibootweb.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://intellipaat.com/"]:upward(.w-gl__result)
@@ -75697,6 +75739,7 @@ startpage.com##.w-gl__result-title[href^="https://programmierfrage.com/"]:upward
 startpage.com##.w-gl__result-title[href^="https://python-stack.de/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://pythonwd.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://qa-stack.pl/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://qa.icopy.site/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://qapicks.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://qastack.cn/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://qastack.co.in/"]:upward(.w-gl__result)
@@ -75717,7 +75760,9 @@ startpage.com##.w-gl__result-title[href^="https://qastack.vn/"]:upward(.w-gl__re
 startpage.com##.w-gl__result-title[href^="https://quabr.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://quares.ru/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://question-it.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://reddit.fun/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://routinepanic.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://serveanswer.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://sqlite.in/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://stackfault.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://stackfinder.jp.net/"]:upward(.w-gl__result)
@@ -75728,6 +75773,7 @@ startpage.com##.w-gl__result-title[href^="https://stackovergo.com/"]:upward(.w-g
 startpage.com##.w-gl__result-title[href^="https://stackqna.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://stormcrow.dev/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://string.quest/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://syntaxfix.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://sysadminde.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://tipsfordev.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://tousu.in/"]:upward(.w-gl__result)
@@ -75735,7 +75781,6 @@ startpage.com##.w-gl__result-title[href^="https://tutorialmore.com/"]:upward(.w-
 startpage.com##.w-gl__result-title[href^="https://ubuntu.buildwebhost.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://ubuntuaa.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://webdevdesigner.com/"]:upward(.w-gl__result)
-startpage.com##.w-gl__result-title[href^="https://webmonkez.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.5axxw.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.answerlib.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.buzzphp.com/"]:upward(.w-gl__result)
@@ -75766,6 +75811,9 @@ startpage.com##.w-gl__result-title[href^="https://www.semicolonworld.com/"]:upwa
 startpage.com##.w-gl__result-title[href^="https://www.stackfinder.ru/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.titanwolf.org/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.web-dev-qa.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.webdevqa.jp.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.xsprogram.com/"]:upward(.w-gl__result)
@@ -78138,7 +78186,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/00000258.com
+title/.* - 小.(百科|知识)网$/https://www.itranslater.com/qa/details/2325844172554634240
 title/.*\s-\s.*知识网/
 title/.*\s-\s小.*百科网/
 title/.*_一键访问国外网站/
@@ -83430,6 +83478,7 @@ www.ecosia.org##.result[data-url^="https://cndgn.com/"]
 www.ecosia.org##.result[data-url^="https://code-examples.net/"]
 www.ecosia.org##.result[data-url^="https://code.i-harness.com/"]
 www.ecosia.org##.result[data-url^="https://codefaq.ru/"]
+www.ecosia.org##.result[data-url^="https://codegrepr.com/"]
 www.ecosia.org##.result[data-url^="https://codeguides.site/"]
 www.ecosia.org##.result[data-url^="https://codehero.jp/"]
 www.ecosia.org##.result[data-url^="https://coder-solution-jp.com/"]
@@ -83442,9 +83491,10 @@ www.ecosia.org##.result[data-url^="https://devbugfix.com/"]
 www.ecosia.org##.result[data-url^="https://devdreamz.com/"]
 www.ecosia.org##.result[data-url^="https://easysavecode.com/"]
 www.ecosia.org##.result[data-url^="https://edupro.id/"]
+www.ecosia.org##.result[data-url^="https://errorsfixing.com/"]
 www.ecosia.org##.result[data-url^="https://exceptionshub.com/"]
-www.ecosia.org##.result[data-url^="https://farath.com/"]
 www.ecosia.org##.result[data-url^="https://fooobar.com/"]
+www.ecosia.org##.result[data-url^="https://fullstackuser.com/"]
 www.ecosia.org##.result[data-url^="https://howtofix.io/"]
 www.ecosia.org##.result[data-url^="https://ibootweb.com/"]
 www.ecosia.org##.result[data-url^="https://intellipaat.com/"]
@@ -83471,6 +83521,7 @@ www.ecosia.org##.result[data-url^="https://programmierfrage.com/"]
 www.ecosia.org##.result[data-url^="https://python-stack.de/"]
 www.ecosia.org##.result[data-url^="https://pythonwd.com/"]
 www.ecosia.org##.result[data-url^="https://qa-stack.pl/"]
+www.ecosia.org##.result[data-url^="https://qa.icopy.site/"]
 www.ecosia.org##.result[data-url^="https://qapicks.com/"]
 www.ecosia.org##.result[data-url^="https://qastack.cn/"]
 www.ecosia.org##.result[data-url^="https://qastack.co.in/"]
@@ -83491,7 +83542,9 @@ www.ecosia.org##.result[data-url^="https://qastack.vn/"]
 www.ecosia.org##.result[data-url^="https://quabr.com/"]
 www.ecosia.org##.result[data-url^="https://quares.ru/"]
 www.ecosia.org##.result[data-url^="https://question-it.com/"]
+www.ecosia.org##.result[data-url^="https://reddit.fun/"]
 www.ecosia.org##.result[data-url^="https://routinepanic.com/"]
+www.ecosia.org##.result[data-url^="https://serveanswer.com/"]
 www.ecosia.org##.result[data-url^="https://sqlite.in/"]
 www.ecosia.org##.result[data-url^="https://stackfault.net/"]
 www.ecosia.org##.result[data-url^="https://stackfinder.jp.net/"]
@@ -83502,6 +83555,7 @@ www.ecosia.org##.result[data-url^="https://stackovergo.com/"]
 www.ecosia.org##.result[data-url^="https://stackqna.com/"]
 www.ecosia.org##.result[data-url^="https://stormcrow.dev/"]
 www.ecosia.org##.result[data-url^="https://string.quest/"]
+www.ecosia.org##.result[data-url^="https://syntaxfix.com/"]
 www.ecosia.org##.result[data-url^="https://sysadminde.com/"]
 www.ecosia.org##.result[data-url^="https://tipsfordev.com/"]
 www.ecosia.org##.result[data-url^="https://tousu.in/"]
@@ -83509,7 +83563,6 @@ www.ecosia.org##.result[data-url^="https://tutorialmore.com/"]
 www.ecosia.org##.result[data-url^="https://ubuntu.buildwebhost.com/"]
 www.ecosia.org##.result[data-url^="https://ubuntuaa.com/"]
 www.ecosia.org##.result[data-url^="https://webdevdesigner.com/"]
-www.ecosia.org##.result[data-url^="https://webmonkez.com/"]
 www.ecosia.org##.result[data-url^="https://www.5axxw.com/"]
 www.ecosia.org##.result[data-url^="https://www.answerlib.com/"]
 www.ecosia.org##.result[data-url^="https://www.buzzphp.com/"]
@@ -83540,6 +83593,9 @@ www.ecosia.org##.result[data-url^="https://www.semicolonworld.com/"]
 www.ecosia.org##.result[data-url^="https://www.stackfinder.ru/"]
 www.ecosia.org##.result[data-url^="https://www.titanwolf.org/"]
 www.ecosia.org##.result[data-url^="https://www.uebu-kaihatsu.jp.net/"]
+www.ecosia.org##.result[data-url^="https://www.web-dev-qa-db-fr.com/"]
+www.ecosia.org##.result[data-url^="https://www.web-dev-qa-db-ja.com/"]
+www.ecosia.org##.result[data-url^="https://www.web-dev-qa-db-pt.com/"]
 www.ecosia.org##.result[data-url^="https://www.web-dev-qa.com/"]
 www.ecosia.org##.result[data-url^="https://www.webdevqa.jp.net/"]
 www.ecosia.org##.result[data-url^="https://www.xsprogram.com/"]
@@ -83602,6 +83658,7 @@ www.google.*##.C8nzq[href^="https://cndgn.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://code-examples.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codefaq.ru/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://codegrepr.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codeguides.site/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codehero.jp/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://coder-solution-jp.com/"]:upward(.xpd)
@@ -83614,9 +83671,10 @@ www.google.*##.C8nzq[href^="https://devbugfix.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://devdreamz.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://easysavecode.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://edupro.id/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://errorsfixing.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://exceptionshub.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://farath.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://fooobar.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://fullstackuser.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://howtofix.io/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://ibootweb.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://intellipaat.com/"]:upward(.xpd)
@@ -83643,6 +83701,7 @@ www.google.*##.C8nzq[href^="https://programmierfrage.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://python-stack.de/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://pythonwd.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qa-stack.pl/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://qa.icopy.site/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qapicks.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qastack.cn/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qastack.co.in/"]:upward(.xpd)
@@ -83663,7 +83722,9 @@ www.google.*##.C8nzq[href^="https://qastack.vn/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://quabr.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://quares.ru/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://question-it.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://reddit.fun/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://routinepanic.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://serveanswer.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://sqlite.in/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://stackfault.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://stackfinder.jp.net/"]:upward(.xpd)
@@ -83674,6 +83735,7 @@ www.google.*##.C8nzq[href^="https://stackovergo.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://stackqna.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://stormcrow.dev/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://string.quest/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://syntaxfix.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://sysadminde.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://tipsfordev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://tousu.in/"]:upward(.xpd)
@@ -83681,7 +83743,6 @@ www.google.*##.C8nzq[href^="https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://ubuntu.buildwebhost.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://ubuntuaa.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://webdevdesigner.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://webmonkez.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.5axxw.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.answerlib.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.buzzphp.com/"]:upward(.xpd)
@@ -83712,6 +83773,9 @@ www.google.*##.C8nzq[href^="https://www.semicolonworld.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.stackfinder.ru/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.titanwolf.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.web-dev-qa.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.webdevqa.jp.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.xsprogram.com/"]:upward(.xpd)
@@ -83774,6 +83838,7 @@ www.google.*##.VFACy[href^="https://cndgn.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://code-examples.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://code.i-harness.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://codefaq.ru/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://codegrepr.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://codeguides.site/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://codehero.jp/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://coder-solution-jp.com/"]:upward(.isv-r)
@@ -83786,9 +83851,10 @@ www.google.*##.VFACy[href^="https://devbugfix.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://devdreamz.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://easysavecode.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://edupro.id/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://errorsfixing.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://exceptionshub.com/"]:upward(.isv-r)
-www.google.*##.VFACy[href^="https://farath.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://fooobar.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://fullstackuser.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://howtofix.io/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://ibootweb.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://intellipaat.com/"]:upward(.isv-r)
@@ -83815,6 +83881,7 @@ www.google.*##.VFACy[href^="https://programmierfrage.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://python-stack.de/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://pythonwd.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://qa-stack.pl/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://qa.icopy.site/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://qapicks.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://qastack.cn/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://qastack.co.in/"]:upward(.isv-r)
@@ -83835,7 +83902,9 @@ www.google.*##.VFACy[href^="https://qastack.vn/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://quabr.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://quares.ru/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://question-it.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://reddit.fun/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://routinepanic.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://serveanswer.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://sqlite.in/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://stackfault.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://stackfinder.jp.net/"]:upward(.isv-r)
@@ -83846,6 +83915,7 @@ www.google.*##.VFACy[href^="https://stackovergo.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://stackqna.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://stormcrow.dev/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://string.quest/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://syntaxfix.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://sysadminde.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://tipsfordev.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://tousu.in/"]:upward(.isv-r)
@@ -83853,7 +83923,6 @@ www.google.*##.VFACy[href^="https://tutorialmore.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://ubuntu.buildwebhost.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://ubuntuaa.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://webdevdesigner.com/"]:upward(.isv-r)
-www.google.*##.VFACy[href^="https://webmonkez.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.5axxw.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.answerlib.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.buzzphp.com/"]:upward(.isv-r)
@@ -83884,6 +83953,9 @@ www.google.*##.VFACy[href^="https://www.semicolonworld.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.stackfinder.ru/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.titanwolf.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.web-dev-qa.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.webdevqa.jp.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.xsprogram.com/"]:upward(.isv-r)
@@ -83946,6 +84018,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://cndgn.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://code-examples.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://code.i-harness.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://codefaq.ru/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://codegrepr.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://codeguides.site/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://codehero.jp/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://coder-solution-jp.com/"]:upward(.aI1xUe)
@@ -83958,9 +84031,10 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://devbugfix.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://devdreamz.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://easysavecode.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://edupro.id/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://errorsfixing.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://exceptionshub.com/"]:upward(.aI1xUe)
-www.google.*##.aI1xUe .sXtWJb[href^="https://farath.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://fooobar.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://fullstackuser.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://howtofix.io/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://ibootweb.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://intellipaat.com/"]:upward(.aI1xUe)
@@ -83987,6 +84061,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://programmierfrage.com/"]:upward(.aI1
 www.google.*##.aI1xUe .sXtWJb[href^="https://python-stack.de/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://pythonwd.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://qa-stack.pl/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://qa.icopy.site/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://qapicks.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://qastack.cn/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://qastack.co.in/"]:upward(.aI1xUe)
@@ -84007,7 +84082,9 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://qastack.vn/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://quabr.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://quares.ru/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://question-it.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://reddit.fun/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://routinepanic.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://serveanswer.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://sqlite.in/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://stackfault.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://stackfinder.jp.net/"]:upward(.aI1xUe)
@@ -84018,6 +84095,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://stackovergo.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://stackqna.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://stormcrow.dev/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://string.quest/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://syntaxfix.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://sysadminde.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://tipsfordev.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://tousu.in/"]:upward(.aI1xUe)
@@ -84025,7 +84103,6 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://tutorialmore.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntu.buildwebhost.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.aI1xUe)
-www.google.*##.aI1xUe .sXtWJb[href^="https://webmonkez.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.5axxw.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.answerlib.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.buzzphp.com/"]:upward(.aI1xUe)
@@ -84056,6 +84133,9 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://www.semicolonworld.com/"]:upward(.a
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.stackfinder.ru/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.titanwolf.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.web-dev-qa.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.webdevqa.jp.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.xsprogram.com/"]:upward(.aI1xUe)
@@ -84118,6 +84198,7 @@ www.google.*##.isv-r[data-ru^="https://cndgn.com/"]
 www.google.*##.isv-r[data-ru^="https://code-examples.net/"]
 www.google.*##.isv-r[data-ru^="https://code.i-harness.com/"]
 www.google.*##.isv-r[data-ru^="https://codefaq.ru/"]
+www.google.*##.isv-r[data-ru^="https://codegrepr.com/"]
 www.google.*##.isv-r[data-ru^="https://codeguides.site/"]
 www.google.*##.isv-r[data-ru^="https://codehero.jp/"]
 www.google.*##.isv-r[data-ru^="https://coder-solution-jp.com/"]
@@ -84130,9 +84211,10 @@ www.google.*##.isv-r[data-ru^="https://devbugfix.com/"]
 www.google.*##.isv-r[data-ru^="https://devdreamz.com/"]
 www.google.*##.isv-r[data-ru^="https://easysavecode.com/"]
 www.google.*##.isv-r[data-ru^="https://edupro.id/"]
+www.google.*##.isv-r[data-ru^="https://errorsfixing.com/"]
 www.google.*##.isv-r[data-ru^="https://exceptionshub.com/"]
-www.google.*##.isv-r[data-ru^="https://farath.com/"]
 www.google.*##.isv-r[data-ru^="https://fooobar.com/"]
+www.google.*##.isv-r[data-ru^="https://fullstackuser.com/"]
 www.google.*##.isv-r[data-ru^="https://howtofix.io/"]
 www.google.*##.isv-r[data-ru^="https://ibootweb.com/"]
 www.google.*##.isv-r[data-ru^="https://intellipaat.com/"]
@@ -84159,6 +84241,7 @@ www.google.*##.isv-r[data-ru^="https://programmierfrage.com/"]
 www.google.*##.isv-r[data-ru^="https://python-stack.de/"]
 www.google.*##.isv-r[data-ru^="https://pythonwd.com/"]
 www.google.*##.isv-r[data-ru^="https://qa-stack.pl/"]
+www.google.*##.isv-r[data-ru^="https://qa.icopy.site/"]
 www.google.*##.isv-r[data-ru^="https://qapicks.com/"]
 www.google.*##.isv-r[data-ru^="https://qastack.cn/"]
 www.google.*##.isv-r[data-ru^="https://qastack.co.in/"]
@@ -84179,7 +84262,9 @@ www.google.*##.isv-r[data-ru^="https://qastack.vn/"]
 www.google.*##.isv-r[data-ru^="https://quabr.com/"]
 www.google.*##.isv-r[data-ru^="https://quares.ru/"]
 www.google.*##.isv-r[data-ru^="https://question-it.com/"]
+www.google.*##.isv-r[data-ru^="https://reddit.fun/"]
 www.google.*##.isv-r[data-ru^="https://routinepanic.com/"]
+www.google.*##.isv-r[data-ru^="https://serveanswer.com/"]
 www.google.*##.isv-r[data-ru^="https://sqlite.in/"]
 www.google.*##.isv-r[data-ru^="https://stackfault.net/"]
 www.google.*##.isv-r[data-ru^="https://stackfinder.jp.net/"]
@@ -84190,6 +84275,7 @@ www.google.*##.isv-r[data-ru^="https://stackovergo.com/"]
 www.google.*##.isv-r[data-ru^="https://stackqna.com/"]
 www.google.*##.isv-r[data-ru^="https://stormcrow.dev/"]
 www.google.*##.isv-r[data-ru^="https://string.quest/"]
+www.google.*##.isv-r[data-ru^="https://syntaxfix.com/"]
 www.google.*##.isv-r[data-ru^="https://sysadminde.com/"]
 www.google.*##.isv-r[data-ru^="https://tipsfordev.com/"]
 www.google.*##.isv-r[data-ru^="https://tousu.in/"]
@@ -84197,7 +84283,6 @@ www.google.*##.isv-r[data-ru^="https://tutorialmore.com/"]
 www.google.*##.isv-r[data-ru^="https://ubuntu.buildwebhost.com/"]
 www.google.*##.isv-r[data-ru^="https://ubuntuaa.com/"]
 www.google.*##.isv-r[data-ru^="https://webdevdesigner.com/"]
-www.google.*##.isv-r[data-ru^="https://webmonkez.com/"]
 www.google.*##.isv-r[data-ru^="https://www.5axxw.com/"]
 www.google.*##.isv-r[data-ru^="https://www.answerlib.com/"]
 www.google.*##.isv-r[data-ru^="https://www.buzzphp.com/"]
@@ -84228,6 +84313,9 @@ www.google.*##.isv-r[data-ru^="https://www.semicolonworld.com/"]
 www.google.*##.isv-r[data-ru^="https://www.stackfinder.ru/"]
 www.google.*##.isv-r[data-ru^="https://www.titanwolf.org/"]
 www.google.*##.isv-r[data-ru^="https://www.uebu-kaihatsu.jp.net/"]
+www.google.*##.isv-r[data-ru^="https://www.web-dev-qa-db-fr.com/"]
+www.google.*##.isv-r[data-ru^="https://www.web-dev-qa-db-ja.com/"]
+www.google.*##.isv-r[data-ru^="https://www.web-dev-qa-db-pt.com/"]
 www.google.*##.isv-r[data-ru^="https://www.web-dev-qa.com/"]
 www.google.*##.isv-r[data-ru^="https://www.webdevqa.jp.net/"]
 www.google.*##.isv-r[data-ru^="https://www.xsprogram.com/"]
@@ -84290,6 +84378,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://cndgn.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://code-examples.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://codefaq.ru/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://codegrepr.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://codeguides.site/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://codehero.jp/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://coder-solution-jp.com/"]:upward(.xpd)
@@ -84302,9 +84391,10 @@ www.google.*##.kCrYT > a[href^="/url?q=https://devbugfix.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://devdreamz.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://easysavecode.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://edupro.id/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://errorsfixing.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://exceptionshub.com/"]:upward(.xpd)
-www.google.*##.kCrYT > a[href^="/url?q=https://farath.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://fooobar.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://fullstackuser.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://howtofix.io/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://ibootweb.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://intellipaat.com/"]:upward(.xpd)
@@ -84331,6 +84421,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://programmierfrage.com/"]:upward(.x
 www.google.*##.kCrYT > a[href^="/url?q=https://python-stack.de/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://pythonwd.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://qa-stack.pl/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://qa.icopy.site/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://qapicks.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://qastack.cn/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://qastack.co.in/"]:upward(.xpd)
@@ -84351,7 +84442,9 @@ www.google.*##.kCrYT > a[href^="/url?q=https://qastack.vn/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://quabr.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://quares.ru/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://question-it.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://reddit.fun/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://routinepanic.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://serveanswer.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://sqlite.in/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://stackfault.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://stackfinder.jp.net/"]:upward(.xpd)
@@ -84362,6 +84455,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://stackovergo.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://stackqna.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://stormcrow.dev/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://string.quest/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://syntaxfix.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://sysadminde.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://tipsfordev.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://tousu.in/"]:upward(.xpd)
@@ -84369,7 +84463,6 @@ www.google.*##.kCrYT > a[href^="/url?q=https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://ubuntu.buildwebhost.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://ubuntuaa.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://webdevdesigner.com/"]:upward(.xpd)
-www.google.*##.kCrYT > a[href^="/url?q=https://webmonkez.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.5axxw.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.answerlib.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.buzzphp.com/"]:upward(.xpd)
@@ -84400,6 +84493,9 @@ www.google.*##.kCrYT > a[href^="/url?q=https://www.semicolonworld.com/"]:upward(
 www.google.*##.kCrYT > a[href^="/url?q=https://www.stackfinder.ru/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.titanwolf.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.uebu-kaihatsu.jp.net/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.web-dev-qa-db-fr.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.web-dev-qa-db-ja.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.web-dev-qa-db-pt.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.web-dev-qa.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.webdevqa.jp.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.xsprogram.com/"]:upward(.xpd)
@@ -84462,6 +84558,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://cndgn.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://code-examples.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://code.i-harness.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://codefaq.ru/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://codegrepr.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://codeguides.site/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://codehero.jp/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://coder-solution-jp.com/"]:upward(.xpdopen)
@@ -84474,9 +84571,10 @@ www.google.*##.xpdopen .sXtWJb[href^="https://devbugfix.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://devdreamz.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://easysavecode.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://edupro.id/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://errorsfixing.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://exceptionshub.com/"]:upward(.xpdopen)
-www.google.*##.xpdopen .sXtWJb[href^="https://farath.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://fooobar.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://fullstackuser.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://howtofix.io/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://ibootweb.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://intellipaat.com/"]:upward(.xpdopen)
@@ -84503,6 +84601,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://programmierfrage.com/"]:upward(.xp
 www.google.*##.xpdopen .sXtWJb[href^="https://python-stack.de/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://pythonwd.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://qa-stack.pl/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://qa.icopy.site/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://qapicks.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://qastack.cn/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://qastack.co.in/"]:upward(.xpdopen)
@@ -84523,7 +84622,9 @@ www.google.*##.xpdopen .sXtWJb[href^="https://qastack.vn/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://quabr.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://quares.ru/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://question-it.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://reddit.fun/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://routinepanic.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://serveanswer.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://sqlite.in/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://stackfault.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://stackfinder.jp.net/"]:upward(.xpdopen)
@@ -84534,6 +84635,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://stackovergo.com/"]:upward(.xpdopen
 www.google.*##.xpdopen .sXtWJb[href^="https://stackqna.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://stormcrow.dev/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://string.quest/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://syntaxfix.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://sysadminde.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://tipsfordev.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://tousu.in/"]:upward(.xpdopen)
@@ -84541,7 +84643,6 @@ www.google.*##.xpdopen .sXtWJb[href^="https://tutorialmore.com/"]:upward(.xpdope
 www.google.*##.xpdopen .sXtWJb[href^="https://ubuntu.buildwebhost.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.xpdopen)
-www.google.*##.xpdopen .sXtWJb[href^="https://webmonkez.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.5axxw.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.answerlib.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.buzzphp.com/"]:upward(.xpdopen)
@@ -84572,6 +84673,9 @@ www.google.*##.xpdopen .sXtWJb[href^="https://www.semicolonworld.com/"]:upward(.
 www.google.*##.xpdopen .sXtWJb[href^="https://www.stackfinder.ru/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.titanwolf.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.web-dev-qa-db-ja.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.web-dev-qa-db-pt.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.web-dev-qa.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.webdevqa.jp.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.xsprogram.com/"]:upward(.xpdopen)
