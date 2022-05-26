@@ -865,7 +865,8 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.it-hell.com /*  
 *://www.1024sou.com/*  
 *://www.o2ojs.com/*  
-*://zditect.com/*  @*://www.zhihu.com/* 
+*://zditect.com/*  
+*://www.manongzj.com/  @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
 ! Junk
@@ -72824,18 +72825,42 @@ www.google.*##.isv-r[data-ru^="https://fullstackuser.com/"]
 www.google.*##.VFACy[href^="https://fullstackuser.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://fullstackuser.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://fullstackuser.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href*="ostack.cn/"]:upward(.xpd)
-www.google.*##.C8nzq[href*="ostack.cn/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href*="ostack.cn/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href*="ostack.cn/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href*="ostack.cn/"]:upward(.b_algo)
+www.google.*##.kCrYT > a[href^="/url?q=https://ostack.cn/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://ostack.cn/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://ostack.cn/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://ostack.cn/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ostack.cn/"]:upward(.b_algo)
 duckduckgo.com##div[data-domain$="ostack.cn"]
-www.ecosia.org##.result[data-url*="ostack.cn/"]
-startpage.com##.w-gl__result-title[href*="ostack.cn/"]:upward(F.w-gl__result)
-www.google.*##.isv-r[data-ru*="ostack.cn/"]
-www.google.*##.VFACy[href*="ostack.cn/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##a[title$="ostack.cn"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href*="ostack.cn/"]:upward(.tile--img)
+www.ecosia.org##.result[data-url^="https://ostack.cn/"]
+startpage.com##.w-gl__result-title[href^="https://ostack.cn/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://ostack.cn/"]
+www.google.*##.VFACy[href^="https://ostack.cn/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://ostack.cn/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://ostack.cn/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://qa.ostack.cn/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://qa.ostack.cn/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://qa.ostack.cn/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://qa.ostack.cn/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qa.ostack.cn/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="qa.ostack.cn"]
+www.ecosia.org##.result[data-url^="https://qa.ostack.cn/"]
+startpage.com##.w-gl__result-title[href^="https://qa.ostack.cn/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://qa.ostack.cn/"]
+www.google.*##.VFACy[href^="https://qa.ostack.cn/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://qa.ostack.cn/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://qa.ostack.cn/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://wujigu.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://wujigu.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://wujigu.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://wujigu.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://wujigu.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="wujigu.com"]
+www.ecosia.org##.result[data-url^="https://wujigu.com/"]
+startpage.com##.w-gl__result-title[href^="https://wujigu.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://wujigu.com/"]
+www.google.*##.VFACy[href^="https://wujigu.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://wujigu.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://wujigu.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://webdevdesigner.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://webdevdesigner.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.xpdopen)
@@ -73484,6 +73509,18 @@ www.google.*##.isv-r[data-ru^="https://cainiaojiaocheng.com/"]
 www.google.*##.VFACy[href^="https://cainiaojiaocheng.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://cainiaojiaocheng.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://cainiaojiaocheng.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.linuxfixes.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.linuxfixes.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.linuxfixes.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.linuxfixes.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.linuxfixes.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.linuxfixes.com"]
+www.ecosia.org##.result[data-url^="https://www.linuxfixes.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.linuxfixes.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.linuxfixes.com/"]
+www.google.*##.VFACy[href^="https://www.linuxfixes.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.linuxfixes.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.linuxfixes.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-mure.jp.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-mure.jp.net/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-mure.jp.net/"]:upward(.xpdopen)
@@ -74061,6 +74098,8 @@ duckduckgo.com##.tile--img__sub[href^="https://jpcodeqa.com/"]:upward(.tile--img
 *://coderedirect.com/*
 *://fullstackuser.com/*
 *://ostack.cn/*
+*://qa.ostack.cn/*
+*://wujigu.com/*
 *://webdevdesigner.com/*
 *://www.ghcc.net/*
 *://*.developreference.com/*
@@ -74115,6 +74154,7 @@ duckduckgo.com##.tile--img__sub[href^="https://jpcodeqa.com/"]:upward(.tile--img
 *://serveanswer.com/*
 *://*.safehavenpetrescue.org/*
 *://cainiaojiaocheng.com/*
+*://www.linuxfixes.com/*
 *://www.it-mure.jp.net/*
 *://www.it-swarm.com.ru/*
 *://www.it-roy-ru.com/*
@@ -130075,4 +130115,4 @@ www.huaweicloud.com/theme
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
- Update weekly at 2022-05-22 08:36:15 UTC+0800
+ Update weekly at 2022-05-27 03:55:40 UTC+0800
