@@ -866,3 +866,4 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.1024sou.com/*  
 *://www.o2ojs.com/*  
 *://zditect.com/*  
+*://www.manongzj.com/  
