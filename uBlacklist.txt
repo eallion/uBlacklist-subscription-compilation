@@ -1,5 +1,5 @@
 
- Update weekly at 2022-05-27 03:55:40 UTC+0800
+ Update weekly at 2022-05-27 21:07:57 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -9786,6 +9786,7 @@
 *://91yqf.com/*
 *://942ks.com/*
 *://942wang.com/*
+*://9801.me/*  
 *://9897sf.com/*
 *://996yx.com/*
 *://99qqa.cn/*
@@ -9976,6 +9977,7 @@
 *://cn.aliyun.com/sswm/*
 *://cn.filedict.com/*
 *://cn.jptele.com/*
+*://cn.skydivenewmarket.com/*  @*://www.zhihu.com/* 
 *://cn.voidcc.com/*
 *://cn846.com/*
 *://cndgn.com/*
@@ -10226,6 +10228,7 @@
 *://hjzf8899.com/*
 *://hk.uwenku.com/*
 *://hkthesoul2021.peatix.com/*
+*://hljmj.org/*  
 *://hnjrtb.com/*
 *://hnpjjc.com/*
 *://hnsqnlhh.com/*
@@ -10303,6 +10306,7 @@
 *://jamyi.com/*
 *://janbuy.com/*  
 *://javacodeqa.cc/*
+*://javajgs.com/*  
 *://jclinicth.com/*  
 *://jdzl.v3ng.de/*
 *://jhsjtxx.com/*
@@ -10634,6 +10638,7 @@
 *://pxpc.cc/*
 *://python-stack.de/*
 *://python5.com/*
+*://pythontechworld.com/*  
 *://pythonwd.com/*
 *://qa-stack.pl/*
 *://qa.1r1g.com/*
@@ -11254,6 +11259,7 @@
 *://www.cdkangrui.com/*
 *://www.cdmmhtls.com/*  
 *://www.ce-sling.com/*  
+*://www.cfanz.cn/  
 *://www.chac.org.cn/*
 *://www.chalidehb.com/*
 *://www.chamberjkt.com/*
@@ -11604,6 +11610,7 @@
 *://www.iiiiso.com/*  
 *://www.il-shop.cn/*
 *://www.illitpress.com/*
+*://www.imangodoc.com/*  
 *://www.immo-logis.net/*  
 *://www.incubaschool.fr/*  
 *://www.inovadiagnostico.com.ar/*  
@@ -11631,6 +11638,7 @@
 *://www.its304.com/*
 *://www.its404.com/*
 *://www.its500.com/*
+*://www.itxueyuan.com/*  
 *://www.ityouknow.com/*
 *://www.ixigua.com/*
 *://www.ixigua.com/*  
@@ -11722,6 +11730,7 @@
 *://www.labellemoriniere.com/*
 *://www.lace11111.com/*
 *://www.lagou.com/lgeduarticle/*
+*://www.laitimes.com/*  
 *://www.lanh1.com/*
 *://www.lansingip.com/*
 *://www.lanzhouyangsheng.com/*
@@ -11788,7 +11797,7 @@
 *://www.malonda.buzz/*
 *://www.mamaza.com/*
 *://www.manew.com/*
-*://www.manongzj.com/  @*://www.zhihu.com/* 
+*://www.manongzj.com/  
 *://www.maoyidan.com/*
 *://www.mapxl.buzz/*
 *://www.matbakhe.com/*
@@ -12075,6 +12084,7 @@
 *://www.suessstoff-verband.info/*  
 *://www.suning.com/*
 *://www.suoluowan.com/*
+*://www.superweb999.com/*  
 *://www.suxa.org/*  
 *://www.suzuyo.co.th/*  
 *://www.svmjg.com/*
@@ -12200,6 +12210,7 @@
 *://www.vrzxwz.com/*
 *://www.wailaike.net/*
 *://www.waiybl.com/*  
+*://www.wangt.cc/*  
 *://www.wanxinkean.com/*  
 *://www.waxyz.cn/*
 *://www.wazyin.com/*  
@@ -12435,6 +12446,7 @@
 *://www.zxp1977.com/*
 *://www.zxzq558.com/*  
 *://www.zybashi.com/*
+*://www.zyiz.net/*  
 *://www.zyncschool.com/*
 *://www.zzbhg.com/*
 *://www.zzchangsheng.com/*  
@@ -12517,6 +12529,7 @@
 *://yushu888.com/*
 *://yvee.whocares-nef.de/*  
 *://ywcreations.com/*
+*://ywnz.com/  
 *://yx.kbjcuiru.com/*
 *://yyspay.com/*
 *://yyxingte.com/*
@@ -12524,6 +12537,7 @@
 *://yzf6.com/*
 *://yzonelife.com/*
 *://z.baidu.com/*
+*://z.itpub.net/*  
 *://z.sogou.com/*
 *://z3otwulx.zpyzya.tw/*
 *://zaowanjia.com/*  
