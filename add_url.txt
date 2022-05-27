@@ -867,3 +867,17 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.o2ojs.com/*  
 *://zditect.com/*  
 *://www.manongzj.com/  
+*://www.cfanz.cn/  
+*://ywnz.com/  
+*://www.laitimes.com/*  
+*://www.wangt.cc/*  
+*://www.zyiz.net/*  
+*://hljmj.org/*  
+*://javajgs.com/*  
+*://www.itxueyuan.com/*  
+*://pythontechworld.com/*  
+*://www.superweb999.com/*  
+*://9801.me/*  
+*://z.itpub.net/*  
+*://www.imangodoc.com/*  
+*://cn.skydivenewmarket.com/*  
