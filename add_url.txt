@@ -896,3 +896,14 @@ title/.* - 小.(百科 | 知识) 网/
 *://matpool.com/*  
 *://cuiqingcai.com/*  
 *://noobyard.com/*  
+*://www.zkxjob.com/*  
+*://www.yuntue.com/*  
+*://www.ai8py.com/*  
+*://icode.best/*  
+*://www.ttt5.cn/*  
+*://www.macsofter.com/*  
+*://scorebigaward.life/*  
+*://javajgs.com/*  
+*://www.gongxiangyixia.com/*  
+*://cna.rovinstechnologies.com/*  
+*://dude6.com/*  
