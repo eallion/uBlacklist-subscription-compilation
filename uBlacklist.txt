@@ -1,5 +1,5 @@
 
- Update weekly at 2022-05-27 21:07:57 UTC+0800
+ Update weekly at 2022-05-28 13:37:28 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -9749,6 +9749,7 @@
 *://26ch.com/*
 *://312tn.lgncc.com.cn/*
 *://360nas.com/*
+*://361way.com/*  
 *://369.bi/*
 *://373406.com/*
 *://373524.com/*
@@ -9896,6 +9897,7 @@
 *://bjtmmh.com/*
 *://bkrk.cc/*
 *://blacksprocket.com/*
+*://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
 *://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
@@ -9977,7 +9979,7 @@
 *://cn.aliyun.com/sswm/*
 *://cn.filedict.com/*
 *://cn.jptele.com/*
-*://cn.skydivenewmarket.com/*  @*://www.zhihu.com/* 
+*://cn.skydivenewmarket.com/*  
 *://cn.voidcc.com/*
 *://cn846.com/*
 *://cndgn.com/*
@@ -10015,6 +10017,7 @@
 *://cshyyqj.com/*  
 *://csm-osumi.org/*  
 *://ctpn.cc/*
+*://cuiqingcai.com/*  
 *://currybs2ddcf8.pixnet.net/*  
 *://cvvq.cc/*
 *://cx.17house.com/*
@@ -10060,6 +10063,7 @@
 *://devbugfix.com/*
 *://devdreamz.com/*
 *://developer.aliyun.com/articlezt/*
+*://devnote.pro/*  
 *://dfs38.com/*  
 *://dfuw.redandgold.de/*
 *://dgjhxx.com/
@@ -10381,6 +10385,7 @@
 *://laravelquestions.com/*
 *://lefurc.com/*  
 *://lefx.cc/*
+*://lequ7.com/*  
 *://lfbpos.com/*  
 *://lhafy.com/*
 *://lhyd.top/*
@@ -10504,6 +10509,7 @@
 *://make.mk/*
 *://maokun.blog.csdn.net/*
 *://matbakhe.com/*  
+*://matpool.com/*  
 *://maweisong.net/ 
 *://maww.cc/*
 *://mayphatmaynen.com/*
@@ -10574,6 +10580,7 @@
 *://nntc.nnov.ru/*  
 *://noa.it/*  
 *://nodep2p.com/*  
+*://noobyard.com/*  @*://www.zhihu.com/* 
 *://notesearch.cc/*
 *://ntpn.cc/*
 *://nwuja.com/*
@@ -10636,6 +10643,7 @@
 *://pttk.cc/*
 *://pwpc.cc/*
 *://pxpc.cc/*
+*://py3study.com/*  
 *://python-stack.de/*
 *://python5.com/*
 *://pythontechworld.com/*  
@@ -10764,6 +10772,7 @@
 *://sqlite.in/*
 *://ssjxhy.com/*  
 *://sswhsign.com/*
+*://stackask.cn/*  
 *://stackfault.net/*
 *://stackfinder.jp.net/*
 *://stackguides.com/*
@@ -11069,6 +11078,7 @@
 *://www.7711182.com/*
 *://www.788woool.com/*
 *://www.7891993.com/*  
+*://www.796t.com/*  
 *://www.7daysle.com/*
 *://www.7kuo.com/*
 *://www.7lg.net/*
@@ -11259,7 +11269,7 @@
 *://www.cdkangrui.com/*
 *://www.cdmmhtls.com/*  
 *://www.ce-sling.com/*  
-*://www.cfanz.cn/  
+*://www.cfanz.cn/*  
 *://www.chac.org.cn/*
 *://www.chalidehb.com/*
 *://www.chamberjkt.com/*
@@ -11290,6 +11300,7 @@
 *://www.cnwaizi.com/*  
 *://www.cnwoodnet.buzz/*
 *://www.cocoachina.com/*
+*://www.codebaoku.com/*  
 *://www.codegrepper.com/*
 *://www.codeleading.com/*
 *://www.codenong.com/*
@@ -12031,6 +12042,7 @@
 *://www.shmx518.com/*  
 *://www.shoudian.org/*
 *://www.shouji211.com/*  
+*://www.shouxicto.com/*  
 *://www.shruntaizs.com/*  
 *://www.shtxlift.com/*  
 *://www.shufadashi.com/*
@@ -12431,6 +12443,7 @@
 *://www.zjjbjjtq.com/*
 *://www.zjxy168.com/*  
 *://www.zkaf4d.cn/*
+*://www.zkxjob.com/*  
 *://www.zmnedu.com/*
 *://www.znds.com/*
 *://www.znj.com/*
@@ -12506,6 +12519,7 @@
 *://ycej0769.com/*
 *://yff.hbs163.com/*
 *://yhpp.cc/*
+*://yht7.com/*  
 *://yichao77.com/*  
 *://yiemu.com/*
 *://yifx.cc/*
@@ -12529,7 +12543,7 @@
 *://yushu888.com/*
 *://yvee.whocares-nef.de/*  
 *://ywcreations.com/*
-*://ywnz.com/  
+*://ywnz.com/*  
 *://yx.kbjcuiru.com/*
 *://yyspay.com/*
 *://yyxingte.com/*

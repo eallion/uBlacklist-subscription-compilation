@@ -867,8 +867,8 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.o2ojs.com/*  
 *://zditect.com/*  
 *://www.manongzj.com/  
-*://www.cfanz.cn/  
-*://ywnz.com/  
+*://www.cfanz.cn/*  
+*://ywnz.com/*  
 *://www.laitimes.com/*  
 *://www.wangt.cc/*  
 *://www.zyiz.net/*  
@@ -880,7 +880,22 @@ title/.* - 小.(百科 | 知识) 网/
 *://9801.me/*  
 *://z.itpub.net/*  
 *://www.imangodoc.com/*  
-*://cn.skydivenewmarket.com/*  @*://www.zhihu.com/* 
+*://cn.skydivenewmarket.com/*  
+*://www.zkxjob.com/*  
+*://www.codebaoku.com/*  
+*://www.shouxicto.com/*  
+*://361way.com/*  
+*://yht7.com/*  
+*://stackask.cn/*  
+*://blog.17baishi.com/*  
+*://devnote.pro/*  
+*://lequ7.com/*  
+*://www.796t.com/*  
+*://py3study.com/*  
+*://www.laitimes.com/*  
+*://matpool.com/*  
+*://cuiqingcai.com/*  
+*://noobyard.com/*  @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
 ! Junk
@@ -130129,4 +130144,4 @@ www.huaweicloud.com/theme
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
- Update weekly at 2022-05-27 21:07:57 UTC+0800
+ Update weekly at 2022-05-28 13:37:28 UTC+0800
