@@ -1,5 +1,5 @@
 
- Update weekly at 2022-05-28 13:37:28 UTC+0800
+ Update weekly at 2022-05-29 08:36:40 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
