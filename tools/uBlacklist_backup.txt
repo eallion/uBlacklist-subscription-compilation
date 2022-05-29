@@ -895,7 +895,18 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.laitimes.com/*  
 *://matpool.com/*  
 *://cuiqingcai.com/*  
-*://noobyard.com/*  @*://www.zhihu.com/* 
+*://noobyard.com/*  
+*://www.zkxjob.com/*  
+*://www.yuntue.com/*  
+*://www.ai8py.com/*  
+*://icode.best/*  
+*://www.ttt5.cn/*  
+*://www.macsofter.com/*  
+*://scorebigaward.life/*  
+*://javajgs.com/*  
+*://www.gongxiangyixia.com/*  
+*://cna.rovinstechnologies.com/*  
+*://dude6.com/*  @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
 ! Junk
@@ -130144,4 +130155,4 @@ www.huaweicloud.com/theme
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
- Update weekly at 2022-05-29 08:36:40 UTC+0800
+ Update weekly at 2022-05-29 23:09:05 UTC+0800

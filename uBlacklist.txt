@@ -1,5 +1,5 @@
 
- Update weekly at 2022-05-29 08:36:40 UTC+0800
+ Update weekly at 2022-05-29 23:09:05 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -9982,6 +9982,7 @@
 *://cn.skydivenewmarket.com/*  
 *://cn.voidcc.com/*
 *://cn846.com/*
+*://cna.rovinstechnologies.com/*  
 *://cndgn.com/*
 *://cnkth.liugushan.com/*
 *://cnls8.com/*
@@ -10088,6 +10089,7 @@
 *://dq.tieba.com/*
 *://dsj51.com/*
 *://dtpn.cc/*
+*://dude6.com/*  @*://www.zhihu.com/* 
 *://dun.163.com/*
 *://duolitejinshu.com/
 *://duqingming.com/*
@@ -10271,6 +10273,7 @@
 *://iask.sina.com.cn/*
 *://ibootweb.com/*
 *://ichunqing.com/*
+*://icode.best/*  
 *://idcmai.com/*  
 *://igotojapan.com/*  
 *://ihkcar.com/*
@@ -10580,7 +10583,7 @@
 *://nntc.nnov.ru/*  
 *://noa.it/*  
 *://nodep2p.com/*  
-*://noobyard.com/*  @*://www.zhihu.com/* 
+*://noobyard.com/*  
 *://notesearch.cc/*
 *://ntpn.cc/*
 *://nwuja.com/*
@@ -10730,6 +10733,7 @@
 *://scbingdiao.com/*
 *://scguteli.com/*
 *://scinn.org.ua/*  
+*://scorebigaward.life/*  
 *://scxcsports.com/*
 *://search.bilibili.com/*
 *://search.jd.com/*
@@ -11124,6 +11128,7 @@
 *://www.ahtrj.com/*  
 *://www.ahwjlw.com/*  
 *://www.ahyijinji.com/*  
+*://www.ai8py.com/*  
 *://www.aicaigoupifa.com/*
 *://www.aijiaonang.com/*  
 *://www.aim4college.com/*  
@@ -11508,6 +11513,7 @@
 *://www.gohku.com/*
 *://www.gollahop.com/*  
 *://www.gongkongmro.com/*
+*://www.gongxiangyixia.com/*  
 *://www.goproprice.com/*  
 *://www.gougeili8.com/*  
 *://www.gpbctv.com/*
@@ -11799,6 +11805,7 @@
 *://www.lzbxgmjj.com/*
 *://www.m-box.sh.cn/
 *://www.macaodaily.com/*
+*://www.macsofter.com/*  
 *://www.magarom.com/*
 *://www.mail-qq.com/*
 *://www.maill.com.cn/*
@@ -12176,6 +12183,7 @@
 *://www.trust1688.com/*
 *://www.tspweb.com/*
 *://www.tthngd.com/*  
+*://www.ttt5.cn/*  
 *://www.tty-1.net/*
 *://www.ttzhufu.com/*
 *://www.tunizien.com/*  
@@ -12394,6 +12402,7 @@
 *://www.yunmeibeijing.com/*
 *://www.yunpanjingling.com/*
 *://www.yunsijia.com/*
+*://www.yuntue.com/*  
 *://www.yutongrate.com/*  
 *://www.yuxi99.com/*  
 *://www.yxjdcc.com/*
