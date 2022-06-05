@@ -1,5 +1,5 @@
 
- Update weekly at 2022-05-29 23:09:05 UTC+0800
+ Update weekly at 2022-06-05 08:40:47 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -42,7 +42,6 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
-*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -2075,6 +2074,7 @@
 *://*.bubuko.com/*
 *://*.bubuzhe.com/*
 *://*.buccelli.buzz/*
+*://*.budanghuishi.com/*
 *://*.buffalo-mn.org/*
 *://*.bugelun.com/*
 *://*.buitragonotaria.buzz/*
@@ -4785,6 +4785,7 @@
 *://*.jtzt5oy.cn/*
 *://*.ju8sq.com/*
 *://*.judongneng.com/*
+*://*.juejin.cn/s/*
 *://*.jueshi.in/*
 *://*.juhu123.com/*
 *://*.jujia9.com/*
@@ -5932,6 +5933,7 @@
 *://*.nhcj3d.cn/*
 *://*.nhcondorental.buzz/*
 *://*.nhhhn.com/*
+*://*.nhm.org/*
 *://*.nhq8.cn/*
 *://*.niangluan.cn/*
 *://*.nicaikj.com/*
@@ -7296,6 +7298,7 @@
 *://*.sjzdsy.com/*
 *://*.sjzeyhl.com/*
 *://*.sjzjgbj.com/*
+*://*.sjzjyyx.com/*
 *://*.sjzlangtai.com/*
 *://*.sjzp8.com/*
 *://*.sjztdhg.com/*
@@ -7902,6 +7905,7 @@
 *://*.toriphile.buzz/*
 *://*.torrentz-proxy.com/*
 *://*.toudijia.com/*
+*://*.toutiao.com/search?keyword=*
 *://*.touyanmo.com/*
 *://*.touyinghome.com/*
 *://*.toyif.cn/*
@@ -9282,6 +9286,7 @@
 *://*.yunjinyaju.com/*
 *://*.yunniukd.com.cn/*
 *://*.yunsh.cc/*
+*://*.yunweipai.com/*
 *://*.yunyoulu.com/*
 *://*.yunyusky.cn/*
 *://*.yushu888.com/*
@@ -9514,7 +9519,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://*.abbyychina.com/*
+*://*.zhzzx.com/**://*.021east.com/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -9899,7 +9904,6 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
-*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10089,7 +10093,7 @@
 *://dq.tieba.com/*
 *://dsj51.com/*
 *://dtpn.cc/*
-*://dude6.com/*  @*://www.zhihu.com/* 
+*://dude6.com/*  
 *://dun.163.com/*
 *://duolitejinshu.com/
 *://duqingming.com/*
@@ -10377,6 +10381,7 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
+*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaichuanyun.net/*
@@ -11015,7 +11020,7 @@
 *://www.268583.com/*
 *://www.26gou.net/*  
 *://www.28f57.com/*
-*://www.28f57.com/**://ksou.cc/*
+*://www.28f57.com/**://www.4k8k.xyz/*
 *://www.295a.com/*
 *://www.2match2.buzz/*
 *://www.2vmt.com/*  
@@ -11720,7 +11725,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*00000258.com
+*://www.kafan.cn/**://blog.csdn.net/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -31588,6 +31593,7 @@
 @*://*.google.com/* 
 @*://*.tspweb.com/*
 @*://sites.google.com/* 
+@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
@@ -53401,6 +53407,7 @@ htsuye.com
 htszlt.com
 htt555.com
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
+https://www.itranslater.com/qa/details/2325844172554634240
 httpso.cn
 httpy.net
 httvd88.cn
@@ -78242,7 +78249,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/https://www.itranslater.com/qa/details/2325844172554634240
+title/.* - 小.(百科|知识)网$/00000258.com
 title/.*\s-\s.*知识网/
 title/.*\s-\s小.*百科网/
 title/.*_一键访问国外网站/
