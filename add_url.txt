@@ -907,3 +907,4 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.gongxiangyixia.com/*  
 *://cna.rovinstechnologies.com/*  
 *://dude6.com/*  
+*://lovelycxy.com/*  
