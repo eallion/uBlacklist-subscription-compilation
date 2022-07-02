@@ -1,5 +1,5 @@
 
- Update weekly at 2022-06-26 08:47:52 UTC+0800
+ Update weekly at 2022-07-02 23:26:08 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -10230,7 +10230,7 @@
 *://dq.tieba.com/*
 *://dsj51.com/*
 *://dtpn.cc/*
-*://dude6.com/*  @*://www.zhihu.com/* 
+*://dude6.com/*  
 *://dun.163.com/*
 *://duolitejinshu.com/
 *://duqingming.com/*
@@ -10554,6 +10554,7 @@
 *://longjin-art.com/*
 *://looknews.cc/*
 *://loomlobe.com/*
+*://lovelycxy.com/*  @*://www.zhihu.com/* 
 *://lpgit.com/*
 *://lqkweb.com/*
 *://lucobelt.com/*

@@ -129500,7 +129500,7 @@ duckduckgo.com##.tile--img__sub[href^="https://flutterhq.com/"]:upward(.tile--im
 *://codewdw.com/*
 *://jpcodeqa.com/*
 *://flutterhq.com/*
- Update weekly at 2022-06-26 08:47:52 UTC+0800
+ Update weekly at 2022-07-02 23:26:08 UTC+0800
 *://www.e-learn.cn/*  
 *://www.hotbak.net/*  
 *://www.kutu66.com/*  
@@ -130409,6 +130409,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://javajgs.com/*  
 *://www.gongxiangyixia.com/*  
 *://cna.rovinstechnologies.com/*  
-*://dude6.com/*  @*://www.zhihu.com/* 
+*://dude6.com/*  
+*://lovelycxy.com/*  @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
