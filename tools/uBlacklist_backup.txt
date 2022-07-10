@@ -130,6 +130,7 @@
 *://*.hzhaochengji.com/*
 *://*.icp-bbs.com/*
 *://*.idc941.com/*
+*://*.ids-water.com/*
 *://*.iizhao.com/*
 *://*.imaycon.com/*
 *://*.isdakar.org/*
@@ -128812,30 +128813,6 @@ www.google.*##.isv-r[data-ru^="https://www.linuxfixes.com/"]
 www.google.*##.VFACy[href^="https://www.linuxfixes.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.linuxfixes.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.linuxfixes.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://www.it-mure.jp.net/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://www.it-mure.jp.net/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://www.it-mure.jp.net/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-mure.jp.net/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-mure.jp.net/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="www.it-mure.jp.net"]
-www.ecosia.org##.result[data-url^="https://www.it-mure.jp.net/"]
-startpage.com##.w-gl__result-title[href^="https://www.it-mure.jp.net/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://www.it-mure.jp.net/"]
-www.google.*##.VFACy[href^="https://www.it-mure.jp.net/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-mure.jp.net/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://www.it-mure.jp.net/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://www.it-swarm.com.ru/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://www.it-swarm.com.ru/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://www.it-swarm.com.ru/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://www.it-swarm.com.ru/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.it-swarm.com.ru/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="www.it-swarm.com.ru"]
-www.ecosia.org##.result[data-url^="https://www.it-swarm.com.ru/"]
-startpage.com##.w-gl__result-title[href^="https://www.it-swarm.com.ru/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://www.it-swarm.com.ru/"]
-www.google.*##.VFACy[href^="https://www.it-swarm.com.ru/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-swarm.com.ru/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://www.it-swarm.com.ru/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.it-roy-ru.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.it-roy-ru.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.it-roy-ru.com/"]:upward(.xpdopen)
@@ -128848,342 +128825,6 @@ www.google.*##.isv-r[data-ru^="https://www.it-roy-ru.com/"]
 www.google.*##.VFACy[href^="https://www.it-roy-ru.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.it-roy-ru.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.it-roy-ru.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://brocante.dev/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://brocante.dev/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://brocante.dev/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://brocante.dev/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://brocante.dev/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="brocante.dev"]
-www.ecosia.org##.result[data-url^="https://brocante.dev/"]
-startpage.com##.w-gl__result-title[href^="https://brocante.dev/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://brocante.dev/"]
-www.google.*##.VFACy[href^="https://brocante.dev/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://brocante.dev/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://brocante.dev/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://laravelquestions.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://laravelquestions.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://laravelquestions.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://laravelquestions.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://laravelquestions.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="laravelquestions.com"]
-www.ecosia.org##.result[data-url^="https://laravelquestions.com/"]
-startpage.com##.w-gl__result-title[href^="https://laravelquestions.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://laravelquestions.com/"]
-www.google.*##.VFACy[href^="https://laravelquestions.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://laravelquestions.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://laravelquestions.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://www.py4u.net/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://www.py4u.net/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://www.py4u.net/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://www.py4u.net/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.py4u.net/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="www.py4u.net"]
-www.ecosia.org##.result[data-url^="https://www.py4u.net/"]
-startpage.com##.w-gl__result-title[href^="https://www.py4u.net/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://www.py4u.net/"]
-www.google.*##.VFACy[href^="https://www.py4u.net/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://www.py4u.net/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://www.py4u.net/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://issues-world.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://issues-world.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://issues-world.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://issues-world.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://issues-world.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="issues-world.com"]
-www.ecosia.org##.result[data-url^="https://issues-world.com/"]
-startpage.com##.w-gl__result-title[href^="https://issues-world.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://issues-world.com/"]
-www.google.*##.VFACy[href^="https://issues-world.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://issues-world.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://issues-world.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href*="article.docway.net/"]:upward(.xpd)
-www.google.*##.C8nzq[href*="article.docway.net/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href*="article.docway.net/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href*="article.docway.net/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href*="article.docway.net/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="article.docway.net"]
-www.ecosia.org##.result[data-url*="article.docway.net/"]
-startpage.com##.w-gl__result-title[href*="article.docway.net/"]:upward(F.w-gl__result)
-www.google.*##.isv-r[data-ru*="article.docway.net/"]
-www.google.*##.VFACy[href*="article.docway.net/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##a[title$="article.docway.net"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href*="article.docway.net/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://codehero.jp/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://codehero.jp/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://codehero.jp/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://codehero.jp/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codehero.jp/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="codehero.jp"]
-www.ecosia.org##.result[data-url^="https://codehero.jp/"]
-startpage.com##.w-gl__result-title[href^="https://codehero.jp/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://codehero.jp/"]
-www.google.*##.VFACy[href^="https://codehero.jp/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://codehero.jp/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://codehero.jp/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://pretagteam.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://pretagteam.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://pretagteam.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://pretagteam.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pretagteam.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="pretagteam.com"]
-www.ecosia.org##.result[data-url^="https://pretagteam.com/"]
-startpage.com##.w-gl__result-title[href^="https://pretagteam.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
-www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://lycaeum.dev/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://lycaeum.dev/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://lycaeum.dev/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://lycaeum.dev/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://lycaeum.dev/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="lycaeum.dev"]
-www.ecosia.org##.result[data-url^="https://lycaeum.dev/"]
-startpage.com##.w-gl__result-title[href^="https://lycaeum.dev/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://lycaeum.dev/"]
-www.google.*##.VFACy[href^="https://lycaeum.dev/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://lycaeum.dev/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://lycaeum.dev/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://classmethod.dev/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://classmethod.dev/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://classmethod.dev/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://classmethod.dev/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://classmethod.dev/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="classmethod.dev"]
-www.ecosia.org##.result[data-url^="https://classmethod.dev/"]
-startpage.com##.w-gl__result-title[href^="https://classmethod.dev/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://classmethod.dev/"]
-www.google.*##.VFACy[href^="https://classmethod.dev/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://classmethod.dev/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://classmethod.dev/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://stormcrow.dev/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://stormcrow.dev/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://stormcrow.dev/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://stormcrow.dev/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stormcrow.dev/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="stormcrow.dev"]
-www.ecosia.org##.result[data-url^="https://stormcrow.dev/"]
-startpage.com##.w-gl__result-title[href^="https://stormcrow.dev/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://stormcrow.dev/"]
-www.google.*##.VFACy[href^="https://stormcrow.dev/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://stormcrow.dev/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://stormcrow.dev/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://christfever.in/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://christfever.in/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://christfever.in/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://christfever.in/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://christfever.in/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="christfever.in"]
-www.ecosia.org##.result[data-url^="https://christfever.in/"]
-startpage.com##.w-gl__result-title[href^="https://christfever.in/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://christfever.in/"]
-www.google.*##.VFACy[href^="https://christfever.in/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://christfever.in/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://christfever.in/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href*="coredump.biz/"]:upward(.xpd)
-www.google.*##.C8nzq[href*="coredump.biz/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href*="coredump.biz/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href*="coredump.biz/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href*="coredump.biz/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="coredump.biz"]
-www.ecosia.org##.result[data-url*="coredump.biz/"]
-startpage.com##.w-gl__result-title[href*="coredump.biz/"]:upward(F.w-gl__result)
-www.google.*##.isv-r[data-ru*="coredump.biz/"]
-www.google.*##.VFACy[href*="coredump.biz/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##a[title$="coredump.biz"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href*="coredump.biz/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://stackify.dev/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://stackify.dev/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://stackify.dev/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://stackify.dev/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackify.dev/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="stackify.dev"]
-www.ecosia.org##.result[data-url^="https://stackify.dev/"]
-startpage.com##.w-gl__result-title[href^="https://stackify.dev/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://stackify.dev/"]
-www.google.*##.VFACy[href^="https://stackify.dev/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://stackify.dev/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://stackify.dev/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://answerlib.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://answerlib.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://answerlib.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://answerlib.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answerlib.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="answerlib.com"]
-www.ecosia.org##.result[data-url^="https://answerlib.com/"]
-startpage.com##.w-gl__result-title[href^="https://answerlib.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://answerlib.com/"]
-www.google.*##.VFACy[href^="https://answerlib.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://answerlib.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://answerlib.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://fooobar.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://fooobar.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://fooobar.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://fooobar.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://fooobar.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="fooobar.com"]
-www.ecosia.org##.result[data-url^="https://fooobar.com/"]
-startpage.com##.w-gl__result-title[href^="https://fooobar.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://fooobar.com/"]
-www.google.*##.VFACy[href^="https://fooobar.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://fooobar.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://fooobar.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://askdev.vn/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://askdev.vn/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://askdev.vn/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://askdev.vn/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://askdev.vn/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="askdev.vn"]
-www.ecosia.org##.result[data-url^="https://askdev.vn/"]
-startpage.com##.w-gl__result-title[href^="https://askdev.vn/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://askdev.vn/"]
-www.google.*##.VFACy[href^="https://askdev.vn/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://askdev.vn/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://askdev.vn/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://devbugfix.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://devbugfix.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://devbugfix.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://devbugfix.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://devbugfix.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="devbugfix.com"]
-www.ecosia.org##.result[data-url^="https://devbugfix.com/"]
-startpage.com##.w-gl__result-title[href^="https://devbugfix.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://devbugfix.com/"]
-www.google.*##.VFACy[href^="https://devbugfix.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://devbugfix.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://devbugfix.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.blog/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://www.generacodice.blog/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.blog/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://www.generacodice.blog/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.generacodice.blog/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="www.generacodice.blog"]
-www.ecosia.org##.result[data-url^="https://www.generacodice.blog/"]
-startpage.com##.w-gl__result-title[href^="https://www.generacodice.blog/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://www.generacodice.blog/"]
-www.google.*##.VFACy[href^="https://www.generacodice.blog/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://www.generacodice.blog/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.blog/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.it/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://www.generacodice.it/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.it/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://www.generacodice.it/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.generacodice.it/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="www.generacodice.it"]
-www.ecosia.org##.result[data-url^="https://www.generacodice.it/"]
-startpage.com##.w-gl__result-title[href^="https://www.generacodice.it/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://www.generacodice.it/"]
-www.google.*##.VFACy[href^="https://www.generacodice.it/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://www.generacodice.it/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.it/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://coder-solution-jp.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://coder-solution-jp.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://coder-solution-jp.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://coder-solution-jp.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coder-solution-jp.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="coder-solution-jp.com"]
-www.ecosia.org##.result[data-url^="https://coder-solution-jp.com/"]
-startpage.com##.w-gl__result-title[href^="https://coder-solution-jp.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://coder-solution-jp.com/"]
-www.google.*##.VFACy[href^="https://coder-solution-jp.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://coder-solution-jp.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://coder-solution-jp.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://jpndev.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://jpndev.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://jpndev.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://jpndev.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jpndev.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="jpndev.com"]
-www.ecosia.org##.result[data-url^="https://jpndev.com/"]
-startpage.com##.w-gl__result-title[href^="https://jpndev.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://jpndev.com/"]
-www.google.*##.VFACy[href^="https://jpndev.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://jpndev.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://jpndev.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://stackfault.net/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://stackfault.net/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://stackfault.net/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://stackfault.net/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackfault.net/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="stackfault.net"]
-www.ecosia.org##.result[data-url^="https://stackfault.net/"]
-startpage.com##.w-gl__result-title[href^="https://stackfault.net/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://stackfault.net/"]
-www.google.*##.VFACy[href^="https://stackfault.net/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://stackfault.net/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://stackfault.net/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://alltodev.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://alltodev.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://alltodev.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://alltodev.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://alltodev.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="alltodev.com"]
-www.ecosia.org##.result[data-url^="https://alltodev.com/"]
-startpage.com##.w-gl__result-title[href^="https://alltodev.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://alltodev.com/"]
-www.google.*##.VFACy[href^="https://alltodev.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://alltodev.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://alltodev.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://www.buzzphp.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://www.buzzphp.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://www.buzzphp.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://www.buzzphp.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.buzzphp.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="www.buzzphp.com"]
-www.ecosia.org##.result[data-url^="https://www.buzzphp.com/"]
-startpage.com##.w-gl__result-title[href^="https://www.buzzphp.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://www.buzzphp.com/"]
-www.google.*##.VFACy[href^="https://www.buzzphp.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://www.buzzphp.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://www.buzzphp.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://quares.ru/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://quares.ru/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://quares.ru/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://quares.ru/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://quares.ru/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="quares.ru"]
-www.ecosia.org##.result[data-url^="https://quares.ru/"]
-startpage.com##.w-gl__result-title[href^="https://quares.ru/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://quares.ru/"]
-www.google.*##.VFACy[href^="https://quares.ru/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://quares.ru/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://quares.ru/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://ibootweb.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://ibootweb.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://ibootweb.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://ibootweb.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ibootweb.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="ibootweb.com"]
-www.ecosia.org##.result[data-url^="https://ibootweb.com/"]
-startpage.com##.w-gl__result-title[href^="https://ibootweb.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://ibootweb.com/"]
-www.google.*##.VFACy[href^="https://ibootweb.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://ibootweb.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://ibootweb.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://howtofix.io/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://howtofix.io/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://howtofix.io/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://howtofix.io/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://howtofix.io/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="howtofix.io"]
-www.ecosia.org##.result[data-url^="https://howtofix.io/"]
-startpage.com##.w-gl__result-title[href^="https://howtofix.io/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://howtofix.io/"]
-www.google.*##.VFACy[href^="https://howtofix.io/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://howtofix.io/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://howtofix.io/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://www.examplefiles.net/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://www.examplefiles.net/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://www.examplefiles.net/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://www.examplefiles.net/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.examplefiles.net/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="www.examplefiles.net"]
-www.ecosia.org##.result[data-url^="https://www.examplefiles.net/"]
-startpage.com##.w-gl__result-title[href^="https://www.examplefiles.net/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://www.examplefiles.net/"]
-www.google.*##.VFACy[href^="https://www.examplefiles.net/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://www.examplefiles.net/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://www.examplefiles.net/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.web-dev-qa.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.web-dev-qa.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.web-dev-qa.com/"]:upward(.xpdopen)
@@ -129196,114 +128837,6 @@ www.google.*##.isv-r[data-ru^="https://www.web-dev-qa.com/"]
 www.google.*##.VFACy[href^="https://www.web-dev-qa.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.web-dev-qa.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.web-dev-qa.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://exceptionshub.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://exceptionshub.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://exceptionshub.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://exceptionshub.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://exceptionshub.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="exceptionshub.com"]
-www.ecosia.org##.result[data-url^="https://exceptionshub.com/"]
-startpage.com##.w-gl__result-title[href^="https://exceptionshub.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://exceptionshub.com/"]
-www.google.*##.VFACy[href^="https://exceptionshub.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://exceptionshub.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://exceptionshub.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://easysavecode.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://easysavecode.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://easysavecode.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://easysavecode.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://easysavecode.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="easysavecode.com"]
-www.ecosia.org##.result[data-url^="https://easysavecode.com/"]
-startpage.com##.w-gl__result-title[href^="https://easysavecode.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://easysavecode.com/"]
-www.google.*##.VFACy[href^="https://easysavecode.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://easysavecode.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://easysavecode.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://python-stack.de/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://python-stack.de/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://python-stack.de/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://python-stack.de/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://python-stack.de/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="python-stack.de"]
-www.ecosia.org##.result[data-url^="https://python-stack.de/"]
-startpage.com##.w-gl__result-title[href^="https://python-stack.de/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://python-stack.de/"]
-www.google.*##.VFACy[href^="https://python-stack.de/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://python-stack.de/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://python-stack.de/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://xiu2.net/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://xiu2.net/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://xiu2.net/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://xiu2.net/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://xiu2.net/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="xiu2.net"]
-www.ecosia.org##.result[data-url^="https://xiu2.net/"]
-startpage.com##.w-gl__result-title[href^="https://xiu2.net/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://xiu2.net/"]
-www.google.*##.VFACy[href^="https://xiu2.net/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://xiu2.net/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://xiu2.net/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://pythonwd.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://pythonwd.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://pythonwd.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://pythonwd.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pythonwd.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="pythonwd.com"]
-www.ecosia.org##.result[data-url^="https://pythonwd.com/"]
-startpage.com##.w-gl__result-title[href^="https://pythonwd.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://pythonwd.com/"]
-www.google.*##.VFACy[href^="https://pythonwd.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://pythonwd.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://stackqna.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://stackqna.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://stackqna.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://stackqna.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackqna.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="stackqna.com"]
-www.ecosia.org##.result[data-url^="https://stackqna.com/"]
-startpage.com##.w-gl__result-title[href^="https://stackqna.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://stackqna.com/"]
-www.google.*##.VFACy[href^="https://stackqna.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://stackqna.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://stackqna.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://codersatellite.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://codersatellite.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://codersatellite.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://codersatellite.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codersatellite.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="codersatellite.com"]
-www.ecosia.org##.result[data-url^="https://codersatellite.com/"]
-startpage.com##.w-gl__result-title[href^="https://codersatellite.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://codersatellite.com/"]
-www.google.*##.VFACy[href^="https://codersatellite.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://codersatellite.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://codersatellite.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://codewdw.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://codewdw.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://codewdw.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://codewdw.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codewdw.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="codewdw.com"]
-www.ecosia.org##.result[data-url^="https://codewdw.com/"]
-startpage.com##.w-gl__result-title[href^="https://codewdw.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://codewdw.com/"]
-www.google.*##.VFACy[href^="https://codewdw.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://codewdw.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://codewdw.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://jpcodeqa.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://jpcodeqa.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://jpcodeqa.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://jpcodeqa.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jpcodeqa.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="jpcodeqa.com"]
-www.ecosia.org##.result[data-url^="https://jpcodeqa.com/"]
-startpage.com##.w-gl__result-title[href^="https://jpcodeqa.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://jpcodeqa.com/"]
-www.google.*##.VFACy[href^="https://jpcodeqa.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://jpcodeqa.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://jpcodeqa.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://flutterhq.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://flutterhq.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://flutterhq.com/"]:upward(.xpdopen)
@@ -129316,6 +128849,42 @@ www.google.*##.isv-r[data-ru^="https://flutterhq.com/"]
 www.google.*##.VFACy[href^="https://flutterhq.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://flutterhq.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://flutterhq.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://dailydevsblog.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://dailydevsblog.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://dailydevsblog.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://dailydevsblog.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://dailydevsblog.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="dailydevsblog.com"]
+www.ecosia.org##.result[data-url^="https://dailydevsblog.com/"]
+startpage.com##.w-gl__result-title[href^="https://dailydevsblog.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://dailydevsblog.com/"]
+www.google.*##.VFACy[href^="https://dailydevsblog.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://dailydevsblog.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://dailydevsblog.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://711web.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://711web.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://711web.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://711web.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://711web.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="711web.com"]
+www.ecosia.org##.result[data-url^="https://711web.com/"]
+startpage.com##.w-gl__result-title[href^="https://711web.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://711web.com/"]
+www.google.*##.VFACy[href^="https://711web.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://711web.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://711web.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.binarydevelop.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.binarydevelop.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.binarydevelop.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.binarydevelop.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.binarydevelop.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.binarydevelop.com"]
+www.ecosia.org##.result[data-url^="https://www.binarydevelop.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.binarydevelop.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.binarydevelop.com/"]
+www.google.*##.VFACy[href^="https://www.binarydevelop.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.binarydevelop.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.binarydevelop.com/"]:upward(.tile--img)
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
@@ -129458,49 +129027,13 @@ duckduckgo.com##.tile--img__sub[href^="https://flutterhq.com/"]:upward(.tile--im
 *://*.safehavenpetrescue.org/*
 *://cainiaojiaocheng.com/*
 *://www.linuxfixes.com/*
-*://www.it-mure.jp.net/*
-*://www.it-swarm.com.ru/*
 *://www.it-roy-ru.com/*
-*://brocante.dev/*
-*://laravelquestions.com/*
-*://www.py4u.net/*
-*://issues-world.com/*
-*://article.docway.net/*
-*://codehero.jp/*
-*://pretagteam.com/*
-*://lycaeum.dev/*
-*://classmethod.dev/*
-*://stormcrow.dev/*
-*://christfever.in/*
-*://*.coredump.biz/*
-*://stackify.dev/*
-*://answerlib.com/*
-*://fooobar.com/*
-*://askdev.vn/*
-*://devbugfix.com/*
-*://www.generacodice.blog/*
-*://www.generacodice.it/*
-*://coder-solution-jp.com/*
-*://jpndev.com/*
-*://stackfault.net/*
-*://alltodev.com/*
-*://www.buzzphp.com/*
-*://quares.ru/*
-*://ibootweb.com/*
-*://howtofix.io/*
-*://www.examplefiles.net/*
 *://www.web-dev-qa.com/*
-*://exceptionshub.com/*
-*://easysavecode.com/*
-*://python-stack.de/*
-*://xiu2.net/*
-*://pythonwd.com/*
-*://stackqna.com/*
-*://codersatellite.com/*
-*://codewdw.com/*
-*://jpcodeqa.com/*
 *://flutterhq.com/*
- Update weekly at 2022-07-03 08:38:48 UTC+0800
+*://dailydevsblog.com/*
+*://711web.com/*
+*://www.binarydevelop.com/*
+ Update weekly at 2022-07-10 08:43:19 UTC+0800
 *://www.e-learn.cn/*  
 *://www.hotbak.net/*  
 *://www.kutu66.com/*  
