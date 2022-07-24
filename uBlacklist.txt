@@ -1,5 +1,4 @@
 
- Update weekly at 2022-07-17 08:40:54 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -10,7 +9,6 @@
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
 # 
-# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 #18.141.160.82
 #45.207.61.193
 #cn.voidcc.com
@@ -283,6 +281,7 @@
 *://*.1344q2x.cn/*
 *://*.136.la/*
 *://*.136hh.com/*
+*://*.1377003.com/*
 *://*.137997.com/*
 *://*.137wl.cn/*
 *://*.138usa.com/*
@@ -622,6 +621,8 @@
 *://*.388625.com/*
 *://*.38953h.cn/*
 *://*.392623.com/*
+*://*.3955013.com/*
+*://*.3997025.com/*
 *://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
 *://*.3b9ab.com/*
@@ -652,6 +653,7 @@
 *://*.3n3nhv4.cn/*
 *://*.3o32.com/*
 *://*.3pennycinema.buzz/*
+*://*.3pppys.com/*
 *://*.3rxing.org/*
 *://*.3sideslive.buzz/*
 *://*.3sikvwo.cn/*
@@ -975,6 +977,7 @@
 *://*.62az.cn/*
 *://*.62veuu.cn/*
 *://*.634001.com/*
+*://*.63458cp.com/*
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
 *://*.635sc.com/*
@@ -986,6 +989,7 @@
 *://*.64tianwang.com/*
 *://*.652951.com/*
 *://*.652zh.cn/*
+*://*.6532088.com/*
 *://*.655dj.com/*
 *://*.657981.com/*
 *://*.658990.com/*
@@ -1065,6 +1069,7 @@
 *://*.741963.com/*
 *://*.7465hy.com/*
 *://*.74koj8y.cn/*
+*://*.7511156.com/*
 *://*.755hunqing.com/*
 *://*.75q.net/*
 *://*.75yy.com/*
@@ -1276,6 +1281,7 @@
 *://*.97oxford.buzz/*
 *://*.980pj.cn/*
 *://*.98248.loan/*
+*://*.985ys.com/*
 *://*.987yy.cn/*
 *://*.9897sf.com/*
 *://*.98ffn.cn/*
@@ -2746,6 +2752,7 @@
 *://*.dc120.com.cn/*
 *://*.dc755wn.cn/*
 *://*.dcchildcustody.buzz/*
+*://*.dcep676.com/*
 *://*.dcxhnj.com/*
 *://*.dd13.tv/*
 *://*.ddccaa.com/*
@@ -2791,9 +2798,11 @@
 *://*.devk-agentur.buzz/*
 *://*.deyu1688.com/*
 *://*.dfjdtz.com/*
+*://*.dfkre.com/*
 *://*.dflag.pw/*
 *://*.dflkj.top/*
 *://*.dfrzlc.com/*
+*://*.dfskw.top/*
 *://*.dg4567.com/*
 *://*.dgbx888.com/*
 *://*.dgcxjsy.com/*
@@ -3149,6 +3158,7 @@
 *://*.eqy5ym6.cn/*
 *://*.er3561.cn/*
 *://*.erdie826.com/*
+*://*.ergie.top/*
 *://*.ericacarrclasses.com/*
 *://*.erigd.com/*
 *://*.erjiinfo.com/*
@@ -3277,6 +3287,7 @@
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf42.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
 *://*.fdtwgg.com/*
@@ -4147,6 +4158,7 @@
 *://*.holsbyror.buzz/*
 *://*.holtqel.cn/*
 *://*.homedo.com/*
+*://*.homedt.net/*
 *://*.homefindernow.buzz/*
 *://*.homefindersint.buzz/*
 *://*.homeliva.com/*
@@ -4887,6 +4899,7 @@
 *://*.jus065o.cn/*
 *://*.jushengseo.com/*
 *://*.jusoso.com/*
+*://*.justinjeffrey.com/*
 *://*.juwymg.cn/*
 *://*.juzhekooo.com/*
 *://*.jvagf.cn/*
@@ -5020,6 +5033,7 @@
 *://*.kesicqh.cn/*
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
+*://*.kewenba.com/*
 *://*.kexinfood.com/*
 *://*.key.dog/*
 *://*.keyshot.cc/*
@@ -5237,6 +5251,8 @@
 *://*.ldc11.com/*
 *://*.ldc99.com/*
 *://*.ldjljmh.cn/*
+*://*.ldkwi.top/*
+*://*.ldlgzs.com/*
 *://*.ldnpslv.cn/*
 *://*.ldoda.cn/*
 *://*.ldofi24.cn/*
@@ -5745,6 +5761,7 @@
 *://*.mingliupiaofang.com/*
 *://*.mingrenze.com/*
 *://*.minijiaju.com/*
+*://*.minimalathletics.com/*
 *://*.minimidimaxidress.com/*
 *://*.mintcx.com/*
 *://*.mississippifaithinaction.org/*
@@ -6356,6 +6373,7 @@
 *://*.panzhongjiaoliu.com/*
 *://*.paoniu360.com/*
 *://*.papa78.com/*
+*://*.paperbert.com/*
 *://*.paradacreativa.es/*
 *://*.parkous.com/*
 *://*.partwu.com.cn/*
@@ -6492,6 +6510,7 @@
 *://*.pml0v.cn/*
 *://*.pmtt.cc/*
 *://*.pmyx.net/*
+*://*.pn9y.com/*
 *://*.pnelwjz.cn/*
 *://*.pnih1wn.cn/*
 *://*.pns8.cn/*
@@ -7300,6 +7319,7 @@
 *://*.shengyis.com/*
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
+*://*.shenmedaquan.com/*
 *://*.shenmedouyou.xyz/*
 *://*.shenso.wang/*
 *://*.shenyun.com/*
@@ -7532,6 +7552,7 @@
 *://*.somjj.com/*
 *://*.sonanone.com/*
 *://*.songhepx.com/*
+*://*.songketop.com/*
 *://*.songnidianqi.cn/*
 *://*.songshouji.cn/*
 *://*.sop5fzr.cn/*
@@ -7865,6 +7886,7 @@
 *://*.techwrestler.com/*
 *://*.tedabg.com/*
 *://*.tee-verkauf.buzz/*
+*://*.tee25.com/*
 *://*.teenagebabes.buzz/*
 *://*.teengurls.buzz/*
 *://*.teenpornoclub.buzz/*
@@ -9169,6 +9191,7 @@
 *://*.yanzuoguang.com/*
 *://*.yao51.com/*
 *://*.yaohuwh.com/*
+*://*.yaowenming.com/*
 *://*.yapingguo.cn/*
 *://*.yascs.com/*
 *://*.yaseng.cn/*
@@ -9687,7 +9710,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*00000258.com
+*://*.zhzzx.com/* Update weekly at 2022-07-24 08:42:18 UTC+0800
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -10070,6 +10093,7 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10225,6 +10249,7 @@
 *://detail.zol.com.cn/*
 *://devdreamz.com/*
 *://developer.aliyun.com/articlezt/*
+*://developer.aliyun.com/ask/*
 *://devnote.pro/*  
 *://dfs38.com/*  
 *://dfuw.redandgold.de/*
@@ -10530,7 +10555,6 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
-*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaichuanyun.net/*
@@ -10566,7 +10590,7 @@
 *://longjin-art.com/*
 *://looknews.cc/*
 *://loomlobe.com/*
-*://lovelycxy.com/*  
+*://lovelycxy.com/*  @*://www.zhihu.com/* 
 *://lpgit.com/*
 *://lqkweb.com/*
 *://lucobelt.com/*
@@ -10643,6 +10667,7 @@
 *://m.systemcity.cn/*
 *://m.tcjd360.com/*
 *://m.tj-book.com/*
+*://m.toutiao.com/*
 *://m.wandoujia.com/*
 *://m.weibo.cn/*
 *://m.weimob.com/*
@@ -11165,7 +11190,7 @@
 *://www.268583.com/*
 *://www.26gou.net/*  
 *://www.28f57.com/*
-*://www.28f57.com/**://*.nbz.ai/*
+*://www.28f57.com/**://ksou.cc/*
 *://www.295a.com/*
 *://www.2match2.buzz/*
 *://www.2vmt.com/*  
@@ -11891,6 +11916,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
+*://www.kafan.cn/*005i.com
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -19858,6 +19884,7 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -31785,7 +31812,6 @@
 @*://*.google.com/* 
 @*://*.tspweb.com/*
 @*://sites.google.com/* 
-@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
@@ -78486,7 +78512,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://blog.csdn.net/*
+title/.* - 小.(百科|知识)网$/# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 title/.*\s-\s.*知识网/
 title/.*\s-\s小.*百科网/
 title/.*_一键访问国外网站/
