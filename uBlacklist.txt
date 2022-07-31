@@ -494,6 +494,7 @@
 *://*.2587862.com/*
 *://*.25cr2ni4w.com/*
 *://*.25umb5.cn/*
+*://*.2612610.com/*
 *://*.26178.com.cn/*
 *://*.26531.loan/*
 *://*.268363.com/*
@@ -990,6 +991,7 @@
 *://*.652951.com/*
 *://*.652zh.cn/*
 *://*.6532088.com/*
+*://*.6532099.com/*
 *://*.655dj.com/*
 *://*.657981.com/*
 *://*.658990.com/*
@@ -1370,6 +1372,7 @@
 *://*.abbotpottery.buzz/*
 *://*.abbyjd.com/*
 *://*.abbyychina.com/*
+*://*.abcgonglue.com/*
 *://*.abcpowerwash.buzz/*
 *://*.abcsou.cc/*
 *://*.abdwap.work/*
@@ -1476,6 +1479,7 @@
 *://*.aijda3.me/*
 *://*.aijfa0.me/*
 *://*.aijiahexie.com/*
+*://*.aijiayong.com/*
 *://*.aijka2.me/*
 *://*.ailinshe.com/*
 *://*.aim-direct.buzz/*
@@ -2139,6 +2143,7 @@
 *://*.bxari.com/*
 *://*.bxlac.com/*
 *://*.bxsh4ba.cn/*
+*://*.bxtt.cc/*
 *://*.by2n2y7.cn/*
 *://*.byadd.com/*
 *://*.byadg.cn/*
@@ -2269,6 +2274,7 @@
 *://*.centrimediline.buzz/*
 *://*.century21realtor.buzz/*
 *://*.centurysun.cn/*
+*://*.ceospacela.com/*
 *://*.ceping.info/*
 *://*.ceramic-industry.buzz/*
 *://*.cesdnet.com/*
@@ -2833,6 +2839,7 @@
 *://*.dhyjpkc.com/*
 *://*.dianchengstone.com/*
 *://*.dianferguson.buzz/*
+*://*.dianhuahuiyi.com.cn/*
 *://*.diaochezulingongsi.com/*
 *://*.diaopai99.com/*
 *://*.diaosizhainan.com/*
@@ -2999,6 +3006,7 @@
 *://*.dy268.cn/*
 *://*.dycok.com/*
 *://*.dyfpme.com/*
+*://*.dyfwdq.com/*
 *://*.dyhcfm.com/*
 *://*.dyhmled.com/*
 *://*.dyn0sxu.cn/*
@@ -3184,6 +3192,7 @@
 *://*.estt94.cn/*
 *://*.etbot.net/*
 *://*.ete68e1.cn/*
+*://*.eternalelectronics.com/*
 *://*.etf-world.buzz/*
 *://*.etfdep.cn/*
 *://*.etq3ae.cn/*
@@ -3287,7 +3296,9 @@
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf35.com/*
 *://*.fdf42.com/*
+*://*.fdf58.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
 *://*.fdtwgg.com/*
@@ -3398,6 +3409,7 @@
 *://*.formysql.com/*
 *://*.forsenergy.com/*
 *://*.forum.vi-mm.eu/*
+*://*.fountainhead-game.com/*
 *://*.fp48blj.cn/*
 *://*.fpj88.cn/*
 *://*.fpmth.com/*
@@ -3923,6 +3935,7 @@
 *://*.harmonyteck.com/*
 *://*.harrysurplus.buzz/*
 *://*.hashbet.casino/*
+*://*.hastynews.com/*
 *://*.hawaii-jewelry.buzz/*
 *://*.haxituan.com/*
 *://*.hayaliicraat.com/*
@@ -4390,6 +4403,7 @@
 *://*.ib4banks.buzz/*
 *://*.ibaobaoche.com/*
 *://*.ibeenker.com/*
+*://*.ibestchoice.com/*
 *://*.ibnsales.com/*
 *://*.ibozhe.com/*
 *://*.icam8.com/*
@@ -4544,6 +4558,7 @@
 *://*.itectec.com/*
 *://*.iter01.com/*
 *://*.iteramos.com/*
+*://*.itermail.com/*
 *://*.itigic.com/*
 *://*.itmpi-journal.buzz/*
 *://*.itranslater.com/*
@@ -4799,6 +4814,7 @@
 *://*.jnzcyl.com/*
 *://*.jnzczdh.com/*
 *://*.jnzffz.com/*
+*://*.joanne-kelly.com/*
 *://*.job00531.cn/*
 *://*.job929.com/*
 *://*.jobdlrp.cn/*
@@ -5116,6 +5132,7 @@
 *://*.koubeiblog.com/*
 *://*.kozykatskorner.buzz/*
 *://*.kpgbq.com/*
+*://*.kpjyz.com/*
 *://*.kpk91o0.cn/*
 *://*.kpraise.com/*
 *://*.kq68.cn/*
@@ -5505,6 +5522,7 @@
 *://*.luping.net.cn/*
 *://*.luqinblog.com/*
 *://*.lure168.cn/*
+*://*.luriestudio.com/*
 *://*.lushanwenku.com/*
 *://*.luton-china.com/*
 *://*.lutonjixie.com/*
@@ -5589,6 +5607,7 @@
 *://*.magarfid.com/*
 *://*.magarom.com/*
 *://*.magelinesc.com/*
+*://*.maggie-siff.com/*
 *://*.magicalcn.com/*
 *://*.maguro.cn/*
 *://*.mai14.com/*
@@ -5739,6 +5758,7 @@
 *://*.miaolaiche.com/*
 *://*.miaomu806.com/*
 *://*.miaomutv.com/*
+*://*.miaook.com/*
 *://*.miaoshux.org/*
 *://*.miaoyun668.cn/*
 *://*.michaellakrajicek.buzz/*
@@ -5793,6 +5813,7 @@
 *://*.mn55.cn/*
 *://*.mn61.cn/*
 *://*.mnbhyna.cn/*
+*://*.mnkan.com/*
 *://*.mnsf.net/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
@@ -6988,6 +7009,7 @@
 *://*.rjqyl.com/*
 *://*.rjwhylgo.cn/*
 *://*.rjzmayy.cn/*
+*://*.rjzzq.com/*
 *://*.rkcywlu.cn/*
 *://*.rkgpc.date/*
 *://*.rkncfrx.cn/*
@@ -7173,6 +7195,7 @@
 *://*.scholarad.com/*
 *://*.schox-iplaw.buzz/*
 *://*.schrannenhallemuenchen.buzz/*
+*://*.scificonduit.com/*
 *://*.scjddk.com/*
 *://*.scjiatai.com/*
 *://*.scjtsf.com/*
@@ -7371,6 +7394,7 @@
 *://*.shsuny.cn/*
 *://*.shtaxi.com/*
 *://*.shtianbao.com/*
+*://*.shtopchamber.com/*
 *://*.shtrimen.com/*
 *://*.shtuniu.com/*
 *://*.shtuojie.com/*
@@ -8189,6 +8213,7 @@
 *://*.tzhejie.com/*
 *://*.tzm8.cn/*
 *://*.tzqfmy.com/*
+*://*.tzxzsh.com/*
 *://*.tzz6tgi.cn/*
 *://*.tzzgcm.com/*
 *://*.u0b9um3.cn/*
@@ -9710,7 +9735,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/* Update weekly at 2022-07-24 08:42:18 UTC+0800
+*://*.zhzzx.com/* Update weekly at 2022-07-31 08:38:52 UTC+0800
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -9731,6 +9756,7 @@
 *://*.ziyouzhanshi.cn/*
 *://*.ziyuanhu.com/*
 *://*.ziyuzhilian.cn/*
+*://*.zizhuzhishi.com/*
 *://*.zj3kbg.cn/*
 *://*.zj4u.cn/*
 *://*.zjbspe.com/*
