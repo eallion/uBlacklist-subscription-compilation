@@ -9735,7 +9735,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/* Update weekly at 2022-07-31 08:38:52 UTC+0800
+*://*.zhzzx.com/* Update weekly at 2022-08-07 08:43:29 UTC+0800
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
