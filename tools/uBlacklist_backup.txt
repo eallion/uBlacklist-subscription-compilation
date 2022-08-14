@@ -912,6 +912,7 @@ title/.* - 小.(百科 | 知识) 网/
 @*://sites.google.com/* 
 *://*.021east.com/*
 *://*.0714news.com/*
+*://*.100ke.cc/*
 *://*.1024sou.com/*
 *://*.1688.com/*
 *://*.17qq.com/*
@@ -921,6 +922,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.2qun.net/*
 *://*.300m-team.com/*
 *://*.33376.xyz/*
+*://*.361shipin.com/*
 *://*.361t.org/*
 *://*.3cwu.com/*
 *://*.4meahc.com/*
@@ -976,6 +978,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.cnvhair.com/*
 *://*.codebug.vip/*
 *://*.codeday.me/*
+*://*.codeleading.com/*
 *://*.codenong.com/*
 *://*.codeprj.com/*
 *://*.compozi.com/*
@@ -1040,9 +1043,11 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.huiyikj.com/*
 *://*.hxkj.net/*
 *://*.hzhaochengji.com/*
+*://*.icode.best/*
 *://*.icp-bbs.com/*
 *://*.idc941.com/*
 *://*.ids-water.com/*
+*://*.igiftidea.com/*
 *://*.iizhao.com/*
 *://*.imaycon.com/*
 *://*.isdakar.org/*
@@ -1091,6 +1096,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.megavolt67.ru/*
 *://*.metropaintballgames.com/*
 *://*.mfwf.cn.com/*
+*://*.miaook.com/*
 *://*.mississippifaithinaction.org/*
 *://*.mop.com/*
 *://*.mos86.com/*
@@ -1122,11 +1128,13 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.qingdaosailing.com/*
 *://*.qingyunl.com/*
 *://*.qnid.cc/*
+*://*.qpb2b.com/*
 *://*.qu-qu.net/*
 *://*.qunkong.com.cn/*
 *://*.qwbkw.com/*
 *://*.repinku.com/*
 *://*.ricardoeleinara.com/*
+*://*.rollingfhr.xyz/*
 *://*.rtxmail.net/*
 *://*.rukomos.ru/*
 *://*.rxadderall.com/*
@@ -1149,6 +1157,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.sportsoho.com/*
 *://*.sqzlsy.cn/*
 *://*.sucaixi.com/*
+*://*.superweb999.com/*
 *://*.swimmingcows.com/*
 *://*.sxncw.com/*
 *://*.sync-computers.com/*
@@ -1189,6 +1198,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.vlexpert.com/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
+*://*.volvootofinans.com/*
 *://*.vpnmentor.com/*
 *://*.waymanamechurch.org/*
 *://*.wbolt.com/*
@@ -1198,6 +1208,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.wikicell.org/*
 *://*.wintoog.com.cn/*
 *://*.wjpy55.com/*
+*://*.wujigu.com/*
 *://*.wuzhuiso.com/s?q=*
 *://*.wxkcg.com/*
 *://*.xa8.net/*
@@ -1237,6 +1248,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.znj.com/*
 *://*.znsjw.com/*
 *://*.zol.com.cn/*
+*://*.zx75551.com/*
 *://*/?s=*
 *://*/cha.php?s=*
 *://*/home.php?mod=space*
@@ -4386,6 +4398,18 @@ www.google.*##.isv-r[data-ru^="https://techhelpnotes.com/"]
 www.google.*##.VFACy[href^="https://techhelpnotes.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://techhelpnotes.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://techhelpnotes.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://wp-qa.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://wp-qa.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://wp-qa.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://wp-qa.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://wp-qa.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="wp-qa.com"]
+www.ecosia.org##.result[data-url^="https://wp-qa.com/"]
+startpage.com##.w-gl__result-title[href^="https://wp-qa.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://wp-qa.com/"]
+www.google.*##.VFACy[href^="https://wp-qa.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://wp-qa.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://wp-qa.com/"]:upward(.tile--img)
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
@@ -4578,6 +4602,7 @@ duckduckgo.com##.tile--img__sub[href^="https://techhelpnotes.com/"]:upward(.tile
 *://*.ape-ask.com/*
 *://yaoply.com/*
 *://techhelpnotes.com/*
+*://wp-qa.com/*
 https://www.itranslater.com/qa/details/2325844172554634240
 ​https://www.koubeiblog.com/pglang/9a3d4fa4e0b064385d433238bbd6d5ad.html
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
@@ -130587,4 +130612,4 @@ title/小.(百科|知识)网/
 *://*.yihuifu.cn/*
 *://*.yuanchengxiezuo.com/*
 *://*.zbrushcn.com/*
-*://*.zhzzx.com/* Update weekly at 2022-08-07 08:43:29 UTC+0800
+*://*.zhzzx.com/* Update weekly at 2022-08-14 08:40:39 UTC+0800

@@ -217,6 +217,7 @@
 *://*.1004usa.buzz/*
 *://*.1008-6.cn/*
 *://*.100860.com/*
+*://*.100ke.cc/*
 *://*.1010host.buzz/*
 *://*.1018272.cn/*
 *://*.101dh.com/*
@@ -597,6 +598,7 @@
 *://*.360du.net.cn/*
 *://*.360mdb.com/*
 *://*.360norm.com/*
+*://*.361shipin.com/*
 *://*.361t.org/*
 *://*.36457.cn/*
 *://*.365dxpt.com/*
@@ -4447,6 +4449,7 @@
 *://*.igazone.com/*
 *://*.igdjvjf.cn/*
 *://*.igdmcwn.cn/*
+*://*.igiftidea.com/*
 *://*.igotojapan.com/*
 *://*.igrapoker.buzz/*
 *://*.igservizi.buzz/*
@@ -6807,6 +6810,7 @@
 *://*.qoieru.cn/*
 *://*.qopsgl.cn/*
 *://*.qp13.cn/*
+*://*.qpb2b.com/*
 *://*.qpovzcn.cn/*
 *://*.qppxjoh.cn/*
 *://*.qpup.cc/*
@@ -7040,6 +7044,7 @@
 *://*.roism.cn/*
 *://*.roldanmc.buzz/*
 *://*.rolia.net/*
+*://*.rollingfhr.xyz/*
 *://*.romancestop.buzz/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
@@ -7708,6 +7713,7 @@
 *://*.superchanges.buzz/*
 *://*.superclubs.com.cn/*
 *://*.supermobileqa.com/*
+*://*.superweb999.com/*
 *://*.supremeppe.buzz/*
 *://*.surf4gifts.buzz/*
 *://*.surprise8.com/*
@@ -8440,6 +8446,7 @@
 *://*.voidcn.cn/*
 *://*.voidcn.com/*
 *://*.volprixreduit.buzz/*
+*://*.volvootofinans.com/*
 *://*.vonkalm.com/*
 *://*.voorp.com/*
 *://*.vpfwzjt.cn/*
@@ -9735,7 +9742,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/* Update weekly at 2022-08-07 08:43:29 UTC+0800
+*://*.zhzzx.com/* Update weekly at 2022-08-14 08:40:39 UTC+0800
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -9870,6 +9877,7 @@
 *://*.zwz365.com/*
 *://*.zx001.com.cn/*
 *://*.zx2xyw2.cn/*
+*://*.zx75551.com/*
 *://*.zxbx.awejp.top/*
 *://*.zxitg.com/*
 *://*.zxj1i5r.cn/*
@@ -11154,6 +11162,7 @@
 *://workit.cc/*
 *://world.taobao.com/*
 *://wospxi.com/*  
+*://wp-qa.com/*
 *://wpsousuo.cn/*
 *://wqzx.cc/*
 *://wsao.kerstinraphahn.de/*
@@ -40128,6 +40137,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tutorialmore.com/"]:u
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntu.buildwebhost.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntuaa.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://webdevdesigner.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://wp-qa.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.5axxw.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.answerlib.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.anycodings.com/"]:upward(.b_algo)
@@ -40252,6 +40262,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://tutorialmore.com/"]:upward(.dgC
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntu.buildwebhost.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntuaa.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://webdevdesigner.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://wp-qa.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.5axxw.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.answerlib.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.anycodings.com/"]:upward(.dgControl_list > li)
@@ -44255,6 +44266,7 @@ duckduckgo.com##.tile--img__sub[href^="https://tutorialmore.com/"]:upward(.tile-
 duckduckgo.com##.tile--img__sub[href^="https://ubuntu.buildwebhost.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://ubuntuaa.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://webdevdesigner.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://wp-qa.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.5axxw.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.answerlib.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.anycodings.com/"]:upward(.tile--img)
@@ -44440,6 +44452,7 @@ duckduckgo.com##div[data-domain$="voidcc.com"]
 duckduckgo.com##div[data-domain$="waymanamechurch.org"]
 duckduckgo.com##div[data-domain$="web-dev-qa-db-fra.com"]
 duckduckgo.com##div[data-domain$="webdevdesigner.com"]
+duckduckgo.com##div[data-domain$="wp-qa.com"]
 duckduckgo.com##div[data-domain$="wujigu.com"]
 duckduckgo.com##div[data-domain$="www.5axxw.com"]
 duckduckgo.com##div[data-domain$="www.answerlib.com"]
@@ -76131,6 +76144,7 @@ startpage.com##.w-gl__result-title[href^="https://tutorialmore.com/"]:upward(.w-
 startpage.com##.w-gl__result-title[href^="https://ubuntu.buildwebhost.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://ubuntuaa.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://webdevdesigner.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://wp-qa.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.5axxw.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.answerlib.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.anycodings.com/"]:upward(.w-gl__result)
@@ -83925,6 +83939,7 @@ www.ecosia.org##.result[data-url^="https://tutorialmore.com/"]
 www.ecosia.org##.result[data-url^="https://ubuntu.buildwebhost.com/"]
 www.ecosia.org##.result[data-url^="https://ubuntuaa.com/"]
 www.ecosia.org##.result[data-url^="https://webdevdesigner.com/"]
+www.ecosia.org##.result[data-url^="https://wp-qa.com/"]
 www.ecosia.org##.result[data-url^="https://www.5axxw.com/"]
 www.ecosia.org##.result[data-url^="https://www.answerlib.com/"]
 www.ecosia.org##.result[data-url^="https://www.anycodings.com/"]
@@ -84117,6 +84132,7 @@ www.google.*##.C8nzq[href^="https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://ubuntu.buildwebhost.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://ubuntuaa.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://webdevdesigner.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://wp-qa.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.5axxw.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.answerlib.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.anycodings.com/"]:upward(.xpd)
@@ -84309,6 +84325,7 @@ www.google.*##.VFACy[href^="https://tutorialmore.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://ubuntu.buildwebhost.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://ubuntuaa.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://webdevdesigner.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://wp-qa.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.5axxw.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.answerlib.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.anycodings.com/"]:upward(.isv-r)
@@ -84501,6 +84518,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://tutorialmore.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntu.buildwebhost.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://wp-qa.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.5axxw.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.answerlib.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.anycodings.com/"]:upward(.aI1xUe)
@@ -84693,6 +84711,7 @@ www.google.*##.isv-r[data-ru^="https://tutorialmore.com/"]
 www.google.*##.isv-r[data-ru^="https://ubuntu.buildwebhost.com/"]
 www.google.*##.isv-r[data-ru^="https://ubuntuaa.com/"]
 www.google.*##.isv-r[data-ru^="https://webdevdesigner.com/"]
+www.google.*##.isv-r[data-ru^="https://wp-qa.com/"]
 www.google.*##.isv-r[data-ru^="https://www.5axxw.com/"]
 www.google.*##.isv-r[data-ru^="https://www.answerlib.com/"]
 www.google.*##.isv-r[data-ru^="https://www.anycodings.com/"]
@@ -84885,6 +84904,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://ubuntu.buildwebhost.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://ubuntuaa.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://webdevdesigner.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://wp-qa.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.5axxw.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.answerlib.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.anycodings.com/"]:upward(.xpd)
@@ -85077,6 +85097,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://tutorialmore.com/"]:upward(.xpdope
 www.google.*##.xpdopen .sXtWJb[href^="https://ubuntu.buildwebhost.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://wp-qa.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.5axxw.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.answerlib.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.anycodings.com/"]:upward(.xpdopen)
