@@ -1,5 +1,5 @@
 
- Update weekly at 2022-08-21 08:37:33 UTC+0800
+ Update weekly at 2022-08-28 08:43:34 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1501,6 +1501,7 @@
 *://*.airsatddt.com/*
 *://*.airtimeaudio.buzz/*
 *://*.aisatoyscn.com/*
+*://*.aiseesoft.com/*
 *://*.aisouwen.com/*
 *://*.aituche.com/*
 *://*.aizgu.com/*
@@ -1832,6 +1833,7 @@
 *://*.baomuxy.com/*
 *://*.baozhiku.com/*
 *://*.bar-edge.buzz/*
+*://*.barber-klipp.com/*
 *://*.barcode-label.com.cn/*
 *://*.bargcoz.cn/*
 *://*.barsch-marktforschung.buzz/*
@@ -4497,6 +4499,7 @@
 *://*.imengstar.com/*
 *://*.imindmap.cc/*
 *://*.immo-logis.net/*
+*://*.imooc.com/wenda/*
 *://*.imxtk.com/*
 *://*.imxuesheng.com/*
 *://*.imzx9e7.cn/*
@@ -4526,6 +4529,7 @@
 *://*.ioeduc.com/*
 *://*.ioffeer.buzz/*
 *://*.iolstl.com/*
+*://*.ios.im/*
 *://*.ipcnpdu.cn/*
 *://*.ipeizi.xyz/*
 *://*.ipfsdrop.com/*
@@ -7677,6 +7681,7 @@
 *://*.starbell.com.cn/*
 *://*.starbytecomputers.com/*
 *://*.state-savings.buzz/*
+*://*.statestpizza.com/*
 *://*.stayhomebiz.buzz/*
 *://*.stclairsupply.buzz/*
 *://*.stcymy.cn/*
@@ -7869,6 +7874,7 @@
 *://*.talygc.com/*
 *://*.tandeclub.com/*
 *://*.tanghtine.com/*
+*://*.taobao49.com/*
 *://*.taociok.cn/*
 *://*.taocms.org/*
 *://*.taododo.cn/*
@@ -8276,6 +8282,7 @@
 *://*.uibulo.com/*
 *://*.uidtp.com/*
 *://*.ujiaoshou.com/*
+*://*.ujjainyoga.com/*
 *://*.ujnvxj6.cn/*
 *://*.ujoy.net/*
 *://*.uk.com/*
@@ -10900,6 +10907,7 @@
 *://qastack.net.bd/*
 *://qastack.ru/*
 *://qastack.vn/*
+*://qatop.pythonwood.com/*
 *://qayaboo.co/*
 *://qcke.plameco-nett.de/*
 *://qcsdn.com/*
@@ -40133,6 +40141,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qastack.mx/"]:upward(
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qastack.net.bd/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qastack.ru/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qastack.vn/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qatop.pythonwood.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://quabr.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://question-it.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://questu.ru/"]:upward(.b_algo)
@@ -40261,6 +40270,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://qastack.mx/"]:upward(.dgControl
 cn.bing.com,www.bing.com##.inflnk[href^="https://qastack.net.bd/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qastack.ru/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qastack.vn/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://qatop.pythonwood.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://quabr.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://question-it.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://questu.ru/"]:upward(.dgControl_list > li)
@@ -44268,6 +44278,7 @@ duckduckgo.com##.tile--img__sub[href^="https://qastack.mx/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://qastack.net.bd/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://qastack.ru/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://qastack.vn/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://qatop.pythonwood.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://quabr.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://question-it.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://questu.ru/"]:upward(.tile--img)
@@ -44436,6 +44447,7 @@ duckduckgo.com##div[data-domain$="qastack.mx"]
 duckduckgo.com##div[data-domain$="qastack.net.bd"]
 duckduckgo.com##div[data-domain$="qastack.ru"]
 duckduckgo.com##div[data-domain$="qastack.vn"]
+duckduckgo.com##div[data-domain$="qatop.pythonwood.com"]
 duckduckgo.com##div[data-domain$="qi-u.com"]
 duckduckgo.com##div[data-domain$="quabr.com"]
 duckduckgo.com##div[data-domain$="question-it.com"]
@@ -76151,6 +76163,7 @@ startpage.com##.w-gl__result-title[href^="https://qastack.mx/"]:upward(.w-gl__re
 startpage.com##.w-gl__result-title[href^="https://qastack.net.bd/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://qastack.ru/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://qastack.vn/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://qatop.pythonwood.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://quabr.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://question-it.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://questu.ru/"]:upward(.w-gl__result)
@@ -83949,6 +83962,7 @@ www.ecosia.org##.result[data-url^="https://qastack.mx/"]
 www.ecosia.org##.result[data-url^="https://qastack.net.bd/"]
 www.ecosia.org##.result[data-url^="https://qastack.ru/"]
 www.ecosia.org##.result[data-url^="https://qastack.vn/"]
+www.ecosia.org##.result[data-url^="https://qatop.pythonwood.com/"]
 www.ecosia.org##.result[data-url^="https://quabr.com/"]
 www.ecosia.org##.result[data-url^="https://question-it.com/"]
 www.ecosia.org##.result[data-url^="https://questu.ru/"]
@@ -84145,6 +84159,7 @@ www.google.*##.C8nzq[href^="https://qastack.mx/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qastack.net.bd/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qastack.ru/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qastack.vn/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://qatop.pythonwood.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://quabr.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://question-it.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://questu.ru/"]:upward(.xpd)
@@ -84341,6 +84356,7 @@ www.google.*##.VFACy[href^="https://qastack.mx/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://qastack.net.bd/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://qastack.ru/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://qastack.vn/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://qatop.pythonwood.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://quabr.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://question-it.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://questu.ru/"]:upward(.isv-r)
@@ -84537,6 +84553,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://qastack.mx/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://qastack.net.bd/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://qastack.ru/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://qastack.vn/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://qatop.pythonwood.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://quabr.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://question-it.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://questu.ru/"]:upward(.aI1xUe)
@@ -84733,6 +84750,7 @@ www.google.*##.isv-r[data-ru^="https://qastack.mx/"]
 www.google.*##.isv-r[data-ru^="https://qastack.net.bd/"]
 www.google.*##.isv-r[data-ru^="https://qastack.ru/"]
 www.google.*##.isv-r[data-ru^="https://qastack.vn/"]
+www.google.*##.isv-r[data-ru^="https://qatop.pythonwood.com/"]
 www.google.*##.isv-r[data-ru^="https://quabr.com/"]
 www.google.*##.isv-r[data-ru^="https://question-it.com/"]
 www.google.*##.isv-r[data-ru^="https://questu.ru/"]
@@ -84929,6 +84947,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://qastack.mx/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://qastack.net.bd/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://qastack.ru/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://qastack.vn/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://qatop.pythonwood.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://quabr.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://question-it.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://questu.ru/"]:upward(.xpd)
@@ -85125,6 +85144,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://qastack.mx/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://qastack.net.bd/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://qastack.ru/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://qastack.vn/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://qatop.pythonwood.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://quabr.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://question-it.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://questu.ru/"]:upward(.xpdopen)

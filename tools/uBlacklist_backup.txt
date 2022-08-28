@@ -1,4 +1,4 @@
- Update weekly at 2022-08-21 08:37:33 UTC+0800
+ Update weekly at 2022-08-28 08:43:34 UTC+0800
 005i.com
 01-123.com
 01-800.cn
@@ -74797,6 +74797,7 @@ zzzzbj.com
 *://*.9idudu.com/*
 *://*.aalahty.cn/*
 *://*.aesml.com/*
+*://*.aiseesoft.com/*
 *://*.aiznh.com/*
 *://*.ajhujiao.com/*
 *://*.alltechbuzz.net/*
@@ -74815,6 +74816,7 @@ zzzzbj.com
 *://*.bajiaoyingshi.com/*
 *://*.bangjun168.com/*
 *://*.banyantp.com/*
+*://*.barber-klipp.com/*
 *://*.bbjkw.net/*
 *://*.bbsah.com/*
 *://*.beeeup.com/*
@@ -74909,6 +74911,8 @@ zzzzbj.com
 *://*.igiftidea.com/*
 *://*.iizhao.com/*
 *://*.imaycon.com/*
+*://*.imooc.com/wenda/*
+*://*.ios.im/*
 *://*.isdakar.org/*
 *://*.it.net.cn/*
 *://*.itecnote.com/*
@@ -75018,6 +75022,7 @@ zzzzbj.com
 *://*.soinside.com/*
 *://*.sportsoho.com/*
 *://*.sqzlsy.cn/*
+*://*.statestpizza.com/*
 *://*.sucaixi.com/*
 *://*.superweb999.com/*
 *://*.swimmingcows.com/*
@@ -75028,6 +75033,7 @@ zzzzbj.com
 *://*.tableta-android.com/*
 *://*.taijulianmeng.com/*
 *://*.taishengworld.com/*
+*://*.taobao49.com/*
 *://*.taocms.org/*
 *://*.tcly6.com/*
 *://*.techdevian.com/*
@@ -75053,6 +75059,7 @@ zzzzbj.com
 *://*.twfeq.com/*
 *://*.txcsjlb.com/*
 *://*.tysp.org/*
+*://*.ujjainyoga.com/*
 *://*.uk.com/*
 *://*.unansea.com/*
 *://*.uosohyc.site/*
@@ -129521,6 +129528,18 @@ www.google.*##.isv-r[data-ru^="https://dtuto.com/"]
 www.google.*##.VFACy[href^="https://dtuto.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://dtuto.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://dtuto.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://qatop.pythonwood.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://qatop.pythonwood.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://qatop.pythonwood.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://qatop.pythonwood.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qatop.pythonwood.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="qatop.pythonwood.com"]
+www.ecosia.org##.result[data-url^="https://qatop.pythonwood.com/"]
+startpage.com##.w-gl__result-title[href^="https://qatop.pythonwood.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://qatop.pythonwood.com/"]
+www.google.*##.VFACy[href^="https://qatop.pythonwood.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://qatop.pythonwood.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://qatop.pythonwood.com/"]:upward(.tile--img)
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
@@ -129717,6 +129736,7 @@ duckduckgo.com##.tile--img__sub[href^="https://dtuto.com/"]:upward(.tile--img)
 *://www.querythreads.com/*
 *://www.appsloveworld.com/*
 *://dtuto.com/*
+*://qatop.pythonwood.com/*
 *://www.sejuku.net/*
 *://*.stackoverrun.com/*
 *://*.stackovernet.com/*
