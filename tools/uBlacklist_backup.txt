@@ -1,4 +1,4 @@
- Update weekly at 2022-08-28 08:43:34 UTC+0800
+ Update weekly at 2022-09-04 08:43:06 UTC+0800
 005i.com
 01-123.com
 01-800.cn
@@ -74767,6 +74767,7 @@ zzzzbj.com
 *://*.plastic-hf.com/*
 *://*.021east.com/*
 *://*.0714news.com/*
+*://*.1007171.com/*
 *://*.100ke.cc/*
 *://*.1024sou.com/*
 *://*.1688.com/*
@@ -74780,14 +74781,18 @@ zzzzbj.com
 *://*.33lc.org/*
 *://*.361shipin.com/*
 *://*.361t.org/*
+*://*.365seal.com/*
+*://*.369369.xyz/*
 *://*.3955017.com/*
 *://*.3cwu.com/*
+*://*.4hou.com/posts/*
 *://*.4meahc.com/*
 *://*.51xuexiaoyi.com/*
 *://*.521cc.com/*
 *://*.58hengqi.com/*
 *://*.61655.app/*
 *://*.63458799.com/*
+*://*.7200500.com/*
 *://*.87647.xyz/*
 *://*.876jy.cc/*
 *://*.876jy.vip/*
@@ -74801,6 +74806,8 @@ zzzzbj.com
 *://*.aiznh.com/*
 *://*.ajhujiao.com/*
 *://*.alltechbuzz.net/*
+*://*.altapps.net/*
+*://*.amalur-madretierra.es/*
 *://*.amyspastasauce.com/*
 *://*.androidcookie.com/*
 *://*.answers.gethuman.com/*
@@ -74819,7 +74826,9 @@ zzzzbj.com
 *://*.barber-klipp.com/*
 *://*.bbjkw.net/*
 *://*.bbsah.com/*
+*://*.beckers-willems.nl/*
 *://*.beeeup.com/*
+*://*.biobu.it/*
 *://*.bit86.cn/*
 *://*.bookresource.net/*
 *://*.brainandspineschool.com/*
@@ -74827,12 +74836,17 @@ zzzzbj.com
 *://*.buffalo-mn.org/*
 *://*.bugelun.com/*
 *://*.camlya.com/*
+*://*.casmokefreehousing.org/*
+*://*.ccvic.com/*
+*://*.cetturismo.cl/*
 *://*.chattaboo.com/*
 *://*.chcpd.com/*
 *://*.china.cn/*
 *://*.china2uk.com/*
+*://*.chiphell.com/*
 *://*.cjavapy.com/*
 *://*.cjkfd.top/*
+*://*.clubhouse-club.site/*
 *://*.cmen.cc/*
 *://*.cn.com/*
 *://*.cnpython.com/*
@@ -74856,6 +74870,7 @@ zzzzbj.com
 *://*.dapg.cc/*
 *://*.dav01.com/*
 *://*.ddosi.org/*
+*://*.dedeapps.com/*
 *://*.dkfp88.cn/*
 *://*.dovov.com/*
 *://*.dtmao.cc/*
@@ -74868,9 +74883,13 @@ zzzzbj.com
 *://*.eue5xbp.site/*
 *://*.fhsas.com/*
 *://*.fofa.so/*
+*://*.fonelab.com/*
+*://*.food-week.ru/*
 *://*.fpppw.com/*
 *://*.framedfm.net/*
 *://*.freax.be/*
+*://*.frederique-davezac.fr/*
+*://*.freejobalerts24.com/*
 *://*.freejournal.info/*
 *://*.fukuyama-okoku.com/*
 *://*.fuwuqizhijia.com/*
@@ -74882,13 +74901,16 @@ zzzzbj.com
 *://*.geren-jianli.org/*
 *://*.gizchina.it/*
 *://*.gome.com.cn/*
+*://*.gov-civil-leiria.pt/*
 *://*.guangdiu.com/*
+*://*.guoguofen.com/*
 *://*.haoshangbang.net/*
 *://*.haoxyx.com/*
 *://*.hbs163.com/*
 *://*.hellodemos.com/*
 *://*.helloworldkb.com/*
 *://*.helplib.com/*
+*://*.heyloadsmmkr.ru.com/*
 *://*.hezhisw.com/*
 *://*.hfflvfc.site/*
 *://*.hkk666.com/*
@@ -74910,6 +74932,7 @@ zzzzbj.com
 *://*.ids-water.com/*
 *://*.igiftidea.com/*
 *://*.iizhao.com/*
+*://*.imacso.com/*
 *://*.imaycon.com/*
 *://*.imooc.com/wenda/*
 *://*.ios.im/*
@@ -74929,6 +74952,7 @@ zzzzbj.com
 *://*.jishuwen.com/*
 *://*.jiyimusic.com/*
 *://*.jkzh.net/*
+*://*.jnw.cc/*
 *://*.joecomp.com/*
 *://*.jqgcs123.com/*
 *://*.juejin.cn/s/*
@@ -74937,6 +74961,7 @@ zzzzbj.com
 *://*.kafan.cn/*
 *://*.kaimalo.com/*
 *://*.kickscooter.ru/*
+*://*.kissbaidu.com/*
 *://*.kknews.cc/*
 *://*.kontur-sb.ru/*
 *://*.ksctec.com/*
@@ -74946,7 +74971,10 @@ zzzzbj.com
 *://*.lai18.com/*
 *://*.lehuotuan.com/*
 *://*.lete.com/kdwenda/*
+*://*.liangliangmama.com/blogs/news/*
+*://*.libhunt.com/*
 *://*.licenseapps.com/*
+*://*.liliang.info/*
 *://*.linuxprobe.com/*
 *://*.liwu.bi/*
 *://*.liyi1688.com/*
@@ -74962,11 +74990,15 @@ zzzzbj.com
 *://*.mfwf.cn.com/*
 *://*.miaook.com/*
 *://*.mississippifaithinaction.org/*
+*://*.mobile2day.com/*
+*://*.modb.pro/*
 *://*.mop.com/*
 *://*.mos86.com/*
 *://*.mostexpo.com/*
 *://*.mozzinovo.club/*
 *://*.msfxt.com/*
+*://*.my-pmu.com/*
+*://*.mymac.info/*
 *://*.nhm.org/*
 *://*.njfpled.com/*
 *://*.njloft.com/*
@@ -74984,11 +75016,15 @@ zzzzbj.com
 *://*.picclick.co.uk/*
 *://*.pinkypink.org/*
 *://*.piqiuda.com/*
+*://*.poldomu.pl/*
+*://*.poloniabeaulieu.fr/*
 *://*.pp22.xyz/*
+*://*.prestigelublin.eu/*
 *://*.psjgs.com.cn/*
 *://*.py.cn/*
 *://*.pyn9.com/*
 *://*.qciss.net/*
+*://*.qdcypf.com/*
 *://*.qfjhb.cn/*
 *://*.qingdaosailing.com/*
 *://*.qingyunl.com/*
@@ -75003,12 +75039,15 @@ zzzzbj.com
 *://*.rtxmail.net/*
 *://*.rukomos.ru/*
 *://*.rxadderall.com/*
+*://*.sa123.cc/*
 *://*.scpaean.com/*
 *://*.sdxinli.org/*
 *://*.seafastcenter.com/*
 *://*.sefyc.com/*
 *://*.shenmedaquan.com/*
+*://*.shluqu.cn/*
 *://*.shtaxi.com/*
+*://*.shumashidai.com/*
 *://*.shyaki.com/*
 *://*.sincereschool.com/*
 *://*.sjzjgbj.com/*
@@ -75048,6 +75087,7 @@ zzzzbj.com
 *://*.tomzx.com/*
 *://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
+*://*.toutiao.io/*
 *://*.touyinghome.com/*
 *://*.trload.com/*
 *://*.trophieschester.com/*
@@ -75071,11 +75111,15 @@ zzzzbj.com
 *://*.voidcn.com/*
 *://*.volvootofinans.com/*
 *://*.vpnmentor.com/*
+*://*.vsbuys.com/*
 *://*.waymanamechurch.org/*
 *://*.wbolt.com/*
 *://*.wdfxw.net/*
+*://*.website-problem.info/*
+*://*.websiterating.com/*
 *://*.weivb.com/*
 *://*.wenbf.com/*
+*://*.westack.live/*
 *://*.wikicell.org/*
 *://*.windowsphoneinfo.com/*
 *://*.wintoog.com.cn/*
@@ -75099,6 +75143,7 @@ zzzzbj.com
 *://*.xujun.org/*
 *://*.xykjsqg.com/*
 *://*.xzlbjg.com/*
+*://*.y8freegame.com/*
 *://*.yangmao.info/*
 *://*.yao51.com/*
 *://*.ydbaike.club/*
@@ -75302,6 +75347,7 @@ zzzzbj.com
 *://m.3g.qqs9.com/*
 *://m.51dongshi.com/*
 *://m.9ji.com/*
+*://m.aliyun.com/*
 *://m.ccidnet.com/*
 *://m.copyan.com/*
 *://m.daihema.com/*
@@ -75342,6 +75388,7 @@ zzzzbj.com
 *://m.yanghua.net/*
 *://m.yxdwj.com/*
 *://m.zcool.com.cn/*
+*://m.zhihejia.com/*
 *://machbbs.com/*
 *://make.mk/*
 *://maokun.blog.csdn.net/*
@@ -129540,6 +129587,18 @@ www.google.*##.isv-r[data-ru^="https://qatop.pythonwood.com/"]
 www.google.*##.VFACy[href^="https://qatop.pythonwood.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qatop.pythonwood.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://qatop.pythonwood.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://webdevask.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://webdevask.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://webdevask.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://webdevask.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://webdevask.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="webdevask.com"]
+www.ecosia.org##.result[data-url^="https://webdevask.com/"]
+startpage.com##.w-gl__result-title[href^="https://webdevask.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://webdevask.com/"]
+www.google.*##.VFACy[href^="https://webdevask.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://webdevask.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://webdevask.com/"]:upward(.tile--img)
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
@@ -129737,6 +129796,7 @@ duckduckgo.com##.tile--img__sub[href^="https://qatop.pythonwood.com/"]:upward(.t
 *://www.appsloveworld.com/*
 *://dtuto.com/*
 *://qatop.pythonwood.com/*
+*://webdevask.com/*
 *://www.sejuku.net/*
 *://*.stackoverrun.com/*
 *://*.stackovernet.com/*

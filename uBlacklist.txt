@@ -1,5 +1,5 @@
 
- Update weekly at 2022-08-28 08:43:34 UTC+0800
+ Update weekly at 2022-09-04 08:43:06 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -217,6 +217,7 @@
 *://*.1000lily.com/*
 *://*.1001yx.com/*
 *://*.1004usa.buzz/*
+*://*.1007171.com/*
 *://*.1008-6.cn/*
 *://*.100860.com/*
 *://*.100ke.cc/*
@@ -605,10 +606,12 @@
 *://*.361t.org/*
 *://*.36457.cn/*
 *://*.365dxpt.com/*
+*://*.365seal.com/*
 *://*.365town.cn/*
 *://*.366521.com/*
 *://*.366ro4o.cn/*
 *://*.366service.com/*
+*://*.369369.xyz/*
 *://*.369bt.cn/*
 *://*.36ho.com/*
 *://*.36wi.com/*
@@ -782,6 +785,7 @@
 *://*.4fjhqeu.cn/*
 *://*.4greatness.buzz/*
 *://*.4harley.buzz/*
+*://*.4hou.com/posts/*
 *://*.4hqn.com/*
 *://*.4ieg8xs.cn/*
 *://*.4jf947x.cn/*
@@ -1065,6 +1069,7 @@
 *://*.710dnuv.com/*
 *://*.71top.com/*
 *://*.71usrc.cn/*
+*://*.7200500.com/*
 *://*.720com.cn/*
 *://*.720exl.cn/*
 *://*.727823.com/*
@@ -1556,7 +1561,9 @@
 *://*.alrwov8.cn/*
 *://*.alsace-casino.buzz/*
 *://*.alsorsl.buzz/*
+*://*.altapps.net/*
 *://*.altierisauto.buzz/*
+*://*.amalur-madretierra.es/*
 *://*.ambkct.com/*
 *://*.ameliapharm.com/*
 *://*.amercoffee.buzz/*
@@ -1875,6 +1882,7 @@
 *://*.beaniebiz.buzz/*
 *://*.beauty-flowers.buzz/*
 *://*.beauty-katsura.buzz/*
+*://*.beckers-willems.nl/*
 *://*.becreativeblog.com/*
 *://*.beeeup.com/*
 *://*.beekaa.com/*
@@ -1951,6 +1959,7 @@
 *://*.billsun.cn/*
 *://*.binfun.cn/*
 *://*.bingdianhuanyuan.cn/*
+*://*.biobu.it/*
 *://*.biogogreen.com/*
 *://*.biol02.cn/*
 *://*.biotradefair.buzz/*
@@ -2220,6 +2229,7 @@
 *://*.cashlendup.net/*
 *://*.cashregister.cn/*
 *://*.casinopier-waterworks.buzz/*
+*://*.casmokefreehousing.org/*
 *://*.castle-cctv.cn/*
 *://*.cb728.com/*
 *://*.cbbxk.com/*
@@ -2243,6 +2253,7 @@
 *://*.ccsearch.cc/*
 *://*.cctgou.com/*
 *://*.cctsuzhou.cn/*
+*://*.ccvic.com/*
 *://*.cdbao.ex5.ipv6.xjklmy.com/*
 *://*.cdbgp.com/*
 *://*.cdbqgzdl.com/*
@@ -2288,6 +2299,7 @@
 *://*.ceping.info/*
 *://*.ceramic-industry.buzz/*
 *://*.cesdnet.com/*
+*://*.cetturismo.cl/*
 *://*.cf628.com/*
 *://*.cf6h0hw.cn/*
 *://*.cfadnc.org/*
@@ -2358,6 +2370,7 @@
 *://*.chineseinla.com/*
 *://*.chinesepcb.cn/*
 *://*.chinesewords.org/*
+*://*.chiphell.com/*
 *://*.chirontechnologies.buzz/*
 *://*.chiroporn.buzz/*
 *://*.chkkkk.com/*
@@ -2429,6 +2442,7 @@
 *://*.clothw.com/*
 *://*.cloudsos.com.cn/*
 *://*.clqcqz.com/*
+*://*.clubhouse-club.site/*
 *://*.clwdd.com/*
 *://*.cm0769.com/*
 *://*.cm7w0uj.cn/*
@@ -2792,6 +2806,7 @@
 *://*.dealproduct.cn/*
 *://*.debugcn.com/*
 *://*.decouhome.com/*
+*://*.dedeapps.com/*
 *://*.dedexiche.com/*
 *://*.defelsko.net.cn/*
 *://*.delinvip.com/*
@@ -3413,6 +3428,8 @@
 *://*.fnruifeng.com/*
 *://*.fofa.so/*
 *://*.folxchina.cn/*
+*://*.fonelab.com/*
+*://*.food-week.ru/*
 *://*.forbb.cn/*
 *://*.forenose.com/*
 *://*.forgerynet.buzz/*
@@ -3437,10 +3454,12 @@
 *://*.francispublications.buzz/*
 *://*.frat-movie.buzz/*
 *://*.freax.be/*
+*://*.frederique-davezac.fr/*
 *://*.free-lunwen.com/*
 *://*.free699.com/*
 *://*.freednewstimes.com/*
 *://*.freeguo.com/*
+*://*.freejobalerts24.com/*
 *://*.freejournal.info/*
 *://*.freesexvideosonline.buzz/*
 *://*.freyachina.com/*
@@ -3732,6 +3751,7 @@
 *://*.goulanyaozhai.com.cn/*
 *://*.gouma.org/*
 *://*.gouo.cn/*
+*://*.gov-civil-leiria.pt/*
 *://*.gp5vllt.cn/*
 *://*.gpuhiyk.cn/*
 *://*.gq05zh7.cn/*
@@ -3798,6 +3818,7 @@
 *://*.gumtdi3.cn/*
 *://*.guochangxi.com/*
 *://*.guoguofarm.cn/*
+*://*.guoguofen.com/*
 *://*.guojinds.com/*
 *://*.guojixiangqidesuanfen.isap2000.com/*
 *://*.guoleke.com/*
@@ -4052,6 +4073,7 @@
 *://*.herpesoutbreaktreatment-reviews.com/*
 *://*.heww.cc/*
 *://*.hexielaw.com/*
+*://*.heyloadsmmkr.ru.com/*
 *://*.heyma2.com/*
 *://*.heyuanheng.com/*
 *://*.hezhisw.com/*
@@ -4488,6 +4510,7 @@
 *://*.ilzhrmn.cn/*
 *://*.im1pxi.cn/*
 *://*.ima-cn.cn/*
+*://*.imacso.com/*
 *://*.imadebrand.com/*
 *://*.image.haosou.com/*
 *://*.image.so.com/*
@@ -4824,6 +4847,7 @@
 *://*.jnqsbz.com/*
 *://*.jntgzsg.cn/*
 *://*.jnup.cc/*
+*://*.jnw.cc/*
 *://*.jnzcyl.com/*
 *://*.jnzczdh.com/*
 *://*.jnzffz.com/*
@@ -5087,6 +5111,7 @@
 *://*.kingstayhotel.cn/*
 *://*.kingtaisei.com/*
 *://*.kinlawswelcomegrill.com/*
+*://*.kissbaidu.com/*
 *://*.kissiya.com/*
 *://*.kisyou.cn/*
 *://*.kitelinef.com/*
@@ -5345,11 +5370,13 @@
 *://*.lhz8.cn/*
 *://*.li36b.com/*
 *://*.liamharrington.buzz/*
+*://*.liangliangmama.com/blogs/news/*
 *://*.liangmir.cn/*
 *://*.lianyi0898.com/*
 *://*.lianyigcsl.com/*
 *://*.liao521.com/*
 *://*.libertyquiltshop.buzz/*
+*://*.libhunt.com/*
 *://*.libinlipin.com/*
 *://*.licenseapps.com/*
 *://*.lichengjk.com/*
@@ -5368,6 +5395,7 @@
 *://*.likebl.com/*
 *://*.likecs.com/*
 *://*.likeji.net/*
+*://*.liliang.info/*
 *://*.lilouvideos.com/*
 *://*.lilyid.com/*
 *://*.lindberg-import.buzz/*
@@ -5832,7 +5860,9 @@
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
 *://*.moaera.com/*
+*://*.mobile2day.com/*
 *://*.mobilephoneslive.com/*
+*://*.modb.pro/*
 *://*.modelosquetarojas.buzz/*
 *://*.modoaydinlatma.buzz/*
 *://*.moe.am/*
@@ -5948,6 +5978,7 @@
 *://*.mxr8.cn/*
 *://*.mxtube.net/*
 *://*.my-olli.com/*
+*://*.my-pmu.com/*
 *://*.my.opera.com/*
 *://*.my0546.com/*
 *://*.my697.com/*
@@ -5962,6 +5993,7 @@
 *://*.myjurlique.buzz/*
 *://*.mylifeblog.cn/*
 *://*.mylovesy.com/*
+*://*.mymac.info/*
 *://*.mymyjtf.com/*
 *://*.mynameinlights.buzz/*
 *://*.myperfecttan.buzz/*
@@ -6557,6 +6589,8 @@
 *://*.poid7.cn/*
 *://*.poiui.top/*
 *://*.poketoys.buzz/*
+*://*.poldomu.pl/*
+*://*.poloniabeaulieu.fr/*
 *://*.pomdapi-shoes.buzz/*
 *://*.pond-view.buzz/*
 *://*.ponvn.cn/*
@@ -6589,6 +6623,7 @@
 *://*.precision-printing.buzz/*
 *://*.premier-net.buzz/*
 *://*.premieredomain.buzz/*
+*://*.prestigelublin.eu/*
 *://*.pretagteam.com/*
 *://*.prg8.cn/*
 *://*.prinevillesda.org/*
@@ -6721,6 +6756,7 @@
 *://*.qcwxps.com/*
 *://*.qd.58.com/*
 *://*.qdabr0c.cn/*
+*://*.qdcypf.com/*
 *://*.qddcd.com/*
 *://*.qdhuacuhui.com/*
 *://*.qdjjldaigou.com/*
@@ -7150,6 +7186,7 @@
 *://*.s8h4bp7.cn/*
 *://*.s8zo23x.cn/*
 *://*.s900f.com/*
+*://*.sa123.cc/*
 *://*.sa5f8o7.cn/*
 *://*.sab-riga.buzz/*
 *://*.sad21.cn/*
@@ -7384,6 +7421,7 @@
 *://*.shjunting.com/*
 *://*.shkxsy.cn/*
 *://*.shldbf.com/*
+*://*.shluqu.cn/*
 *://*.shmx518.com/*
 *://*.shoeku.com/*
 *://*.shop2046.com/*
@@ -7418,6 +7456,7 @@
 *://*.shuaigetian.cn/*
 *://*.shuangsan.cn/*
 *://*.shujinger.com/*
+*://*.shumashidai.com/*
 *://*.shunanjy.com/*
 *://*.shunlixidi.com/*
 *://*.shuobaico.com/*
@@ -8107,6 +8146,7 @@
 *://*.tousu.in/*
 *://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
+*://*.toutiao.io/*
 *://*.touyanmo.com/*
 *://*.touyinghome.com/*
 *://*.toyif.cn/*
@@ -8478,6 +8518,7 @@
 *://*.vqqf.cc/*
 *://*.vqtddz.cn/*
 *://*.vsb08zc.cn/*
+*://*.vsbuys.com/*
 *://*.vsgood.com/*
 *://*.vtiorio.com/*
 *://*.vtoyq.com/*
@@ -8585,6 +8626,8 @@
 *://*.websajts.buzz/*
 *://*.websetnet.net/*
 *://*.websgj.com/*
+*://*.website-problem.info/*
+*://*.websiterating.com/*
 *://*.websou.cc/*
 *://*.weckspace.com/*
 *://*.wedlockphotography.buzz/*
@@ -8633,6 +8676,7 @@
 *://*.wenwen.m.sogou.com/*
 *://*.wenyanet.com/*
 *://*.wepost.com.my/*
+*://*.westack.live/*
 *://*.westsectionclub.com/*
 *://*.weswift.cn/*
 *://*.wetasia.buzz/*
@@ -9218,6 +9262,7 @@
 *://*.y6u3l8z.cn/*
 *://*.y7v058i.cn/*
 *://*.y8833.cn/*
+*://*.y8freegame.com/*
 *://*.y8x70fy.cn/*
 *://*.y99nr6w.cn/*
 *://*.y9c7fja.cn/*
@@ -10661,6 +10706,7 @@
 *://m.abctbh.com/*
 *://m.ablwp.com/*
 *://m.agyay.com/*
+*://m.aliyun.com/*
 *://m.aotaier.com.cn/
 *://m.bxwgo.com/*  
 *://m.ccdswl.com/*
@@ -10740,6 +10786,7 @@
 *://m.yxdwj.com/*
 *://m.yzlqzx.xyz/*
 *://m.zcool.com.cn/*
+*://m.zhihejia.com/*
 *://m.zhuangku.com/*
 *://machao56.com/*
 *://machbbs.com/*
@@ -11161,6 +11208,7 @@
 *://web.coffee-storehouse.com.tw/*
 *://web.xingfashuini.com/*
 *://web.xkyn.net/*
+*://webdevask.com/*
 *://webdevdesigner.com/*
 *://websou.cc/*
 *://wedt.rollender-bauernladen.de/*
@@ -40163,6 +40211,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tipsfordev.com/"]:upw
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tutorialmore.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntu.buildwebhost.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntuaa.com/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://webdevask.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://webdevdesigner.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://wp-qa.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.5axxw.com/"]:upward(.b_algo)
@@ -40292,6 +40341,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://tipsfordev.com/"]:upward(.dgCon
 cn.bing.com,www.bing.com##.inflnk[href^="https://tutorialmore.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntu.buildwebhost.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntuaa.com/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://webdevask.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://webdevdesigner.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://wp-qa.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.5axxw.com/"]:upward(.dgControl_list > li)
@@ -44300,6 +44350,7 @@ duckduckgo.com##.tile--img__sub[href^="https://tipsfordev.com/"]:upward(.tile--i
 duckduckgo.com##.tile--img__sub[href^="https://tutorialmore.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://ubuntu.buildwebhost.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://ubuntuaa.com/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://webdevask.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://webdevdesigner.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://wp-qa.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.5axxw.com/"]:upward(.tile--img)
@@ -44490,6 +44541,7 @@ duckduckgo.com##div[data-domain$="vigges.net"]
 duckduckgo.com##div[data-domain$="voidcc.com"]
 duckduckgo.com##div[data-domain$="waymanamechurch.org"]
 duckduckgo.com##div[data-domain$="web-dev-qa-db-fra.com"]
+duckduckgo.com##div[data-domain$="webdevask.com"]
 duckduckgo.com##div[data-domain$="webdevdesigner.com"]
 duckduckgo.com##div[data-domain$="wp-qa.com"]
 duckduckgo.com##div[data-domain$="wujigu.com"]
@@ -76185,6 +76237,7 @@ startpage.com##.w-gl__result-title[href^="https://tipsfordev.com/"]:upward(.w-gl
 startpage.com##.w-gl__result-title[href^="https://tutorialmore.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://ubuntu.buildwebhost.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://ubuntuaa.com/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://webdevask.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://webdevdesigner.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://wp-qa.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.5axxw.com/"]:upward(.w-gl__result)
@@ -83984,6 +84037,7 @@ www.ecosia.org##.result[data-url^="https://tipsfordev.com/"]
 www.ecosia.org##.result[data-url^="https://tutorialmore.com/"]
 www.ecosia.org##.result[data-url^="https://ubuntu.buildwebhost.com/"]
 www.ecosia.org##.result[data-url^="https://ubuntuaa.com/"]
+www.ecosia.org##.result[data-url^="https://webdevask.com/"]
 www.ecosia.org##.result[data-url^="https://webdevdesigner.com/"]
 www.ecosia.org##.result[data-url^="https://wp-qa.com/"]
 www.ecosia.org##.result[data-url^="https://www.5axxw.com/"]
@@ -84181,6 +84235,7 @@ www.google.*##.C8nzq[href^="https://tipsfordev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://ubuntu.buildwebhost.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://ubuntuaa.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://webdevask.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://webdevdesigner.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://wp-qa.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.5axxw.com/"]:upward(.xpd)
@@ -84378,6 +84433,7 @@ www.google.*##.VFACy[href^="https://tipsfordev.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://tutorialmore.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://ubuntu.buildwebhost.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://ubuntuaa.com/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://webdevask.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://webdevdesigner.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://wp-qa.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.5axxw.com/"]:upward(.isv-r)
@@ -84575,6 +84631,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://tipsfordev.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://tutorialmore.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntu.buildwebhost.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://webdevask.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://wp-qa.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.5axxw.com/"]:upward(.aI1xUe)
@@ -84772,6 +84829,7 @@ www.google.*##.isv-r[data-ru^="https://tipsfordev.com/"]
 www.google.*##.isv-r[data-ru^="https://tutorialmore.com/"]
 www.google.*##.isv-r[data-ru^="https://ubuntu.buildwebhost.com/"]
 www.google.*##.isv-r[data-ru^="https://ubuntuaa.com/"]
+www.google.*##.isv-r[data-ru^="https://webdevask.com/"]
 www.google.*##.isv-r[data-ru^="https://webdevdesigner.com/"]
 www.google.*##.isv-r[data-ru^="https://wp-qa.com/"]
 www.google.*##.isv-r[data-ru^="https://www.5axxw.com/"]
@@ -84969,6 +85027,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://tipsfordev.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://ubuntu.buildwebhost.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://ubuntuaa.com/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://webdevask.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://webdevdesigner.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://wp-qa.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.5axxw.com/"]:upward(.xpd)
@@ -85166,6 +85225,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://tipsfordev.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://tutorialmore.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://ubuntu.buildwebhost.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://webdevask.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://wp-qa.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.5axxw.com/"]:upward(.xpdopen)
