@@ -1,5 +1,5 @@
 
- Update weekly at 2022-09-11 08:43:07 UTC+0800
+ Update weekly at 2022-09-18 08:46:15 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -543,6 +543,7 @@
 *://*.2iik.com/*
 *://*.2izr31t.cn/*
 *://*.2lndd3z.cn/*
+*://*.2maka.com/*
 *://*.2match2.buzz/*
 *://*.2mikes.buzz/*
 *://*.2optrip.com/*
@@ -1459,6 +1460,7 @@
 *://*.actorsfit.com/*
 *://*.actorssupplies.buzz/*
 *://*.actuaireonline.buzz/*
+*://*.actualidadiphone.com/*
 *://*.actuarygarden.com/*
 *://*.acuolea.xyz/*
 *://*.acvu.cn/*
@@ -2995,6 +2997,7 @@
 *://*.domy365.com/*
 *://*.don-mar.buzz/*
 *://*.dongchangmotors.buzz/*
+*://*.dongchedi.com/tag/*
 *://*.dongdaima.com/*
 *://*.dongfangeb.com/*
 *://*.donglian640.com/*
@@ -4360,6 +4363,7 @@
 *://*.htd-shop.cn/*
 *://*.htdzzk.com.cn/*
 *://*.htl8.com/*
+*://*.html.cn/*
 *://*.htmlwdw.com/*
 *://*.htsc100.com/*
 *://*.htv9o3g.cn/*
@@ -5832,6 +5836,7 @@
 *://*.meimeite.com/*
 *://*.meiniuba.com/*
 *://*.meirhome.com/*
+*://*.meirikeji.com/*
 *://*.meirongbala.com/*
 *://*.meisearch.cc/*
 *://*.meitan8.cn/*
@@ -5931,6 +5936,7 @@
 *://*.mnsf.net/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
+*://*.mo08.biz/*
 *://*.moaera.com/*
 *://*.mobile2day.com/*
 *://*.mobilephoneslive.com/*
@@ -8884,6 +8890,7 @@
 *://*.woou0nl.cn/*
 *://*.wopsgh.cn/*
 *://*.wordford.com/*
+*://*.wordpress.com/*
 *://*.workhard.guru/*
 *://*.worldphim.com/*
 *://*.worldseries13.buzz/*
@@ -9730,6 +9737,7 @@
 *://*.z7np5o7.cn/*
 *://*.z7obq3f.cn/*
 *://*.z7yule.cn/*
+*://*.za.com/*
 *://*.za5.cc/*
 *://*.za60.cn/*
 *://*.zaataritravel.buzz/*
@@ -9855,6 +9863,7 @@
 *://*.zhixiangbaozhuang.net/*
 *://*.zhixinlu.com/*
 *://*.zhiyintucao.xyz/*
+*://*.zhizhiguan.com/*
 *://*.zhizhusou.com/*
 *://*.zhj818.com/*
 *://*.zhjfood.com/*
@@ -10297,6 +10306,7 @@
 *://brabantwerkt.nl/*  
 *://bradstreetcra.com/*
 *://brd2a.com/*
+*://briteming.blogspot.com/*
 *://broadas.com/*
 *://brrmn.com/*
 *://brwhn.com/*
@@ -10663,6 +10673,7 @@
 *://iskeke.com/*
 *://isolution.pro/*
 *://ispe-dach.org/*  
+*://issuecloser.com/*
 *://it-hell.com/*  
 *://it.wenda123.org/*
 *://itecnote.com/*
@@ -10938,6 +10949,7 @@
 *://ndup.cc/*
 *://ne0matrix.com/*
 *://neutrikmall.com/*
+*://new.qq.com/omn/*
 *://newbedev.com/*
 *://news.66wz.com/*
 *://news.futunn.com/post/*
@@ -10989,6 +11001,7 @@
 *://perhu.com/*
 *://phphqc.cc/*
 *://phpqaw.cc/*
+*://pic.sogou.com/pic/searchList.jsp?*
 *://pinasy.com/*
 *://pjcq8.com/*
 *://pknn.cc/*
@@ -12638,6 +12651,7 @@
 *://www.tfdkt.com/*  
 *://www.tgidrinks.com/*
 *://www.thaipublica.org/*  
+*://www.thecodeteacher.com/*
 *://www.thelittlestrawberryfarm.com/*  
 *://www.thenatureofwriting.com/*  
 *://www.thestripmiami.com/*  
@@ -40441,6 +40455,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://fullstackuser.com/"]:
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://intellipaat.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://iquestion.pro/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://isolution.pro/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://issuecloser.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://itecnote.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://itectec.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jablogs.com/"]:upward(.b_algo)
@@ -40532,6 +40547,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.nuomiphp.com/"]:u
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.querythreads.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.semicolonworld.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.stackfinder.ru/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.thecodeteacher.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.titanwolf.org/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.b_algo)
@@ -40571,6 +40587,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://fullstackuser.com/"]:upward(.dg
 cn.bing.com,www.bing.com##.inflnk[href^="https://intellipaat.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://iquestion.pro/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://isolution.pro/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://issuecloser.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://itecnote.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://itectec.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jablogs.com/"]:upward(.dgControl_list > li)
@@ -40662,6 +40679,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://www.nuomiphp.com/"]:upward(.dgC
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.querythreads.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.semicolonworld.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.stackfinder.ru/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.thecodeteacher.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.titanwolf.org/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.dgControl_list > li)
@@ -44581,6 +44599,7 @@ duckduckgo.com##.tile--img__sub[href^="https://fullstackuser.com/"]:upward(.tile
 duckduckgo.com##.tile--img__sub[href^="https://intellipaat.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://iquestion.pro/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://isolution.pro/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://issuecloser.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://itecnote.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://itectec.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://jablogs.com/"]:upward(.tile--img)
@@ -44672,6 +44691,7 @@ duckduckgo.com##.tile--img__sub[href^="https://www.nuomiphp.com/"]:upward(.tile-
 duckduckgo.com##.tile--img__sub[href^="https://www.querythreads.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.semicolonworld.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.stackfinder.ru/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://www.thecodeteacher.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.titanwolf.org/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.tile--img)
@@ -44735,6 +44755,7 @@ duckduckgo.com##div[data-domain$="gupgallery.com"]
 duckduckgo.com##div[data-domain$="intellipaat.com"]
 duckduckgo.com##div[data-domain$="iquestion.pro"]
 duckduckgo.com##div[data-domain$="isolution.pro"]
+duckduckgo.com##div[data-domain$="issuecloser.com"]
 duckduckgo.com##div[data-domain$="itecnote.com"]
 duckduckgo.com##div[data-domain$="itectec.com"]
 duckduckgo.com##div[data-domain$="iteramos.com"]
@@ -44865,6 +44886,7 @@ duckduckgo.com##div[data-domain$="www.nuomiphp.com"]
 duckduckgo.com##div[data-domain$="www.querythreads.com"]
 duckduckgo.com##div[data-domain$="www.semicolonworld.com"]
 duckduckgo.com##div[data-domain$="www.stackfinder.ru"]
+duckduckgo.com##div[data-domain$="www.thecodeteacher.com"]
 duckduckgo.com##div[data-domain$="www.titanwolf.org"]
 duckduckgo.com##div[data-domain$="www.uebu-kaihatsu.jp.net"]
 duckduckgo.com##div[data-domain$="www.web-dev-qa-db-fr.com"]
@@ -76468,6 +76490,7 @@ startpage.com##.w-gl__result-title[href^="https://fullstackuser.com/"]:upward(.w
 startpage.com##.w-gl__result-title[href^="https://intellipaat.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://iquestion.pro/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://isolution.pro/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://issuecloser.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://itecnote.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://itectec.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://jablogs.com/"]:upward(.w-gl__result)
@@ -76559,6 +76582,7 @@ startpage.com##.w-gl__result-title[href^="https://www.nuomiphp.com/"]:upward(.w-
 startpage.com##.w-gl__result-title[href^="https://www.querythreads.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.semicolonworld.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.stackfinder.ru/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://www.thecodeteacher.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.titanwolf.org/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.w-gl__result)
@@ -84271,6 +84295,7 @@ www.ecosia.org##.result[data-url^="https://fullstackuser.com/"]
 www.ecosia.org##.result[data-url^="https://intellipaat.com/"]
 www.ecosia.org##.result[data-url^="https://iquestion.pro/"]
 www.ecosia.org##.result[data-url^="https://isolution.pro/"]
+www.ecosia.org##.result[data-url^="https://issuecloser.com/"]
 www.ecosia.org##.result[data-url^="https://itecnote.com/"]
 www.ecosia.org##.result[data-url^="https://itectec.com/"]
 www.ecosia.org##.result[data-url^="https://jablogs.com/"]
@@ -84362,6 +84387,7 @@ www.ecosia.org##.result[data-url^="https://www.nuomiphp.com/"]
 www.ecosia.org##.result[data-url^="https://www.querythreads.com/"]
 www.ecosia.org##.result[data-url^="https://www.semicolonworld.com/"]
 www.ecosia.org##.result[data-url^="https://www.stackfinder.ru/"]
+www.ecosia.org##.result[data-url^="https://www.thecodeteacher.com/"]
 www.ecosia.org##.result[data-url^="https://www.titanwolf.org/"]
 www.ecosia.org##.result[data-url^="https://www.uebu-kaihatsu.jp.net/"]
 www.ecosia.org##.result[data-url^="https://www.web-dev-qa-db-fr.com/"]
@@ -84469,6 +84495,7 @@ www.google.*##.C8nzq[href^="https://fullstackuser.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://intellipaat.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://iquestion.pro/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://isolution.pro/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://issuecloser.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://itecnote.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://itectec.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://jablogs.com/"]:upward(.xpd)
@@ -84560,6 +84587,7 @@ www.google.*##.C8nzq[href^="https://www.nuomiphp.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.querythreads.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.semicolonworld.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.stackfinder.ru/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.thecodeteacher.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.titanwolf.org/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.xpd)
@@ -84667,6 +84695,7 @@ www.google.*##.VFACy[href^="https://fullstackuser.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://intellipaat.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://iquestion.pro/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://isolution.pro/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://issuecloser.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://itecnote.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://itectec.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://jablogs.com/"]:upward(.isv-r)
@@ -84758,6 +84787,7 @@ www.google.*##.VFACy[href^="https://www.nuomiphp.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.querythreads.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.semicolonworld.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.stackfinder.ru/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://www.thecodeteacher.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.titanwolf.org/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.isv-r)
@@ -84865,6 +84895,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://fullstackuser.com/"]:upward(.aI1xUe
 www.google.*##.aI1xUe .sXtWJb[href^="https://intellipaat.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://iquestion.pro/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://isolution.pro/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://issuecloser.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://itecnote.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://itectec.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://jablogs.com/"]:upward(.aI1xUe)
@@ -84956,6 +84987,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://www.nuomiphp.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.querythreads.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.semicolonworld.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.stackfinder.ru/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.thecodeteacher.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.titanwolf.org/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.aI1xUe)
@@ -85063,6 +85095,7 @@ www.google.*##.isv-r[data-ru^="https://fullstackuser.com/"]
 www.google.*##.isv-r[data-ru^="https://intellipaat.com/"]
 www.google.*##.isv-r[data-ru^="https://iquestion.pro/"]
 www.google.*##.isv-r[data-ru^="https://isolution.pro/"]
+www.google.*##.isv-r[data-ru^="https://issuecloser.com/"]
 www.google.*##.isv-r[data-ru^="https://itecnote.com/"]
 www.google.*##.isv-r[data-ru^="https://itectec.com/"]
 www.google.*##.isv-r[data-ru^="https://jablogs.com/"]
@@ -85154,6 +85187,7 @@ www.google.*##.isv-r[data-ru^="https://www.nuomiphp.com/"]
 www.google.*##.isv-r[data-ru^="https://www.querythreads.com/"]
 www.google.*##.isv-r[data-ru^="https://www.semicolonworld.com/"]
 www.google.*##.isv-r[data-ru^="https://www.stackfinder.ru/"]
+www.google.*##.isv-r[data-ru^="https://www.thecodeteacher.com/"]
 www.google.*##.isv-r[data-ru^="https://www.titanwolf.org/"]
 www.google.*##.isv-r[data-ru^="https://www.uebu-kaihatsu.jp.net/"]
 www.google.*##.isv-r[data-ru^="https://www.web-dev-qa-db-fr.com/"]
@@ -85261,6 +85295,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://fullstackuser.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://intellipaat.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://iquestion.pro/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://isolution.pro/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://issuecloser.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://itecnote.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://itectec.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://jablogs.com/"]:upward(.xpd)
@@ -85352,6 +85387,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://www.nuomiphp.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.querythreads.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.semicolonworld.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.stackfinder.ru/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.thecodeteacher.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.titanwolf.org/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.uebu-kaihatsu.jp.net/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.web-dev-qa-db-fr.com/"]:upward(.xpd)
@@ -85459,6 +85495,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://fullstackuser.com/"]:upward(.xpdop
 www.google.*##.xpdopen .sXtWJb[href^="https://intellipaat.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://iquestion.pro/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://isolution.pro/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://issuecloser.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://itecnote.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://itectec.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://jablogs.com/"]:upward(.xpdopen)
@@ -85550,6 +85587,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://www.nuomiphp.com/"]:upward(.xpdope
 www.google.*##.xpdopen .sXtWJb[href^="https://www.querythreads.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.semicolonworld.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.stackfinder.ru/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.thecodeteacher.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.titanwolf.org/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.web-dev-qa-db-fr.com/"]:upward(.xpdopen)
