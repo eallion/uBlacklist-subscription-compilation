@@ -48,26 +48,11 @@
 https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
 ```
 
-> Git.io deprecation
-> <https://github.blog/changelog/2022-04-25-git-io-deprecation/>
-
 ~~`https://git.io/ublacklist`~~
 
 如下图所示：
 
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
-
-下面 4 个备用列表的内容一模一样，任意选择一个也可以。
-
-- GitHub 列表（大陆部分地区可能被墙或者速度慢）
-
-`https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt`  
-`https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/ublocklist.txt` # For BLM
-
-- CDN 加速列表
-
-`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`  
-`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
 #### 设置 - 一般：（选填）
 
