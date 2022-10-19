@@ -912,3 +912,4 @@ title/.* - 小.(百科 | 知识) 网/
 *://javamana.com/*  
 *://bcxiaobai.cc/*  
 *://www.365seal.com/*  
+*://www.sobyte.net/*  
