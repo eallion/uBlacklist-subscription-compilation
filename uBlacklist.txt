@@ -1,16 +1,16 @@
 
- Update weekly at 2022-10-19 20:07:07 UTC+0800
+ Update weekly at 2022-10-19 20:14:14 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Feeb
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
+! Junk
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
 # 
 # 2022.10.12
-# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 #18.141.160.82
 #45.207.61.193
 #62.234.115.194
@@ -12353,7 +12353,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*! Junk
+*://www.kafan.cn/*# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -78962,7 +78962,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/005i.com
+title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
