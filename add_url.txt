@@ -908,3 +908,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://cna.rovinstechnologies.com/*  
 *://dude6.com/*  
 *://lovelycxy.com/*  
+*://v2tn.com/*  
+*://javamana.com/*  
+*://bcxiaobai.cc/*  
+*://www.365seal.com/*  
