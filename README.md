@@ -1,7 +1,8 @@
 # uBlacklist subscription compilation
 > uBlacklist 订阅地址合集
 
-![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
+![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main) 
+[![GitHub issues](https://img.shields.io/github/issues/eallion/uBlacklist-subscription-compilation?logo=GitHub&color=4ec100&style=flat)](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
 
 这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。  
 通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。
@@ -86,9 +87,10 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 
 # 添加/删除 域名
 
-请至 [Issues](https://github.com/eallion/uBlacklist-subscription-compilation/issues) 页面提交新 [Issue](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose)。
+> 少量域名，请在自己浏览器插件的常规设置中添加即可。
 
-[![GitHub issues](https://img.shields.io/github/issues/eallion/uBlacklist-subscription-compilation?logo=GitHub&color=4ec100&style=flat)](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose)
+本仓库的初衷是收集网上的列表合并，所以不再维护单独的列表`add_url.txt`。  
+如有需求添加、删除域名，请至 [eallion/uBlacklist-Subscription](https://github.com/eallion/uBlacklist-Subscription) 提交 PR 或 Issues。  
 
 # 感谢名单：
 
@@ -99,6 +101,7 @@ Subscription:
 
 > 添加订阅源的时候，各订阅源均采用 Mit License 或无 License。如果有侵权行为，我会第一时间删除。
 
+- [https://github.com/eallion/uBlacklist-Subscription](https://github.com/eallion/uBlacklist-Subscription)
 - [https://github.com/arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation)
 - [https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
 - [https://github.com/dallaslu/penzai-list](https://github.com/dallaslu/penzai-list)
