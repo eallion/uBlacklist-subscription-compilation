@@ -907,11 +907,44 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.gongxiangyixia.com/*  
 *://cna.rovinstechnologies.com/*  
 *://dude6.com/*  
-*://lovelycxy.com/*  @*://www.zhihu.com/* 
+*://lovelycxy.com/*  
+*://v2tn.com/*  
+*://javamana.com/*  
+*://bcxiaobai.cc/*  
+*://www.365seal.com/*  
+*://www.sobyte.net/*  
+*://www.365seal.com/*  
+*://://www.7sbook.com/
+*://www.txtepub.com/*  
+*://bookzhai.com/*  
+*://aaaf.top/*  
+*://www.pdffx.com/*  
+*://www.whldl.com/*  
+*://www.shenmedaquan.com/*  
+*://www.bajiaoyingshi.com/*  
+*://www.miaook.com/*  
+*://www.yumaitie.com/*  
+*://www.ydbaike.club/*  
+*://www.1565759.com/*  
+*://www.fdf55.com/*  
+*://www.7017881.com/*  
+*://www.fdf42.com/*  
+*://www.dcep676.com/*  
+*://www.bugelun.com/*  
+*://www.8566122.com/*  
+*://www.lovekiller.cc/*  
+*://www.7117113.com/*  
+*://www.8122900.com/*  
+*://www.7200500.com/*  
+*://m.china-audit.com/*  
+*://www.djnecn.com/*  
+*://www.5722077.com/*  
+*://www.3955016.com/*  
+@*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
 @*://369369.xyz/* 
- Update weekly at 2022-10-19 19:36:32 UTC+0800
+ Update weekly at 2022-10-19 19:41:36 UTC+0800
 # 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 # 2022.10.12
 # 

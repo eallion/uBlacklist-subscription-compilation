@@ -1,5 +1,5 @@
 
- Update weekly at 2022-10-19 19:36:32 UTC+0800
+ Update weekly at 2022-10-19 19:41:36 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -10319,8 +10319,10 @@
 *://9njuj.youjuqipai.com/*  
 *://9qcaw.axy7h8.cn/*
 *://9qkx.03s70r.cn/*
+*://://www.7sbook.com/
 *://a.youhuima.cc/*
 *://a2b9d.buzz/*
+*://aaaf.top/*  
 *://aasou.cc/*
 *://ab-tc.com/*
 *://abcsou.cc/*
@@ -10398,6 +10400,7 @@
 *://bbs.zol.com.cn/*
 *://bbto.cc/*
 *://bcqaw.com/*
+*://bcxiaobai.cc/*  
 *://bebugless.com/*
 *://befedd.com/*  
 *://beingsn.cwk9.com/
@@ -10431,6 +10434,7 @@
 *://bntn888.com/*
 *://bobtiyubob.com/*
 *://book.jd.com/publish/Search?*
+*://bookzhai.com/*  
 *://boyinguanfangtouzhuwang.rongduansi.com/*
 *://bqtt.cc/*
 *://brabantwerkt.nl/*  
@@ -10821,6 +10825,7 @@
 *://janbuy.com/*  
 *://javacodeqa.cc/*
 *://javajgs.com/*  
+*://javamana.com/*  
 *://jclinicth.com/*  
 *://jdd10037.s.qswgyz.com/*
 *://jdzl.v3ng.de/*
@@ -10920,7 +10925,7 @@
 *://longjin-art.com/*
 *://looknews.cc/*
 *://loomlobe.com/*
-*://lovelycxy.com/*  @*://www.zhihu.com/* 
+*://lovelycxy.com/*  
 *://lpgit.com/*
 *://lqkweb.com/*
 *://lucobelt.com/*
@@ -10941,6 +10946,7 @@
 *://m.bxwgo.com/*  
 *://m.ccdswl.com/*
 *://m.ccidnet.com/*
+*://m.china-audit.com/*  
 *://m.cnmmv.com/*
 *://m.copyan.com/*
 *://m.daihema.com/*
@@ -11391,6 +11397,7 @@
 *://uvpp.cc/*
 *://uygn.klemundnet.de/*
 *://uzgh.glasfaser-issum.de/*
+*://v2tn.com/*  
 *://vanmay88.com/*  
 *://vbup.cc/*
 *://vcpc.cc/*
@@ -11504,6 +11511,7 @@
 *://www.114zh.com/
 *://www.12y.org/*
 *://www.1565759.com/*
+*://www.1565759.com/*  
 *://www.1577195.com/*
 *://www.1579578.com/*
 *://www.163.com/dy/article/*
@@ -11555,9 +11563,11 @@
 *://www.360mdb.com/*
 *://www.365jz.com/*
 *://www.365nettv.com/*  
+*://www.365seal.com/*  
 *://www.365shenbo.com/*
 *://www.366service.com/*
 *://www.3955015.com/*
+*://www.3955016.com/*  
 *://www.3955017.com/*
 *://www.3985022.com/*
 *://www.3990775.com/*
@@ -11597,6 +11607,7 @@
 *://www.5712001.com/*
 *://www.5712007.com/*
 *://www.5722011.com/*
+*://www.5722077.com/*  
 *://www.5722099.com/*
 *://www.58huangye.com/*
 *://www.58pjy.com/*
@@ -11619,9 +11630,12 @@
 *://www.68ah.com/*
 *://www.68csj.com/*  
 *://www.6tuba.com/*
+*://www.7017881.com/*  
 *://www.7017886.com/*
+*://www.7117113.com/*  
 *://www.7117125.com/*
 *://www.7200500.com/*
+*://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
 *://www.7511157.com/*
@@ -11648,7 +11662,9 @@
 *://www.8122700.com/*
 *://www.8122800.com/*
 *://www.8122900.com/*
+*://www.8122900.com/*  
 *://www.83889196.com/*
+*://www.8566122.com/*  
 *://www.8688news.com/*  
 *://www.86jzdd.com/*
 *://www.8712122.com/*
@@ -11743,6 +11759,7 @@
 *://www.baidu.com/sf/*
 *://www.bairun0769.com/*
 *://www.bajiaoyingshi.com/*
+*://www.bajiaoyingshi.com/*  
 *://www.ballhaus.buzz/*
 *://www.bamuyi.com/*
 *://www.bangbogl.com/*
@@ -11804,6 +11821,7 @@
 *://www.bubuzhe.com/*
 *://www.buccelli.buzz/*
 *://www.bugelun.com/*
+*://www.bugelun.com/*  
 *://www.bugzj.com/*
 *://www.bumensao.com/*  
 *://www.bunian.cn/*
@@ -11948,6 +11966,7 @@
 *://www.dayueng.cn/*
 *://www.dayupaiming.com/*
 *://www.dcep676.com/*
+*://www.dcep676.com/*  
 *://www.dcwqt.com/*
 *://www.ddhyl.cn/*
 *://www.ddooo.com/*
@@ -11968,6 +11987,7 @@
 *://www.direqx.com/*
 *://www.djcxy.com/*
 *://www.djjiuoeb.com/*
+*://www.djnecn.com/*  
 *://www.djnegroup.com/*
 *://www.djzqclub.com/*  
 *://www.dn010.com/*
@@ -12044,10 +12064,12 @@
 *://www.fdf39.com/*
 *://www.fdf40.com/*
 *://www.fdf42.com/*
+*://www.fdf42.com/*  
 *://www.fdf43.com/*
 *://www.fdf48.com/*
 *://www.fdf50.com/*
 *://www.fdf55.com/*
+*://www.fdf55.com/*  
 *://www.fdf59.com/*
 *://www.fdzbfjc.com/*
 *://www.femern-conference.com/*  
@@ -12408,6 +12430,7 @@
 *://www.loc.pp.ua/*
 *://www.lohine.com/*
 *://www.loveeducation123.com/*  
+*://www.lovekiller.cc/*  
 *://www.lowdownsires.com/*
 *://www.ltsjjx.com/
 *://www.ludonova.com/*  
@@ -12462,6 +12485,7 @@
 *://www.mhona.buzz/*  
 *://www.mi6fx.com/*
 *://www.miaook.com/*
+*://www.miaook.com/*  
 *://www.miaoshoulu.net/*
 *://www.milacms.com/*
 *://www.miliol.org/*
@@ -12570,6 +12594,7 @@
 *://www.pconline.com.cn/3g/*
 *://www.pconline.com.cn/other_pic*
 *://www.pcpc.me/*
+*://www.pdffx.com/*  
 *://www.pdsqldz.com/*
 *://www.pe0573.com/*
 *://www.peanutmidwest.com/*  
@@ -12677,6 +12702,7 @@
 *://www.shenbo299.com/*
 *://www.shengmaln.com/*  
 *://www.shenmedaquan.com/*
+*://www.shenmedaquan.com/*  
 *://www.shmx518.com/*  
 *://www.shoudian.org/*
 *://www.shouji211.com/*  
@@ -12706,6 +12732,7 @@
 *://www.smokinjoescigarettes.com/*  
 *://www.smpchome.com/*
 *://www.snepfsu-nancy-metz.net/*  
+*://www.sobyte.net/*  
 *://www.sociablelabs.com/*
 *://www.sockvalley.com/*
 *://www.sodeog.com/*
@@ -12827,6 +12854,7 @@
 *://www.twblogs.net/*
 *://www.twoeggz.com/*
 *://www.txjingyi.com/*
+*://www.txtepub.com/*  
 *://www.txtlist.top/*
 *://www.ty-phoenix.com/*  
 *://www.tybenteng.com/*  
@@ -12894,6 +12922,7 @@
 *://www.west.cn/docs/*
 *://www.westwindford.com/*
 *://www.whldl.com/*
+*://www.whldl.com/*  
 *://www.whstm.com/*
 *://www.whxdzs.com/*
 *://www.whxyjygm.com/*  
@@ -12995,6 +13024,7 @@
 *://www.ychfjs.com/*  
 *://www.yczmndxb.com/*  
 *://www.ydbaike.club/*
+*://www.ydbaike.club/*  
 *://www.yeeyi.com/*
 *://www.yfwqnjh.com/*
 *://www.ygynykj.com/*  
@@ -13041,6 +13071,7 @@
 *://www.yuhaokeji.com/*  
 *://www.yukoninfo.com/*  
 *://www.yumaitie.com/*
+*://www.yumaitie.com/*  
 *://www.yumosh.com/*  
 *://www.yunmeibeijing.com/*
 *://www.yunpanjingling.com/*
@@ -32343,6 +32374,7 @@
 @*://*.tspweb.com/*
 @*://369369.xyz/* 
 @*://sites.google.com/* 
+@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
