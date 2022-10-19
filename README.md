@@ -24,6 +24,8 @@
 - [Ecosia](https://www.ecosia.org/)
 - [Qwant](https://www.qwant.com/)
 - [Startpage](https://www.startpage.com/)
+- [Yahoo! JAPAN](https://www.yahoo.co.jp/)
+- [Yandex](https://yandex.com/)
 
 # 用法：
 
