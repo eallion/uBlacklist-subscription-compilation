@@ -1,5 +1,4 @@
 
- Update weekly at 2022-10-19 20:14:14 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -11,6 +10,7 @@
 ! Title: uBlacklist Stack Overflow Translation
 # 
 # 2022.10.12
+# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 #18.141.160.82
 #45.207.61.193
 #62.234.115.194
@@ -2656,6 +2656,7 @@
 *://*.cqzcds.com/*
 *://*.cqzxi9f.cn/*
 *://*.crackorg.com/*
+*://*.craffts.com/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
 *://*.creationwh.com/*
@@ -2961,6 +2962,7 @@
 *://*.didibeile.com/*
 *://*.didong100.com/*
 *://*.differentsplit.com/*
+*://*.digidash.in/*
 *://*.digital-mouse.buzz/*
 *://*.digital-transfers.buzz/*
 *://*.digitallsd.com/*
@@ -4372,6 +4374,7 @@
 *://*.howietech.com/*
 *://*.howsou.com/*
 *://*.howtoip.com/*
+*://*.howtopapa.com/*
 *://*.hozz.cn/*
 *://*.hpapt.cn/*
 *://*.hpecopu.cn/*
@@ -5565,6 +5568,7 @@
 *://*.liuhuohuyu.com/*
 *://*.liuhyshow.com/*
 *://*.liuliangtopp.com/*
+*://*.liupan.org/*
 *://*.liuyusem.com/*
 *://*.live1234.com.cn/*
 *://*.livebroadcast.cn/*
@@ -5939,6 +5943,7 @@
 *://*.mh33.cn/*
 *://*.mh4u.org/*
 *://*.mh96.cn/*
+*://*.mhaohuo.com/*
 *://*.mhk5rkt.cn/*
 *://*.mhona.buzz/*
 *://*.mhradio.org/*
@@ -6341,6 +6346,7 @@
 *://*.no54hagleyroad.buzz/*
 *://*.nodep2p.com/*
 *://*.noiseofmax.net/*
+*://*.nokibar.com/*
 *://*.nomurlar.com/*
 *://*.nong.09086.cn/*
 *://*.nonglidqw.com/*
@@ -6493,6 +6499,7 @@
 *://*.oneworld99.com/*
 *://*.ongetpi.cn/*
 *://*.onisep.fr/*
+*://*.onitroad.com/*
 *://*.onitwh.cn/*
 *://*.online-green.buzz/*
 *://*.onlineschoolsmontana.com/*
@@ -6859,6 +6866,7 @@
 *://*.pyn9.com/*
 *://*.python88.com/*
 *://*.pythonmana.com/*
+*://*.pythontechworld.com/*
 *://*.pythonwd.com/*
 *://*.pzdyj.com/*
 *://*.pzft.xekjn.top/*
@@ -7671,6 +7679,7 @@
 *://*.sinoma-yzhgs.cn/*
 *://*.sipotech.com/*
 *://*.sirdesmonddesilvaqc.com/*
+*://*.sirhow.com/*
 *://*.sitehonor.com/*
 *://*.sitenb.com/*
 *://*.sitevalue.net/*
@@ -8518,6 +8527,7 @@
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
 *://*.ulkhmiim.cn/*
+*://*.ultimate-communications.com/*
 *://*.ultraiso.net/*
 *://*.umd5eld.cn/*
 *://*.umonmall.com/*
@@ -8817,6 +8827,7 @@
 *://*.webfootmedia.buzz/*
 *://*.webholland.buzz/*
 *://*.weblanguage.cn/*
+*://*.weblihost.com/*
 *://*.weblogographic.com/*
 *://*.webplus.org.cn/*
 *://*.webrobb.buzz/*
@@ -8831,6 +8842,7 @@
 *://*.wefunwe.com/*
 *://*.weiaizu.com/*
 *://*.weibaoju.com/*
+*://*.weibo.com/a/hot/*
 *://*.weibo5i.com/*
 *://*.weiboroom.com/*
 *://*.weida9.com/*
@@ -9604,6 +9616,7 @@
 *://*.yinyan.org/*
 *://*.yinyids.com/*
 *://*.yinzaoan.cn/*
+*://*.yinzdian.com/*
 *://*.yiper.cn/*
 *://*.yipinkirin.com/*
 *://*.yipinrong.com/*
@@ -10028,7 +10041,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://www.sejuku.net/*
+*://*.zhzzx.com/* Update weekly at 2022-10-22 22:11:52 UTC+0800
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -12014,7 +12027,6 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -12353,7 +12365,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
+*://www.kafan.cn/**://www.e-learn.cn/*  
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -12686,6 +12698,7 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
+*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -78962,7 +78975,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
+title/.* - 小.(百科|知识)网$/*://*.voidcc.com/*
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
