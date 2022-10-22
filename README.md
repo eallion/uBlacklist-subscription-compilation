@@ -21,6 +21,7 @@
 支持的搜索引擎：（由 uBlacklist 插件决定）
 - [Google](https://www.google.com/ncr?gws_rd=ssl)
 - [Bing](https://www.bing.com/)
+- [Brave](https://search.brave.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
 - [Qwant](https://www.qwant.com/)
@@ -31,32 +32,38 @@
 # 用法：
 
 ### 一、下载 uBlacklist 浏览器插件：
-- Chrome： <https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
-- Firefox： <https://addons.mozilla.org/en-US/firefox/addon/ublacklist/>
-- Edge：<https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
-- Safari (macOS / iOS)：<https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640>
+- Chrome: <https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
+- Firefox: <https://addons.mozilla.org/en-US/firefox/addon/ublacklist/>
+- Edge:<https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
+- Safari (macOS / iOS):<https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640>
 
 ### 二、设置插件
 
-#### 设置 - 订阅：
+#### 1. 设置 - 订阅：
 
 > 订阅黑名单列表：
 
-添加订阅：（git.io 短链接已弃用）
+添加订阅：
+
+- `https://git.io/ublacklist`  
+
+<details>
+    <summary> <code>完整链接</code> </summary>
 
 ```
 https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
 ```
 
-~~`https://git.io/ublacklist`~~
+</details>
 
-如下图所示：
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
+如下图所示：（先点`添加订阅`）
 
-#### 设置 - 一般：（选填）
+![](tools/x2yWi62OWl.png)
 
->以下网站将不会显示在 Google 的搜索结果中：
+#### 2. 设置 - 常规：（选填）
+
+> 在谷歌的搜索结果中将不会显示以下网站：
 
 ```
 *://*/so.php
@@ -68,7 +75,7 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 ```
 如图：
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/PKO0JoJBpU.png)
+![](tools/PKO0JoJBpU.png)
 
 # 添加/删除 域名
 
