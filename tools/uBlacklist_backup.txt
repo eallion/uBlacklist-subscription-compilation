@@ -1,4 +1,4 @@
- Update weekly at 2023-02-08 01:14:00 UTC+0800
+ Update weekly at 2023-02-08 01:47:08 UTC+0800
 *://code-examples.net/*
 *://answer-id.com/*
 *://de-vraag.com/*
@@ -59759,7 +59759,11 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.62042.com/*
 *://www.fengnayun.com/*
 *://www.mk2048.com/*
-00000258.com
+*://www.yanlutong.com/*
+*://www.dealmoon.com/*
+*://www.xbfhb.com/*
+*://www.ngui.cc/*
+*://www.leniuwang.com/*00000258.com
 0001113.com
 0001403.cn
 000222msc.com

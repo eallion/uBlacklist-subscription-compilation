@@ -1,5 +1,5 @@
 
- Update weekly at 2023-02-08 01:14:00 UTC+0800
+ Update weekly at 2023-02-08 01:47:08 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -12364,6 +12364,7 @@
 *://www.ddooo.com/*
 *://www.ddpei.com/*
 *://www.ddvweb.com/*
+*://www.dealmoon.com/*
 *://www.debug8.com/*
 *://www.debugcn.com/*
 *://www.debugko.com/*
@@ -12795,6 +12796,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
+*://www.leniuwang.com/*00000258.com
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
@@ -12935,6 +12937,7 @@
 *://www.newsenn.com/*  
 *://www.newton.com.tw/*
 *://www.newwaylight.net/
+*://www.ngui.cc/*
 *://www.nianqingxt.com/*  
 *://www.nikedunkslow2011.com/*  
 *://www.ninadz.com/*
@@ -13361,6 +13364,7 @@
 *://www.xagtfqw.com/*
 *://www.xameiwo.com/*  
 *://www.xangc.com/*  
+*://www.xbfhb.com/*
 *://www.xddv.com/*
 *://www.xfamtv.buzz/*
 *://www.xfzx365.com/*  
@@ -13414,6 +13418,7 @@
 *://www.y5.hk/*
 *://www.ya-abalfazl.com/*  
 *://www.yanirsan.buzz/*  
+*://www.yanlutong.com/*
 *://www.yaxuntx.com/*
 *://www.ybcnjy.com/*
 *://www.yccp85.com/*
@@ -20849,7 +20854,6 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
-00000258.com
 0001113.com
 0001403.cn
 000222msc.com
