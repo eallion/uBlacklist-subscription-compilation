@@ -2,28 +2,27 @@ name: Update uBlacklist subcription weekly
 
 on:
   schedule:
-    - cron: 0 0 * * 0
+    - cron: "0 0 * * 0"
   push:
     branches: [ main ]
     
-  watch:
-    types: started
+  workflow_dispatch:
 
 jobs:
 
   build:
     name: Build
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id
+    #if: github.event.repository.owner.id == github.event.sender.id
     steps:
 
-    - name: Set up Go 1.x
-      uses: actions/setup-go@v2
+    - name: Set up Go
+      uses: actions/setup-go@v3
       with:
-        go-version: 1.15
+        go-version: '>=1.17.0'
 
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         fetch-depth: 1
 
