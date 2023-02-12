@@ -1,5 +1,5 @@
 
- Update weekly at 2023-02-08 13:35:17 UTC+0800
+ Update weekly at 2023-02-12 08:38:54 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -10918,6 +10918,7 @@
 *://contact-who-called.com/*
 *://contactnumbers.buzz/*
 *://copyfuture.com/*
+*://copyprogramming.com/*
 *://cp0753.com/*  
 *://cproda.com/*
 *://cqaodesai.com/*  
@@ -40978,6 +40979,7 @@ cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codeguides.site/"]:up
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coder.gay/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coderoad.ru/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codeutility.org/"]:upward(.b_algo)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://copyprogramming.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://de-vraag.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://devfixes.com/"]:upward(.b_algo)
 cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://digitrain.ru/"]:upward(.b_algo)
@@ -41100,6 +41102,7 @@ cn.bing.com,www.bing.com##.inflnk[href^="https://codeguides.site/"]:upward(.dgCo
 cn.bing.com,www.bing.com##.inflnk[href^="https://coder.gay/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://coderoad.ru/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://codeutility.org/"]:upward(.dgControl_list > li)
+cn.bing.com,www.bing.com##.inflnk[href^="https://copyprogramming.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://de-vraag.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://devfixes.com/"]:upward(.dgControl_list > li)
 cn.bing.com,www.bing.com##.inflnk[href^="https://digitrain.ru/"]:upward(.dgControl_list > li)
@@ -45048,6 +45051,7 @@ duckduckgo.com##.tile--img__sub[href^="https://codeguides.site/"]:upward(.tile--
 duckduckgo.com##.tile--img__sub[href^="https://coder.gay/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://coderoad.ru/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://codeutility.org/"]:upward(.tile--img)
+duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://de-vraag.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://devfixes.com/"]:upward(.tile--img)
 duckduckgo.com##.tile--img__sub[href^="https://digitrain.ru/"]:upward(.tile--img)
@@ -45178,6 +45182,7 @@ duckduckgo.com##div[data-domain$="codeguides.site"]
 duckduckgo.com##div[data-domain$="coder.gay"]
 duckduckgo.com##div[data-domain$="coderoad.ru"]
 duckduckgo.com##div[data-domain$="codeutility.org"]
+duckduckgo.com##div[data-domain$="copyprogramming.com"]
 duckduckgo.com##div[data-domain$="daplus.net"]
 duckduckgo.com##div[data-domain$="de-vraag.com"]
 duckduckgo.com##div[data-domain$="developreference.com"]
@@ -76867,6 +76872,7 @@ startpage.com##.w-gl__result-title[href^="https://codeguides.site/"]:upward(.w-g
 startpage.com##.w-gl__result-title[href^="https://coder.gay/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://coderoad.ru/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://codeutility.org/"]:upward(.w-gl__result)
+startpage.com##.w-gl__result-title[href^="https://copyprogramming.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://de-vraag.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://devfixes.com/"]:upward(.w-gl__result)
 startpage.com##.w-gl__result-title[href^="https://digitrain.ru/"]:upward(.w-gl__result)
@@ -84638,6 +84644,7 @@ www.ecosia.org##.result[data-url^="https://codeguides.site/"]
 www.ecosia.org##.result[data-url^="https://coder.gay/"]
 www.ecosia.org##.result[data-url^="https://coderoad.ru/"]
 www.ecosia.org##.result[data-url^="https://codeutility.org/"]
+www.ecosia.org##.result[data-url^="https://copyprogramming.com/"]
 www.ecosia.org##.result[data-url^="https://de-vraag.com/"]
 www.ecosia.org##.result[data-url^="https://devfixes.com/"]
 www.ecosia.org##.result[data-url^="https://digitrain.ru/"]
@@ -84801,6 +84808,7 @@ www.google.*##.C8nzq[href^="https://codeguides.site/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://coder.gay/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://coderoad.ru/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codeutility.org/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://copyprogramming.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://de-vraag.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://devfixes.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://digitrain.ru/"]:upward(.xpd)
@@ -84964,6 +84972,7 @@ www.google.*##.VFACy[href^="https://codeguides.site/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://coder.gay/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://coderoad.ru/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://codeutility.org/"]:upward(.isv-r)
+www.google.*##.VFACy[href^="https://copyprogramming.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://de-vraag.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://devfixes.com/"]:upward(.isv-r)
 www.google.*##.VFACy[href^="https://digitrain.ru/"]:upward(.isv-r)
@@ -85127,6 +85136,7 @@ www.google.*##.aI1xUe .sXtWJb[href^="https://codeguides.site/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://coder.gay/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://coderoad.ru/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://codeutility.org/"]:upward(.aI1xUe)
+www.google.*##.aI1xUe .sXtWJb[href^="https://copyprogramming.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://de-vraag.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://devfixes.com/"]:upward(.aI1xUe)
 www.google.*##.aI1xUe .sXtWJb[href^="https://digitrain.ru/"]:upward(.aI1xUe)
@@ -85290,6 +85300,7 @@ www.google.*##.isv-r[data-ru^="https://codeguides.site/"]
 www.google.*##.isv-r[data-ru^="https://coder.gay/"]
 www.google.*##.isv-r[data-ru^="https://coderoad.ru/"]
 www.google.*##.isv-r[data-ru^="https://codeutility.org/"]
+www.google.*##.isv-r[data-ru^="https://copyprogramming.com/"]
 www.google.*##.isv-r[data-ru^="https://de-vraag.com/"]
 www.google.*##.isv-r[data-ru^="https://devfixes.com/"]
 www.google.*##.isv-r[data-ru^="https://digitrain.ru/"]
@@ -85453,6 +85464,7 @@ www.google.*##.kCrYT > a[href^="/url?q=https://codeguides.site/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://coder.gay/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://coderoad.ru/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://codeutility.org/"]:upward(.xpd)
+www.google.*##.kCrYT > a[href^="/url?q=https://copyprogramming.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://de-vraag.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://devfixes.com/"]:upward(.xpd)
 www.google.*##.kCrYT > a[href^="/url?q=https://digitrain.ru/"]:upward(.xpd)
@@ -85616,6 +85628,7 @@ www.google.*##.xpdopen .sXtWJb[href^="https://codeguides.site/"]:upward(.xpdopen
 www.google.*##.xpdopen .sXtWJb[href^="https://coder.gay/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://coderoad.ru/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://codeutility.org/"]:upward(.xpdopen)
+www.google.*##.xpdopen .sXtWJb[href^="https://copyprogramming.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://de-vraag.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://devfixes.com/"]:upward(.xpdopen)
 www.google.*##.xpdopen .sXtWJb[href^="https://digitrain.ru/"]:upward(.xpdopen)

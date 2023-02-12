@@ -1,4 +1,4 @@
- Update weekly at 2023-02-08 13:35:17 UTC+0800
+ Update weekly at 2023-02-12 08:38:54 UTC+0800
 *://code-examples.net/*
 *://answer-id.com/*
 *://de-vraag.com/*
@@ -162,6 +162,7 @@
 *://*.waymanamechurch.org/*
 *://*.ntcdoon.org/*
 *://*.code2s.com/*
+*://copyprogramming.com/*
 [uBlock Origin]
 ! Title: uBlacklist Stack Overflow Translation
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -2125,6 +2126,18 @@ www.google.*##.isv-r[data-ru*="code2s.com/"]
 www.google.*##.VFACy[href*="code2s.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="code2s.com"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="code2s.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://copyprogramming.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://copyprogramming.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://copyprogramming.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://copyprogramming.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://copyprogramming.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="copyprogramming.com"]
+www.ecosia.org##.result[data-url^="https://copyprogramming.com/"]
+startpage.com##.w-gl__result-title[href^="https://copyprogramming.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://copyprogramming.com/"]
+www.google.*##.VFACy[href^="https://copyprogramming.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://copyprogramming.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.tile--img)
 *://www.sejuku.net/*
 *://*.stackoverrun.com/*
 *://*.stackovernet.com/*
