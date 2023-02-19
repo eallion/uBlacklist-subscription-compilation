@@ -1,5 +1,5 @@
 
- Update weekly at 2023-02-12 08:38:54 UTC+0800
+ Update weekly at 2023-02-19 08:36:57 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -9,8 +9,8 @@
 ! Junk
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
-# 
-# 2023.2.3
+# 2023.2.14
+# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
 #18.141.160.82
 #45.207.61.193
 #62.234.115.194
@@ -343,7 +343,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://ksou.cc/*
+*://*.17bigdata.com/**://www.4k8k.xyz/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -1511,7 +1511,9 @@
 *://*.adventure-out.buzz/*
 *://*.adventures-of.buzz/*
 *://*.advertisement4you.buzz/*
+*://*.advqlop.xyz/*
 *://*.adwithaglobal.com/*
+*://*.adzjtvo.xyz/*
 *://*.adzna.com/*
 *://*.aecbl.com/*
 *://*.aeg6.com/*
@@ -1646,6 +1648,7 @@
 *://*.altapps.net/*
 *://*.altierisauto.buzz/*
 *://*.amalur-madretierra.es/*
+*://*.amazon.com/*
 *://*.ambkct.com/*
 *://*.ameliapharm.com/*
 *://*.amerbiz.com/*
@@ -1798,6 +1801,7 @@
 *://*.asp.cx/*
 *://*.aspermont.com/*
 *://*.assiette.pl/*
+*://*.assignmenter.com/*
 *://*.asspunk.iteye.com/*
 *://*.assurancesmeilleur.buzz/*
 *://*.asylan.com/*
@@ -2230,6 +2234,7 @@
 *://*.brlbarel.com/*
 *://*.broadas.com/*
 *://*.brooklyncandlestudio.world/*
+*://*.brown.edu/*
 *://*.browse-us.buzz/*
 *://*.brunetvip.com/*
 *://*.brwhn.com/*
@@ -2382,6 +2387,7 @@
 *://*.ccmp365.com/*
 *://*.ccpaisen.com/*
 *://*.ccqczzy.com/*
+*://*.ccqieda.xyz/*
 *://*.ccruihe.com/*
 *://*.ccsearch.cc/*
 *://*.cctgou.com/*
@@ -2886,6 +2892,7 @@
 *://*.daimaqa.com/*
 *://*.daimazxw.com/*
 *://*.dainifei.info/*
+*://*.daixieessay.com/*
 *://*.daiyun787.cn/*
 *://*.daizhiduo.com/*
 *://*.dajobrinkman.net/*
@@ -3172,6 +3179,7 @@
 *://*.dubaipga.buzz/*
 *://*.dublinpages.buzz/*
 *://*.duboot.com/*
+*://*.duewriting.com/*
 *://*.duhuimall.com/*
 *://*.duield.cn/*
 *://*.dumoba.com/*
@@ -3181,6 +3189,7 @@
 *://*.duoduohelp.com/*
 *://*.duonao.cc/*
 *://*.duosf.org.cn/*
+*://*.duotin.com/*
 *://*.duqingming.com/*
 *://*.durenzhe.com/*
 *://*.dushi0375.com/*
@@ -3221,6 +3230,7 @@
 *://*.dz2wqy1.cn/*
 *://*.dz69.cn/*
 *://*.dzblbl.com/*
+*://*.dzebruu.xyz/*
 *://*.dzfalan.com/*
 *://*.dzgjy.com/*
 *://*.dzhlt.com/*
@@ -3252,6 +3262,7 @@
 *://*.eastmay.cn/*
 *://*.eastonhotel.cn/*
 *://*.eastwoodpaper.buzz/*
+*://*.eastwriting.com/*
 *://*.easyfootage.com/*
 *://*.easyrecoverychina.com/*
 *://*.easyzc.com/*
@@ -3973,7 +3984,6 @@
 *://*.gongyiluntan.org/*
 *://*.goodsucai.com/*
 *://*.goodvfx.com/*
-*://*.google.com/*
 *://*.googleui.com/*
 *://*.googqi.com/*
 *://*.goojie.eu/*
@@ -4277,6 +4287,7 @@
 *://*.hdjmoney.com/*
 *://*.hdnkm.com/*
 *://*.hdnvjxm.cn/*
+*://*.hdpjeez.xyz/*
 *://*.hdpomok.cn/*
 *://*.hdqqqfqpjb.com/*
 *://*.hdtmuh7.cn/*
@@ -4990,6 +5001,7 @@
 *://*.jfecgqy.cn/*
 *://*.jggc.net.cn/*
 *://*.jgherxll.cn/*
+*://*.jgoujrq.xyz/*
 *://*.jgwzfe.cn/*
 *://*.jhcczs.com/*
 *://*.jhdihao.com/*
@@ -5480,6 +5492,7 @@
 *://*.kqsbu.cn/*
 *://*.kqstop.com/*
 *://*.kqunion.com/*
+*://*.krguhyg.xyz/*
 *://*.ks316.cn/*
 *://*.ks745.com/*
 *://*.ksctec.com/*
@@ -5767,6 +5780,7 @@
 *://*.lkr8.cn/*
 *://*.lksds20.cn/*
 *://*.lksmaae.cn/*
+*://*.lkucrbp.xyz/*
 *://*.ll138.com/*
 *://*.lldn.net/*
 *://*.llibertatidemocracia.buzz/*
@@ -6212,6 +6226,7 @@
 *://*.moaera.com/*
 *://*.mobile2day.com/*
 *://*.mobilephoneslive.com/*
+*://*.mobilite-mobiliteit.brussels/*
 *://*.modb.pro/*
 *://*.modelosquetarojas.buzz/*
 *://*.modoaydinlatma.buzz/*
@@ -6348,6 +6363,7 @@
 *://*.mycodeweb.com/*
 *://*.myd188.com/*
 *://*.mygolfsky.com/*
+*://*.mygovid.gov.au/*
 *://*.mygrandma.com/*
 *://*.myhaikou.cn/*
 *://*.myifreinds.buzz/*
@@ -6490,6 +6506,7 @@
 *://*.ngoisaotinhyeu.buzz/*
 *://*.nhcj3d.cn/*
 *://*.nhcondorental.buzz/*
+*://*.nhgcbbq.xyz/*
 *://*.nhhhn.com/*
 *://*.nhm.org/*
 *://*.nhq8.cn/*
@@ -6622,6 +6639,7 @@
 *://*.nv4sat.cn/*
 *://*.nvohcio.cn/*
 *://*.nvotent.cn/*
+*://*.nweon.com/*
 *://*.nwuja.com/*
 *://*.nwzx.cc/*
 *://*.nxk3.com/*
@@ -6773,6 +6791,7 @@
 *://*.otcrong.com/*
 *://*.otrjobmatch.com/*
 *://*.otu80jn.cn/*
+*://*.oudcxix.xyz/*
 *://*.oudebaosw.com/*
 *://*.ouiot.com/*
 *://*.ouliandianqi.cn/*
@@ -6803,6 +6822,7 @@
 *://*.ozbmo7x.cn/*
 *://*.ozmdfmi.cn/*
 *://*.ozonecoffee.co.uk/*
+*://*.ozwlisp.xyz/*
 *://*.p0ad45w.cn/*
 *://*.p1egwag.cn/*
 *://*.p1s08k7.cn/*
@@ -7609,6 +7629,7 @@
 *://*.rx8etvg.cn/*
 *://*.rx8n277.cn/*
 *://*.rxadderall.com/*
+*://*.rxfdzcu.xyz/*
 *://*.rxh8.cn/*
 *://*.rxjh1.com/*
 *://*.rxpdxbp.cn/*
@@ -7908,9 +7929,11 @@
 *://*.shoucangzx.com/*
 *://*.shouji211.com/*
 *://*.shoujifbb.com/*
+*://*.shoujishu.com/*
 *://*.shoulu6.com/*
 *://*.shoushu5551.cn/*
 *://*.show8d.com/*
+*://*.showmetech.com.br/*
 *://*.shrinktunnel.cn/*
 *://*.shrmwl.com/*
 *://*.shronghong.com/*
@@ -8869,6 +8892,7 @@
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
 *://*.ultraiso.net/*
+*://*.umcsn.com/*
 *://*.umd5eld.cn/*
 *://*.umonmall.com/*
 *://*.umrhyqo.cn/*
@@ -8939,6 +8963,7 @@
 *://*.v1ex.com/*
 *://*.v28x0f0.cn/*
 *://*.v2athyh.cn/*
+*://*.v2ex.com/amp/*
 *://*.v4my0o4.cn/*
 *://*.v58ehd.cn/*
 *://*.v5v0.cn/*
@@ -9139,6 +9164,7 @@
 *://*.wangzhisai.com/*
 *://*.wanlansoft.cn/*
 *://*.wanniya.com/*
+*://*.wanshifu.com/*
 *://*.wantsad.com/*
 *://*.wantubizhi.com/*
 *://*.wanxi520.com/*
@@ -9384,6 +9410,7 @@
 *://*.wopsgh.cn/*
 *://*.wordford.com/*
 *://*.wordpress.com/*
+*://*.workessay.com/*
 *://*.workhard.guru/*
 *://*.worldphim.com/*
 *://*.worldseries13.buzz/*
@@ -10028,6 +10055,7 @@
 *://*.ylhx61.com/*
 *://*.ylilai.com/*
 *://*.ylingou.com/*
+*://*.ylmvawp.xyz/*
 *://*.ylqxx.com/*
 *://*.ylssys.com/*
 *://*.ylutong.cn/*
@@ -10348,6 +10376,7 @@
 *://*.zhaozhuji.com/*
 *://*.zhcw77.com/*
 *://*.zhcwq.cn/*
+*://*.zhdigpi.xyz/*
 *://*.zhe186.com/*
 *://*.zhe365.net/*
 *://*.zhejugou.com/*
@@ -10421,7 +10450,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://www.coder.work/article/*
+*://*.zhzzx.com/**://www.e-learn.cn/*  
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -10450,6 +10479,7 @@
 *://*.zjdsjj.com/*
 *://*.zjgcq.com/*
 *://*.zjglaike.com/*
+*://*.zjhizbd.xyz/*
 *://*.zjhzmj.com/*
 *://*.zjhzyt.com/*
 *://*.zjjbjjtq.com/*
@@ -10817,6 +10847,7 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -11285,6 +11316,7 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
+*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaichuanyun.net/*
@@ -12296,6 +12328,7 @@
 *://www.codenong.com/*
 *://www.codeprj.com/*
 *://www.coder.work/*
+*://www.coder.work/article/*
 *://www.codetd.com/*
 *://www.colabug.com/*
 *://www.come2vc886.com/*
@@ -12408,7 +12441,6 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -12746,7 +12778,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*# 自用规则，纯人工收集记录，除垃圾网站外，也包含正常网站，比如：*://*.z.baidu.com/*，请注意
+*://www.kafan.cn/**://*.001553.cn/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -12797,7 +12829,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
-*://www.leniuwang.com/*00000258.com
+*://www.leniuwang.com/**://code-examples.net/*
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
@@ -20855,6 +20887,7 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -79347,7 +79380,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://blog.csdn.net/*
+title/.* - 小.(百科|知识)网$/*://*.voidcc.com/*
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
@@ -79360,7 +79393,7 @@ title/.*【点击一次就可以出国】/
 title/.*一键访问国外网站/
 title/.*有限公司官网/
 title/.*点击一次就可以出国/
-title/^.*(推荐|注册网|手输网|输入|2000|ek520|seetv|ezk888|xiaobi|3233|bb8808).*/
+title/^.*(推荐|推广|注册网|手输网|输入|ek520|seetv|ezk888|xiaobi|3233|bb8808|liuhenvip|✔️).*/
 title/^.*[ ]-[ ]小.(百科|知识)网$/
 title/^小.(百科|知识)网$/
 title/小.(百科 | 知识) 网/
