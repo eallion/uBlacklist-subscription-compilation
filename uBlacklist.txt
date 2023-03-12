@@ -1,12 +1,11 @@
 
- Update weekly at 2023-03-05 08:41:00 UTC+0800
+ Update weekly at 2023-03-12 08:37:42 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Feeb
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
-! Junk
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
 # 2023.2.14
@@ -45,7 +44,6 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
-*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -343,7 +341,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.4k8k.xyz/*
+*://*.17bigdata.com/**://www.xspdf.com/resolution/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -10446,7 +10444,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://www.e-learn.cn/*  
+*://*.zhzzx.com/**://*.voidcc.com/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -12423,6 +12421,7 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
+*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -12757,7 +12756,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*.001553.cn/*
+*://www.kafan.cn/**://*.021east.com/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -12808,7 +12807,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
-*://www.leniuwang.com/**://code-examples.net/*
+*://www.leniuwang.com/**://www.sejuku.net/*
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
@@ -13095,7 +13094,6 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
-*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -13412,7 +13410,6 @@
 *://www.xshop580.com/*  
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
-*://www.xspdf.com/resolution/*
 *://www.xtfeed.cn/*
 *://www.xthfyy.com/*  
 *://www.xtoolsoft.com/*
@@ -79232,7 +79229,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://*.voidcc.com/*
+title/.* - 小.(百科|知识)网$/! Junk
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
