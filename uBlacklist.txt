@@ -1,11 +1,12 @@
 
- Update weekly at 2023-03-12 08:37:42 UTC+0800
+ Update weekly at 2023-03-19 08:38:46 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Feeb
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
+! Junk
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
 # 2023.2.14
@@ -244,6 +245,7 @@
 *://*.10ew.com/*
 *://*.10fbbs.com/*
 *://*.10hrz79.cn/*
+*://*.10jqka.com.cn/*
 *://*.10kedou.com/*
 *://*.10p18o.cn/*
 *://*.10tsdg4.cn/*
@@ -3131,6 +3133,7 @@
 *://*.dormgoodies.buzz/*
 *://*.doufuuii.com/*
 *://*.dounaite.com/*
+*://*.douyin.com/zhuanti/*
 *://*.douyinluansha.cn/*
 *://*.dovov.com/*
 *://*.down.tech.sina.com.cn/*
@@ -3648,6 +3651,7 @@
 *://*.fnsharp.com/*
 *://*.fofa.so/*
 *://*.folxchina.cn/*
+*://*.fonedog.com/*
 *://*.fonelab.com/*
 *://*.food-week.ru/*
 *://*.foodinthebox.com/*
@@ -4126,6 +4130,7 @@
 *://*.gzhecha.com/*
 *://*.gzhlqy.com/*
 *://*.gzhsqs.com/*
+*://*.gzhttp.com/*
 *://*.gzhysh.com/*
 *://*.gzjpls.com/*
 *://*.gzjtxf666.com/*
@@ -7266,6 +7271,7 @@
 *://*.qingshi8.cn/*
 *://*.qingyunl.com/*
 *://*.qinianqing.com/*
+*://*.qiniu.com/qfans/*
 *://*.qioa.pw/*
 *://*.qiongbaba.net/*
 *://*.qiongling.com/*
@@ -8510,6 +8516,7 @@
 *://*.tenglangvpn.com/*
 *://*.tengxinzs.com/*
 *://*.tenjiao.net/*
+*://*.tenorshare.cn/*
 *://*.tenorshare.com/*
 *://*.termicasolar.net/*
 *://*.test.jwxlschool.com/*
@@ -9096,6 +9103,7 @@
 *://*.vqtddz.cn/*
 *://*.vsb08zc.cn/*
 *://*.vsbuys.com/*
+*://*.vsdiffer.com/*
 *://*.vsgood.com/*
 *://*.vtiorio.com/*
 *://*.vtoyq.com/*
@@ -10444,7 +10452,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://*.voidcc.com/*
+*://*.zhzzx.com/*00000258.com
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zidao.baidu.com/*
@@ -12756,7 +12764,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*.021east.com/*
+*://www.kafan.cn/*https://www.itranslater.com/qa/details/2325844172554634240
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -12807,7 +12815,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
-*://www.leniuwang.com/**://www.sejuku.net/*
+*://www.leniuwang.com/**://*.021east.com/*
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
@@ -13094,6 +13102,7 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
+*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -20861,7 +20870,6 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
-00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -54432,7 +54440,6 @@ htszlt.com
 htt555.com
 https://huifu.wondershare.cn/repair/*
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
-https://www.itranslater.com/qa/details/2325844172554634240
 httpso.cn
 httpy.net
 httvd88.cn
@@ -79229,7 +79236,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/! Junk
+title/.* - 小.(百科|知识)网$/*://*.001553.cn/*
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
