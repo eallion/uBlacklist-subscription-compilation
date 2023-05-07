@@ -126439,6 +126439,7 @@ title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
 *://*.4hou.com/posts/*
 *://*.4meahc.com/*
 *://*.51cto.com/topic/*
+*://*.51offer.com/*
 *://*.51xuexiaoyi.com/*
 *://*.521cc.com/*
 *://*.52sbl.cn/*
@@ -126461,6 +126462,7 @@ title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
 *://*.actualidadiphone.com/*
 *://*.aes-chile.cl/*
 *://*.aesml.com/*
+*://*.aifengbei.com/*
 *://*.aimizn.com/*
 *://*.aiseesoft.com/*
 *://*.aishuaijiao.com/*
@@ -126808,6 +126810,7 @@ title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
 *://*.sefyc.com/*
 *://*.shejiben.com/*
 *://*.shenmedaquan.com/*
+*://*.shihuishuo.com/*
 *://*.shluqu.cn/*
 *://*.shoujishu.com/*
 *://*.showmetech.com.br/*
@@ -126894,6 +126897,7 @@ title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
 *://*.vlexpert.com/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
+*://*.volcengine.com/theme/*
 *://*.volvootofinans.com/*
 *://*.vouchercodes.co.uk/*
 *://*.vpn5best.com/*
@@ -127819,6 +127823,7 @@ title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
 /.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
 /^https?\:\/\/.*?\/list\?q=[a-zA-Z%0-9]*$/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+@*://*.aws.amazon.com/*
 @*://*.tspweb.com/*
 https://huifu.wondershare.cn/repair/*
 title/.*Q微同号/
@@ -131437,4 +131442,4 @@ www.huaweicloud.com/theme
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
- Update weekly at 2023-04-30 08:36:11 UTC+0800
+ Update weekly at 2023-05-07 08:34:21 UTC+0800

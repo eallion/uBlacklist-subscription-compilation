@@ -1,5 +1,5 @@
 
- Update weekly at 2023-04-30 08:36:11 UTC+0800
+ Update weekly at 2023-05-07 08:34:21 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -868,6 +868,7 @@
 *://*.51dongshi.com/*
 *://*.51gole.com/*
 *://*.51huanzu.com/*
+*://*.51offer.com/*
 *://*.51p1.com/*
 *://*.51qkk.com/*
 *://*.51qutuanjian.com/*
@@ -1561,6 +1562,7 @@
 *://*.aichi-kasugai.buzz/*
 *://*.aidehouse.com/*
 *://*.aier0917.com/*
+*://*.aifengbei.com/*
 *://*.aiguojx.cn/*
 *://*.aihejin.com/*
 *://*.aijda3.me/*
@@ -7903,6 +7905,7 @@
 *://*.shiai4444.com/*
 *://*.shichenghb.com/*
 *://*.shifangwusheng.com/*
+*://*.shihuishuo.com/*
 *://*.shijiaxiang.cn/*
 *://*.shikin-support.buzz/*
 *://*.shimaozs.com/*
@@ -9084,6 +9087,7 @@
 *://*.voidcc.com/*
 *://*.voidcn.cn/*
 *://*.voidcn.com/*
+*://*.volcengine.com/theme/*
 *://*.volprixreduit.buzz/*
 *://*.volvootofinans.com/*
 *://*.vonkalm.com/*
@@ -32796,6 +32800,7 @@
 9zas.com
 9zbc.com
 9zhei.com
+@*://*.aws.amazon.com/*
 @*://*.google.com/* 
 @*://*.tspweb.com/*
 @*://369369.xyz/* 
