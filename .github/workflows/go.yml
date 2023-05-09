@@ -45,7 +45,7 @@ jobs:
         git clone --depth 1 https://github.com/littleserendipity/uBlacklist-Subscription.git source/littleserendipity/uBlacklist-Subscription
         git clone --depth 1 https://github.com/liubiantao/uBlacklist-Websites.git source/liubiantao/uBlacklist-Websites
         git clone --depth 1 https://github.com/nonPointer/uBlacklist-Subscription.git source/nonPointer/uBlacklist-Subscription
-        git clone --depth 1 https://github.com/scyrte/uBlacklist-Subscription.git source/scyrte/uBlacklist-Subscription
+        # git clone --depth 1 https://github.com/scyrte/uBlacklist-Subscription.git source/scyrte/uBlacklist-Subscription
         git clone --depth 1 https://github.com/xNathan/uBlacklist-subscription.git source/xNathan/uBlacklist-subscription
         git clone --depth 1 https://github.com/arosh/ublacklist-stackoverflow-translation.git source/arosh/ublacklist-stackoverflow-translation
         git clone --depth 1 https://github.com/DivineEngine/uBlacklist.git source/DivineEngine/uBlacklist

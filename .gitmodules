@@ -19,9 +19,6 @@
 [submodule "source/nonPointer/uBlacklist-Subscription"]
 	path = source/nonPointer/uBlacklist-Subscription
 	url = https://github.com/nonPointer/uBlacklist-Subscription.git
-[submodule "source/scyrte/uBlacklist-Subscription"]
-	path = source/scyrte/uBlacklist-Subscription
-	url = https://github.com/scyrte/uBlacklist-Subscription.git
 [submodule "source/xNathan/uBlacklist-subscription"]
 	path = source/xNathan/uBlacklist-subscription
 	url = https://github.com/xNathan/uBlacklist-subscription.git
