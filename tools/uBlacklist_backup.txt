@@ -2,7 +2,7 @@
 @*://*.google.com/* 
 @*://sites.google.com/* 
 @*://369369.xyz/* 
- Update weekly at 2023-05-21 08:36:07 UTC+0800
+ Update weekly at 2023-05-28 08:36:05 UTC+0800
 *://*.021east.com/*
 *://*.0714news.com/*
 *://*.1007171.com/*
