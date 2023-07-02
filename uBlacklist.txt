@@ -1,5 +1,5 @@
 
- Update weekly at 2023-06-25 08:46:16 UTC+0800
+ Update weekly at 2023-07-02 08:44:04 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -325,7 +325,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://ksou.cc/*
+*://*.17bigdata.com/**://www.7200500.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -9574,7 +9574,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://*.voidcc.com/*
+*://*.zhzzx.com/*00000258.com
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -9928,7 +9928,6 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
-*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10378,6 +10377,7 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
+*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaisusou.cc/*
@@ -11091,7 +11091,6 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
-*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -11807,6 +11806,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
+*://www.kafan.cn/*[uBlock Origin]
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -11857,7 +11857,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
-*://www.leniuwang.com/*
+*://www.leniuwang.com/**://blog.csdn.net/*
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
@@ -19909,7 +19909,6 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
-00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -31840,13 +31839,11 @@
 @*://*.tspweb.com/*
 @*://369369.xyz/* 
 @*://sites.google.com/* 
-@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
 OSQA.com
 Question2Answer.com
-[uBlock Origin]
 a-capshop.com
 a-cn.com
 a-cuhk.com
@@ -78279,7 +78276,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://*.abbyychina.com/*
+title/.* - 小.(百科|知识)网$/@*://www.zhihu.com/* 
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
