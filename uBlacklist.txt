@@ -1,5 +1,5 @@
 
- Update weekly at 2023-07-02 08:44:04 UTC+0800
+ Update weekly at 2023-07-09 08:46:17 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -325,7 +325,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.7200500.com/*
+*://*.17bigdata.com/**://ksou.cc/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -1529,6 +1529,7 @@
 *://*.albertrelogistics.buzz/*
 *://*.alecran.buzz/*
 *://*.alia.xlhad.top/*
+*://*.alibabacloud.com/blog/*
 *://*.alienearmusic.buzz/*
 *://*.alienskins.cn/*
 *://*.aliherb.com/*
@@ -1710,6 +1711,7 @@
 *://*.atlanticecon.buzz/*
 *://*.atlanticpharmacyla.buzz/*
 *://*.atpp.cc/*
+*://*.atsit.in/*
 *://*.attentionone.buzz/*
 *://*.attjp4.cn/*
 *://*.atwhcb.com/*
@@ -1950,6 +1952,7 @@
 *://*.bisolsinus.buzz/*
 *://*.bisoqi.com/*
 *://*.bit86.cn/*
+*://*.bitwarsoft.com/*
 *://*.biyfi.com/*
 *://*.biyga.com/*
 *://*.bizrv.com/*
@@ -2344,6 +2347,7 @@
 *://*.chinesepcb.cn/*
 *://*.chinesewords.org/*
 *://*.chiphell.com/*
+*://*.chiphells.com/*
 *://*.chirontechnologies.buzz/*
 *://*.chiroporn.buzz/*
 *://*.chndongda.com/*
@@ -2762,6 +2766,7 @@
 *://*.de-babywinkel.buzz/*
 *://*.deal4investments.com/*
 *://*.dealproduct.cn/*
+*://*.debian8.com/*
 *://*.debugcn.com/*
 *://*.decouhome.com/*
 *://*.dedeapps.com/*
@@ -3050,6 +3055,7 @@
 *://*.ecvss.org/*
 *://*.ed2ks.com/*
 *://*.edchgo.cn/*
+*://*.edge66.com/*
 *://*.edianyun.com/*
 *://*.editcode.net/*
 *://*.edithllp.cn/*
@@ -4978,6 +4984,7 @@
 *://*.kalie100.com/*
 *://*.kalisita.com/*
 *://*.kanbingok.com/*
+*://*.kandaoni.com/*
 *://*.kanduanxin.com/*
 *://*.kangduotj.com/*
 *://*.kangmile.cn/*
@@ -5864,6 +5871,7 @@
 *://*.mvcomcz.cn/*
 *://*.mvpsky.com/*
 *://*.mwd8.cn/*
+*://*.mweda.com/*
 *://*.mwngtki.cn/*
 *://*.mwr8.cn/*
 *://*.mwsoso.com/*
@@ -6166,6 +6174,7 @@
 *://*.oasisbanquet.buzz/*
 *://*.oayjgxt.cn/*
 *://*.oaz7k8r.cn/*
+*://*.obagua.com/*
 *://*.obeqhdy.cn/*
 *://*.obftzgh.cn/*
 *://*.objetspubricard.buzz/*
@@ -6708,6 +6717,7 @@
 *://*.qiukaineng.com/*
 *://*.qiuqing550.cn/*
 *://*.qiuxiami.com/*
+*://*.qiuyexitong.com/*
 *://*.qiuyueseed.com/*
 *://*.qiuzhi5.com/*
 *://*.qiyerz.com/*
@@ -6853,6 +6863,7 @@
 *://*.rattaprofid.ee/*
 *://*.raven-industries.buzz/*
 *://*.raysch.com/*
+*://*.raysync.cn/*
 *://*.razahm.com/*
 *://*.rb9q.com/*
 *://*.rbcdy.com/*
@@ -6883,6 +6894,8 @@
 *://*.relocate-us.buzz/*
 *://*.remorquesboeglin.buzz/*
 *://*.remosoftware.com/*
+*://*.reneelab.com.cn/*
+*://*.reneelab.net/*
 *://*.renfas.com/*
 *://*.renliuhs.cn/*
 *://*.renminbao.com/*
@@ -6949,6 +6962,7 @@
 *://*.robertjutras.buzz/*
 *://*.robertmwagner.com/*
 *://*.rockero.com.py/*
+*://*.rocketdrivers.com/*
 *://*.rocksearch.cc/*
 *://*.rockymtnloghomes.buzz/*
 *://*.rodwfro.cn/*
@@ -7470,6 +7484,7 @@
 *://*.sokutu.com/*
 *://*.solutions-team.buzz/*
 *://*.somjj.com/*
+*://*.somode.com/*
 *://*.sonanone.com/*
 *://*.songhepx.com/*
 *://*.songketop.com/*
@@ -7785,6 +7800,7 @@
 *://*.tdww.cc/*
 *://*.teamdehaas.buzz/*
 *://*.teamumwelt.buzz/*
+*://*.techbriefly.com/*
 *://*.techdevian.com/*
 *://*.techloris.com/*
 *://*.technoglitz.com/*
@@ -7844,6 +7860,7 @@
 *://*.thnmjjrxh.com/*
 *://*.thooinc.com/*
 *://*.threeooo.com/*
+*://*.thrivemyway.com/*
 *://*.thruo2r.cn/*
 *://*.thxdtsx.cn/*
 *://*.thy2jk.cn/*
@@ -9574,7 +9591,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*00000258.com
+*://*.zhzzx.com/**://www.e-learn.cn/*  
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -9928,6 +9945,7 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -9999,6 +10017,7 @@
 *://cn.aliyun.com/sswm/*
 *://cn.filedict.com/*
 *://cn.jptele.com/*
+*://cn.pingcap.com/article/post/*
 *://cn.skydivenewmarket.com/*  
 *://cn.voidcc.com/*
 *://cn846.com/*
@@ -10377,7 +10396,6 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
-*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaisusou.cc/*
@@ -10429,6 +10447,7 @@
 *://m.agyay.com/*
 *://m.aliyun.com/*
 *://m.aotaier.com.cn/
+*://m.bilibili.com/*
 *://m.bxwgo.com/*  
 *://m.ccdswl.com/*
 *://m.ccidnet.com/*
@@ -10443,6 +10462,7 @@
 *://m.feimiao.cn/*
 *://m.fengli.com/*
 *://m.fofama.com/*
+*://m.freebuf.com/*
 *://m.fy35.com/*
 *://m.gaopinggw.com/*  
 *://m.gdgbn.com/*
@@ -10464,6 +10484,7 @@
 *://m.kaisha88.com/*
 *://m.kan186.com/*
 *://m.kjw.cc/*
+*://m.liepin.com/*
 *://m.manyushijia.com/*
 *://m.mk369.com/*
 *://m.mmaatthh.com/*
@@ -11091,6 +11112,7 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
+*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -11471,7 +11493,6 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -11806,7 +11827,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*[uBlock Origin]
+*://www.kafan.cn/*005i.com
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -11857,7 +11878,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
-*://www.leniuwang.com/**://blog.csdn.net/*
+*://www.leniuwang.com/**://*.voidcc.com/*
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
@@ -19909,6 +19930,7 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -31839,6 +31861,7 @@
 @*://*.tspweb.com/*
 @*://369369.xyz/* 
 @*://sites.google.com/* 
+@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
@@ -78276,7 +78299,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/@*://www.zhihu.com/* 
+title/.* - 小.(百科|知识)网$/[uBlock Origin]
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
