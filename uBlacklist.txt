@@ -1,5 +1,5 @@
 
- Update weekly at 2023-09-10 08:31:16 UTC+0800
+ Update weekly at 2023-09-17 08:31:34 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -20,7 +20,6 @@
 #yx.kbjcuiru.com
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
-*://*.005i.com/*
 *://*.006xb.cn/*
 *://*.007-security.buzz/*
 *://*.0077851.com/*
@@ -325,7 +324,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://ksou.cc/*
+*://*.17bigdata.com/**://www.coder.work/article/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -9591,7 +9590,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://www.e-learn.cn/*  
+*://*.zhzzx.com/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -9945,6 +9944,7 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10395,6 +10395,7 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
+*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaisusou.cc/*
@@ -11379,7 +11380,6 @@
 *://www.codenong.com/*
 *://www.codeprj.com/*
 *://www.coder.work/*
-*://www.coder.work/article/*
 *://www.codetd.com/*
 *://www.colabug.com/*
 *://www.come2vc886.com/*
@@ -11826,7 +11826,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*.001553.cn/*
+*://www.kafan.cn/**://*.voidcc.com/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -11877,7 +11877,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
-*://www.leniuwang.com/**://blog.csdn.net/*
+*://www.leniuwang.com/**://*.005i.com/*
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
@@ -78299,7 +78299,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://code-examples.net/*
+title/.* - 小.(百科|知识)网$/*://www.e-learn.cn/*  
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
