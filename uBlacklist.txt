@@ -1,5 +1,5 @@
 
- Update weekly at 2023-10-08 08:32:33 UTC+0800
+ Update weekly at 2023-10-15 08:32:38 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -7832,6 +7832,7 @@
 *://*.tgoykuq.cn/*
 *://*.tgwlcg.com/*
 *://*.th2p.com/*
+*://*.thaicarvingknife.com/*
 *://*.thaigraphicdesign.com/*
 *://*.thcc.cc/*
 *://*.theastrologypage.com/*
@@ -8393,6 +8394,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
+*://*.wandouip.com/**://*.thaicarvingknife.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -10826,6 +10828,7 @@
 *://teratas-movietv.over-blog.com/*
 *://tfud.ffw-ellzee.de/*
 *://thagoda.com/*  
+*://thaicarvingknife.com/*
 *://thaipublica.org/*  
 *://thcc.cc/*
 *://theophilechurch.com/*  
@@ -18498,6 +18501,7 @@
 .tgoykuq.cn
 .tgwlcg.com
 .th2p.com
+.thaicarvingknife.com
 .thcc.cc
 .thebmovierats.buzz
 .thegymcam.buzz

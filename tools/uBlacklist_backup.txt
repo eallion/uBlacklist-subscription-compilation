@@ -1,4 +1,4 @@
- Update weekly at 2023-10-08 08:32:33 UTC+0800
+ Update weekly at 2023-10-15 08:32:38 UTC+0800
 @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
@@ -79009,6 +79009,7 @@ zzzzbj.com
 *://*.shengqian001.com/*
 *://*.wandouip.com/*
 *://*.zditect.com/*
+*://*.thaicarvingknife.com/*
 *://*.155.138.230.158/*
 *://*.159.138.37.243/*
 *://*.17bigdata.com/*
@@ -91778,6 +91779,7 @@ zzzzbj.com
 *://*.tgoykuq.cn/*
 *://*.tgwlcg.com/*
 *://*.th2p.com/*
+*://*.thaicarvingknife.com/*
 *://*.thcc.cc/*
 *://*.thebmovierats.buzz/*
 *://*.thegymcam.buzz/*
@@ -93502,6 +93504,7 @@ zzzzbj.com
 .shengqian001.com
 .wandouip.com
 .zditect.com
+.thaicarvingknife.com
 .155.138.230.158
 .159.138.37.243
 .17bigdata.com
@@ -106271,6 +106274,7 @@ zzzzbj.com
 .tgoykuq.cn
 .tgwlcg.com
 .th2p.com
+.thaicarvingknife.com
 .thcc.cc
 .thebmovierats.buzz
 .thegymcam.buzz
@@ -108009,7 +108013,8 @@ zzzzbj.com
 *://www.bbsmax.com/*
 *://www.miaook.com/*
 *://www.carptrix.com/*
-*://*.wandouip.com/*
+*://*.wandouip.com/**://*.thaicarvingknife.com/*
+*://thaicarvingknife.com/*
 *://www.cxybb.com/*
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
@@ -120818,6 +120823,7 @@ zzzzbj.com
 *://*.tgoykuq.cn/*
 *://*.tgwlcg.com/*
 *://*.th2p.com/*
+*://*.thaicarvingknife.com/*
 *://*.thcc.cc/*
 *://*.thebmovierats.buzz/*
 *://*.thegymcam.buzz/*
@@ -127992,6 +127998,7 @@ zzzzbj.com
 .tgoykuq.cn
 .tgwlcg.com
 .th2p.com
+.thaicarvingknife.com
 .thcc.cc
 .thebmovierats.buzz
 .thegymcam.buzz
