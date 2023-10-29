@@ -1,12 +1,11 @@
 
- Update weekly at 2023-10-22 08:32:35 UTC+0800
+ Update weekly at 2023-10-29 08:32:16 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Feeb
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
-! Junk
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
 #18.141.160.82
@@ -8394,7 +8393,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.nbz.ai/*
+*://*.wandouip.com/**://*.231327.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9592,7 +9591,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*00000258.com
+*://*.zhzzx.com/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -11496,6 +11495,7 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
+*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -11830,7 +11830,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://www.e-learn.cn/*  
+*://www.kafan.cn/*00000258.com
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -11881,7 +11881,7 @@
 *://www.lehuotuan.com/*
 *://www.leiyangzx.com/*  
 *://www.lengku114.com/*
-*://www.leniuwang.com/*
+*://www.leniuwang.com/*! Junk
 *://www.lh1999.com/*  
 *://www.lianaiya.com/*
 *://www.liao521.com/*
