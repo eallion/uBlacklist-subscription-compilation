@@ -1,5 +1,5 @@
 
- Update weekly at 2023-11-05 08:33:40 UTC+0800
+ Update weekly at 2023-11-12 08:33:34 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1713,6 +1713,7 @@
 *://*.atsit.in/*
 *://*.attentionone.buzz/*
 *://*.attjp4.cn/*
+*://*.atwebpages.com/*
 *://*.atwhcb.com/*
 *://*.atziv3.cn/*
 *://*.aufzug-roesler.buzz/*
@@ -2029,6 +2030,7 @@
 *://*.bm0766.com/*
 *://*.bmfnib.cn/*
 *://*.bmhjq.net/*
+*://*.bmhysw.com/*
 *://*.bmlu.com.cn/*
 *://*.bmnn.cc/*
 *://*.bmq8.com/*
@@ -2764,6 +2766,7 @@
 *://*.ddxy0790.com/*
 *://*.de-babywinkel.buzz/*
 *://*.deal4investments.com/*
+*://*.dealmoon.co.uk/top/*
 *://*.dealproduct.cn/*
 *://*.debian8.com/*
 *://*.debugcn.com/*
@@ -3199,6 +3202,7 @@
 *://*.express.co.uk/*
 *://*.expressionssurat.com/*
 *://*.exthe247.com/*
+*://*.extrabux.com/*
 *://*.extreme-mac.buzz/*
 *://*.eyewated.com/*
 *://*.eyuth.com/*
@@ -3666,6 +3670,7 @@
 *://*.glorynice.buzz/*
 *://*.glqhdz.cn/*
 *://*.glqxga.com/*
+*://*.glxyjqx.com/*
 *://*.glynook.cn/*
 *://*.glzbxs.com/*
 *://*.gm0j5xn.cn/*
@@ -4531,6 +4536,7 @@
 *://*.it5120.com/*
 *://*.it880880.com/*
 *://*.italgrip.buzz/*
+*://*.itamtech.com/catalogsearch/*
 *://*.itaotaotao.com/*
 *://*.itchosun.buzz/*
 *://*.itdaan.com/*
@@ -4724,6 +4730,7 @@
 *://*.jinxw.cn/*
 *://*.jiotzpg.cn/*
 *://*.jipai.cc/*
+*://*.jiqiren999.com/*
 *://*.jirouxx.com/*
 *://*.jishuabao.com/*
 *://*.jishuwen.com/*
@@ -4889,6 +4896,7 @@
 *://*.jusoso.com/*
 *://*.justinjeffrey.com/*
 *://*.juwymg.cn/*
+*://*.juyifx.cn/*
 *://*.juzhekooo.com/*
 *://*.jvagf.cn/*
 *://*.jvhzq9c.cn/*
@@ -5490,6 +5498,7 @@
 *://*.luxifeier.com/*
 *://*.luxuewang.com/*
 *://*.luxury-condos-miami.com/*
+*://*.luyouqi.com/*
 *://*.lvhuagc.com/*
 *://*.lvse.com/*
 *://*.lvtu78.com/*
@@ -8238,6 +8247,7 @@
 *://*.vddr.cc/*
 *://*.vdohuwai.com/*
 *://*.vdto.cc/*
+*://*.vectormagic.com/*
 *://*.vegaschina.cn/*
 *://*.vehicletagtw.com/*
 *://*.vemate.com/*
@@ -9037,6 +9047,7 @@
 *://*.xygoogou.com/*
 *://*.xygxhm.com/*
 *://*.xyj2006.com/*
+*://*.xyjqxi.com/*
 *://*.xykjsqg.com/*
 *://*.xypcxl.com/*
 *://*.xysdjz.com/*
@@ -10588,6 +10599,7 @@
 *://mytuango.com/*  
 *://mzlw.apollostar-safari.de/*
 *://n.znds.com/*
+*://nani.baidu.com/*
 *://nanke135.com/*  
 *://napolicalcio24.com/*  
 *://natura-karite.com/*
