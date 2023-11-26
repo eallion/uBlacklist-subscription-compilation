@@ -1,5 +1,5 @@
 
- Update weekly at 2023-11-19 08:34:44 UTC+0800
+ Update weekly at 2023-11-26 08:34:16 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -324,7 +324,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.coder.work/article/*
+*://*.17bigdata.com/**://www.4k8k.xyz/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -6833,6 +6833,7 @@
 *://*.qyforum.com/*
 *://*.qyh8.cn/*
 *://*.qyqstore.com/*
+*://*.qyyd5g.top/*
 *://*.qzatsfr.cn/*
 *://*.qzcrafts.com/*
 *://*.qzczd.com/*
@@ -8404,7 +8405,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://www.cxybb.com/*
+*://*.wandouip.com/**://*.231327.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9603,7 +9604,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://www.sejuku.net/*
+*://*.zhzzx.com/*@*://www.zhihu.com/* 
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -10230,6 +10231,7 @@
 *://ghcc.cc/*
 *://giskaa.com/*
 *://github-wiki-see.page/*
+*://github.com/qyyd5g/*
 *://githubmemory.com/*
 *://githubmemory.com/*  
 *://gjgp.mikeprange.de/*
@@ -10775,7 +10777,7 @@
 *://search.suning.com/*
 *://seo.maro6.com/*
 *://sfen.cc/*
-*://sgss8.net/*@*://www.zhihu.com/* 
+*://sgss8.net/*.001553.cn
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
@@ -11412,6 +11414,7 @@
 *://www.codenong.com/*
 *://www.codeprj.com/*
 *://www.coder.work/*
+*://www.coder.work/article/*
 *://www.codesocang.com/*
 *://www.codetd.com/*
 *://www.colabug.com/*
@@ -11449,6 +11452,7 @@
 *://www.cuponens.com/*  
 *://www.cvktvbox.com/*
 *://www.cxhm.net/*
+*://www.cxybb.com/*
 *://www.cxydev.cc/*
 *://www.cxygjd.com/*
 *://www.cxyread.cc/*
@@ -11526,6 +11530,7 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
+*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -11861,7 +11866,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://www.e-learn.cn/*  
+*://www.kafan.cn/**://*.021east.com/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -78353,7 +78358,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://*.021east.com/*
+title/.* - 小.(百科|知识)网$/*://www.sejuku.net/*
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
