@@ -1,5 +1,5 @@
 
- Update weekly at 2023-12-03 08:34:28 UTC+0800
+ Update weekly at 2023-12-10 08:35:15 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -324,7 +324,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.4k8k.xyz/*
+*://*.17bigdata.com/**://*.231327.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -8405,7 +8405,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.231327.com/*
+*://*.wandouip.com/**://www.7200500.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9604,7 +9604,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*@*://www.zhihu.com/* 
+*://*.zhzzx.com/**://blog.csdn.net/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -9961,7 +9961,6 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
-*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10777,7 +10776,7 @@
 *://search.suning.com/*
 *://seo.maro6.com/*
 *://sfen.cc/*
-*://sgss8.net/*.001553.cn
+*://sgss8.net/**://*.021east.com/*
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
@@ -11144,7 +11143,6 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
-*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -11866,7 +11864,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*.021east.com/*
+*://www.kafan.cn/*00000258.com
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -19989,7 +19987,6 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
-00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -31920,6 +31917,7 @@
 @*://*.tspweb.com/*
 @*://369369.xyz/* 
 @*://sites.google.com/* 
+@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
