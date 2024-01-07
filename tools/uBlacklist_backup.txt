@@ -70553,6 +70553,7 @@ zzzzbj.com
 *://*.100ke.cc/*
 *://*.1024sou.com/*
 *://*.10jqka.com.cn/*
+*://*.1637.com/*
 *://*.1688.com/*
 *://*.17qq.com/*
 *://*.21food.cn/*
@@ -70668,6 +70669,7 @@ zzzzbj.com
 *://*.cmen.cc/*
 *://*.cmm3d.com/*
 *://*.cn.com/*
+*://*.cncyjm.com/*
 *://*.cnfreedomrtveas.ru.com/*
 *://*.cnpython.com/*
 *://*.cnvhair.com/*
@@ -70701,9 +70703,11 @@ zzzzbj.com
 *://*.debian8.com/*
 *://*.dedeapps.com/*
 *://*.devicesfaq.com/*
+*://*.devicetests.com/*
 *://*.digidash.in/*
 *://*.dkfp88.cn/*
 *://*.dongchedi.com/tag/*
+*://*.douyin.com/search/*
 *://*.douyin.com/zhuanti/*
 *://*.dovov.com/*
 *://*.driedpeel.com/*
@@ -70765,6 +70769,7 @@ zzzzbj.com
 *://*.guidlings.com/*
 *://*.guoguofen.com/*
 *://*.gzhttp.com/*
+*://*.hackernews.cc/*
 *://*.hanjifoods.com/*
 *://*.haoshangbang.net/*
 *://*.haoxyx.com/*
@@ -70999,7 +71004,9 @@ zzzzbj.com
 *://*.sqzlsy.cn/*
 *://*.sshce.com/*
 *://*.statestpizza.com/*
+*://*.storagereview.com/*
 *://*.sucaixi.com/*
+*://*.sufangxu.cn/*
 *://*.superweb999.com/*
 *://*.swimmingcows.com/*
 *://*.sxncw.com/*
@@ -130475,4 +130482,4 @@ title/.*一键访问国外网站/
 *://*.zuoqudashi.net/*
 *://kknews.cc/*
 *://read01.com/*
-*://www.kafan.cn/* Update weekly at 2023-12-31 08:34:54 UTC+0800
+*://www.kafan.cn/* Update weekly at 2024-01-07 08:36:26 UTC+0800
