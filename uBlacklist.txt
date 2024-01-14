@@ -324,7 +324,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://*.231327.com/*
+*://*.17bigdata.com/**://anewhpworld.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -1399,6 +1399,7 @@
 *://*.abstriction.buzz/*
 *://*.ac590.com/*
 *://*.academyagent.buzz/*
+*://*.acceler8x.space/*
 *://*.accentsgifts.buzz/*
 *://*.accidentlegalcenter.buzz/*
 *://*.accord-products.buzz/*
@@ -1587,6 +1588,7 @@
 *://*.androidwd.cc/*
 *://*.andseclab.com/*
 *://*.anercn.com/*
+*://*.anewhpworld.com/*
 *://*.angelalbum.buzz/*
 *://*.angiefans.com/*
 *://*.anhuijuxin.com/*
@@ -1727,6 +1729,7 @@
 *://*.autonetonline.buzz/*
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
+*://*.auxilia.space/*
 *://*.avenuetosuccess.buzz/*
 *://*.avkoc33.cn/*
 *://*.avzwbiv.cn/*
@@ -2135,6 +2138,7 @@
 *://*.business-web-sites-hosting.com/*
 *://*.businesstagtw.com/*
 *://*.buwoline.buzz/*
+*://*.buxcodes.org/*
 *://*.buyhomehub.cn/*
 *://*.buylun.com/*
 *://*.buzzhollowrailroad.com/*
@@ -2362,6 +2366,7 @@
 *://*.chq88.cn/*
 *://*.chqonline.com/*
 *://*.chromes.cn/*
+*://*.chromo.cfd/*
 *://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
@@ -2549,6 +2554,7 @@
 *://*.craffts.com/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
+*://*.creatv.cfd/*
 *://*.creditnavi.buzz/*
 *://*.crf8.cn/*
 *://*.crgsne3.cn/*
@@ -3534,6 +3540,7 @@
 *://*.galleri50.com/*
 *://*.gameboys.net/*
 *://*.gamejs123.com/*
+*://*.gameonmac.com/*
 *://*.gamesxfp.cn/*
 *://*.gametalk.site/*
 *://*.gan-ren.com/*
@@ -4487,6 +4494,7 @@
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
 *://*.innofthedovedallas.com/*
+*://*.innovanti.online/*
 *://*.innxm.com/*
 *://*.insideabritishmumskitchen.com/*
 *://*.insitedesigns.net/*
@@ -6014,6 +6022,7 @@
 *://*.newsflashtv.buzz/*
 *://*.newtoday.cc/*
 *://*.newyimin.com/*
+*://*.nexellia.online/*
 *://*.nexteer.cc/*
 *://*.nextnets.buzz/*
 *://*.nf91.cn/*
@@ -6361,6 +6370,7 @@
 *://*.passionss.buzz/*
 *://*.passwordrecovery.cn/*
 *://*.patriknorstrom.buzz/*
+*://*.pavlovadoco.com/*
 *://*.paw7c6j.cn/*
 *://*.paypernude.buzz/*
 *://*.pbcpm.com/*
@@ -6984,6 +6994,7 @@
 *://*.roldanmc.buzz/*
 *://*.rollingfhr.xyz/*
 *://*.romancestop.buzz/*
+*://*.romonitorstats.com/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
 *://*.rongyidagl.com/*
@@ -7015,6 +7026,7 @@
 *://*.rtmj.net/*
 *://*.rtpslpa.cn/*
 *://*.rtr8.cn/*
+*://*.rtrack.social/*
 *://*.rtufyc.cn/*
 *://*.rtxmail.net/*
 *://*.rtz8.cn/*
@@ -7602,6 +7614,7 @@
 *://*.storagereview.com/*
 *://*.storewes.com/*
 *://*.structcalc.buzz/*
+*://*.stylesprzedazy.pl/*
 *://*.subaidajs.com/*
 *://*.subversionromance.com/*
 *://*.sucaixi.com/*
@@ -9875,6 +9888,7 @@
 *://aasou.cc/*
 *://ab-tc.com/*
 *://abcsou.cc/*
+*://acceler8x.space/*
 *://adeq.or.th/*  
 *://adolescentz.com/*
 *://adsc.krank-durch-mobilfunk.de/*
@@ -9922,6 +9936,7 @@
 *://aunn.cc/*
 *://auto.epochtimes.com/*
 *://automaticmoms.com/*  
+*://auxilia.space/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://aylusenanzhuang.com/*  
 *://azfx.cc/*
@@ -9994,6 +10009,7 @@
 *://btgrcc.com/*
 *://bug200.com/*
 *://bupn.cc/*
+*://buxcodes.org/*
 *://bvalve.es/*  
 *://bvwc.lumea-verlag.de/*
 *://bynss.com/*
@@ -10024,6 +10040,7 @@
 *://chouchou.tw/*  
 *://chowdera.com/*
 *://christadavidson.com/*
+*://chromo.cfd/*
 *://chsou.cc/*
 *://ckuin.com/*  
 *://cldh8.com/*
@@ -10067,6 +10084,7 @@
 *://cp0753.com/*  
 *://cqaodesai.com/*  
 *://cqtt.cc/*
+*://creatv.cfd/*
 *://crighton-theatre.com/*  
 *://cshyyqj.com/*  
 *://csm-osumi.org/*  
@@ -10223,6 +10241,7 @@
 *://gahongyun.com/*
 *://game.vivi158.com/*
 *://gamejs123.com/*
+*://gameonmac.com/*
 *://gaoyayuan.com/*  
 *://gateway.qddcd.com/*
 *://gc0519.com/*
@@ -10329,6 +10348,7 @@
 *://in.zyggs.com/*
 *://infonerve.com/*
 *://inkworker.com/*
+*://innovanti.online/*
 *://insronda.cat/*  
 *://intellipaat.com/*
 *://investfundhjl.web.app/*
@@ -10623,6 +10643,7 @@
 *://news.sinabz.com/*
 *://news.tom.com/*
 *://news.znds.com/*
+*://nexellia.online/*
 *://nextpublic.de/*  
 *://ni.cafegatto.com/*
 *://nice168.com/*  
@@ -10660,6 +10681,7 @@
 *://parkinsonscare.org.uk/*  
 *://partyd.cc/*
 *://patobriens.com/*  
+*://pavlovadoco.com/*
 *://pbup.cc/*
 *://pcpn.cc/*
 *://pctantao.com/*
@@ -10761,9 +10783,11 @@
 *://regiaodecister.pt/*
 *://rocksearch.cc/*
 *://rohv.madame-creations.fr/*
+*://romonitorstats.com/*
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
+*://rtrack.social/**://*.231327.com/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10829,6 +10853,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
+*://stylesprzedazy.pl/**://*.nbz.ai/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -11872,7 +11897,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/* Update weekly at 2024-01-07 08:36:26 UTC+0800
+*://www.kafan.cn/* Update weekly at 2024-01-14 08:36:02 UTC+0800
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -13913,6 +13938,7 @@
 .absolutequalitylimo.buzz
 .abstriction.buzz
 .academyagent.buzz
+.acceler8x.space
 .accentsgifts.buzz
 .accidentlegalcenter.buzz
 .accord-products.buzz
@@ -14056,6 +14082,7 @@
 .androidcookie.com
 .androidwd.cc
 .anercn.com
+.anewhpworld.com
 .angelalbum.buzz
 .anhuijuxin.com
 .animalimmobilizer.buzz
@@ -14157,6 +14184,7 @@
 .autonetonline.buzz
 .autotimeit.buzz
 .auuur.com
+.auxilia.space
 .avenuetosuccess.buzz
 .avkoc33.cn
 .avzwbiv.cn
@@ -14450,6 +14478,7 @@
 .bush98.buzz
 .businesstagtw.com
 .buwoline.buzz
+.buxcodes.org
 .buyhomehub.cn
 .bvmfh.top
 .bwclkkh.cn
@@ -14606,6 +14635,7 @@
 .chongwg4.com
 .chq88.cn
 .chqonline.com
+.chromo.cfd
 .chsou.cc
 .chuanboye.com
 .chuandaobj.com
@@ -14738,6 +14768,7 @@
 .cqzxi9f.cn
 .craftswomyn.buzz
 .crawley-haskins.buzz
+.creatv.cfd
 .creditnavi.buzz
 .crf8.cn
 .crgsne3.cn
@@ -15440,6 +15471,7 @@
 .gahongyun.com
 .galleri50.com
 .gamejs123.com
+.gameonmac.com
 .gamesxfp.cn
 .ganghuajl.com
 .ganxi318.com
@@ -16135,6 +16167,7 @@
 .inkworker.com
 .inndulgehotel.buzz
 .innerloop-prod.buzz
+.innovanti.online
 .innxm.com
 .int.bet
 .integratedpaperservice.buzz
@@ -17254,6 +17287,7 @@
 .neworldbj.com
 .newsflashtv.buzz
 .newyimin.com
+.nexellia.online
 .nextnets.buzz
 .nf91.cn
 .nfajasi.cn
@@ -17498,6 +17532,7 @@
 .pashfon.cn
 .passionss.buzz
 .patriknorstrom.buzz
+.pavlovadoco.com
 .paw7c6j.cn
 .paypernude.buzz
 .pbcpm.com
@@ -17971,6 +18006,7 @@
 .roism.cn
 .roldanmc.buzz
 .romancestop.buzz
+.romonitorstats.com
 .rongduansi.com
 .ronghuipin.com
 .rongyidagl.com
@@ -17999,6 +18035,7 @@
 .rtg8.cn
 .rtpslpa.cn
 .rtr8.cn
+.rtrack.social
 .rtufyc.cn
 .rtz8.cn
 .rtzt114.cn
@@ -18377,6 +18414,7 @@
 .stiqsxf.cn
 .stmhxqs.com
 .structcalc.buzz
+.stylesprzedazy.pl
 .subaidajs.com
 .success666.com
 .suchesgamountainrealestate.buzz

@@ -73663,6 +73663,7 @@ title/小.(百科|知识)网/
 .absolutequalitylimo.buzz
 .abstriction.buzz
 .academyagent.buzz
+.acceler8x.space
 .accentsgifts.buzz
 .accidentlegalcenter.buzz
 .accord-products.buzz
@@ -73805,6 +73806,7 @@ title/小.(百科|知识)网/
 .andreasteunzer.buzz
 .androidwd.cc
 .anercn.com
+.anewhpworld.com
 .angelalbum.buzz
 .anhuijuxin.com
 .animalimmobilizer.buzz
@@ -73905,6 +73907,7 @@ title/小.(百科|知识)网/
 .autonetonline.buzz
 .autotimeit.buzz
 .auuur.com
+.auxilia.space
 .avenuetosuccess.buzz
 .avkoc33.cn
 .avzwbiv.cn
@@ -74198,6 +74201,7 @@ title/小.(百科|知识)网/
 .bush98.buzz
 .businesstagtw.com
 .buwoline.buzz
+.buxcodes.org
 .buyhomehub.cn
 .bvmfh.top
 .bwclkkh.cn
@@ -74354,6 +74358,7 @@ title/小.(百科|知识)网/
 .chongwg4.com
 .chq88.cn
 .chqonline.com
+.chromo.cfd
 .chsou.cc
 .chuanboye.com
 .chuandaobj.com
@@ -74485,6 +74490,7 @@ title/小.(百科|知识)网/
 .cqzxi9f.cn
 .craftswomyn.buzz
 .crawley-haskins.buzz
+.creatv.cfd
 .creditnavi.buzz
 .crf8.cn
 .crgsne3.cn
@@ -75188,6 +75194,7 @@ title/小.(百科|知识)网/
 .gahongyun.com
 .galleri50.com
 .gamejs123.com
+.gameonmac.com
 .gamesxfp.cn
 .ganghuajl.com
 .ganxi318.com
@@ -75883,6 +75890,7 @@ title/小.(百科|知识)网/
 .inkworker.com
 .inndulgehotel.buzz
 .innerloop-prod.buzz
+.innovanti.online
 .innxm.com
 .int.bet
 .integratedpaperservice.buzz
@@ -76999,6 +77007,7 @@ title/小.(百科|知识)网/
 .neworldbj.com
 .newsflashtv.buzz
 .newyimin.com
+.nexellia.online
 .nextnets.buzz
 .nf91.cn
 .nfajasi.cn
@@ -77242,6 +77251,7 @@ title/小.(百科|知识)网/
 .pashfon.cn
 .passionss.buzz
 .patriknorstrom.buzz
+.pavlovadoco.com
 .paw7c6j.cn
 .paypernude.buzz
 .pbcpm.com
@@ -77696,6 +77706,7 @@ title/小.(百科|知识)网/
 .roism.cn
 .roldanmc.buzz
 .romancestop.buzz
+.romonitorstats.com
 .rongduansi.com
 .ronghuipin.com
 .rongyidagl.com
@@ -77724,6 +77735,7 @@ title/小.(百科|知识)网/
 .rtg8.cn
 .rtpslpa.cn
 .rtr8.cn
+.rtrack.social
 .rtufyc.cn
 .rtz8.cn
 .rtzt114.cn
@@ -78099,6 +78111,7 @@ title/小.(百科|知识)网/
 .stiqsxf.cn
 .stmhxqs.com
 .structcalc.buzz
+.stylesprzedazy.pl
 .subaidajs.com
 .success666.com
 .suchesgamountainrealestate.buzz
@@ -80006,6 +80019,12 @@ title/小.(百科|知识)网/
 .u72.net
 .zhangbj.com
 .zhuxianfei.com
+.anewhpworld.com
+.buxcodes.org
+.gameonmac.com
+.pavlovadoco.com
+.romonitorstats.com
+.rtrack.social
 .001553.cn
 .003zuqiu.com
 .006xb.cn
@@ -86810,6 +86829,13 @@ title/小.(百科|知识)网/
 .zzzhtrade.com
 .zzzxmryy.com
 .zzzysy.com
+.acceler8x.space
+.auxilia.space
+.chromo.cfd
+.creatv.cfd
+.innovanti.online
+.nexellia.online
+.stylesprzedazy.pl
 .thaicarvingknife.com
 .555.gd
 .global-3.xyz
@@ -88158,6 +88184,7 @@ title/小.(百科|知识)网/
 *://*.absolutequalitylimo.buzz/*
 *://*.abstriction.buzz/*
 *://*.academyagent.buzz/*
+*://*.acceler8x.space/*
 *://*.accentsgifts.buzz/*
 *://*.accidentlegalcenter.buzz/*
 *://*.accord-products.buzz/*
@@ -88300,6 +88327,7 @@ title/小.(百科|知识)网/
 *://*.andreasteunzer.buzz/*
 *://*.androidwd.cc/*
 *://*.anercn.com/*
+*://*.anewhpworld.com/*
 *://*.angelalbum.buzz/*
 *://*.anhuijuxin.com/*
 *://*.animalimmobilizer.buzz/*
@@ -88400,6 +88428,7 @@ title/小.(百科|知识)网/
 *://*.autonetonline.buzz/*
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
+*://*.auxilia.space/*
 *://*.avenuetosuccess.buzz/*
 *://*.avkoc33.cn/*
 *://*.avzwbiv.cn/*
@@ -88693,6 +88722,7 @@ title/小.(百科|知识)网/
 *://*.bush98.buzz/*
 *://*.businesstagtw.com/*
 *://*.buwoline.buzz/*
+*://*.buxcodes.org/*
 *://*.buyhomehub.cn/*
 *://*.bvmfh.top/*
 *://*.bwclkkh.cn/*
@@ -88849,6 +88879,7 @@ title/小.(百科|知识)网/
 *://*.chongwg4.com/*
 *://*.chq88.cn/*
 *://*.chqonline.com/*
+*://*.chromo.cfd/*
 *://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
@@ -88980,6 +89011,7 @@ title/小.(百科|知识)网/
 *://*.cqzxi9f.cn/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
+*://*.creatv.cfd/*
 *://*.creditnavi.buzz/*
 *://*.crf8.cn/*
 *://*.crgsne3.cn/*
@@ -89683,6 +89715,7 @@ title/小.(百科|知识)网/
 *://*.gahongyun.com/*
 *://*.galleri50.com/*
 *://*.gamejs123.com/*
+*://*.gameonmac.com/*
 *://*.gamesxfp.cn/*
 *://*.ganghuajl.com/*
 *://*.ganxi318.com/*
@@ -90378,6 +90411,7 @@ title/小.(百科|知识)网/
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
+*://*.innovanti.online/*
 *://*.innxm.com/*
 *://*.int.bet/*
 *://*.integratedpaperservice.buzz/*
@@ -91494,6 +91528,7 @@ title/小.(百科|知识)网/
 *://*.neworldbj.com/*
 *://*.newsflashtv.buzz/*
 *://*.newyimin.com/*
+*://*.nexellia.online/*
 *://*.nextnets.buzz/*
 *://*.nf91.cn/*
 *://*.nfajasi.cn/*
@@ -91737,6 +91772,7 @@ title/小.(百科|知识)网/
 *://*.pashfon.cn/*
 *://*.passionss.buzz/*
 *://*.patriknorstrom.buzz/*
+*://*.pavlovadoco.com/*
 *://*.paw7c6j.cn/*
 *://*.paypernude.buzz/*
 *://*.pbcpm.com/*
@@ -92191,6 +92227,7 @@ title/小.(百科|知识)网/
 *://*.roism.cn/*
 *://*.roldanmc.buzz/*
 *://*.romancestop.buzz/*
+*://*.romonitorstats.com/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
 *://*.rongyidagl.com/*
@@ -92219,6 +92256,7 @@ title/小.(百科|知识)网/
 *://*.rtg8.cn/*
 *://*.rtpslpa.cn/*
 *://*.rtr8.cn/*
+*://*.rtrack.social/*
 *://*.rtufyc.cn/*
 *://*.rtz8.cn/*
 *://*.rtzt114.cn/*
@@ -92594,6 +92632,7 @@ title/小.(百科|知识)网/
 *://*.stiqsxf.cn/*
 *://*.stmhxqs.com/*
 *://*.structcalc.buzz/*
+*://*.stylesprzedazy.pl/*
 *://*.subaidajs.com/*
 *://*.success666.com/*
 *://*.suchesgamountainrealestate.buzz/*
@@ -94501,6 +94540,12 @@ title/小.(百科|知识)网/
 *://*.u72.net/*
 *://*.zhangbj.com/*
 *://*.zhuxianfei.com/*
+*://*.anewhpworld.com/*
+*://*.buxcodes.org/*
+*://*.gameonmac.com/*
+*://*.pavlovadoco.com/*
+*://*.romonitorstats.com/*
+*://*.rtrack.social/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
@@ -101305,6 +101350,13 @@ title/小.(百科|知识)网/
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
+*://*.acceler8x.space/*
+*://*.auxilia.space/*
+*://*.chromo.cfd/*
+*://*.creatv.cfd/*
+*://*.innovanti.online/*
+*://*.nexellia.online/*
+*://*.stylesprzedazy.pl/*
 *://*.thaicarvingknife.com/*
 *://*.555.gd/*
 *://*.global-3.xyz/*
@@ -102582,6 +102634,7 @@ title/小.(百科|知识)网/
 .absolutequalitylimo.buzz
 .abstriction.buzz
 .academyagent.buzz
+.acceler8x.space
 .accentsgifts.buzz
 .accidentlegalcenter.buzz
 .accord-products.buzz
@@ -102725,6 +102778,7 @@ title/小.(百科|知识)网/
 .androidcookie.com
 .androidwd.cc
 .anercn.com
+.anewhpworld.com
 .angelalbum.buzz
 .anhuijuxin.com
 .animalimmobilizer.buzz
@@ -102826,6 +102880,7 @@ title/小.(百科|知识)网/
 .autonetonline.buzz
 .autotimeit.buzz
 .auuur.com
+.auxilia.space
 .avenuetosuccess.buzz
 .avkoc33.cn
 .avzwbiv.cn
@@ -103119,6 +103174,7 @@ title/小.(百科|知识)网/
 .bush98.buzz
 .businesstagtw.com
 .buwoline.buzz
+.buxcodes.org
 .buyhomehub.cn
 .bvmfh.top
 .bwclkkh.cn
@@ -103275,6 +103331,7 @@ title/小.(百科|知识)网/
 .chongwg4.com
 .chq88.cn
 .chqonline.com
+.chromo.cfd
 .chsou.cc
 .chuanboye.com
 .chuandaobj.com
@@ -103408,6 +103465,7 @@ title/小.(百科|知识)网/
 .cqzxi9f.cn
 .craftswomyn.buzz
 .crawley-haskins.buzz
+.creatv.cfd
 .creditnavi.buzz
 .crf8.cn
 .crgsne3.cn
@@ -104112,6 +104170,7 @@ title/小.(百科|知识)网/
 .gahongyun.com
 .galleri50.com
 .gamejs123.com
+.gameonmac.com
 .gamesxfp.cn
 .ganghuajl.com
 .ganxi318.com
@@ -104807,6 +104866,7 @@ title/小.(百科|知识)网/
 .inkworker.com
 .inndulgehotel.buzz
 .innerloop-prod.buzz
+.innovanti.online
 .innxm.com
 .int.bet
 .integratedpaperservice.buzz
@@ -105927,6 +105987,7 @@ title/小.(百科|知识)网/
 .neworldbj.com
 .newsflashtv.buzz
 .newyimin.com
+.nexellia.online
 .nextnets.buzz
 .nf91.cn
 .nfajasi.cn
@@ -106171,6 +106232,7 @@ title/小.(百科|知识)网/
 .pashfon.cn
 .passionss.buzz
 .patriknorstrom.buzz
+.pavlovadoco.com
 .paw7c6j.cn
 .paypernude.buzz
 .pbcpm.com
@@ -106645,6 +106707,7 @@ title/小.(百科|知识)网/
 .roism.cn
 .roldanmc.buzz
 .romancestop.buzz
+.romonitorstats.com
 .rongduansi.com
 .ronghuipin.com
 .rongyidagl.com
@@ -106673,6 +106736,7 @@ title/小.(百科|知识)网/
 .rtg8.cn
 .rtpslpa.cn
 .rtr8.cn
+.rtrack.social
 .rtufyc.cn
 .rtz8.cn
 .rtzt114.cn
@@ -107051,6 +107115,7 @@ title/小.(百科|知识)网/
 .stiqsxf.cn
 .stmhxqs.com
 .structcalc.buzz
+.stylesprzedazy.pl
 .subaidajs.com
 .success666.com
 .suchesgamountainrealestate.buzz
@@ -109757,6 +109822,7 @@ title/小.(百科|知识)网/
 *://*.absolutequalitylimo.buzz/*
 *://*.abstriction.buzz/*
 *://*.academyagent.buzz/*
+*://*.acceler8x.space/*
 *://*.accentsgifts.buzz/*
 *://*.accidentlegalcenter.buzz/*
 *://*.accord-products.buzz/*
@@ -109900,6 +109966,7 @@ title/小.(百科|知识)网/
 *://*.androidcookie.com/*
 *://*.androidwd.cc/*
 *://*.anercn.com/*
+*://*.anewhpworld.com/*
 *://*.angelalbum.buzz/*
 *://*.anhuijuxin.com/*
 *://*.animalimmobilizer.buzz/*
@@ -110001,6 +110068,7 @@ title/小.(百科|知识)网/
 *://*.autonetonline.buzz/*
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
+*://*.auxilia.space/*
 *://*.avenuetosuccess.buzz/*
 *://*.avkoc33.cn/*
 *://*.avzwbiv.cn/*
@@ -110294,6 +110362,7 @@ title/小.(百科|知识)网/
 *://*.bush98.buzz/*
 *://*.businesstagtw.com/*
 *://*.buwoline.buzz/*
+*://*.buxcodes.org/*
 *://*.buyhomehub.cn/*
 *://*.bvmfh.top/*
 *://*.bwclkkh.cn/*
@@ -110450,6 +110519,7 @@ title/小.(百科|知识)网/
 *://*.chongwg4.com/*
 *://*.chq88.cn/*
 *://*.chqonline.com/*
+*://*.chromo.cfd/*
 *://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
@@ -110583,6 +110653,7 @@ title/小.(百科|知识)网/
 *://*.cqzxi9f.cn/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
+*://*.creatv.cfd/*
 *://*.creditnavi.buzz/*
 *://*.crf8.cn/*
 *://*.crgsne3.cn/*
@@ -111287,6 +111358,7 @@ title/小.(百科|知识)网/
 *://*.gahongyun.com/*
 *://*.galleri50.com/*
 *://*.gamejs123.com/*
+*://*.gameonmac.com/*
 *://*.gamesxfp.cn/*
 *://*.ganghuajl.com/*
 *://*.ganxi318.com/*
@@ -111982,6 +112054,7 @@ title/小.(百科|知识)网/
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
+*://*.innovanti.online/*
 *://*.innxm.com/*
 *://*.int.bet/*
 *://*.integratedpaperservice.buzz/*
@@ -113102,6 +113175,7 @@ title/小.(百科|知识)网/
 *://*.neworldbj.com/*
 *://*.newsflashtv.buzz/*
 *://*.newyimin.com/*
+*://*.nexellia.online/*
 *://*.nextnets.buzz/*
 *://*.nf91.cn/*
 *://*.nfajasi.cn/*
@@ -113346,6 +113420,7 @@ title/小.(百科|知识)网/
 *://*.pashfon.cn/*
 *://*.passionss.buzz/*
 *://*.patriknorstrom.buzz/*
+*://*.pavlovadoco.com/*
 *://*.paw7c6j.cn/*
 *://*.paypernude.buzz/*
 *://*.pbcpm.com/*
@@ -113820,6 +113895,7 @@ title/小.(百科|知识)网/
 *://*.roism.cn/*
 *://*.roldanmc.buzz/*
 *://*.romancestop.buzz/*
+*://*.romonitorstats.com/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
 *://*.rongyidagl.com/*
@@ -113848,6 +113924,7 @@ title/小.(百科|知识)网/
 *://*.rtg8.cn/*
 *://*.rtpslpa.cn/*
 *://*.rtr8.cn/*
+*://*.rtrack.social/*
 *://*.rtufyc.cn/*
 *://*.rtz8.cn/*
 *://*.rtzt114.cn/*
@@ -114226,6 +114303,7 @@ title/小.(百科|知识)网/
 *://*.stiqsxf.cn/*
 *://*.stmhxqs.com/*
 *://*.structcalc.buzz/*
+*://*.stylesprzedazy.pl/*
 *://*.subaidajs.com/*
 *://*.success666.com/*
 *://*.suchesgamountainrealestate.buzz/*
@@ -116187,7 +116265,12 @@ title/小.(百科|知识)网/
 *://*.zhuxianfei.com/*
 *://*.qilin668.com/*
 *://*.liweiliang.com/*
-*://*.17bigdata.com/**://*.231327.com/*
+*://*.17bigdata.com/**://anewhpworld.com/*
+*://buxcodes.org/*
+*://gameonmac.com/*
+*://pavlovadoco.com/*
+*://romonitorstats.com/*
+*://rtrack.social/**://*.231327.com/*
 *://*.23cpc.com/*
 *://*.pyk696.com/*
 *://*.pny9.com/*
@@ -122993,7 +123076,20 @@ title/小.(百科|知识)网/
 *://www.bvmfh.top/*
 *://*.thaicarvingknife.com/*
 *://thaicarvingknife.com/*
-*://*.nbz.ai/*
+*://*.auxilia.space/*
+*://auxilia.space/*
+*://*.innovanti.online/*
+*://innovanti.online/*
+*://*.acceler8x.space/*
+*://acceler8x.space/*
+*://*.nexellia.online/*
+*://nexellia.online/*
+*://*.chromo.cfd/*
+*://chromo.cfd/*
+*://*.creatv.cfd/*
+*://creatv.cfd/*
+*://*.stylesprzedazy.pl/*
+*://stylesprzedazy.pl/**://*.nbz.ai/*
 *://*.555.gd/*
 *://*.lhc.bet/*
 *://*.int.bet/*
@@ -130482,4 +130578,4 @@ title/.*一键访问国外网站/
 *://*.zuoqudashi.net/*
 *://kknews.cc/*
 *://read01.com/*
-*://www.kafan.cn/* Update weekly at 2024-01-07 08:36:26 UTC+0800
+*://www.kafan.cn/* Update weekly at 2024-01-14 08:36:02 UTC+0800
