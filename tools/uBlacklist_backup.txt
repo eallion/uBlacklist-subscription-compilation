@@ -130578,4 +130578,4 @@ title/.*一键访问国外网站/
 *://*.zuoqudashi.net/*
 *://kknews.cc/*
 *://read01.com/*
-*://www.kafan.cn/* Update weekly at 2024-01-14 08:36:02 UTC+0800
+*://www.kafan.cn/* Update weekly at 2024-01-21 08:36:16 UTC+0800
