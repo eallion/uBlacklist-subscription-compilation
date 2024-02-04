@@ -1,5 +1,5 @@
 
- Update weekly at 2024-01-28 08:33:24 UTC+0800
+ Update weekly at 2024-02-04 08:33:42 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -326,7 +326,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://*.231327.com/*
+*://*.17bigdata.com/**://www.7200500.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -8426,7 +8426,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.366service.com/*
+*://*.wandouip.com/**://*.thaicarvingknife.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9625,7 +9625,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*
+*://*.zhzzx.com/**://www.sejuku.net/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -10789,7 +10789,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://www.4k8k.xyz/*
+*://rtrack.social/**://www.cxybb.com/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10809,7 +10809,7 @@
 *://search.suning.com/*
 *://seo.maro6.com/*
 *://sfen.cc/*
-*://sgss8.net/*[uBlock Origin]
+*://sgss8.net/**://*.abbyychina.com/*
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
@@ -10855,7 +10855,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://www.xspdf.com/resolution/*
+*://stylesprzedazy.pl/**://*.nbz.ai/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -11177,7 +11177,6 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
-*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -11485,7 +11484,6 @@
 *://www.cuponens.com/*  
 *://www.cvktvbox.com/*
 *://www.cxhm.net/*
-*://www.cxybb.com/*
 *://www.cxydev.cc/*
 *://www.cxygjd.com/*
 *://www.cxyread.cc/*
@@ -11563,7 +11561,6 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -12245,7 +12242,6 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
-*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -12567,6 +12563,7 @@
 *://www.xshop580.com/*  
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
+*://www.xspdf.com/resolution/*
 *://www.xtfeed.cn/*
 *://www.xthfyy.com/*  
 *://www.xtoolsoft.com/*
@@ -31972,6 +31969,7 @@ Arrayshift.com
 Coordino.com
 OSQA.com
 Question2Answer.com
+[uBlock Origin]
 a-capshop.com
 a-cn.com
 a-cuhk.com
@@ -78404,7 +78402,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/.001553.cn
+title/.* - 小.(百科|知识)网$/*://www.e-learn.cn/*  
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
