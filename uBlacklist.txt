@@ -1,12 +1,11 @@
 
- Update weekly at 2024-02-11 08:33:56 UTC+0800
+ Update weekly at 2024-02-18 08:33:22 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Feeb
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
-! Junk
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
 #18.141.160.82
@@ -40,6 +39,7 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
+*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -325,7 +325,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.4k8k.xyz/*
+*://*.17bigdata.com/**://*.nbz.ai/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -8425,7 +8425,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.231327.com/*
+*://*.wandouip.com/**://www.cxybb.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9624,7 +9624,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://www.coder.work/article/*
+*://*.zhzzx.com/*00000258.com
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -10788,7 +10788,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/*.001553.cn
+*://rtrack.social/**://ksou.cc/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10808,7 +10808,7 @@
 *://search.suning.com/*
 *://seo.maro6.com/*
 *://sfen.cc/*
-*://sgss8.net/**://*.021east.com/*
+*://sgss8.net/*! Junk
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
@@ -10854,7 +10854,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://ksou.cc/*
+*://stylesprzedazy.pl/**://*.001553.cn/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -11446,6 +11446,7 @@
 *://www.codenong.com/*
 *://www.codeprj.com/*
 *://www.coder.work/*
+*://www.coder.work/article/*
 *://www.codesocang.com/*
 *://www.codetd.com/*
 *://www.colabug.com/*
@@ -11483,7 +11484,6 @@
 *://www.cuponens.com/*  
 *://www.cvktvbox.com/*
 *://www.cxhm.net/*
-*://www.cxybb.com/*
 *://www.cxydev.cc/*
 *://www.cxygjd.com/*
 *://www.cxyread.cc/*
@@ -11561,7 +11561,6 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -11897,7 +11896,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*00000258.com
+*://www.kafan.cn/**://www.e-learn.cn/*  
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -78403,7 +78402,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/
+title/.* - 小.(百科|知识)网$/005i.com
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
