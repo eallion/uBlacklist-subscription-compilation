@@ -1,10 +1,12 @@
 
+ Update weekly at 2024-03-17 08:33:42 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Feeb
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
+! Junk
 ! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 ! Title: uBlacklist Stack Overflow Translation
 #18.141.160.82
@@ -38,7 +40,6 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
-*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -324,7 +325,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://*.231327.com/*
+*://*.17bigdata.com/**://*.thaicarvingknife.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -1432,6 +1433,7 @@
 *://*.adlerseeds.buzz/*
 *://*.admin8844.cn/*
 *://*.adobeforum.buzz/*
+*://*.adoncn.com/*
 *://*.adsourceone.buzz/*
 *://*.adui5.cn/*
 *://*.adultbets.buzz/*
@@ -1627,6 +1629,7 @@
 *://*.anysafer.com/*
 *://*.anysearch.cc/*
 *://*.anysm.cn/*
+*://*.anyviewer.com/*
 *://*.aodumm.cn/*
 *://*.aoeset.cn/*
 *://*.aorta-ad.cn/*
@@ -2287,6 +2290,7 @@
 *://*.ceramic-industry.buzz/*
 *://*.cesdnet.com/*
 *://*.cetturismo.cl/*
+*://*.ceyicm.cn/*
 *://*.cf628.com/*
 *://*.cf6h0hw.cn/*
 *://*.cfe-eutax.buzz/*
@@ -3270,6 +3274,7 @@
 *://*.fanzhitech.com/*
 *://*.farsportswheels.com/*
 *://*.fastenerinventories.buzz/*
+*://*.fastestvpn.com/*
 *://*.fastso.cn/*
 *://*.fatie.me/*
 *://*.fatnvc.cn/*
@@ -4490,6 +4495,7 @@
 *://*.inf.news/*
 *://*.infinite-visions.buzz/*
 *://*.infonerve.com/*
+*://*.informer.com/*
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
@@ -4833,6 +4839,7 @@
 *://*.joy-life.cn/*
 *://*.joyfulcelebrationsinc.buzz/*
 *://*.joyk.com/*
+*://*.joyoshare.com/*
 *://*.jp62.cn/*
 *://*.jpdwj.com/*
 *://*.jphlw.com/*
@@ -5676,6 +5683,7 @@
 *://*.medistaryn.com/*
 *://*.meetthebookworld.com/*
 *://*.mefdjl.cn/*
+*://*.mefj.com.cn/*
 *://*.megavolt67.ru/*
 *://*.mehanltd.buzz/*
 *://*.meiao168.com/*
@@ -5782,6 +5790,7 @@
 *://*.mnbhyna.cn/*
 *://*.mnkan.com/*
 *://*.mnsf.net/*
+*://*.mnxcc.com/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
 *://*.mo08.biz/*
@@ -7092,6 +7101,7 @@
 *://*.sad21.cn/*
 *://*.sadyr.party/*
 *://*.saerim.net/*
+*://*.safetydetectives.com/*
 *://*.safetyks.com/*
 *://*.safx.cc/*
 *://*.sailintyre.com/*
@@ -7121,6 +7131,7 @@
 *://*.saojiejie.023mp.net/*
 *://*.saopaulocalling.org/*
 *://*.saoweb.cn/*
+*://*.saoyu.com/*
 *://*.sartoriamoderna.com/*
 *://*.saryagash-tour.com/*
 *://*.sas0cqp.cn/*
@@ -7321,6 +7332,7 @@
 *://*.shoubar.cn/*
 *://*.shoucangzx.com/*
 *://*.shouji211.com/*
+*://*.shoujide.com/*
 *://*.shoujifbb.com/*
 *://*.shoujishu.com/*
 *://*.shoulu6.com/*
@@ -7833,6 +7845,7 @@
 *://*.techloris.com/*
 *://*.technoglitz.com/*
 *://*.techonegame.com/*
+*://*.techtarget.com/*
 *://*.techwrestler.com/*
 *://*.tedabg.com/*
 *://*.tee-verkauf.buzz/*
@@ -7999,6 +8012,7 @@
 *://*.topitinfo.com/*
 *://*.toplawfirm.cn/*
 *://*.topsensemd.com/*
+*://*.topvpnguides.com/*
 *://*.topwoody.buzz/*
 *://*.toqjngk.cn/*
 *://*.toriphile.buzz/*
@@ -8417,6 +8431,7 @@
 *://*.wallmama.com/*
 *://*.wallpaper-photos.com/*
 *://*.wallstechnology.buzz/*
+*://*.wallvpn.com/*
 *://*.wallzhihu.com/*
 *://*.walterwolf2.cn/*
 *://*.waltrip-enterprises.buzz/*
@@ -8424,7 +8439,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://www.xspdf.com/resolution/*
+*://*.wandouip.com/**://*.nbz.ai/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9623,7 +9638,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/*00000258.com
+*://*.zhzzx.com/**://*/so.php
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -9983,6 +9998,7 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10787,7 +10803,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://www.7200500.com/*
+*://rtrack.social/**://*.231327.com/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10807,7 +10823,7 @@
 *://search.suning.com/*
 *://seo.maro6.com/*
 *://sfen.cc/*
-*://sgss8.net/* Update weekly at 2024-03-10 08:33:35 UTC+0800
+*://sgss8.net/**://*.021east.com/*
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
@@ -10853,7 +10869,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://www.4k8k.xyz/*
+*://stylesprzedazy.pl/**://www.xspdf.com/resolution/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -11175,6 +11191,7 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
+*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -11896,7 +11913,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://blog.csdn.net/*
+*://www.kafan.cn/*00000258.com
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -31962,7 +31979,6 @@
 @*://*.tspweb.com/*
 @*://369369.xyz/* 
 @*://sites.google.com/* 
-@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
@@ -78401,7 +78417,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/! Junk
+title/.* - 小.(百科|知识)网$/@*://www.zhihu.com/* 
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
