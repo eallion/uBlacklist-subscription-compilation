@@ -1,5 +1,5 @@
 
- Update weekly at 2024-03-24 08:34:24 UTC+0800
+ Update weekly at 2024-03-31 08:35:11 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -2701,6 +2701,7 @@
 *://*.dafx.cc/*
 *://*.daidaigou.org/*
 *://*.daigoupiggy.com/*
+*://*.daimafans.com/*
 *://*.daimajiaoliu.com/*
 *://*.daimaqa.com/*
 *://*.daimazxw.com/*
@@ -5357,6 +5358,7 @@
 *://*.linksou.cc/*
 *://*.linksure.cn/*
 *://*.linqq.net/*
+*://*.linuxpack.net/*
 *://*.linuxprobe.com/*
 *://*.linyuanfs.com/*
 *://*.liqijmg.com/*
@@ -8191,6 +8193,7 @@
 *://*.uk.com/*
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
+*://*.ukplanking.com/*
 *://*.ulidc.com/*
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
@@ -9057,6 +9060,7 @@
 *://*.xujianhong.com/*
 *://*.xujun.org/*
 *://*.xumanshu.com/*
+*://*.xunihao.org/*
 *://*.xunlongyb.com/*
 *://*.xuwmmlh.cn/*
 *://*.xuyich.com/*
