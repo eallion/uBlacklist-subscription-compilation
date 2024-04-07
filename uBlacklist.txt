@@ -1,5 +1,5 @@
 
- Update weekly at 2024-03-31 08:35:11 UTC+0800
+ Update weekly at 2024-04-07 08:35:20 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -20,7 +20,6 @@
 #yx.kbjcuiru.com
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
-*://*.005i.com/*
 *://*.006xb.cn/*
 *://*.007-security.buzz/*
 *://*.0077851.com/*
@@ -40,6 +39,7 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
+*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -325,7 +325,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://*.thaicarvingknife.com/*
+*://*.17bigdata.com/**://ksou.cc/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -7709,6 +7709,7 @@
 *://*.sync-computers.com/*
 *://*.sysbpgl.com/*
 *://*.syshizhi.com/*
+*://*.sysin.org/*
 *://*.systemcity.cn/*
 *://*.sythltgs.com/*
 *://*.syvbjxl.cn/*
@@ -8442,7 +8443,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.nbz.ai/*
+*://*.wandouip.com/**://www.7200500.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9642,7 +9643,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://*/so.php
+*://*.zhzzx.com/**://blog.csdn.net/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -10002,7 +10003,6 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
-*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
@@ -10462,7 +10462,6 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
-*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaisusou.cc/*
@@ -10807,7 +10806,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://*.231327.com/*
+*://rtrack.social/**://www.cxybb.com/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10827,7 +10826,7 @@
 *://search.suning.com/*
 *://seo.maro6.com/*
 *://sfen.cc/*
-*://sgss8.net/**://*.021east.com/*
+*://sgss8.net/**://*.005i.com/*
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
@@ -10873,7 +10872,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://www.xspdf.com/resolution/*
+*://stylesprzedazy.pl/**://*.231327.com/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -11195,7 +11194,6 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
-*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -11503,7 +11501,6 @@
 *://www.cuponens.com/*  
 *://www.cvktvbox.com/*
 *://www.cxhm.net/*
-*://www.cxybb.com/*
 *://www.cxydev.cc/*
 *://www.cxygjd.com/*
 *://www.cxyread.cc/*
@@ -11581,7 +11578,6 @@
 *://www.dx-zzrc.com/*  
 *://www.dxguanxian.org/*  
 *://www.dzydieo.site/*
-*://www.e-learn.cn/*  
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
 *://www.easttruth.com/*  
@@ -11917,7 +11913,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*00000258.com
+*://www.kafan.cn/**://www.e-learn.cn/*  
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -12585,6 +12581,7 @@
 *://www.xshop580.com/*  
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
+*://www.xspdf.com/resolution/*
 *://www.xtfeed.cn/*
 *://www.xthfyy.com/*  
 *://www.xtoolsoft.com/*
@@ -20053,6 +20050,7 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+00000258.com
 0001113.com
 0001403.cn
 000222msc.com
@@ -31983,6 +31981,7 @@
 @*://*.tspweb.com/*
 @*://369369.xyz/* 
 @*://sites.google.com/* 
+@*://www.zhihu.com/* 
 ASKBOT.com
 Arrayshift.com
 Coordino.com
@@ -78421,7 +78420,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/@*://www.zhihu.com/* 
+title/.* - 小.(百科|知识)网$/*://*.voidcc.com/*
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
