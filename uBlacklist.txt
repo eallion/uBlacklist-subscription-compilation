@@ -1,5 +1,5 @@
 
- Update weekly at 2024-04-07 08:35:20 UTC+0800
+ Update weekly at 2024-04-14 08:38:07 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -881,6 +881,7 @@
 *://*.54496.cn/*
 *://*.5467.com/*
 *://*.54gsl.com/*
+*://*.54site.com/*
 *://*.55118885.com/*
 *://*.55276.net/*
 *://*.55468z8.cn/*
@@ -2416,6 +2417,9 @@
 *://*.cl1s6eh.cn/*
 *://*.cl2p5nn.cn/*
 *://*.clairvoyantsoftware.buzz/*
+*://*.clashmac.com/*
+*://*.clashnode.xyz/*
+*://*.clashx.pro/*
 *://*.classicalguitarandbeyond.com/*
 *://*.clay-county.buzz/*
 *://*.cldh8.com/*
@@ -4290,6 +4294,7 @@
 *://*.huaqiang168.cn/*
 *://*.huataiok.com/*
 *://*.huaweicloud.com/s/*
+*://*.huaweicloud.com/zhishi/*
 *://*.huaxing198.com/*
 *://*.huayeshuzi.com/*
 *://*.huayuanme.com/*
@@ -4828,6 +4833,7 @@
 *://*.joecomp.com/*
 *://*.jogon.cn/*
 *://*.johnmurraysr.buzz/*
+*://*.jointxperts.com/*
 *://*.jojon.cn/*
 *://*.jokerhuman.com/*
 *://*.jokestoyou.buzz/*
@@ -5653,6 +5659,7 @@
 *://*.mavupzk.cn/*
 *://*.maww.cc/*
 *://*.maximuum.com/*
+*://*.mb-intendance.com/*
 *://*.mbezdv.cn/*
 *://*.mbme-tr.buzz/*
 *://*.mcaren.com/*
@@ -7315,6 +7322,7 @@
 *://*.shifangwusheng.com/*
 *://*.shihuishuo.com/*
 *://*.shijiaxiang.cn/*
+*://*.shijiyin.com/*
 *://*.shikin-support.buzz/*
 *://*.shimaozs.com/*
 *://*.shipinyg.com/*
@@ -8341,6 +8349,7 @@
 *://*.vipdailian.com/*
 *://*.virtualtoke.buzz/*
 *://*.visionaras.com/*
+*://*.visit-kamnik.com/*
 *://*.visit99.buzz/*
 *://*.visitnetherland.buzz/*
 *://*.visualxxx.buzz/*
@@ -9063,6 +9072,7 @@
 *://*.xumanshu.com/*
 *://*.xunihao.org/*
 *://*.xunlongyb.com/*
+*://*.xuv.cc/*
 *://*.xuwmmlh.cn/*
 *://*.xuyich.com/*
 *://*.xvcoc.com/*
@@ -10004,6 +10014,7 @@
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
 *://blog.csdn.net/holybin/*
+*://blog.csdn.net/netgc/*
 *://blog.csdn.net/weixin_35909238/*
 *://blog.silucg.com/*
 *://blog.wu-boy.com/*
@@ -11449,6 +11460,7 @@
 *://www.cn-bet.com/*  
 *://www.cn7kan.org.cn/*
 *://www.cnblogs.com/*
+*://www.cnblogs.com/sysin/*
 *://www.cne44.com/*
 *://www.cnpython.com/qa/*
 *://www.cnqlk.com/*

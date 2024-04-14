@@ -129135,6 +129135,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.51xuexiaoyi.com/*
 *://*.521cc.com/*
 *://*.52sbl.cn/*
+*://*.54site.com/*
 *://*.5868685.com/*
 *://*.58hengqi.com/*
 *://*.61655.app/*
@@ -129224,6 +129225,9 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.chiphells.com/*
 *://*.cjavapy.com/*
 *://*.cjkfd.top/*
+*://*.clashmac.com/*
+*://*.clashnode.xyz/*
+*://*.clashx.pro/*
 *://*.clubhouse-club.site/*
 *://*.cmen.cc/*
 *://*.cmm3d.com/*
@@ -129358,6 +129362,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.hpnews.online/*
 *://*.html.cn/*
 *://*.huahui08.com/*
+*://*.huaweicloud.com/zhishi/*
 *://*.huiyikj.com/*
 *://*.hxkj.net/*
 *://*.hzhaochengji.com/*
@@ -129395,6 +129400,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.jkzh.net/*
 *://*.jnw.cc/*
 *://*.joecomp.com/*
+*://*.jointxperts.com/*
 *://*.joyoshare.com/*
 *://*.jqgcs123.com/*
 *://*.juejin.cn/s/*
@@ -129440,6 +129446,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.macz.com/*
 *://*.mango66.com/*
 *://*.mattkaydiary.com/*
+*://*.mb-intendance.com/*
 *://*.measart.com/*
 *://*.meetthebookworld.com/*
 *://*.mefj.com.cn/*
@@ -129545,6 +129552,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.shejiben.com/*
 *://*.shenmedaquan.com/*
 *://*.shihuishuo.com/*
+*://*.shijiyin.com/*
 *://*.shluqu.cn/*
 *://*.shopwtn.com/*
 *://*.shoujide.com/*
@@ -129641,6 +129649,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.vectormagic.com/*
 *://*.versus.com/*
 *://*.vimsky.com/*
+*://*.visit-kamnik.com/*
 *://*.vlexpert.com/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
@@ -129697,6 +129706,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.xuesw.net/*
 *://*.xujun.org/*
 *://*.xunihao.org/*
+*://*.xuv.cc/*
 *://*.xyjqxi.com/*
 *://*.xykjsqg.com/*
 *://*.xyttt.com/*
@@ -129792,6 +129802,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://bjtmmh.com/*
 *://blacksprocket.com/*
 *://blog.csdn.net/holybin/*
+*://blog.csdn.net/netgc/*
 *://blog.csdn.net/weixin_35909238/*
 *://bloomingtonventures.com/*
 *://book.jd.com/publish/Search?*
@@ -130185,6 +130196,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://www.chinavolcan.com/*
 *://www.chinawenwang.com/*
 *://www.cmuswe.com/*
+*://www.cnblogs.com/sysin/*
 *://www.cnqlk.com/*
 *://www.cnshhbs.com/*
 *://www.cocoachina.com/*
@@ -130593,7 +130605,7 @@ title/.*q微同号.*/
 title/.*【一键访问国外网站】/
 title/.*【点击一次就可以出国】/
 title/.*有限公司官网/
- Update weekly at 2024-04-07 08:35:20 UTC+0800
+ Update weekly at 2024-04-14 08:38:07 UTC+0800
 @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
