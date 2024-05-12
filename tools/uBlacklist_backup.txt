@@ -1,4 +1,4 @@
- Update weekly at 2024-05-05 08:35:08 UTC+0800
+ Update weekly at 2024-05-12 08:36:13 UTC+0800
 @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
@@ -124549,6 +124549,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.876jy.vip/*
 *://*.8848hr.com/*
 *://*.91wuxi.com/*
+*://*.97444.cn/*
 *://*.97hs.com/*
 *://*.99jiehun.com/*
 *://*.9idudu.com/*
@@ -124589,6 +124590,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.awshao.com/*
 *://*.ayxbwy.com/*
 *://*.b00h.com/*
+*://*.baidu.com/*
 *://*.baidu.com/s?word=*
 *://*.bajiaoyingshi.com/*
 *://*.bangjun168.com/*
@@ -124686,6 +124688,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.duewriting.com/*
 *://*.duotin.com/*
 *://*.dyecn.com/*
+*://*.dz-x.net/*
 *://*.eastwriting.com/*
 *://*.edge66.com/*
 *://*.edianyun.com/*
@@ -124694,7 +124697,9 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.eeyyoo.com.cn/*
 *://*.enkj.com/*
 *://*.enmsb.com/*
+*://*.eolink.com/*
 *://*.eue5xbp.site/*
+*://*.example-a.com/*
 *://*.exotips.com/*
 *://*.express.co.uk/*
 *://*.extrabux.com/*
@@ -124720,6 +124725,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.gatelodgekinross.com/*
 *://*.gcyfd.shop/*
 *://*.gdsdwan.com/*
+*://*.geekerline.com/*
 *://*.geren-jianli.org/*
 *://*.getdroidtips.com/*
 *://*.gg4ss.com/*
@@ -124775,6 +124781,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.ids-water.com/*
 *://*.igiftidea.com/*
 *://*.iizhao.com/*
+*://*.ilovewechat.com/*
 *://*.imacso.com/*
 *://*.imaycon.com/*
 *://*.imooc.com/wenda/*
@@ -124804,6 +124811,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.jnw.cc/*
 *://*.joecomp.com/*
 *://*.jointxperts.com/*
+*://*.joyk.com/*
 *://*.joyoshare.com/*
 *://*.jqgcs123.com/*
 *://*.juejin.cn/s/*
@@ -124827,6 +124835,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.kutu66.com/*
 *://*.lacomparacion.com/*
 *://*.lai18.com/*
+*://*.lcydcp.com/*
 *://*.lehuotuan.com/*
 *://*.leixue.com/*
 *://*.lete.com/kdwenda/*
@@ -124953,6 +124962,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.seafastcenter.com/*
 *://*.sefyc.com/*
 *://*.shejiben.com/*
+*://*.shenlongbbs.com/*
 *://*.shenmedaquan.com/*
 *://*.shihuishuo.com/*
 *://*.shijiyin.com/*
@@ -125045,6 +125055,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.ultimate-communications.com/*
 *://*.unansea.com/*
 *://*.uosohyc.site/*
+*://*.upx8.com/*
 *://*.urtasker.com/*
 *://*.uulucky.com/*
 *://*.ux6.com/*
@@ -125080,6 +125091,7 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.wenbf.com/*
 *://*.westack.live/*
 *://*.whoisua.com/*
+*://*.widede.com/*
 *://*.wikicell.org/*
 *://*.win7zhijia.cn/*
 *://*.windows101tricks.com/*

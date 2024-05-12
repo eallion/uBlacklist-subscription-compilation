@@ -1,5 +1,5 @@
 
- Update weekly at 2024-05-05 08:35:08 UTC+0800
+ Update weekly at 2024-05-12 08:36:13 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -1288,6 +1288,7 @@
 *://*.971700.com/*
 *://*.973web.buzz/*
 *://*.9744.cc/*
+*://*.97444.cn/*
 *://*.975hus.cn/*
 *://*.97hs.com/*
 *://*.97oxford.buzz/*
@@ -1788,6 +1789,7 @@
 *://*.baidu.com.se/*
 *://*.baidu.com.swd1rsv_spt1rsv_iqid.1234on.com/*
 *://*.baidu.com.txzer.com/*
+*://*.baidu.com/*
 *://*.baidu.com/s?word=*
 *://*.baidu.fileso.com/*
 *://*.baidu.mx/*
@@ -3018,6 +3020,7 @@
 *://*.dyxszx.com/*
 *://*.dyzdy.cn/*
 *://*.dyzxjp.com/*
+*://*.dz-x.net/*
 *://*.dz2022.cn/*
 *://*.dz2wqy1.cn/*
 *://*.dz69.cn/*
@@ -3154,6 +3157,7 @@
 *://*.entertainment14.net/*
 *://*.enww.cc/*
 *://*.eodkieldt.cn/*
+*://*.eolink.com/*
 *://*.eoncon.com/*
 *://*.eooele.com/*
 *://*.epcrs1j.cn/*
@@ -3212,6 +3216,7 @@
 *://*.ewhae.buzz/*
 *://*.ewihfuu.cn/*
 *://*.ewonm.cn/*
+*://*.example-a.com/*
 *://*.excamtest.cn/*
 *://*.exdctol.cn/*
 *://*.exemm.com/*
@@ -3604,6 +3609,7 @@
 *://*.gebvrl0.cn/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
+*://*.geekerline.com/*
 *://*.gegoods.com/*
 *://*.geiso.cn/*
 *://*.geistlich-key2success.com/*
@@ -4478,6 +4484,7 @@
 *://*.ikz0wke.cn/*
 *://*.ilandrover.com/*
 *://*.ilike109.com/*
+*://*.ilovewechat.com/*
 *://*.ilueu.cn/*
 *://*.ilzhrmn.cn/*
 *://*.im1pxi.cn/*
@@ -5260,6 +5267,7 @@
 *://*.lct1688.com/*
 *://*.lcvjet.buzz/*
 *://*.lcyama.com/*
+*://*.lcydcp.com/*
 *://*.lcz888.com/*
 *://*.ld969.com/*
 *://*.ldc0.com/*
@@ -7304,6 +7312,7 @@
 *://*.shengyis.com/*
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
+*://*.shenlongbbs.com/*
 *://*.shenmedaquan.com/*
 *://*.shenmedouyou.xyz/*
 *://*.shenso.wang/*
@@ -8226,6 +8235,7 @@
 *://*.uplogmd.cn/*
 *://*.upucan.com/*
 *://*.upweibo.com/*
+*://*.upx8.com/*
 *://*.upyyagsl.cn/*
 *://*.uqseo.com/*
 *://*.urgnkky.cn/*
@@ -8606,6 +8616,7 @@
 *://*.whysw88.com/*
 *://*.whytcf.com/*
 *://*.whyzbr.com/*
+*://*.widede.com/*
 *://*.wienfm.com/*
 *://*.wihvf3.cn/*
 *://*.wiilgz.com/*
