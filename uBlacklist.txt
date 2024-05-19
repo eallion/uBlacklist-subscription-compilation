@@ -1,5 +1,5 @@
 
- Update weekly at 2024-05-12 08:36:13 UTC+0800
+ Update weekly at 2024-05-19 08:36:20 UTC+0800
 ! C&J Marketing
 ! Content Farm
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
@@ -20,6 +20,7 @@
 #yx.kbjcuiru.com
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
+*://*.005i.com/*
 *://*.006xb.cn/*
 *://*.007-security.buzz/*
 *://*.0077851.com/*
@@ -39,7 +40,6 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
-*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -325,7 +325,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.7200500.com/*
+*://*.17bigdata.com/**://www.4k8k.xyz/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -8462,7 +8462,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://anewhpworld.com/*
+*://*.wandouip.com/**://*.231327.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9664,7 +9664,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
-*://*.zhzzx.com/**://www.sejuku.net/*
+*://*.zhzzx.com/**://*.021east.com/*
 *://*.zibolongmoo.com/*
 *://*.zibosuoju.com/*
 *://*.zifadc.com/*
@@ -9952,6 +9952,7 @@
 *://andrew-reynolds-bootcamp.com/*
 *://androidcookie.com/*
 *://androidwd.cc/*
+*://anewhpworld.com/*
 *://anippac.org.mx/*  
 *://anjinxjhx.com/*
 *://anlander.com/*
@@ -10023,6 +10024,7 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/netgc/*
 *://blog.csdn.net/weixin_35909238/*
@@ -10827,7 +10829,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://ksou.cc/*
+*://rtrack.social/*.001553.cn
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10847,7 +10849,7 @@
 *://search.suning.com/*
 *://seo.maro6.com/*
 *://sfen.cc/*
-*://sgss8.net/**://*.005i.com/*
+*://sgss8.net/**://*.voidcc.com/*
 *://sgub.kerstinraphahn.de/*
 *://sh.360kuai.com/*
 *://share.wukongwenda.cn/*
@@ -10893,7 +10895,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://www.4k8k.xyz/*
+*://stylesprzedazy.pl/**://ksou.cc/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -11215,6 +11217,7 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
+*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -12283,6 +12286,7 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
+*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -78443,7 +78447,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://blog.csdn.net/*
+title/.* - 小.(百科|知识)网$/*://*/so.php
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
