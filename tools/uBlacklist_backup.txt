@@ -2,7 +2,7 @@
 @*://*.google.com/* 
 @*://sites.google.com/* 
 @*://369369.xyz/* 
- Update weekly at 2024-05-19 08:36:20 UTC+0800
+ Update weekly at 2024-05-26 08:36:32 UTC+0800
 ! Junk
 *://m.toutiao.com/*
 *://www.baidu.com/*
