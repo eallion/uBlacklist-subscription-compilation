@@ -1,45 +1,54 @@
 # uBlacklist subscription compilation
+>
 > uBlacklist 订阅地址合集
 
-![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main) 
+![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main)
 [![GitHub issues](https://img.shields.io/github/issues/eallion/uBlacklist-subscription-compilation?logo=GitHub&color=4ec100&style=flat)](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
 
-这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。  
+这是一个 uBlacklist 插件的订阅地址合集，搜集了网上大部分的订阅地址合并成一个。  
 通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。
 
-本列表**比较激进**！会屏蔽少部分正规但低质量的中文网站。  
-所以个人建议搜索中文资料请用百度，uBlacklist 插件对百度无效。
-> 如果需要百度屏蔽插件请用：<https://github.com/zhangolve/search-engine-filter>
+### 功能
 
-> 推荐另一个插件：<https://github.com/danny0838/content-farm-terminator>
-# 功能
+#### 🧱 **屏蔽中文内容农场！**
 
-**屏蔽中文内容农场！**【什么是[内容农场](https://zh.wikipedia.org/wiki/%E5%85%A7%E5%AE%B9%E8%BE%B2%E5%A0%B4)？】
+【什么是[内容农场](https://zh.wikipedia.org/wiki/%E5%85%A7%E5%AE%B9%E8%BE%B2%E5%A0%B4)？】
 
-通过匹配域名的方式，屏蔽搜索引擎的搜索结果。主要是屏蔽中文 SEO 垃圾站。  
+通过匹配域名的方式，屏蔽搜索引擎的搜索结果。  
+主要是屏蔽中文 SEO 垃圾站，如机器翻译、AI 生成的内容……  
 
-支持的搜索引擎：（由 uBlacklist 插件决定）
-- [Google](https://www.google.com/ncr?gws_rd=ssl)
-- [Bing](https://www.bing.com/)
-- [Brave](https://search.brave.com/)
-- [DuckDuckGo](https://duckduckgo.com/)
-- [Ecosia](https://www.ecosia.org/)
-- [Qwant](https://www.qwant.com/)
-- [Startpage](https://www.startpage.com/)
-- [Yahoo! JAPAN](https://www.yahoo.co.jp/)
-- [Yandex](https://yandex.com/)
+#### 🔍️ 支持的搜索引擎 （由 [uBlacklist](https://github.com/iorate/ublacklist) 插件决定）
 
-# 用法：
+此扩展支持以下搜索引擎
 
-### 一、下载 uBlacklist 浏览器插件：
-- Chrome: <https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
-- Firefox: <https://addons.mozilla.org/en-US/firefox/addon/ublacklist/>
-- Edge:<https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
-- Safari (macOS / iOS):<https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640>
+|              | 网页               | 图片               | 视频               | 新闻               |
+| ------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| Google       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Bing         | \*1                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Brave        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| DuckDuckGo   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Ecosia       | :heavy_check_mark: |                    |                    |                    |
+| Qwant        | :heavy_check_mark: | :heavy_check_mark: | \*2                | :heavy_check_mark: |
+| SearX \*3    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Startpage    | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
+| Yahoo! JAPAN | :heavy_check_mark: |                    |                    |                    |
+| Yandex       | :heavy_check_mark: |                    |                    |                    |
 
-### 二、设置插件
+\*1 仅当 "Always play videos on Qwant.com" 关闭时<br>
+\*2 仅支持某些公共实例，如果您想将自己的 SearX/SearXNG 添加到支持列表，你需要前往`src/common/search-engines.ts`，并手动将您的搜索引擎添加到列表中，然后手动进行构建。
 
-#### 1. 设置 - 订阅：
+### 用法
+
+#### ⬇️ 下载 uBlacklist 浏览器插件
+
+- Chrome: [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+- Firefox: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+- Safari (macOS / iOS): [App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
+- Edge*: [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+
+#### 🔧 设置插件
+
+##### 1. 设置 - 订阅
 
 > 订阅黑名单列表：
 
@@ -50,18 +59,28 @@
 <details>
     <summary> <code>完整链接</code> </summary>
 
-```
+```bash
+# curl -I https://git.io/ublacklist
+
+# HTTP/2 301
+# cache-control: public, max-age=31536000, immutable
+# x-lru-cache: HIT
+# location: https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
+# content-length: 0
+# date: 
+# x-github-backend: Kubernetes
+# x-github-request-id: 
+
 https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
 ```
 
 </details>
 
-
 如下图所示：（先点`添加订阅`）
 
 ![](tools/x2yWi62OWl.png)
 
-#### 2. 设置 - 常规：（选填）
+##### 2. 设置 - 常规：（选填）
 
 > 在谷歌的搜索结果中将不会显示以下网站：
 
@@ -73,20 +92,17 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 *://*/?s=*
 *://*/so/*
 ```
-如图：
 
-![](tools/PKO0JoJBpU.png)
-
-# 添加/删除 域名
+### 添加/删除 域名
 
 > 少量域名，请在自己浏览器插件的常规设置中添加即可。
 
-本仓库的初衷是收集网上的列表合并，所以不再维护单独的列表`add_url.txt`。  
-如有需求添加、删除域名，请至 [eallion/uBlacklist-Subscription](https://github.com/eallion/uBlacklist-Subscription) 提交 PR 或 Issues。  
+如有需求添加、删除域名，请至 [eallion/uBlacklist-Subscription](https://github.com/eallion/uBlacklist-Subscription) 提交 PR。  
 
-# 感谢名单：
+### 感谢名单
 
-uBlacklist: 
+uBlacklist:
+
 - [https://github.com/iorate/uBlacklist](https://github.com/iorate/uBlacklist)
 
 Subscription:
@@ -109,11 +125,18 @@ Subscription:
 - [https://github.com/yangjingchuang/ublacklist-subscription](https://github.com/yangjingchuang/ublacklist-subscription)
 - [https://github.com/YeSilin/uBlacklist](https://github.com/YeSilin/uBlacklist)
 
+### 推荐
 
-# [LICENSE](https://github.com/me-shaon/GLWTPL)
+推荐另一个插件：<https://github.com/danny0838/content-farm-terminator>
+
+uBlacklist 插件对百度无效。  
+如果需要百度屏蔽插件请用：<https://github.com/zhangolve/search-engine-filter>  
+
+### [LICENSE](https://github.com/me-shaon/GLWTPL)
+
 ```
-GLWT（祝你好运）公共许可证
-版权所有（C）每个人，除了作者
+GLWT（Good Luck With That，祝你好运）公共许可证
+版权所有© 每个人，除了作者
 
 任何人都被允许复制、分发、修改、合并、销售、出版、再授权或
 任何其它操作，但风险自负。
@@ -131,5 +154,5 @@ GLWT（祝你好运）公共许可证
 无论是在合同行为、侵权行为或其它因使用本软件产生的情形，作
 者不对任何索赔、损害承担责任。
 
-祝你好运及一帆风顺。
+祖宗保佑。
 ```
