@@ -1,12 +1,14 @@
 # uBlacklist subscription compilation
->
+
 > uBlacklist 订阅地址合集
 
 ![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main)
 [![GitHub issues](https://img.shields.io/github/issues/eallion/uBlacklist-subscription-compilation?logo=GitHub&color=4ec100&style=flat)](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
 
+> 订阅源地址：`https://git.io/ublacklist`  
+
 这是一个 uBlacklist 插件的订阅地址合集，搜集了网上大部分的订阅地址合并成一个。  
-通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。
+通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions/workflows/go.yml) 每周自动更新一次。
 
 ### 功能
 
@@ -55,27 +57,37 @@
 
 添加订阅：
 
-- `https://git.io/ublacklist`  
+- 订阅源地址：`https://git.io/ublacklist`  
 
+<blockquote>
 <details>
-    <summary> <code>完整链接</code> </summary>
+    <summary>【👉点击展示】订阅链接内容</summary>
+<br />
+
+`https://git.io/ublacklist` 的完整内容如下：
 
 ```bash
 # curl -I https://git.io/ublacklist
 
-# HTTP/2 301
+# HTTP/1.1 301 Moved Permanently
 # cache-control: public, max-age=31536000, immutable
 # x-lru-cache: HIT
-# location: https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
+location: https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
 # content-length: 0
 # date: 
 # x-github-backend: Kubernetes
 # x-github-request-id: 
+```
 
+复制订阅长链接：
+
+```bash
 https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt
 ```
 
 </details>
+
+</blockquote>
 
 如下图所示：（先点`添加订阅`）
 
