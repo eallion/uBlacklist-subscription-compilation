@@ -2,7 +2,7 @@
 @*://*.google.com/* 
 @*://sites.google.com/* 
 @*://369369.xyz/* 
- Update weekly at 2024-06-12 22:20:22 UTC+0800
+ Update weekly at 2024-06-16 08:37:58 UTC+0800
 *://*.021east.com/*
 *://*.0714news.com/*
 *://*.1007171.com/*
@@ -123,7 +123,6 @@
 *://*.chcpd.com/*
 *://*.china.cn/*
 *://*.china2uk.com/*
-*://*.chiphell.com/*
 *://*.chiphells.com/*
 *://*.cjavapy.com/*
 *://*.cjkfd.top/*
