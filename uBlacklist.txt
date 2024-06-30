@@ -1,5 +1,5 @@
 
- Update weekly at 2024-06-23 08:37:29 UTC+0800
+ Update weekly at 2024-06-30 08:38:43 UTC+0800
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
