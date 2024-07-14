@@ -1,5 +1,4 @@
 
- Update weekly at 2024-07-07 08:38:55 UTC+0800
 ! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
@@ -36,7 +35,6 @@
 *://*.01pkh6r.cn/*
 *://*.020pifuke.com/*
 *://*.020qiyun.com/*
-*://*.021east.com/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023fuwu.com/*
@@ -326,7 +324,7 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://*.231327.com/*
+*://*.17bigdata.com/**://*.thaicarvingknife.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -8438,7 +8436,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.thaicarvingknife.com/*
+*://*.wandouip.com/**://ksou.cc/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9989,6 +9987,7 @@
 *://blacksprocket.com/*
 *://blog.17baishi.com/*  
 *://blog.7yplay.com/*  
+*://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
 *://blog.csdn.net/netgc/*
 *://blog.csdn.net/weixin_35909238/*
@@ -10446,7 +10445,6 @@
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
-*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaisusou.cc/*
@@ -10788,7 +10786,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://www.4k8k.xyz/*
+*://rtrack.social/**://www.xspdf.com/resolution/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10854,7 +10852,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://www.cxybb.com/*
+*://stylesprzedazy.pl/*.001553.cn
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -11483,6 +11481,7 @@
 *://www.cuponens.com/*  
 *://www.cvktvbox.com/*
 *://www.cxhm.net/*
+*://www.cxybb.com/*
 *://www.cxydev.cc/*
 *://www.cxygjd.com/*
 *://www.cxyread.cc/*
@@ -11546,7 +11545,7 @@
 *://www.doubao.com/*
 *://www.doublebay.com.tw/*  
 *://www.doukou.com/*
-*://www.douyin.com/*.001553.cn
+*://www.douyin.com/* Update weekly at 2024-07-14 08:39:57 UTC+0800
 *://www.dovov.com/*
 *://www.downkr.com/*
 *://www.downyi.com/*
@@ -11898,7 +11897,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://blog.csdn.net/*
+*://www.kafan.cn/*00000258.com
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -12566,7 +12565,6 @@
 *://www.xshop580.com/*  
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
-*://www.xspdf.com/resolution/*
 *://www.xtfeed.cn/*
 *://www.xthfyy.com/*  
 *://www.xtoolsoft.com/*
@@ -78401,7 +78399,7 @@ titan-winches.com
 titan24.com
 tititi.cc
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/00000258.com
+title/.* - 小.(百科|知识)网$/*://*.021east.com/*
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
