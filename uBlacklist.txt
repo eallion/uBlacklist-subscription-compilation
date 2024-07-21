@@ -11545,7 +11545,7 @@
 *://www.doubao.com/*
 *://www.doublebay.com.tw/*  
 *://www.doukou.com/*
-*://www.douyin.com/* Update weekly at 2024-07-14 08:39:57 UTC+0800
+*://www.douyin.com/* Update weekly at 2024-07-21 08:39:32 UTC+0800
 *://www.dovov.com/*
 *://www.downkr.com/*
 *://www.downyi.com/*

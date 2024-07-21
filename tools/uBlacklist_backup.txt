@@ -130358,7 +130358,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://doubao.com/*
 *://www.doubao.com/*
 *://douyin.com/*
-*://www.douyin.com/* Update weekly at 2024-07-14 08:39:57 UTC+0800
+*://www.douyin.com/* Update weekly at 2024-07-21 08:39:32 UTC+0800
 @*://www.zhihu.com/* 
 @*://*.google.com/* 
 @*://sites.google.com/* 
