@@ -1,4 +1,4 @@
-name: Update uBlacklist subcription weekly
+name: Update uBlacklist subscription weekly
 
 on:
   schedule:
@@ -17,45 +17,19 @@ jobs:
     steps:
 
     - name: Set up Go
-      uses: actions/setup-go@v3
+      uses: actions/setup-go@v5
       with:
         go-version: '>=1.17.0'
 
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 1
-
-    - name: Setup Git
-      env:
-          MY_SECRET : ${{secrets.commit_secret}}
-      run: |
-        git config --global user.name ${{secrets.username}}
-        git config --global user.email ${{secrets.useremail}}
-        git config --global init.defaultBranch main
-
-    - name: Update source
-      run: |
-        rm -rf source
-        mkdir source
-        git clone --depth 1 https://github.com/YeSilin/uBlacklist.git source/YeSilin/uBlacklist
-        git clone --depth 1 https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git source/cobaltdisco/Google-Chinese-Results-Blocklist
-        git clone --depth 1 https://github.com/gyli/Blocklist.git source/gyli/Blocklist
-        git clone --depth 1 https://github.com/h-matsuo/uBlacklist-subscription-for-developer.git source/h-matsuo/uBlacklist-subscription-for-developer
-        git clone --depth 1 https://github.com/littleserendipity/uBlacklist-Subscription.git source/littleserendipity/uBlacklist-Subscription
-        git clone --depth 1 https://github.com/liubiantao/uBlacklist-Websites.git source/liubiantao/uBlacklist-Websites
-        git clone --depth 1 https://github.com/nonPointer/uBlacklist-Subscription.git source/nonPointer/uBlacklist-Subscription
-        # git clone --depth 1 https://github.com/scyrte/uBlacklist-Subscription.git source/scyrte/uBlacklist-Subscription
-        git clone --depth 1 https://github.com/xNathan/uBlacklist-subscription.git source/xNathan/uBlacklist-subscription
-        git clone --depth 1 https://github.com/arosh/ublacklist-stackoverflow-translation.git source/arosh/ublacklist-stackoverflow-translation
-        # git clone --depth 1 https://github.com/DivineEngine/uBlacklist.git source/DivineEngine/uBlacklist
-        git clone --depth 1 https://github.com/dallaslu/penzai-list.git source/dallaslu/penzai-list
-        git clone --depth 1 https://github.com/eallion/uBlacklist-Subscription.git source/eallion/uBlacklist-Subscription
-        # git clone --depth 1 https://github.com/yangjingchuang/ublacklist-subscription.git source/yangjingchuang/ublacklist-subscription
+        submodules: recursive
 
     - name: Merge txt
       run: |
-        cp source/gyli/Blocklist/BLOCKLIST source/gyli/Blocklist/blocklist.txt
+        cp source/gyli/Blocklist/BLOCKLIST_uBlacklist source/gyli/Blocklist/blocklist.txt
         rm uBlacklist.txt
         rm uBlocklist.txt
         rm tools/uBlacklist_backup.txt
@@ -63,6 +37,7 @@ jobs:
         echo " Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
         find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
         rm source/gyli/Blocklist/blocklist.txt
+        rm source/Paxxs/Google-Blocklist/data -rf
         rm time.txt
         cd tools
         mv uBlacklist uBlacklist.txt
@@ -72,37 +47,16 @@ jobs:
         cd ..
         ln -s uBlacklist.txt uBlocklist.txt
 
-    - name: Commit files
+    - name: Get Time
       run: |
-        git add -u
-        git reset -- source/*
-        git commit -m "ci(build): update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")"
-        git remote set-url --add --push origin https://$MY_SECRET@github.com/eallion/uBlacklist-subscription-compilation.git
-        git push origin main -f
-        echo 🤘 Update complete.
+        echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV
 
-#    - name: Upload to COS via COSCLI
-#      run: |
-#        wget https://github.com/tencentyun/coscli/releases/download/v0.10.2-beta/coscli-linux -qO coscli
-#        chmod 755 coscli
-#        cp tools/.cos.yaml ~/.cos.yaml
-#        sed -i 's/TENCENT_CLOUD_SECRET_ID/${{ secrets.TENCENT_CLOUD_SECRET_ID }}/g' ~/.cos.yaml
-#        sed -i 's/TENCENT_CLOUD_SECRET_KEY/${{ secrets.TENCENT_CLOUD_SECRET_KEY }}/g' ~/.cos.yaml
-#        sed -i 's/TENCENT_CLOUD_BUCKETS/${{ secrets.TENCENT_CLOUD_BUCKETS }}/g' ~/.cos.yaml
-#        ./coscli sync uBlacklist.txt cos://${{ secrets.TENCENT_CLOUD_BUCKETS }}/uBlacklist.txt -c ~/.cos.yaml
-
-#    - name: Upload to COS
-#      uses: zkqiang/tencent-cos-action@v0.1.0
-#      with:
-#        args: delete -f uBlacklist.txt && upload -rs uBlacklist.txt / -H "{'content-type':'text/plain;charset=utf-8'}"
-#        secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
-#        secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
-#        bucket: ${{ secrets.TENCENT_CLOUD_BUCKETS }}
-#        region: ap-shanghai
-
-#    - name: Refresh CDN
-#      run: |
-#        sed -i 's/SecretId/${{ secrets.TENCENT_CLOUD_SECRET_ID }}/g' tools/cdn.go
-#        sed -i 's/SecretKey/${{ secrets.TENCENT_CLOUD_SECRET_KEY }}/g' tools/cdn.go
-#        cd tools
-#        go run cdn.go
+    - name: Commit files
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: "ci(build): update weekly at ${{ env.CURRENT_TIME }}"
+        committer_name: 'github-actions[bot]'
+        committer_email: 'github-actions[bot]@users.noreply.github.com'
+        add: |
+          'uBlacklist.txt'
+          'tools/uBlacklist_backup.txt'

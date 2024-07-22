@@ -25,12 +25,18 @@
 [submodule "source/arosh/ublacklist-stackoverflow-translation"]
 	path = source/arosh/ublacklist-stackoverflow-translation
 	url = https://github.com/arosh/ublacklist-stackoverflow-translation.git
-[submodule "source/DivineEngine/uBlacklist"]
-	path = source/DivineEngine/uBlacklist
-	url = https://github.com/DivineEngine/uBlacklist.git
 [submodule "source/dallaslu/penzai-list"]
 	path = source/dallaslu/penzai-list
 	url = https://github.com/dallaslu/penzai-list.git
-[submodule "source/iorate/ublacklist-example-subscription"]
-	path = source/iorate/ublacklist-example-subscription
-	url = https://github.com/iorate/ublacklist-example-subscription
+[submodule "source/eallion/uBlacklist-Subscription"]
+	path = source/eallion/uBlacklist-Subscription
+	url = https://github.com/eallion/uBlacklist-Subscription.git
+[submodule "source/youzeliang/uBlacklist-Subscription"]
+	path = source/youzeliang/uBlacklist-Subscription
+	url = https://github.com/youzeliang/uBlacklist-Subscription
+[submodule "source/zweie/some-rules-for-ublacklist"]
+	path = source/zweie/some-rules-for-ublacklist
+	url = https://github.com/zweie/some-rules-for-ublacklist
+[submodule "source/Paxxs/Google-Blocklist"]
+	path = source/Paxxs/Google-Blocklist
+	url = https://github.com/Paxxs/Google-Blocklist
