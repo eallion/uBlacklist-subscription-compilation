@@ -5,3 +5,6 @@
 @*://*.cnblogs.com/*
 @*://*.nga.cn/*
 @*://*.right.com.cn/*
+@*://.android.com/*
+@*://.microsoft.com/*
+@*://.gov.cn/*
