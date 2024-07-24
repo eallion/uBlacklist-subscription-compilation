@@ -108,7 +108,19 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 
 ### 添加/删除 域名
 
-> 少量域名，请在自己浏览器插件的常规设置中添加即可。
+##### 1. 插件设置
+
+少量域名，请在自己浏览器插件的 `常规` 设置中添加即可，在行首添加 `@` 符号可取消屏蔽：
+
+```
+# 加入屏蔽
+*://*.baidu.com/*
+
+# 取消屏蔽
+@*://*.baidu.com/*
+```
+
+##### 2. 提交 URL
 
 如有需求添加、删除域名，请至 [eallion/uBlacklist-Subscription](https://github.com/eallion/uBlacklist-Subscription) 提交 PR。  
 
