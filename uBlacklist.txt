@@ -1,44 +1,4 @@
 
- Update weekly at 2024-07-22 23:46:30 UTC+0800
-! Description: Filters that enable excluding the machine-translated sites of Stack Overflow in Firefox for Android
-! Expires: 1 day (update frequency)
-! Homepage: https://github.com/arosh/ublacklist-stackoverflow-translation
-! License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
-! Title: uBlacklist Stack Overflow Translation
-### AD ###
-### Content Farm ###
-### F**king Forgery ###
-### Scalper ###
-### Suspicious ###
-### Unable to access ###
-#### 倒卖狗 ####
-####### 仿冒网站 #######
-##########
-#############
-#############  (These websites may contain malicious programs) ############
-###############
-##################
-####################
-#######################
-########################
-######################### Software download sites #########################
-#############################
-###########################################################################
-###防止误杀###
-#/((m|wap)\.)+([^\s]*)/
-#18.141.160.82
-#45.207.61.193
-#62.234.115.194
-#cn.voidcc.com
-#de.jbckj.com
-#eu.fwbdl.com
-#kb.kutu66.com
-#qa.1r1g.com
-#yx.kbjcuiru.com
-#屏蔽ip搜索结果
-#屏蔽移动端网页
-#屏蔽纯数字网址
-#屏蔽非加密网站
 *:/*.jimowang.com/*
 *://*.0001113.com/*
 *://*.0001403.cn/*
@@ -91607,15 +91567,11 @@
 @*://*.edu.cn/*
 @*://*.edu/*
 @*://*.facebook.com/*
-@*://*.google.com/* 
 @*://*.joyk.com/*
 @*://*.tspweb.com/*
-@*://369369.xyz/* 
 @*://answers.microsoft.com/*
 @*://baike.baidu.com/*
-@*://sites.google.com/* 
 @*://www.landiannews.com/*
-@*://www.zhihu.com/* 
 [uBlock Origin]
 a1fz.com
 a372.cn
@@ -94891,4 +94847,10 @@ zz759.com
 zzhesheng.com
 zzjwcf.com
 zzyyo.com
-​https://www.koubeiblog.com/pglang/9a3d4fa4e0b064385d433238bbd6d5ad.html
+​https://www.koubeiblog.com/pglang/9a3d4fa4e0b064385d433238bbd6d5ad.html@*://*.zhihu.com/* 
+@*://*.google.com/* 
+@*://*.369369.xyz/* 
+@*://*.baiyun-hotel.com/*
+@*://*.cnblogs.com/*
+@*://*.nga.cn/*
+@*://*.right.com.cn/*

@@ -1,4 +1,7 @@
-@*://www.zhihu.com/* 
+@*://*.zhihu.com/* 
 @*://*.google.com/* 
-@*://sites.google.com/* 
-@*://369369.xyz/* 
+@*://*.369369.xyz/* 
+@*://*.baiyun-hotel.com/*
+@*://*.cnblogs.com/*
+@*://*.nga.cn/*
+@*://*.right.com.cn/*

@@ -33,20 +33,24 @@ jobs:
         rm uBlacklist.txt
         rm uBlocklist.txt
         rm tools/uBlacklist_backup.txt
-        touch time.txt
-        echo " Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
+        mv reverse_url.txt tools/reverse_url
         find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
         rm source/gyli/Blocklist/blocklist.txt
         rm source/Paxxs/Google-Blocklist/data -rf
+
         # Issue # 48
         sed -i '/^http:\/\//d' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
-        rm time.txt
+
         cd tools
         mv uBlacklist uBlacklist.txt
         go run main.go
         cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
         cd ..
+        sed -i '/^#/d' uBlacklist.txt
+        sed -i '/^!/d' uBlacklist.txt
+        cat tools/reverse_url >> uBlacklist.txt
+        sed -i "1i\! Update weekly at $(TZ=UTC-8 date +'%Y-%m-%d %T %z')" uBlacklist.txt
         ln -s uBlacklist.txt uBlocklist.txt
 
     - name: Get Time
