@@ -1,4 +1,4 @@
-! Update weekly at 2024-07-25 21:38:58 +0800
+! Update weekly at 2024-07-25 22:38:41 +0800
 
 *:/*.jimowang.com/*
 *://*.0001113.com/*
@@ -94293,6 +94293,7 @@ zzyyo.com
 @*://*.cnblogs.com/*
 @*://*.nga.cn/*
 @*://*.right.com.cn/*
-@*://.android.com/*
-@*://.microsoft.com/*
-@*://.gov.cn/*
+@*://*.android.com/*
+@*://*.microsoft.com/*
+@*://*.gov.cn/*
+@*://*.freecodecamp.org/*
