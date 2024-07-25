@@ -31,9 +31,6 @@
 [submodule "source/eallion/uBlacklist-Subscription"]
 	path = source/eallion/uBlacklist-Subscription
 	url = https://github.com/eallion/uBlacklist-Subscription.git
-[submodule "source/youzeliang/uBlacklist-Subscription"]
-	path = source/youzeliang/uBlacklist-Subscription
-	url = https://github.com/youzeliang/uBlacklist-Subscription
 [submodule "source/zweie/some-rules-for-ublacklist"]
 	path = source/zweie/some-rules-for-ublacklist
 	url = https://github.com/zweie/some-rules-for-ublacklist
