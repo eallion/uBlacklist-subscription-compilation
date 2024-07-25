@@ -1,4 +1,4 @@
-! Update weekly at 2024-07-24 20:31:52 +0800
+! Update weekly at 2024-07-25 21:38:58 +0800
 
 *:/*.jimowang.com/*
 *://*.0001113.com/*
@@ -213,7 +213,6 @@
 *://*.00sheng.com/*
 *://*.00sqq.com/*
 *://*.00svb.com/*
-*://*.00ww99.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
 *://*.010100010.cn/*
@@ -396,6 +395,7 @@
 *://*.0212088.com/*
 *://*.021as.com/*
 *://*.021dxb.com/*
+*://*.021east.com/*
 *://*.021gj.cn/*
 *://*.021lyj.com/*
 *://*.021nkzx.com/*
@@ -841,7 +841,6 @@
 *://*.047023.cn/*
 *://*.0470h.net/*
 *://*.0471jiankang.com/*
-*://*.0471sl.com/*
 *://*.047213.cn/*
 *://*.047224.com/*
 *://*.04723.cn/*
@@ -1184,7 +1183,6 @@
 *://*.0690691.info/*
 *://*.069124.com/*
 *://*.069666.com/*
-*://*.06ak.com/*
 *://*.06hg0088.com/*
 *://*.06hj.com/*
 *://*.06q06q.com/*
@@ -1801,7 +1799,6 @@
 *://*.100mlady.com/*
 *://*.100mlink.com/*
 *://*.100njk.com/*
-*://*.100qiming.com/*
 *://*.100suncity.net/*
 *://*.100tiao1.net/*
 *://*.100tobuy.com.cn/*
@@ -2459,7 +2456,6 @@
 *://*.136tmce.com/*
 *://*.137.175.17.86/*
 *://*.137138193.com/*
-*://*.13714.com/*
 *://*.13718227440.com/*
 *://*.137338a.com/*
 *://*.137401.com/*
@@ -2919,7 +2915,6 @@
 *://*.16ty.com/*
 *://*.16uha.com/*
 *://*.16zijia.com/*
-*://*.17-81.dance/*
 *://*.1701127.cn/*
 *://*.170130.com/*
 *://*.170654.com/*
@@ -3017,7 +3012,6 @@
 *://*.17jita.com/*
 *://*.17js.com/*
 *://*.17junlin.com/*
-*://*.17k.com/*
 *://*.17lshop.com/*
 *://*.17m.info/*
 *://*.17mz.net/*
@@ -3341,7 +3335,6 @@
 *://*.1p9e.info/*
 *://*.1phouse.com/*
 *://*.1pifa.net/*
-*://*.1point3acres.com/*
 *://*.1ptc.cn/*
 *://*.1pyy.com/*
 *://*.1q2c.com/*
@@ -3349,7 +3342,6 @@
 *://*.1qplay.com/*
 *://*.1qqz.com/*
 *://*.1qsd.com/*
-*://*.1qxs.com/*
 *://*.1qzd.com/*
 *://*.1r1g.cn/*
 *://*.1r1g.com/*
@@ -3950,10 +3942,8 @@
 *://*.23cpc.com/*
 *://*.23cpm.com/*
 *://*.23e8.com/*
-*://*.23hh.co/*
 *://*.23hw.me/*
 *://*.23ker.com/*
-*://*.23qb.com/*
 *://*.23scg.cn/*
 *://*.23st.cc/*
 *://*.23tm.com/*
@@ -4839,7 +4829,6 @@
 *://*.31ask.com/*
 *://*.31cr.net/*
 *://*.31d3.com/*
-*://*.31dv.com/*
 *://*.3200w.com/*
 *://*.3201148.cn/*
 *://*.32055.net/*
@@ -5357,7 +5346,6 @@
 *://*.365bet820.com/*
 *://*.365bet89.com/*
 *://*.365betvip.cc/*
-*://*.365bzj.com/*
 *://*.365clique.com/*
 *://*.365diy.net/*
 *://*.365dxpt.com/*
@@ -5427,7 +5415,6 @@
 *://*.36h5.com/*
 *://*.36ho.com/*
 *://*.36mscc.com/*
-*://*.36qm.com/*
 *://*.36sbo.com/*
 *://*.36sbvip.com/*
 *://*.36wi.com/*
@@ -5634,7 +5621,6 @@
 *://*.38txt.org/*
 *://*.38vh.net/*
 *://*.38wlw.com/*
-*://*.38xs.com/*
 *://*.39.net/*
 *://*.3900w.com/*
 *://*.39011.com/*
@@ -5725,7 +5711,6 @@
 *://*.39msc.com/*
 *://*.39q.org/*
 *://*.39u.org/*
-*://*.39zn.cn/*
 *://*.3a4.org/*
 *://*.3a8.org/*
 *://*.3abug.com/*
@@ -5765,7 +5750,6 @@
 *://*.3dmdvx.cn/*
 *://*.3dmgame.com/*
 *://*.3doss.com/*
-*://*.3dprinting3dmodel.com/*
 *://*.3dqsjhjmgzm8.com/*
 *://*.3dqvod.com/*
 *://*.3dream365.com/*
@@ -6944,7 +6928,6 @@
 *://*.4yepi.com/*
 *://*.4ykh.cn/*
 *://*.4youandyours.buzz/*
-*://*.4yt.net/*
 *://*.4z1.org/*
 *://*.4zai.com/*
 *://*.4zei.com/*
@@ -7135,7 +7118,6 @@
 *://*.517mcx.com/*
 *://*.517mg.com/*
 *://*.517mhd.com/*
-*://*.517ming.com/*
 *://*.517tez.com/*
 *://*.517tuan.net/*
 *://*.517xian.cn/*
@@ -7204,7 +7186,6 @@
 *://*.51educator.com/*
 *://*.51enet.cc/*
 *://*.51erduo.com/*
-*://*.51eshu.com/*
 *://*.51etong.com/*
 *://*.51fangguan.com/*
 *://*.51fcjy.net/*
@@ -7504,7 +7485,6 @@
 *://*.52sbl.cn/*
 *://*.52shangxuewang.com/*
 *://*.52shjt.com/*
-*://*.52shuku.vip/*
 *://*.52sjgh.com/*
 *://*.52sk2.org/*
 *://*.52station.com/*
@@ -7532,7 +7512,6 @@
 *://*.52yxgl.com/*
 *://*.52z.com/*
 *://*.52zd.com/*
-*://*.52zhbb.com/*
 *://*.52zhfj.com/*
 *://*.52zkpd.com/*
 *://*.52zrm.com/*
@@ -7925,7 +7904,6 @@
 *://*.56-nj.com/*
 *://*.56-s.com/*
 *://*.56.cc/*
-*://*.560022.com/*
 *://*.5600w.cn/*
 *://*.5601919.cn/*
 *://*.5605.com/*
@@ -9592,14 +9570,12 @@
 *://*.69msc.com/*
 *://*.69pl.com/*
 *://*.69rd.com/*
-*://*.69shuba.com/*
 *://*.69su.com/*
 *://*.6a.am/*
 *://*.6a15.com/*
 *://*.6a5k.com/*
 *://*.6a9.org/*
 *://*.6aw.net.cn/*
-*://*.6azw.com/*
 *://*.6b7.org/*
 *://*.6b9.org/*
 *://*.6ba.net.cn/*
@@ -9626,7 +9602,6 @@
 *://*.6g3.org/*
 *://*.6gggggg.com/*
 *://*.6gvz.com/*
-*://*.6gxs.net/*
 *://*.6h98.com/*
 *://*.6h99.info/*
 *://*.6haoji.com/*
@@ -9816,7 +9791,6 @@
 *://*.719sg.com/*
 *://*.71down.com/*
 *://*.71edu.com.cn/*
-*://*.71ge.com/*
 *://*.71gv.net/*
 *://*.71i7b4.cn/*
 *://*.71itservice.com/*
@@ -9888,7 +9862,6 @@
 *://*.7296966.com/*
 *://*.7297366.com/*
 *://*.7297966.com/*
-*://*.729ly.net/*
 *://*.729sg.com/*
 *://*.729vapk.com/*
 *://*.72mg.com/*
@@ -10003,7 +9976,6 @@
 *://*.745bajq.com/*
 *://*.745oxet.com/*
 *://*.7465hy.com/*
-*://*.74671375.dk/*
 *://*.7474.info/*
 *://*.747998.com/*
 *://*.747qwph.com/*
@@ -10776,7 +10748,6 @@
 *://*.80nsb.com/*
 *://*.80topic.cn/*
 *://*.80topic.com/*
-*://*.80wz.com/*
 *://*.8102588.com/*
 *://*.8107088.com/*
 *://*.8107188.com/*
@@ -10975,7 +10946,6 @@
 *://*.829mnai.com/*
 *://*.829qomh.com/*
 *://*.82guobo.com/*
-*://*.82ky.com/*
 *://*.82tt.org/*
 *://*.82y14b6a.cn/*
 *://*.82yqb.cn/*
@@ -11061,7 +11031,6 @@
 *://*.83pjy.com/*
 *://*.83sunccity.com/*
 *://*.83suncityy.com/*
-*://*.83zg.net/*
 *://*.840228.net/*
 *://*.840367.com/*
 *://*.840666.com/*
@@ -11207,7 +11176,6 @@
 *://*.85ja.com/*
 *://*.85jz.com/*
 *://*.85msc.com/*
-*://*.85novel.com/*
 *://*.85os.com/*
 *://*.85sbvip.com/*
 *://*.860423.com/*
@@ -11639,7 +11607,6 @@
 *://*.8880k.com/*
 *://*.888132.net/*
 *://*.88817588.cn/*
-*://*.8882088.com/*
 *://*.88822007.com/*
 *://*.88825.com/*
 *://*.88832828.com/*
@@ -11689,7 +11656,6 @@
 *://*.888hghg.com/*
 *://*.888maimai.com/*
 *://*.888pt.com/*
-*://*.888qmz.com/*
 *://*.888ssconline.com/*
 *://*.888sxy.com/*
 *://*.888v.org/*
@@ -12358,7 +12324,6 @@
 *://*.92ysflw.com/*
 *://*.92yuedu.com/*
 *://*.92yuer.com/*
-*://*.93.77/*
 *://*.930333.com/*
 *://*.930618.com/*
 *://*.93093c.com/*
@@ -12412,7 +12377,6 @@
 *://*.938ntjc.com/*
 *://*.9393983.cn/*
 *://*.9397365.com/*
-*://*.93cool.com/*
 *://*.93djkk.com/*
 *://*.93guomao.com/*
 *://*.93hx6h.cn/*
@@ -12989,7 +12953,6 @@
 *://*.99bike.net/*
 *://*.99bizhi.com/*
 *://*.99caipiaoyl.cn/*
-*://*.99csw.com/*
 *://*.99cvbet.com/*
 *://*.99daode.com/*
 *://*.99dianxianw.com/*
@@ -13136,7 +13099,6 @@
 *://*.9y5it.info/*
 *://*.9yaprak.com/*
 *://*.9ykmd.com/*
-*://*.9yread.com/*
 *://*.9yx2g.com/*
 *://*.9yyu.com/*
 *://*.9z8cc.info/*
@@ -13456,7 +13418,6 @@
 *://*.accounting-products.buzz/*
 *://*.accountingjobsite.buzz/*
 *://*.accusearchrecovery.com/*
-*://*.acdbook.top/*
 *://*.acdfv.com/*
 *://*.acdmart.com/*
 *://*.acdnuehm.net/*
@@ -14121,7 +14082,6 @@
 *://*.aidingbaobei.com/*
 *://*.aidouzai.com/*
 *://*.aidu.tk/*
-*://*.aidynamic.com/*
 *://*.aiee.net.cn/*
 *://*.aier0917.com/*
 *://*.aierkat.org/*
@@ -14843,7 +14803,6 @@
 *://*.andreusuay.com/*
 *://*.andrewevdokimov.com/*
 *://*.android-tablet-comparison-world.com/*
-*://*.android.com/*
 *://*.android100.org/*
 *://*.androidcookie.com/*
 *://*.androide.com.cn/*
@@ -15261,7 +15220,6 @@
 *://*.app.24bjl.com/*
 *://*.app.wapiknow.baidu.com/*
 *://*.app100860.com/*
-*://*.appadvice.com/*
 *://*.appcheers.com/*
 *://*.appdzw.com/*
 *://*.appike.com/*
@@ -15326,7 +15284,6 @@
 *://*.aqksh.com/*
 *://*.aqlgw.top/*
 *://*.aqlianfa.com/*
-*://*.aqm666.com/*
 *://*.aqmdjx.com/*
 *://*.aqnyzs.com/*
 *://*.aqpacks.com/*
@@ -15528,7 +15485,6 @@
 *://*.asiannexus.buzz/*
 *://*.asians-xxx.buzz/*
 *://*.asiantone.com/*
-*://*.asiapornos.net/*
 *://*.asiatechcorp.com/*
 *://*.asiatvro.com/*
 *://*.asiayili.com/*
@@ -15822,7 +15778,6 @@
 *://*.axabio.info/*
 *://*.axbjkdlaw.com/*
 *://*.axbnhz.info/*
-*://*.axbxw.com/*
 *://*.axchay.com/*
 *://*.axdnhyhy.com/*
 *://*.axfethez.cn/*
@@ -16171,7 +16126,6 @@
 *://*.baijiaw.com/*
 *://*.baijinhuiyulechengsvip.com/*
 *://*.baijinkk.com/*
-*://*.baijunyao.com/*
 *://*.baikce.cn/*
 *://*.baike.so.com/*
 *://*.baikeav.com/*
@@ -16448,7 +16402,6 @@
 *://*.baswiss.com/*
 *://*.batfish681.com/*
 *://*.bathnet.cn/*
-*://*.bathroomaccessoriessingapore.com/*
 *://*.batondemo.com/*
 *://*.batongka.com/*
 *://*.batou.ml/*
@@ -16507,7 +16460,6 @@
 *://*.bbbee.cc/*
 *://*.bbbgy.com/*
 *://*.bbbknobs.com/*
-*://*.bbc.com/*
 *://*.bbc.net/*
 *://*.bbclh.com/*
 *://*.bbdhzl.com/*
@@ -16638,7 +16590,6 @@
 *://*.bchvak.info/*
 *://*.bchxe.com/*
 *://*.bciip.bid/*
-*://*.bcinfonet.com/*
 *://*.bcjkz.cn/*
 *://*.bckgy.cn/*
 *://*.bckvuufm.com/*
@@ -16815,7 +16766,6 @@
 *://*.beaniebiz.buzz/*
 *://*.bearguidealaska.com/*
 *://*.beastshop.co.nz/*
-*://*.beatdropapp.com/*
 *://*.beau-max.com.tw/*
 *://*.beaubeauplaza.cn/*
 *://*.beautiesinbirthdaysuits.com/*
@@ -16924,7 +16874,6 @@
 *://*.bendaonet.com/*
 *://*.benddance.us/*
 *://*.bendi9.com/*
-*://*.bendibao.com/*
 *://*.bendizai.com/*
 *://*.benefitenergy.cn/*
 *://*.benestat.buzz/*
@@ -17485,7 +17434,6 @@
 *://*.bidesisy.com/*
 *://*.bidikai.com/*
 *://*.bidri-sz.com/*
-*://*.bidrocker.com/*
 *://*.bidyourdates.com/*
 *://*.bieba.cc/*
 *://*.bieguolaia.com/*
@@ -17603,16 +17551,11 @@
 *://*.biosafehome.com/*
 *://*.biotech598.com/*
 *://*.biotradefair.buzz/*
-*://*.biqubao1.com/*
-*://*.biqubao2.com/*
-*://*.biqubao3.com/*
-*://*.biqubao7.com/*
 *://*.biquge.cn/*
 *://*.biquge.com.tw/*
 *://*.biquge.li/*
 *://*.biquge.tw/*
 *://*.biqugedd.com/*
-*://*.biquka2.com/*
 *://*.birdyjnm.net/*
 *://*.bireifoods.com/*
 *://*.birkap.com.tr/*
@@ -17970,8 +17913,6 @@
 *://*.bjmyxxw.com/*
 *://*.bjmyzx.cn/*
 *://*.bjnait.com/*
-*://*.bjname.com/*
-*://*.bjnovel.cn/*
 *://*.bjntzlw.com/*
 *://*.bjnvc.com/*
 *://*.bjoceanroad.com/*
@@ -18299,7 +18240,6 @@
 *://*.blabmy.com/*
 *://*.blackandgoldarchers.co.uk/*
 *://*.blackbiatches.com/*
-*://*.blackgirlsvolley.com/*
 *://*.blackjackqiong.cn/*
 *://*.blackmesatrading.buzz/*
 *://*.blackorchardleather.com/*
@@ -18655,10 +18595,8 @@
 *://*.bookren.com/*
 *://*.bookresource.net/*
 *://*.books-list.com/*
-*://*.books.com.tw/*
 *://*.booksheji.com/*
 *://*.bookstack.cn/*
-*://*.bookzhuishu.com/*
 *://*.bookzxa.com/*
 *://*.boomerturnons.com/*
 *://*.boooleee.com/*
@@ -19048,7 +18986,6 @@
 *://*.bsxgk.cn/*
 *://*.bsxgm.cn/*
 *://*.bsxhy.cn/*
-*://*.bsxiaoshuo.com/*
 *://*.bsxing.com/*
 *://*.bsxjjd.com/*
 *://*.bsxjzz.com/*
@@ -20072,7 +20009,6 @@
 *://*.cangboyule.com/*
 *://*.canger.org/*
 *://*.cangerziz.com/*
-*://*.cangguyan.com/*
 *://*.canghaige.com/*
 *://*.cangige.com/*
 *://*.cangkool.com/*
@@ -20090,7 +20026,6 @@
 *://*.canyayin.com/*
 *://*.canyin168.com/*
 *://*.canyingpai.com/*
-*://*.cao.go.jp/*
 *://*.cao0006.com/*
 *://*.cao2048.com/*
 *://*.caoaaa.com/*
@@ -20426,7 +20361,6 @@
 *://*.ccjjjj.cn/*
 *://*.ccjkw9.com/*
 *://*.cckaxy.com/*
-*://*.cckka.cn/*
 *://*.cckmqc.com/*
 *://*.ccmcy.cn/*
 *://*.ccmfyz.com/*
@@ -20481,7 +20415,6 @@
 *://*.ccty119.com/*
 *://*.cctycyy.com/*
 *://*.cctyey.com/*
-*://*.ccufs.com/*
 *://*.cculup.com/*
 *://*.ccunion.cn/*
 *://*.ccvic.com/*
@@ -20571,7 +20504,6 @@
 *://*.cdbj360.com/*
 *://*.cdbkhg.com/*
 *://*.cdbocai.com/*
-*://*.cdbooks.cn/*
 *://*.cdbopf.com/*
 *://*.cdbqgzdl.com/*
 *://*.cdbrqc.com/*
@@ -20603,7 +20535,6 @@
 *://*.cdchangjie.com/*
 *://*.cdchdq.cn/*
 *://*.cdchengyang.com/*
-*://*.cdclib.org/*
 *://*.cdcooling.com/*
 *://*.cdcoolpad.com/*
 *://*.cdcummins.com/*
@@ -20821,7 +20752,6 @@
 *://*.cedu.es/*
 *://*.cedwegb.net/*
 *://*.ceec.cd/*
-*://*.ceec.cn/*
 *://*.ceenpx.com/*
 *://*.cefa8.com/*
 *://*.cefotiam.com/*
@@ -21058,7 +20988,6 @@
 *://*.cglap.cn/*
 *://*.cglclw.icu/*
 *://*.cglhl.com/*
-*://*.cglhub.com/*
 *://*.cgm7777.com.cn/*
 *://*.cgmwc.com/*
 *://*.cgohh.com/*
@@ -21128,7 +21057,6 @@
 *://*.changdadiaoche.com/*
 *://*.changdaozx.com/*
 *://*.changdehc.com/*
-*://*.changdunovel.com/*
 *://*.changfengadd.com/*
 *://*.changfengzx.com/*
 *://*.changfu-sh.com/*
@@ -21148,7 +21076,6 @@
 *://*.changqingxianzx.com/*
 *://*.changruiwuliu.com/*
 *://*.changsha-56.com/*
-*://*.changsha.cn/*
 *://*.changshabd.com/*
 *://*.changshenginstrument.com/*
 *://*.changteng999.com/*
@@ -21619,7 +21546,6 @@
 *://*.chinawebonline.buzz/*
 *://*.chinaweiyuan.net.cn/*
 *://*.chinawgo.com/*
-*://*.chinawriter.com.cn/*
 *://*.chinaxb120.net/*
 *://*.chinaxiaxiu.com/*
 *://*.chinaxinge.com/*
@@ -21636,7 +21562,6 @@
 *://*.chinayuantu.com/*
 *://*.chinayufei.com/*
 *://*.chinayzwm.com/*
-*://*.chinaz.com/*
 *://*.chinazaocan.com/*
 *://*.chinazcjt.com/*
 *://*.chinazhaokao.com/*
@@ -21797,7 +21722,6 @@
 *://*.chuiy.info/*
 *://*.chuiyichui.cn/*
 *://*.chujialb.net/*
-*://*.chulian.cn/*
 *://*.chuliao.org/*
 *://*.chuliu800.com/*
 *://*.chulonggroup.com/*
@@ -21916,7 +21840,6 @@
 *://*.ciqi.gq/*
 *://*.ciqizg.com/*
 *://*.circlecircle.cc/*
-*://*.circuitbarn.com/*
 *://*.circus-square.buzz/*
 *://*.ciri.org.cn/*
 *://*.cirteus.com/*
@@ -22051,7 +21974,6 @@
 *://*.ckkl.net/*
 *://*.cklmrpm.cn/*
 *://*.ckln.net/*
-*://*.ckmnba.cn/*
 *://*.ckrsx.com/*
 *://*.ckshishang.com/*
 *://*.cktaa.com/*
@@ -22313,7 +22235,6 @@
 *://*.cnctui.com/*
 *://*.cncyjm.com/*
 *://*.cncyxx.com/*
-*://*.cnd.org/*
 *://*.cnd1wx.com/*
 *://*.cnd2000.net/*
 *://*.cnd589.com/*
@@ -22499,7 +22420,6 @@
 *://*.cnshuangfu.com/*
 *://*.cnsjele.com/*
 *://*.cnskypc.com/*
-*://*.cnsm123.cn/*
 *://*.cnsno.com/*
 *://*.cnsoc.org/*
 *://*.cnsodian.com/*
@@ -22507,7 +22427,6 @@
 *://*.cnsolver.com/*
 *://*.cnspcc.com/*
 *://*.cnspjs.com/*
-*://*.cnspofame.com/*
 *://*.cnsportsmedia.com/*
 *://*.cnssaw.com/*
 *://*.cnssfj.com/*
@@ -22675,7 +22594,6 @@
 *://*.collegefinancialfunding.com/*
 *://*.collex-carpc.com/*
 *://*.collingwoodmusic.com/*
-*://*.collinsdictionary.com/*
 *://*.collomiaq.com/*
 *://*.colluxus.com/*
 *://*.coloradocal.com/*
@@ -22714,7 +22632,6 @@
 *://*.communemasante.org/*
 *://*.community.gni.ca/*
 *://*.commutate.net/*
-*://*.company01.com/*
 *://*.comparitech.com/*
 *://*.competeloan.com/*
 *://*.competex.nl/*
@@ -22744,7 +22661,6 @@
 *://*.congjun519.com/*
 *://*.conglin.net.cn/*
 *://*.conglue.top/*
-*://*.congnange.com/*
 *://*.congrong228.com/*
 *://*.congyang1.com/*
 *://*.conjj.com/*
@@ -23215,7 +23131,6 @@
 *://*.cqysd.cn/*
 *://*.cqysd.net/*
 *://*.cqytc.com/*
-*://*.cqyti.com/*
 *://*.cqyuhui.net/*
 *://*.cqyunyang.com/*
 *://*.cqyyljx.com/*
@@ -23263,7 +23178,6 @@
 *://*.creamm.net/*
 *://*.createandcase.com/*
 *://*.creation-bm.com/*
-*://*.creation.com.tw/*
 *://*.creativem50.com/*
 *://*.creatv.cfd/*
 *://*.crece.cn/*
@@ -23513,7 +23427,6 @@
 *://*.ctdkm.cn/*
 *://*.ctdsxqmn.net/*
 *://*.ctdwg.cn/*
-*://*.ctee.com.tw/*
 *://*.ctenelnh.com/*
 *://*.ctezla.com/*
 *://*.ctfhx.cn/*
@@ -23525,7 +23438,6 @@
 *://*.ctgfz.cn/*
 *://*.ctghz.com/*
 *://*.ctgongyi.com/*
-*://*.ctgqj.com/*
 *://*.ctgqqcj.cn/*
 *://*.ctgtp.com/*
 *://*.cti400.net/*
@@ -23589,7 +23501,6 @@
 *://*.cuimingzhuanghotel.com.cn/*
 *://*.cuishihuishou.com/*
 *://*.cuishilin.com/*
-*://*.cuisiliu.net/*
 *://*.cuiwei-bj.com/*
 *://*.cuiyuncao.com/*
 *://*.cujcu.com/*
@@ -23888,7 +23799,6 @@
 *://*.cybermedicine2000.com/*
 *://*.cyberonion.com/*
 *://*.cybfjc.com/*
-*://*.cybozu.io/*
 *://*.cyc589.com/*
 *://*.cycgk.cn/*
 *://*.cycks.cn/*
@@ -23932,7 +23842,6 @@
 *://*.cynicalwoman.com/*
 *://*.cynmb.com/*
 *://*.cyntkj.com/*
-*://*.cyol.com/*
 *://*.cyonael.com/*
 *://*.cypxyy.com/*
 *://*.cyqq.info/*
@@ -24007,7 +23916,6 @@
 *://*.czapollo.com/*
 *://*.czbeijian.com/*
 *://*.czbfd.cn/*
-*://*.czbooks.net/*
 *://*.czboyuan.com/*
 *://*.czbtm.cn/*
 *://*.czchem.com.cn/*
@@ -24352,7 +24260,6 @@
 *://*.dajihuixianjin.cn/*
 *://*.dajinprinting.com/*
 *://*.dajinxsyl90.club/*
-*://*.dajiwu.com/*
 *://*.dajobrinkman.net/*
 *://*.dajqi.com/*
 *://*.dajsy.com/*
@@ -24416,7 +24323,6 @@
 *://*.danetsoft.com/*
 *://*.danfanf.com/*
 *://*.danfengfushi.com/*
-*://*.dangdang.com/*
 *://*.dangdang369.com/*
 *://*.danggai.net/*
 *://*.dangjiancn.com/*
@@ -24600,7 +24506,6 @@
 *://*.db8l0caq.com/*
 *://*.db92.top/*
 *://*.dbang-tech.com/*
-*://*.dbaplus.cn/*
 *://*.dbbsfs.cn/*
 *://*.dbcbv.com/*
 *://*.dbccb.com.cn/*
@@ -24781,7 +24686,6 @@
 *://*.ddroute.com/*
 *://*.ddsb.cn/*
 *://*.ddshengda.com/*
-*://*.ddshu.net/*
 *://*.ddsrf.cn/*
 *://*.ddsulian.com/*
 *://*.ddsya.com/*
@@ -24793,7 +24697,6 @@
 *://*.ddvweb.com/*
 *://*.ddxhv.com/*
 *://*.ddxinwen.com/*
-*://*.ddxsss.com/*
 *://*.ddxwzx.com/*
 *://*.ddxy0790.com/*
 *://*.ddz000.com/*
@@ -25277,7 +25180,6 @@
 *://*.dgysjy.com/*
 *://*.dgyueyang.com/*
 *://*.dgyyk.cc/*
-*://*.dgzcgs.com/*
 *://*.dgzdhsb.com/*
 *://*.dgzefu.com/*
 *://*.dgzgame.com/*
@@ -25921,7 +25823,6 @@
 *://*.dnxtw.com/*
 *://*.dnxwm.com/*
 *://*.dnxzesj.cn/*
-*://*.dny123.com/*
 *://*.dnyyey.com/*
 *://*.do1czify.top/*
 *://*.do1jx6.cn/*
@@ -25992,7 +25893,6 @@
 *://*.domoj.com/*
 *://*.domy365.com/*
 *://*.don-mar.buzz/*
-*://*.donews.com/*
 *://*.dongbeicp.com/*
 *://*.dongbeihuh.com/*
 *://*.dongbeijiaozi.com/*
@@ -26116,7 +26016,6 @@
 *://*.doushanedu.cn/*
 *://*.doushixiongdi.com/*
 *://*.doutianbao.com/*
-*://*.douxhua.com/*
 *://*.douxie.cc/*
 *://*.douyile.com/*
 *://*.douyin.com/search/*
@@ -26390,7 +26289,6 @@
 *://*.dszdt.cn/*
 *://*.dt-autoequip.com/*
 *://*.dt168.cc/*
-*://*.dt2sc.net/*
 *://*.dt813.com/*
 *://*.dtaxww.com/*
 *://*.dtbiluochunc.com/*
@@ -27142,7 +27040,6 @@
 *://*.eavgjcvr.net/*
 *://*.eaygh.tw/*
 *://*.eayho.cn/*
-*://*.eayue.com/*
 *://*.eaywv.cn/*
 *://*.eayzer.com/*
 *://*.eazpay.com/*
@@ -27337,7 +27234,6 @@
 *://*.eeveb.com/*
 *://*.eevj.cn/*
 *://*.eevp.cn/*
-*://*.eexiaoshuo.co/*
 *://*.eeywi.com/*
 *://*.eeyy.com/*
 *://*.eeyymm.com/*
@@ -27566,7 +27462,6 @@
 *://*.eliwenjuan.com.cn/*
 *://*.elizabethaupton.com/*
 *://*.elizao.com/*
-*://*.elizion.org/*
 *://*.ell.com.hk/*
 *://*.ellafood.com/*
 *://*.ellceedee.buzz/*
@@ -28346,7 +28241,6 @@
 *://*.faltenglaettung.buzz/*
 *://*.falundafa.org/*
 *://*.falv351.com/*
-*://*.famic.go.jp/*
 *://*.famidoc.com/*
 *://*.family-income.buzz/*
 *://*.familycomputerusa.buzz/*
@@ -28398,7 +28292,6 @@
 *://*.fangxiaojie20082008.cn/*
 *://*.fangxinmai898.com/*
 *://*.fangxinmai98.com/*
-*://*.fangxinyidai.com/*
 *://*.fangxxjie.com/*
 *://*.fangzhircw.com/*
 *://*.fangzhixl.com/*
@@ -28411,7 +28304,6 @@
 *://*.fanlilv.com/*
 *://*.fanlinvip.com/*
 *://*.fanmengvc.com/*
-*://*.fanqienovel.com/*
 *://*.fanqiezhiz.com/*
 *://*.fanshiqiq.com/*
 *://*.fanshitea.com/*
@@ -28497,7 +28389,6 @@
 *://*.fbkcb.com/*
 *://*.fbkhf.com/*
 *://*.fbmtd.com/*
-*://*.fbook.net/*
 *://*.fbozo.com/*
 *://*.fbpcw.com/*
 *://*.fbpss.com/*
@@ -28686,7 +28577,6 @@
 *://*.feitium.org/*
 *://*.feitsled.com/*
 *://*.feiujhb.net/*
-*://*.feiwenlook.com/*
 *://*.feiwu123.com/*
 *://*.feixt.cn/*
 *://*.feixuanyangzhi.com/*
@@ -28711,10 +28601,8 @@
 *://*.fenfenwo.com/*
 *://*.feng-rong.cn/*
 *://*.feng89g8c.com/*
-*://*.fengcaikj.com/*
 *://*.fengdagroup.cn/*
 *://*.fengdu100.com/*
-*://*.fengduxiaoshuo.com/*
 *://*.fengduzx.com/*
 *://*.fengdxww.com/*
 *://*.fengeg.com/*
@@ -28743,14 +28631,12 @@
 *://*.fengmugui8.com/*
 *://*.fengnianjixie.com/*
 *://*.fengniaoweidai.com/*
-*://*.fengninxs.com/*
 *://*.fengpengwj.com/*
 *://*.fengrd.com/*
 *://*.fengrji.com/*
 *://*.fengrunzx.com/*
 *://*.fengshangxieye.com/*
 *://*.fengshanjiaju.cn/*
-*://*.fengshengbook.com/*
 *://*.fengshuibiji.com/*
 *://*.fengshunxj.net/*
 *://*.fenguotuan.com/*
@@ -28760,7 +28646,6 @@
 *://*.fengxiu.net/*
 *://*.fengyuantex.com/*
 *://*.fengyulou.com/*
-*://*.fengyundianzw.com/*
 *://*.fengyunsf.com/*
 *://*.fengzc.com/*
 *://*.fengzewang.cn/*
@@ -28834,7 +28719,6 @@
 *://*.ffulx.cn/*
 *://*.ffwvndd.cn/*
 *://*.ffwws.cn/*
-*://*.ffxs8.com/*
 *://*.ffy9118.com/*
 *://*.ffznd.cn/*
 *://*.fg.cn/*
@@ -28963,7 +28847,6 @@
 *://*.fhgsn.com/*
 *://*.fhgzq.com/*
 *://*.fhhbq.com/*
-*://*.fhhdc.org/*
 *://*.fhhfhfp.cn/*
 *://*.fhhha.com/*
 *://*.fhhhl.com/*
@@ -29286,7 +29169,6 @@
 *://*.floatbayarea.com/*
 *://*.floatime.com/*
 *://*.flogwear.buzz/*
-*://*.floorcommunity.com/*
 *://*.floridamotocrosstracks.com/*
 *://*.florienne.co.nz/*
 *://*.flourforloweringfat.com/*
@@ -29679,7 +29561,6 @@
 *://*.fs310s.com/*
 *://*.fs365.net/*
 *://*.fs3s.com/*
-*://*.fs58.com/*
 *://*.fs7000.com/*
 *://*.fs924.com/*
 *://*.fsaoyang.net/*
@@ -29702,7 +29583,6 @@
 *://*.fsedms.cn/*
 *://*.fsfengqing.cn/*
 *://*.fsfgjj.com/*
-*://*.fsfgt.cn/*
 *://*.fsfhjc.com/*
 *://*.fsfisl.men/*
 *://*.fsflbj.com/*
@@ -30415,7 +30295,6 @@
 *://*.galacticnewsone.com/*
 *://*.galanz-nj.com/*
 *://*.galaxymacau.com/*
-*://*.gale.com/*
 *://*.galhqc.com/*
 *://*.galie.top/*
 *://*.galin.top/*
@@ -30426,7 +30305,6 @@
 *://*.galy88.com/*
 *://*.gamble168.net/*
 *://*.game-encyclopedia.com/*
-*://*.game-game.com/*
 *://*.game.gdutbbs.com/*
 *://*.game.whhxsjwx.com/*
 *://*.game10000.com/*
@@ -30813,7 +30691,6 @@
 *://*.gdjych.com/*
 *://*.gdkalight.com/*
 *://*.gdkanghui.com/*
-*://*.gdkka.cn/*
 *://*.gdklsffhgkn.bid/*
 *://*.gdklsffhgkn.loan/*
 *://*.gdklsffhgkn.win/*
@@ -30889,7 +30766,6 @@
 *://*.gdwjzx.com/*
 *://*.gdwthk.com/*
 *://*.gdwuliu.net/*
-*://*.gdwxcn.com/*
 *://*.gdxdwl.com/*
 *://*.gdxilikeji.com/*
 *://*.gdxingbian.com/*
@@ -31222,7 +31098,6 @@
 *://*.ghwilovei.com/*
 *://*.ghwpx.cn/*
 *://*.ghx-wine.com/*
-*://*.ghxi.com/*
 *://*.ghyelb.club/*
 *://*.ghzmr.cn/*
 *://*.ghzoske.cn/*
@@ -31519,7 +31394,6 @@
 *://*.gmttz.com/*
 *://*.gmuzc.com/*
 *://*.gmvzm.com/*
-*://*.gmw.cn/*
 *://*.gmwcwze.cn/*
 *://*.gmxbydf.net/*
 *://*.gmxttcm62.cn/*
@@ -31560,7 +31434,6 @@
 *://*.gnzmeiw.net/*
 *://*.gnzxu.com/*
 *://*.go-bananaz.com/*
-*://*.go-reguard.com/*
 *://*.go-travels.com/*
 *://*.go.cqmmgo.com/*
 *://*.go.sma.so/*
@@ -32064,7 +31937,6 @@
 *://*.gswzs.net/*
 *://*.gsxlx.com/*
 *://*.gsxwpm.com/*
-*://*.gsydedu.com/*
 *://*.gsyjjn.com/*
 *://*.gsyw.net/*
 *://*.gsyy.com/*
@@ -32191,7 +32063,6 @@
 *://*.guangzhousx.com/*
 *://*.guangzhoutoyota-jssjq.com.cn/*
 *://*.guangzhoutuozhan.com/*
-*://*.guangzhouxianju.com/*
 *://*.guanhuigd.com/*
 *://*.guanjianren.com/*
 *://*.guanlibbs.com/*
@@ -32202,7 +32073,6 @@
 *://*.guanrenqingliubu.com/*
 *://*.guanse168.com/*
 *://*.guanshaohua.cn/*
-*://*.guanshuya.com/*
 *://*.guansiwang.net/*
 *://*.guanxbz.com/*
 *://*.guanyajx.com/*
@@ -32271,7 +32141,6 @@
 *://*.guidlings.com/*
 *://*.guifneg.net/*
 *://*.guigangmh.com/*
-*://*.guigs01.com/*
 *://*.guiguzi2008.com/*
 *://*.guihuasao.com/*
 *://*.guihuaz.com/*
@@ -32367,7 +32236,6 @@
 *://*.guolongkeji.com/*
 *://*.guolu1.com/*
 *://*.guolu999.com/*
-*://*.guomajiu.com/*
 *://*.guomeiart.com/*
 *://*.guomenxiang.com/*
 *://*.guomobile.com/*
@@ -32392,7 +32260,6 @@
 *://*.guoxim.com/*
 *://*.guoxitong.com/*
 *://*.guoxuancm.com/*
-*://*.guoxuemeng.com/*
 *://*.guoxueyx.com/*
 *://*.guoyang.xyz/*
 *://*.guoye168.com/*
@@ -32536,7 +32403,6 @@
 *://*.gxdjjjsw.net/*
 *://*.gxdlh.com/*
 *://*.gxdn.net/*
-*://*.gxdnjx.com/*
 *://*.gxdongming.com/*
 *://*.gxdsjd.com/*
 *://*.gxdwjc.com/*
@@ -33317,7 +33183,6 @@
 *://*.haishanlaishipin.com/*
 *://*.haishengsolar.com/*
 *://*.haishuwang.com/*
-*://*.haitangkan.com/*
 *://*.haitaoshequ.com/*
 *://*.haiwaiinfo.com/*
 *://*.haiwaiyungo.com/*
@@ -33465,7 +33330,6 @@
 *://*.hao63.com/*
 *://*.hao76.com/*
 *://*.hao8.net/*
-*://*.hao86.com/*
 *://*.hao8888uno.com/*
 *://*.hao88cai.com/*
 *://*.hao8m.com/*
@@ -33529,11 +33393,8 @@
 *://*.haomen98.com/*
 *://*.haomenguoji.net/*
 *://*.haomenonline.com/*
-*://*.haoming123.com/*
-*://*.haomingguan.com/*
 *://*.haomingjianshe.com/*
 *://*.haomingzheng.net/*
-*://*.haomingzi.net/*
 *://*.haopage.com/*
 *://*.haophp.net/*
 *://*.haopled.com/*
@@ -33568,8 +33429,6 @@
 *://*.haoxs123.top/*
 *://*.haoxyx.com/*
 *://*.haoya120.com/*
-*://*.haoyadacom.com/*
-*://*.haoyadx.com/*
 *://*.haoyajk.com/*
 *://*.haoyar.com/*
 *://*.haoyifu.net.cn/*
@@ -33627,8 +33486,6 @@
 *://*.hatdbj.com/*
 *://*.hatdot.com/*
 *://*.hatemt.com/*
-*://*.hatenablog.com/*
-*://*.hatenadiary.jp/*
 *://*.haterrating.com/*
 *://*.hatonmuseum.com/*
 *://*.hats-outlet.com/*
@@ -34074,7 +33931,6 @@
 *://*.hcpkz.com/*
 *://*.hcpw.mobi/*
 *://*.hcqfyj.com/*
-*://*.hcreads.cn/*
 *://*.hcrfq.top/*
 *://*.hcrxkj.com/*
 *://*.hcsiwei.com/*
@@ -34275,7 +34131,6 @@
 *://*.hebeitianmei.com/*
 *://*.hebeixinxw.com/*
 *://*.hebeiyibiao.com/*
-*://*.hebeiyuanhao.com/*
 *://*.hebeiyz.com/*
 *://*.heberfa.com/*
 *://*.hebergementwebs.com/*
@@ -34313,7 +34168,6 @@
 *://*.heebijeebi.com/*
 *://*.heelfit.nl/*
 *://*.heelquik-ec.buzz/*
-*://*.heepay.com/*
 *://*.heesl.com/*
 *://*.heexx.com/*
 *://*.hefanba.com/*
@@ -34342,7 +34196,6 @@
 *://*.heihetechan.com/*
 *://*.heihl.com/*
 *://*.heihuangguan.com/*
-*://*.heilianjie.com/*
 *://*.heiljxxw.com/*
 *://*.heilumaca.com/*
 *://*.heimaboke.com/*
@@ -34355,7 +34208,6 @@
 *://*.heiwoniu.com/*
 *://*.heixieteam.com/*
 *://*.heixiutuan.com/*
-*://*.heiyan.com/*
 *://*.heizhilin.com/*
 *://*.hejgj88.com/*
 *://*.hejiangdq.com/*
@@ -34687,7 +34539,6 @@
 *://*.hfykwn0077.cn/*
 *://*.hfylc293.com/*
 *://*.hfyptg.com/*
-*://*.hfyrgd.com/*
 *://*.hfyst.com/*
 *://*.hfywjs.com/*
 *://*.hfyxsy.com/*
@@ -35601,7 +35452,6 @@
 *://*.hk-wt.com/*
 *://*.hk-yy.cn/*
 *://*.hk.kuaiso.com/*
-*://*.hk01.com/*
 *://*.hk12.cc/*
 *://*.hk2sz.com/*
 *://*.hk3596.com/*
@@ -35633,7 +35483,6 @@
 *://*.hkevx.com/*
 *://*.hkfengshui.com/*
 *://*.hkfjyh.com/*
-*://*.hkfootwear.org/*
 *://*.hkgcr.com/*
 *://*.hkgeq.com/*
 *://*.hkgolden.com/*
@@ -35664,7 +35513,6 @@
 *://*.hkq098t.cn/*
 *://*.hkqfu.com/*
 *://*.hkqhgc.com/*
-*://*.hkreadingcity.net/*
 *://*.hkrij.com/*
 *://*.hkrixi.net/*
 *://*.hksbiao.com/*
@@ -35919,7 +35767,6 @@
 *://*.hmyecrk.cn/*
 *://*.hmyrjm.com/*
 *://*.hmyzm.cn/*
-*://*.hmz8.com/*
 *://*.hmzdzx.com/*
 *://*.hmzns.com/*
 *://*.hn-ald.com/*
@@ -36450,7 +36297,6 @@
 *://*.hotoneaudio.com/*
 *://*.hotopic.info/*
 *://*.hotqd.com/*
-*://*.hotread.com/*
 *://*.hotsou.com.cn/*
 *://*.hotspect.com/*
 *://*.hotsync.cn/*
@@ -36473,7 +36319,6 @@
 *://*.how01.com/*
 *://*.how10.com/*
 *://*.how61.com/*
-*://*.howandbest.com/*
 *://*.howardjohnsonplazahotel.cn/*
 *://*.howaru99.com/*
 *://*.howbonrc.com/*
@@ -37283,7 +37128,6 @@
 *://*.huojinxue.com/*
 *://*.huoliyl.com/*
 *://*.huolongyun.com/*
-*://*.huomiee.com/*
 *://*.huonen.top/*
 *://*.huoplmh.net/*
 *://*.huoqiang.pw/*
@@ -37951,7 +37795,6 @@
 *://*.iamflamingo.de/*
 *://*.iamgeekpm.com/*
 *://*.iamjer.com/*
-*://*.iamshuaidi.com/*
 *://*.iangmeixiao.cn/*
 *://*.iangmeixiao.com.cn/*
 *://*.ianhilmer.com/*
@@ -38186,7 +38029,6 @@
 *://*.ifddv.com/*
 *://*.ifdlk.com/*
 *://*.ife.com/*
-*://*.ifeng.com/*
 *://*.ifenglife.com/*
 *://*.iffts.top/*
 *://*.iffuso.com/*
@@ -38268,7 +38110,6 @@
 *://*.ihptneu.com/*
 *://*.ihqv.win/*
 *://*.ihshdc.info/*
-*://*.ihuaben.com/*
 *://*.ihuank.com/*
 *://*.ihuaxinyi.com/*
 *://*.ihuaz.com/*
@@ -38431,13 +38272,11 @@
 *://*.imbell-fitness.com/*
 *://*.imccar.com/*
 *://*.imcoffee8.com/*
-*://*.imdo.co/*
 *://*.imdsytd.net/*
 *://*.imecchina.com/*
 *://*.imeetlocals.com/*
 *://*.imegc.com/*
 *://*.imengstar.com/*
-*://*.imengxiang.cn/*
 *://*.imengyin.com/*
 *://*.imesh198.com/*
 *://*.imex.net.cn/*
@@ -38490,7 +38329,6 @@
 *://*.in818.com/*
 *://*.inag88.com/*
 *://*.inagios.cn/*
-*://*.inamed.cn/*
 *://*.inanrenbang.com/*
 *://*.inatv.cn/*
 *://*.incestdoujins.com/*
@@ -38596,7 +38434,6 @@
 *://*.inwh.cc/*
 *://*.inzk.cc/*
 *://*.inzn.cc/*
-*://*.io.gov.mo/*
 *://*.io04.com/*
 *://*.io2eei.com/*
 *://*.io5eei.com/*
@@ -38669,11 +38506,9 @@
 *://*.ipure.cc/*
 *://*.ipyfn.com/*
 *://*.ipziyuan.com/*
-*://*.iq61.com/*
 *://*.iqgel.com/*
 *://*.iqhalifah.com/*
 *://*.iqingyan.cn/*
-*://*.iqiyi.com/*
 *://*.iqiyinhe.com/*
 *://*.iqkan.com/*
 *://*.iqksou.com/*
@@ -38828,7 +38663,6 @@
 *://*.itgrass.com/*
 *://*.itguai.com/*
 *://*.ithao123.cn/*
-*://*.ithome.com.tw/*
 *://*.iththawa.com/*
 *://*.iti.com/*
 *://*.iti.org/*
@@ -38848,7 +38682,6 @@
 *://*.itopenpro.com/*
 *://*.itowns.cn/*
 *://*.itpse.com/*
-*://*.itpub.net/*
 *://*.itpux.com/*
 *://*.itpyybs.com/*
 *://*.itqiangren.com/*
@@ -39143,7 +38976,6 @@
 *://*.jamiesime.com/*
 *://*.jamjnr.com/*
 *://*.jamsexl.com/*
-*://*.jamstec.go.jp/*
 *://*.jamunarestaurant.com/*
 *://*.jamyi.com/*
 *://*.janesff.com/*
@@ -39404,7 +39236,6 @@
 *://*.jd-cz.com/*
 *://*.jd-tz.com/*
 *://*.jd-yx.com/*
-*://*.jd.com/*
 *://*.jd4.com.cn/*
 *://*.jd4321.com/*
 *://*.jd65.cn/*
@@ -39561,7 +39392,6 @@
 *://*.jfhz168.com/*
 *://*.jfjtnb.com/*
 *://*.jfkj188.com/*
-*://*.jfkjx.com/*
 *://*.jflfh.com/*
 *://*.jflkf.com/*
 *://*.jflnad.com/*
@@ -39735,7 +39565,6 @@
 *://*.ji8ak7.org/*
 *://*.ji9.org/*
 *://*.jia-yi-jia.com/*
-*://*.jia12.com/*
 *://*.jiaboqg.us/*
 *://*.jiachangcai123.com/*
 *://*.jiachengtex.com/*
@@ -39872,7 +39701,6 @@
 *://*.jianruishiyouu.com/*
 *://*.jianshanhu.net/*
 *://*.jianshewang.net/*
-*://*.jianshu.com/*
 *://*.jianso.com/*
 *://*.jiansui.top/*
 *://*.jiantao168.com/*
@@ -40155,7 +39983,6 @@
 *://*.jinglidg.com/*
 *://*.jingmaiquzhangwa8.com/*
 *://*.jingmennet.cn/*
-*://*.jingmoxs.com/*
 *://*.jingogo.com/*
 *://*.jingpai88.com/*
 *://*.jingpd.com/*
@@ -40434,7 +40261,6 @@
 *://*.jixian80.com/*
 *://*.jixiangcaoc.com/*
 *://*.jixiangfang.ws/*
-*://*.jixiangqiming.cn/*
 *://*.jixiangtian-sz.com/*
 *://*.jixiao366.com/*
 *://*.jixiaonet.com/*
@@ -40563,7 +40389,6 @@
 *://*.jjvtkbeq.cn/*
 *://*.jjwgjgov.com/*
 *://*.jjwjjw.com/*
-*://*.jjwxc.net/*
 *://*.jjxdf.cn/*
 *://*.jjxj.com.cn/*
 *://*.jjxjr.com/*
@@ -43614,7 +43439,6 @@
 *://*.jmgm123.com/*
 *://*.jmgobook.com/*
 *://*.jmhbsh.com/*
-*://*.jmhengai.org/*
 *://*.jmhgw.cn/*
 *://*.jmhombo.com/*
 *://*.jmhs.net/*
@@ -43762,7 +43586,6 @@
 *://*.jnqsw.cn/*
 *://*.jnqtjyy.cn/*
 *://*.jnquanling.com/*
-*://*.jnqxbanjia.com/*
 *://*.jnqz.cn/*
 *://*.jnr2.com/*
 *://*.jnrc12380.com/*
@@ -44309,7 +44132,6 @@
 *://*.jssyzc.cn/*
 *://*.jsszjs.com/*
 *://*.jst-sc-gov-cn.net/*
-*://*.jst.go.jp/*
 *://*.jstbxg.com/*
 *://*.jstcnh.com/*
 *://*.jstcxf.com/*
@@ -44381,7 +44203,6 @@
 *://*.jtk-elec.com/*
 *://*.jtldgj.com/*
 *://*.jtlyj.com/*
-*://*.jtnso.com/*
 *://*.jtogk.cn/*
 *://*.jtpic.cn/*
 *://*.jtpm.org/*
@@ -44440,7 +44261,6 @@
 *://*.judongneng.com/*
 *://*.judqa.net/*
 *://*.judsonu.edu/*
-*://*.juduo.cc/*
 *://*.juechina.com/*
 *://*.juejin.cn/s/*
 *://*.juejinclub.com/*
@@ -44511,7 +44331,6 @@
 *://*.junfilm.com.cn/*
 *://*.jungarian.buzz/*
 *://*.junine.net/*
-*://*.junjianint.com/*
 *://*.junjiedk.net/*
 *://*.junjumall.com/*
 *://*.junkai518.com/*
@@ -45003,7 +44822,6 @@
 *://*.jzfysh.com/*
 *://*.jzfzmy.com/*
 *://*.jzgcw.site/*
-*://*.jzgdkj.com/*
 *://*.jzggy.com/*
 *://*.jzgmgs.com/*
 *://*.jzgxjd.com/*
@@ -45300,7 +45118,6 @@
 *://*.kankandy.net/*
 *://*.kankanews.com/*
 *://*.kanneenkruike.buzz/*
-*://*.kanochem.com/*
 *://*.kanqushi.com/*
 *://*.kanribao.com/*
 *://*.kansascitymobile.com/*
@@ -45308,7 +45125,6 @@
 *://*.kansl.com/*
 *://*.kantie.org/*
 *://*.kantuzuowen.com/*
-*://*.kanunu8.com/*
 *://*.kanwailian.com/*
 *://*.kanyunwang.com/*
 *://*.kanzgnmy.com/*
@@ -45509,7 +45325,6 @@
 *://*.ke0.wq8n.cn/*
 *://*.keaiduo001.com/*
 *://*.keailuoli.net/*
-*://*.keaimeitu.com/*
 *://*.keaovip.com/*
 *://*.kech88.com/*
 *://*.kecmiami.com/*
@@ -45537,7 +45352,6 @@
 *://*.kehualawyer.com/*
 *://*.kehuxinxi.top/*
 *://*.kei8.cc/*
-*://*.keibunsha-books.com/*
 *://*.keiserchina.com/*
 *://*.keixh.cn/*
 *://*.keixm.cn/*
@@ -45623,7 +45437,6 @@
 *://*.kexu8.com/*
 *://*.key.dog/*
 *://*.keyad.cc/*
-*://*.keyan.xin/*
 *://*.keyanyuan.com/*
 *://*.keyao88.com/*
 *://*.keydiy100.com/*
@@ -45634,7 +45447,6 @@
 *://*.keygzled.com/*
 *://*.keyingte.com/*
 *://*.keyisizu.net/*
-*://*.keylol.com/*
 *://*.keylua.info/*
 *://*.keyshot.cc/*
 *://*.keyuanshuma.com/*
@@ -45699,7 +45511,6 @@
 *://*.kgjch.com/*
 *://*.kgjmm.com/*
 *://*.kgk-kyushu.net/*
-*://*.kgkh.com.cn/*
 *://*.kgklt.com/*
 *://*.kgmcdn.icu/*
 *://*.kgn8.cn/*
@@ -45816,7 +45627,6 @@
 *://*.kingsman8.com/*
 *://*.kingsmountainfarmllc.org/*
 *://*.kingsou.net/*
-*://*.kingsrewards.com/*
 *://*.kingstar66.com/*
 *://*.kingstayhotel.cn/*
 *://*.kingston-engineering.com/*
@@ -45966,7 +45776,6 @@
 *://*.kkayy.com/*
 *://*.kkb0b0.com/*
 *://*.kkbxb.cn/*
-*://*.kkday.com/*
 *://*.kkdfb.cn/*
 *://*.kkdfo.com/*
 *://*.kkdj8.com/*
@@ -45998,7 +45807,6 @@
 *://*.kksyb.cn/*
 *://*.kktdb.cn/*
 *://*.kkth.xj.cn/*
-*://*.kktian.com/*
 *://*.kktyb.cn/*
 *://*.kkubk.cn/*
 *://*.kkup.cc/*
@@ -46139,7 +45947,6 @@
 *://*.kmzirui.com/*
 *://*.kmzyzz.com/*
 *://*.kn11.net/*
-*://*.kn121.com/*
 *://*.kn33xs5.cn/*
 *://*.kndaka.com/*
 *://*.kndfs88.com/*
@@ -46526,7 +46333,6 @@
 *://*.kuaiso.com/*
 *://*.kuaiso.hk/*
 *://*.kuaisounews.com/*
-*://*.kuaisugg2.com/*
 *://*.kuaisusou.cc/*
 *://*.kuaisyouw.com/*
 *://*.kuaiyida.net/*
@@ -46564,7 +46370,6 @@
 *://*.kujijie.com/*
 *://*.kukasc.com/*
 *://*.kukel.net/*
-*://*.kukupao.com.cn/*
 *://*.kul.net/*
 *://*.kulhs.com/*
 *://*.kumuw.com/*
@@ -47012,7 +46817,6 @@
 *://*.langqingpower.com/*
 *://*.langren.net/*
 *://*.langrengan1.com/*
-*://*.langrenxiaoshuo.com/*
 *://*.langshengjt.com/*
 *://*.langsinse.com/*
 *://*.langsong.com.cn/*
@@ -47255,7 +47059,6 @@
 *://*.lcpl.net/*
 *://*.lcqbrc.com/*
 *://*.lcqxhgc.com/*
-*://*.lcread.com/*
 *://*.lcrlt.com/*
 *://*.lcrsk.link/*
 *://*.lcseo.net/*
@@ -47309,7 +47112,6 @@
 *://*.ldeis.com/*
 *://*.ldfdh.com/*
 *://*.ldfgecb.net/*
-*://*.ldg.co.uk/*
 *://*.ldgjktv.com/*
 *://*.ldgps.cn/*
 *://*.ldh.com/*
@@ -47382,7 +47184,6 @@
 *://*.leapp56.cn/*
 *://*.leapskyward.buzz/*
 *://*.learn4do.com/*
-*://*.learnku.com/*
 *://*.leather-xk.com/*
 *://*.leatherheadangling.co.uk/*
 *://*.leawb.top/*
@@ -47506,7 +47307,6 @@
 *://*.lenggui6.com/*
 *://*.lengkt.com/*
 *://*.lengku114.com/*
-*://*.lengmenbook.com/*
 *://*.lengrui.com/*
 *://*.lengshi8.com/*
 *://*.lengzhua.cn/*
@@ -47578,7 +47378,6 @@
 *://*.lewen0.com/*
 *://*.lewen5.com/*
 *://*.lewen8.com/*
-*://*.lewenlook.com/*
 *://*.lewgrx.net/*
 *://*.lexvitas.com/*
 *://*.leyendatour.buzz/*
@@ -47674,7 +47473,6 @@
 *://*.lfzyfz.com/*
 *://*.lg-electric.com/*
 *://*.lg.club/*
-*://*.lg.gov.cn/*
 *://*.lg400.com/*
 *://*.lg6622.com/*
 *://*.lg67.cn/*
@@ -47884,7 +47682,6 @@
 *://*.liazu.com/*
 *://*.libaedf.net/*
 *://*.libaha.com/*
-*://*.liberatedwomansummit.com/*
 *://*.libertylair.com/*
 *://*.libertyquiltshop.buzz/*
 *://*.libhunt.com/*
@@ -48018,7 +47815,6 @@
 *://*.lindekeji.com/*
 *://*.lindera.org/*
 *://*.lindparken.se/*
-*://*.linecorp.com/*
 *://*.linedu.com/*
 *://*.linfeisc.com/*
 *://*.lingbils.cn/*
@@ -48042,7 +47838,6 @@
 *://*.lingshanl.com/*
 *://*.lingshizx.com/*
 *://*.lingshouxzx.com/*
-*://*.linguee.com/*
 *://*.lingxi8.com/*
 *://*.lingxiangc.com/*
 *://*.lingxinju.com/*
@@ -48068,7 +47863,6 @@
 *://*.linlipowder.com/*
 *://*.linneaalexis.com/*
 *://*.linoge.net/*
-*://*.linovelib.com/*
 *://*.linpho.com/*
 *://*.linqingnet.cn/*
 *://*.linqq.net/*
@@ -48142,7 +47936,6 @@
 *://*.litxj.top/*
 *://*.liu118.info/*
 *://*.liu8.cc/*
-*://*.liubai.org/*
 *://*.liubaobao.cn/*
 *://*.liuchangpen.com/*
 *://*.liuchi001.com/*
@@ -48271,7 +48064,6 @@
 *://*.lizinn.com/*
 *://*.lizomole.cn/*
 *://*.lizrq.cn/*
-*://*.lizziediary.com/*
 *://*.lj-foodstuffs.com/*
 *://*.lj.cbllr.com/*
 *://*.lj.itfta.com/*
@@ -48352,7 +48144,6 @@
 *://*.lkmnls.com/*
 *://*.lkmvcds.net/*
 *://*.lkmyy.com/*
-*://*.lkndt.com/*
 *://*.lkod.cn/*
 *://*.lkqxhb.com/*
 *://*.lkr8.cn/*
@@ -48632,7 +48423,6 @@
 *://*.lookoo.cn/*
 *://*.looksearch.cc/*
 *://*.loolik.com/*
-*://*.loongon.com/*
 *://*.looooooking.com/*
 *://*.looqic.cn/*
 *://*.lootqyo.cn/*
@@ -48853,7 +48643,6 @@
 *://*.lrsgre.com/*
 *://*.lrtmq.com/*
 *://*.lrtou.com.cn/*
-*://*.lrts.me/*
 *://*.lrudn.com/*
 *://*.lrvjp.com/*
 *://*.lrytl2r.cn/*
@@ -49292,7 +49081,6 @@
 *://*.lwwlyx.com/*
 *://*.lwxd.org/*
 *://*.lwxinhenghong.com/*
-*://*.lwxs.com/*
 *://*.lwxs9.com/*
 *://*.lwxyedu.com/*
 *://*.lwxzy.com/*
@@ -49555,7 +49343,6 @@
 *://*.lytraveldaily.com/*
 *://*.lytsjd.com/*
 *://*.lytxjc.com/*
-*://*.lytyjdc.com/*
 *://*.lywanli.com/*
 *://*.lywhsnzp.com/*
 *://*.lywl168.cn/*
@@ -49877,7 +49664,6 @@
 *://*.mamypopins.com/*
 *://*.man010.com/*
 *://*.man38t.com/*
-*://*.managertoday.com.tw/*
 *://*.manb-mall.com/*
 *://*.manfenmama.com.cn/*
 *://*.mango66.com/*
@@ -49933,7 +49719,6 @@
 *://*.marsupv.com/*
 *://*.martysa.com/*
 *://*.marugoto-hoken.com/*
-*://*.marxists.org/*
 *://*.marybethhouse.buzz/*
 *://*.maryellenmacke.buzz/*
 *://*.mashxdec.com/*
@@ -49952,7 +49737,6 @@
 *://*.matime.com/*
 *://*.matsa168.com/*
 *://*.mattdotson.com/*
-*://*.mattfromtech.com/*
 *://*.matthewthorburn.com/*
 *://*.mattiasp.se/*
 *://*.mattkaydiary.com/*
@@ -49962,7 +49746,6 @@
 *://*.mavidenizholding.com/*
 *://*.mavikep.com/*
 *://*.mavupzk.cn/*
-*://*.maw168.com/*
 *://*.maww.cc/*
 *://*.max-nb.com/*
 *://*.max.com/*
@@ -49991,7 +49774,6 @@
 *://*.mbnfv.com/*
 *://*.mbqrq.com/*
 *://*.mbtcp.cn/*
-*://*.mbvka.cn/*
 *://*.mbylw.cn/*
 *://*.mbzhx.com/*
 *://*.mc138138.com/*
@@ -50076,7 +49858,6 @@
 *://*.meicenchina.com/*
 *://*.meichuanchina.com/*
 *://*.meidids.com/*
-*://*.meiguixs.net/*
 *://*.meiguoyuke.org/*
 *://*.meihaosiping.com/*
 *://*.meihom.com/*
@@ -50088,11 +49869,7 @@
 *://*.meilinkai.org/*
 *://*.meilunjiayuan.com/*
 *://*.meimeiint.com/*
-*://*.meimeiming.com/*
 *://*.meimeite.com/*
-*://*.meimingcha.com/*
-*://*.meimingdian.com/*
-*://*.meimingteng.com/*
 *://*.mein95.com/*
 *://*.meiniuba.com/*
 *://*.meiniyina.com/*
@@ -50124,7 +49901,6 @@
 *://*.memeprints.com/*
 *://*.mendingtheline.com/*
 *://*.menf.cc/*
-*://*.mengdou.net/*
 *://*.menghuacaifu.com/*
 *://*.menghuah.com/*
 *://*.mengju88.com/*
@@ -50214,7 +49990,6 @@
 *://*.mhjhjd.com/*
 *://*.mhk5rkt.cn/*
 *://*.mhlocums.com/*
-*://*.mhlw.go.jp/*
 *://*.mhm589.com/*
 *://*.mhm688.com/*
 *://*.mhnucsgy.site/*
@@ -50252,7 +50027,6 @@
 *://*.micode.com/*
 *://*.micrmail.com/*
 *://*.microsilver.cn/*
-*://*.microsoft.com/*
 *://*.microsysdevel.buzz/*
 *://*.microtekintl.com/*
 *://*.microzjs.com/*
@@ -50288,7 +50062,6 @@
 *://*.mimeplay.club/*
 *://*.mimisantiques.com/*
 *://*.mimiwah.com/*
-*://*.min.news/*
 *://*.min8899.com/*
 *://*.min9901.com/*
 *://*.min9902.com/*
@@ -50317,7 +50090,6 @@
 *://*.mingritp.com/*
 *://*.mingriyy.com/*
 *://*.mingriz.com/*
-*://*.mingshengbao.com/*
 *://*.mingtian.xiaoxiaotong.org/*
 *://*.mingyadun.com/*
 *://*.mingyangwuliu.com/*
@@ -50446,7 +50218,6 @@
 *://*.mnrbk.com/*
 *://*.mnsf.net/*
 *://*.mntn.net/*
-*://*.mnv6.com/*
 *://*.mnxcc.com/*
 *://*.mnxfe.cn/*
 *://*.mnykexv.cn/*
@@ -50481,7 +50252,6 @@
 *://*.mohawgs.com/*
 *://*.mohotel.cn/*
 *://*.moife.com/*
-*://*.moj.go.jp/*
 *://*.mojieptai.com/*
 *://*.mojieyl6.com/*
 *://*.mojiezc.com/*
@@ -50525,7 +50295,6 @@
 *://*.mos86.com/*
 *://*.mosa.com.hk/*
 *://*.moschallski.buzz/*
-*://*.moshang.org/*
 *://*.moshizhinan.com/*
 *://*.moshouhj.com/*
 *://*.mosjx.cn/*
@@ -50792,7 +50561,6 @@
 *://*.mydellcenter.com/*
 *://*.mydns321.com/*
 *://*.mydown.com/*
-*://*.mydramalist.com/*
 *://*.mydreamgowns.com/*
 *://*.mydrivers.com/*
 *://*.myeasyphr.com/*
@@ -50821,7 +50589,6 @@
 *://*.mylzhb.com/*
 *://*.mymac.info/*
 *://*.mymiki.cn/*
-*://*.mymjiu.com/*
 *://*.mymp.net/*
 *://*.mymyjtf.com/*
 *://*.mynameinlights.buzz/*
@@ -50864,10 +50631,8 @@
 *://*.myzdbs.com/*
 *://*.myzhenai.com.cn/*
 *://*.myzytx.com/*
-*://*.mz185.com/*
 *://*.mzdaudio.net/*
 *://*.mzdlyz.com/*
-*://*.mzi8.com/*
 *://*.mzj2v4l.top/*
 *://*.mzjhzxx.com/*
 *://*.mzjzvr.cn/*
@@ -50955,8 +50720,6 @@
 *://*.nam.qiruigou.com/*
 *://*.namarasoul.com/*
 *://*.namasteconnecticut.buzz/*
-*://*.name321.com/*
-*://*.name321.net/*
 *://*.namefa.com/*
 *://*.nameiwang.com/*
 *://*.nameonly.cn/*
@@ -51024,7 +50787,6 @@
 *://*.nari-china.com/*
 *://*.narkive.com/*
 *://*.narkive.jp/*
-*://*.naro.go.jp/*
 *://*.narrativebuilders.com/*
 *://*.nartar.com/*
 *://*.nas-portal.com/*
@@ -51043,7 +50805,6 @@
 *://*.naturaebarocco.com/*
 *://*.natural-access.buzz/*
 *://*.natyx.net/*
-*://*.naver.com/*
 *://*.navtechllc.com/*
 *://*.nawa-maxrap.cn/*
 *://*.naweisteel.com/*
@@ -51091,7 +50852,6 @@
 *://*.nbdzyss.com/*
 *://*.nbe3388.com/*
 *://*.nbe42.cn/*
-*://*.nbeastrisen.com/*
 *://*.nbedy.com/*
 *://*.nbeem.com/*
 *://*.nbekn.cn/*
@@ -51328,7 +51088,6 @@
 *://*.neihan8.org/*
 *://*.neiqiangzhuan.com/*
 *://*.neixiang.org/*
-*://*.nejiaoyu.com/*
 *://*.nelck.com/*
 *://*.neleled.com/*
 *://*.nell.net.cn/*
@@ -51365,7 +51124,6 @@
 *://*.net7788.com/*
 *://*.net816.net/*
 *://*.netea.cn/*
-*://*.netease.com/*
 *://*.netemai.com/*
 *://*.netepot.com/*
 *://*.netjob.com.cn/*
@@ -51635,7 +51393,6 @@
 *://*.nicou.cn/*
 *://*.nicrunday.com/*
 *://*.nicsem.com/*
-*://*.nict.go.jp/*
 *://*.nicwin7.com/*
 *://*.nidongdd.com/*
 *://*.nieruchomosci-alfa.com/*
@@ -51690,7 +51447,6 @@
 *://*.niostack.com/*
 *://*.nipipi.cn/*
 *://*.niponia.com/*
-*://*.nipponsteel.com/*
 *://*.niqzggre.cn/*
 *://*.nirierer.com/*
 *://*.nirlqqm.cn/*
@@ -51826,7 +51582,6 @@
 *://*.njkani.com/*
 *://*.njkrs.com/*
 *://*.njldjwx.com/*
-*://*.njleding.com/*
 *://*.njlewei.com/*
 *://*.njlgm.com/*
 *://*.njljs.com/*
@@ -52130,7 +51885,6 @@
 *://*.nnldzc.com/*
 *://*.nnlnn.net/*
 *://*.nnlxzjy.com/*
-*://*.nnn666.com/*
 *://*.nnnbz.com/*
 *://*.nnnfspa.pw/*
 *://*.nnnkjhpp.cn/*
@@ -52150,7 +51904,6 @@
 *://*.nnyijia.com/*
 *://*.nnyl55.com/*
 *://*.nnymx.com/*
-*://*.nnyy.in/*
 *://*.nnzpz.cn/*
 *://*.nnzsj.com/*
 *://*.nnzxhm.com/*
@@ -52239,7 +51992,6 @@
 *://*.noxjj.com/*
 *://*.nozbq.com.cn/*
 *://*.np-sound.com/*
-*://*.np.gov.cn/*
 *://*.np5431.com/*
 *://*.npbwwchs.net/*
 *://*.npbydq.com/*
@@ -52500,7 +52252,6 @@
 *://*.nuosui.top/*
 *://*.nuoweisenlinmao.com/*
 *://*.nuoweisl.com/*
-*://*.nuozhan.cn/*
 *://*.nuphoto.cn/*
 *://*.nupian.top/*
 *://*.nupto.cn/*
@@ -52934,7 +52685,6 @@
 *://*.odooqo.cn/*
 *://*.odpaowanji.com/*
 *://*.odseti.cn/*
-*://*.odshipmanlaw.com/*
 *://*.odssac.com/*
 *://*.odtsquqw.com/*
 *://*.oduo.com.cn/*
@@ -53036,7 +52786,6 @@
 *://*.oi9.com.cn/*
 *://*.oi9k.top/*
 *://*.oiavg.com/*
-*://*.oicq88.com/*
 *://*.oicqzone.com/*
 *://*.oicsn.com/*
 *://*.oict.net.cn/*
@@ -53339,7 +53088,6 @@
 *://*.ordermtgift.com/*
 *://*.ordersface.com.cn/*
 *://*.ordoscx.com/*
-*://*.oread8.net/*
 *://*.oregcompanies.com/*
 *://*.oregonwishes.com/*
 *://*.orellion.com/*
@@ -53347,7 +53095,6 @@
 *://*.orestephenscn.com/*
 *://*.orfak.com/*
 *://*.orfmshr.net/*
-*://*.organicfarmherbals.com/*
 *://*.orgnik.cn/*
 *://*.orguytne.net/*
 *://*.oriboros.com/*
@@ -53513,7 +53260,6 @@
 *://*.oven0208.cn/*
 *://*.overbridge.cn/*
 *://*.overcoder.net/*
-*://*.overseas.name/*
 *://*.overstack.in/*
 *://*.overturechina.com/*
 *://*.oviedogathering.com/*
@@ -53539,7 +53285,6 @@
 *://*.owkio.win/*
 *://*.owlapps.net/*
 *://*.owlinns.com/*
-*://*.owlook.com.cn/*
 *://*.ownbyco.com/*
 *://*.ownlists.com/*
 *://*.ownsj.com/*
@@ -53602,7 +53347,6 @@
 *://*.ozrtj.com/*
 *://*.ozuf.cc/*
 *://*.ozxuf.com/*
-*://*.p-articles.com/*
 *://*.p-b-d.com/*
 *://*.p-link-c.com/*
 *://*.p0379.com/*
@@ -53732,7 +53476,6 @@
 *://*.pancatrade.com.cn/*
 *://*.pandafireworks.com/*
 *://*.pandaholiday.cn/*
-*://*.pandahome.com/*
 *://*.pandasw.cn/*
 *://*.pandear.com/*
 *://*.pandena.cn/*
@@ -53796,7 +53539,6 @@
 *://*.paradaviva.com/*
 *://*.paraland.cn/*
 *://*.paraviontour.com/*
-*://*.parenting.com.tw/*
 *://*.paris-lifestyle.cn/*
 *://*.paris-wap-bet.com/*
 *://*.parkous.com/*
@@ -53893,7 +53635,6 @@
 *://*.pc8.fun/*
 *://*.pc9000.com/*
 *://*.pcadq.com/*
-*://*.pcauto.com.cn/*
 *://*.pcb.com/*
 *://*.pcbconline.org/*
 *://*.pcbsddl.com/*
@@ -54190,7 +53931,6 @@
 *://*.php.cn/*
 *://*.php8.org/*
 *://*.phpancake.com/*
-*://*.phpconchina.com/*
 *://*.phpddt.com/*
 *://*.phperz.com/*
 *://*.phpfensi.com/*
@@ -54233,8 +53973,6 @@
 *://*.piaotian8.net/*
 *://*.piaotianwx.cc/*
 *://*.piaowu001.com/*
-*://*.piba365.com/*
-*://*.pibazi.net/*
 *://*.pic01nm.cn/*
 *://*.pic66.top/*
 *://*.picbr.com/*
@@ -54344,8 +54082,6 @@
 *://*.piuiwe.com/*
 *://*.piwnb1x.cn/*
 *://*.pixelprivacy.com/*
-*://*.pixiv.net/*
-*://*.pixnet.net/*
 *://*.pixunad.com.br/*
 *://*.pj099.vip/*
 *://*.pj10068.com/*
@@ -54501,7 +54237,6 @@
 *://*.pkrvn.com/*
 *://*.pktl.net/*
 *://*.pkulaw.cn/*
-*://*.pkulaw.com/*
 *://*.pkusi.cn/*
 *://*.pkvgbq.info/*
 *://*.pkwsy.com/*
@@ -54676,12 +54411,11 @@
 *://*.polyhtw.com/*
 *://*.polyking-hongkong.com/*
 *://*.pomdapi-shoes.buzz/*
-*://*.pompanobeachtackle.com/**://blog.csdn.net/*
+*://*.pompanobeachtackle.com/**://*.005i.com/*
 *://*.pompcom.com/*
 *://*.pond-view.buzz/*
 *://*.pongj.com/*
 *://*.pongw.com/*
-*://*.pons.com/*
 *://*.ponte16takheng.com/*
 *://*.pontofrio.cn/*
 *://*.ponvn.cn/*
@@ -54705,7 +54439,6 @@
 *://*.popstreet.com.cn/*
 *://*.poptom.com.cn/*
 *://*.popular8.com/*
-*://*.popularonline.com.my/*
 *://*.population381.com/*
 *://*.popvan.cn/*
 *://*.poqkh.com/*
@@ -54745,7 +54478,6 @@
 *://*.pozzolo.net/*
 *://*.pp.cn/*
 *://*.pp.www-089222.com/*
-*://*.pp10.org/*
 *://*.pp183.com/*
 *://*.pp22.xyz/*
 *://*.pp7141.com/*
@@ -55059,7 +54791,6 @@
 *://*.puddletrapps.buzz/*
 *://*.pudhir.com/*
 *://*.pudiy.com/*
-*://*.puercn.com/*
 *://*.puercy.com/*
 *://*.puf.asia/*
 *://*.puggying.com/*
@@ -55121,7 +54852,6 @@
 *://*.puyu.com/*
 *://*.puyuchemical.com/*
 *://*.puzimi.com/*
-*://*.puzzle8.com/*
 *://*.pv111.net/*
 *://*.pv32ex.cn/*
 *://*.pv77.net/*
@@ -55586,7 +55316,6 @@
 *://*.qdlsysw.com/*
 *://*.qdlxjt.com/*
 *://*.qdmeian.com/*
-*://*.qdmm.com/*
 *://*.qdmpz.cn/*
 *://*.qdmsd.com/*
 *://*.qdmxfgm.com/*
@@ -55896,7 +55625,6 @@
 *://*.qichezhan.cn/*
 *://*.qichpoa.net/*
 *://*.qidaty.com/*
-*://*.qidian.com/*
 *://*.qidianteam.com/*
 *://*.qidonghc.com/*
 *://*.qiduweb.com/*
@@ -55916,16 +55644,13 @@
 *://*.qifunaifen.com/*
 *://*.qifuxuan.com/*
 *://*.qigaipo.com/*
-*://*.qigemingzi.com/*
 *://*.qigonghuodong.com/*
 *://*.qigongtour.com/*
-*://*.qigushi.com/*
 *://*.qihetaobao.com/*
 *://*.qihuanyouxi.com/*
 *://*.qihuo88.com.cn/*
 *://*.qihuosc.com/*
 *://*.qihuoscjsfx.com/*
-*://*.qiita.com/*
 *://*.qiji888.com/*
 *://*.qijiazn.com/*
 *://*.qijingkeji.com/*
@@ -55949,15 +55674,8 @@
 *://*.qiluxf.com/*
 *://*.qim1688.com/*
 *://*.qimacuc.com/*
-*://*.qimao.com/*
 *://*.qimei888.com/*
 *://*.qimiaoa.com/*
-*://*.qiming.cn/*
-*://*.qiming360.com/*
-*://*.qimingdaquan.net/*
-*://*.qiminglyh.com/*
-*://*.qimingzhijia.com/*
-*://*.qimingzi.net/*
 *://*.qinapao98.com/*
 *://*.qinbaol.com/*
 *://*.qing8.cc/*
@@ -56186,7 +55904,6 @@
 *://*.qkygw.net/*
 *://*.qkyinhe.com/*
 *://*.qkytl.com/*
-*://*.qkyue.com/*
 *://*.qkzcc.cn/*
 *://*.qkzne.cn/*
 *://*.qkzzm.com/*
@@ -56224,7 +55941,6 @@
 *://*.qlshys.com/*
 *://*.qlsqw.com/*
 *://*.qlswzx.com/*
-*://*.qlszyyy.com/*
 *://*.qltgyxgs.com/*
 *://*.qlu.asia/*
 *://*.qlucid.com/*
@@ -56281,10 +55997,6 @@
 *://*.qmyd.info/*
 *://*.qmyxw.cn/*
 *://*.qmyzk.com/*
-*://*.qmz.in/*
-*://*.qmz11.com/*
-*://*.qmz5.com/*
-*://*.qmz99.com/*
 *://*.qmzbl.com/*
 *://*.qnagh.com/*
 *://*.qnb8.cn/*
@@ -56638,8 +56350,6 @@
 *://*.quan288yu.com/*
 *://*.quan888888.com/*
 *://*.quanancehua.com/*
-*://*.quanben-xiaoshuo.com/*
-*://*.quanben.io/*
 *://*.quanbuso.com/*
 *://*.quancejituan.com/*
 *://*.quanchengsl.com/*
@@ -56664,7 +56374,6 @@
 *://*.quanzhui.cn/*
 *://*.quanzifilm.com/*
 *://*.quark.cn/*
-*://*.quarry.wmcloud.org/*
 *://*.quay-marine.com/*
 *://*.qubaidu.cn/*
 *://*.qubebroadbeach.com.au/*
@@ -56710,7 +56419,6 @@
 *://*.qulvu.com/*
 *://*.qumaerdaifu.com/*
 *://*.qumiaodong.com/*
-*://*.quming9.com/*
 *://*.qun-qun.cn/*
 *://*.qunfa588.com/*
 *://*.qunkong.com.cn/*
@@ -56718,7 +56426,6 @@
 *://*.qunli138.com/*
 *://*.qunyingbo.com/*
 *://*.quotedownloader.com/*
-*://*.qupucn.com/*
 *://*.ququvip.com/*
 *://*.qushen2.cn/*
 *://*.qusheng6789.com/*
@@ -56726,7 +56433,6 @@
 *://*.qusou.la/*
 *://*.qutyol.com/*
 *://*.quwantang.com/*
-*://*.quweibook.com/*
 *://*.quweiji.com/*
 *://*.quweiso.com/*
 *://*.quwenlai.com/*
@@ -57253,7 +56959,6 @@
 *://*.readls.com/*
 *://*.readlypen.com/*
 *://*.readmeisle.cn/*
-*://*.readnovel.com/*
 *://*.readtiger.com/*
 *://*.real-3d-star.com/*
 *://*.realdao.cn/*
@@ -57289,7 +56994,6 @@
 *://*.rediantp.com/*
 *://*.redkeyinc.com/*
 *://*.rednen.com.cn/*
-*://*.rednet.cn/*
 *://*.redphi.net/*
 *://*.redplexus.org/*
 *://*.redshu.com/*
@@ -57425,7 +57129,6 @@
 *://*.return46.com/*
 *://*.reux3.cn/*
 *://*.reversecelllookup.org/*
-*://*.reverso.net/*
 *://*.revised.cn/*
 *://*.revistayate.com/*
 *://*.revistwitt.com/*
@@ -57583,7 +57286,6 @@
 *://*.rition.cn/*
 *://*.ritld.com/*
 *://*.ritsuyan.pw/*
-*://*.river.go.jp/*
 *://*.riverexec.buzz/*
 *://*.riwcpb.us/*
 *://*.rixinzm.com/*
@@ -57790,7 +57492,6 @@
 *://*.romeolux.com/*
 *://*.romhome.com/*
 *://*.romonitorstats.com/*
-*://*.roms.fun/*
 *://*.roncua.com/*
 *://*.ronde-china.com/*
 *://*.rong-ling.com/*
@@ -57954,7 +57655,6 @@
 *://*.rsgtj.com/*
 *://*.rshayoga.com/*
 *://*.rsjn4h1.cn/*
-*://*.rsjy.net/*
 *://*.rskjsz.com/*
 *://*.rskq.net/*
 *://*.rslj.net/*
@@ -58125,7 +57825,6 @@
 *://*.rupin.org/*
 *://*.ruprun.net/*
 *://*.ruqingdaolh.cn/*
-*://*.ruqm.com/*
 *://*.rurqckv.cn/*
 *://*.ruseluosi.com/*
 *://*.rushe.top/*
@@ -58268,7 +57967,6 @@
 *://*.ryzh020.com/*
 *://*.ryzhr.com/*
 *://*.rz165.cn/*
-*://*.rzbus.com/*
 *://*.rzbww.cn/*
 *://*.rze6.cn/*
 *://*.rzele.com/*
@@ -58585,7 +58283,6 @@
 *://*.sanying56.com/*
 *://*.sanyinzhili.com/*
 *://*.sanyixueba.com/*
-*://*.sanzang5.com/*
 *://*.sanzda.com/*
 *://*.sanzx.com/*
 *://*.sao74.com/*
@@ -58928,7 +58625,6 @@
 *://*.scnqg.com/*
 *://*.scnxc.com/*
 *://*.scoj.net/*
-*://*.scol.com.cn/*
 *://*.scomcorporation.com/*
 *://*.scoms.top/*
 *://*.sconesandpatron.com/*
@@ -58976,7 +58672,6 @@
 *://*.scshzy.cn/*
 *://*.scsjhg.com/*
 *://*.scsjmc.net/*
-*://*.scskr.com/*
 *://*.scsljr.com/*
 *://*.scsmzz.com/*
 *://*.scsnsz.net/*
@@ -59235,7 +58930,6 @@
 *://*.sdnitai.com/*
 *://*.sdnjxdm.com/*
 *://*.sdnww.com/*
-*://*.sdo.com/*
 *://*.sdpds.com/*
 *://*.sdpigc.com/*
 *://*.sdpinguan.com/*
@@ -59333,7 +59027,6 @@
 *://*.sdyiping.com/*
 *://*.sdyjcy.com/*
 *://*.sdyksolar.com/*
-*://*.sdymfhc.com/*
 *://*.sdyongxing.com/*
 *://*.sdyti.com/*
 *://*.sdytlwz.com/*
@@ -59393,7 +59086,6 @@
 *://*.seccedu.com/*
 *://*.secnews.gr/*
 *://*.secoalarm.com/*
-*://*.secretchina.com/*
 *://*.secretgarden.cc/*
 *://*.secteur-pastoral-habay.be/*
 *://*.securehealthmail.com/*
@@ -59461,7 +59153,6 @@
 *://*.senmujj.com/*
 *://*.senmuyang.com/*
 *://*.senowell.cn/*
-*://*.sentheal.shop/*
 *://*.sentiria.com/*
 *://*.sentyabrinki.ru/*
 *://*.senwh.com/*
@@ -59521,7 +59212,6 @@
 *://*.sethost.cn/*
 *://*.setokaze.com/*
 *://*.setti.eu/*
-*://*.sevenact.com/*
 *://*.sevenzhi.com/*
 *://*.seweeo.com/*
 *://*.sewgg.com/*
@@ -59556,7 +59246,6 @@
 *://*.sf120.top/*
 *://*.sf488.com/*
 *://*.sf661.com/*
-*://*.sfacg.com/*
 *://*.sfau.cn/*
 *://*.sfchj.com/*
 *://*.sfcxnih.buzz/*
@@ -59624,7 +59313,6 @@
 *://*.sgg999.com/*
 *://*.sggjzx.com/*
 *://*.sggmlnj.com/*
-*://*.sggp.org.vn/*
 *://*.sggwu.com/*
 *://*.sghsy.icu/*
 *://*.sghxmy.com/*
@@ -59849,7 +59537,6 @@
 *://*.shangwutang.com.cn/*
 *://*.shangwuzixun.com/*
 *://*.shangxuejiaoyu.com/*
-*://*.shangyiqiming.com/*
 *://*.shangyubj.com/*
 *://*.shangyuhang.com/*
 *://*.shangyunews.cn/*
@@ -60104,8 +59791,6 @@
 *://*.shenquantz.com/*
 *://*.shenshanhongye.com/*
 *://*.shenso.wang/*
-*://*.shensuan.org/*
-*://*.shentongkuaidi.com/*
 *://*.shenvironment.com/*
 *://*.shenwucun.com/*
 *://*.shenxianzhu.com/*
@@ -60129,9 +59814,6 @@
 *://*.sherrytranscripts.com/*
 *://*.sheryldyke.com/*
 *://*.shetyx.net/*
-*://*.sheup.cn/*
-*://*.sheup.net/*
-*://*.sheup.org/*
 *://*.shewing.net/*
 *://*.shexiangbiao.com/*
 *://*.shexiangw.com/*
@@ -60192,7 +59874,6 @@
 *://*.shichaojiaoyu.com/*
 *://*.shichaoky.com/*
 *://*.shichenghb.com/*
-*://*.shicimingju.com/*
 *://*.shidaidianying.com/*
 *://*.shidaigc.com/*
 *://*.shidainews.com.cn/*
@@ -60295,7 +59976,6 @@
 *://*.shjiaqiang.com/*
 *://*.shjida56.com/*
 *://*.shjinghu.com/*
-*://*.shjis.com/*
 *://*.shjixiang.net/*
 *://*.shjixw.com/*
 *://*.shjjc.com/*
@@ -60395,7 +60075,6 @@
 *://*.shopatewe.com/*
 *://*.shopbn.cn/*
 *://*.shopcity.cc/*
-*://*.shopee.tw/*
 *://*.shopemw.com/*
 *://*.shopexbuy.com/*
 *://*.shopnikeshoes.co.uk/*
@@ -60523,7 +60202,6 @@
 *://*.shsdjz.com/*
 *://*.shseee.com/*
 *://*.shserene.com/*
-*://*.shsgcc.com/*
 *://*.shsgy.com/*
 *://*.shshendiao.com.cn/*
 *://*.shshibei.com/*
@@ -60556,7 +60234,6 @@
 *://*.shtuojie.com/*
 *://*.shtxpm.com/*
 *://*.shtz118.com/*
-*://*.shu00.net/*
 *://*.shu6.org/*
 *://*.shua567.com/*
 *://*.shuadu120.com/*
@@ -60580,7 +60257,6 @@
 *://*.shuanw.com/*
 *://*.shuapiao.org.cn/*
 *://*.shubofc.com/*
-*://*.shudaiziwx.com/*
 *://*.shudian-china.com/*
 *://*.shuduoduo.me/*
 *://*.shuenan.com/*
@@ -60651,13 +60327,11 @@
 *://*.shuoshuokong.org/*
 *://*.shuozhiwo.net/*
 *://*.shupengwang.com/*
-*://*.shuqi.com/*
 *://*.shushengyiqi.cn/*
 *://*.shushuifachang.com/*
 *://*.shuta56.com/*
 *://*.shuxuanl.net/*
 *://*.shuyaxin.com/*
-*://*.shuyele.com/*
 *://*.shuyibj.com/*
 *://*.shuzaos.com/*
 *://*.shuzhiduo.com/*
@@ -60697,7 +60371,6 @@
 *://*.shxfjx.com/*
 *://*.shxfmc.com/*
 *://*.shxgz.com.cn/*
-*://*.shxhbering.com/*
 *://*.shxiangnei.com/*
 *://*.shxiaoer.com/*
 *://*.shxikou.com/*
@@ -60804,7 +60477,6 @@
 *://*.sidewe.com/*
 *://*.sidigz.com/*
 *://*.sidlgroup.com/*
-*://*.siduzw.com/*
 *://*.siege.cc/*
 *://*.siegel-aero.com/*
 *://*.sielon.cn/*
@@ -60866,11 +60538,9 @@
 *://*.simplehua.com/*
 *://*.simplesend.com/*
 *://*.simplewma.com/*
-*://*.simplified.com/*
 *://*.simptop.com/*
 *://*.sin40.com/*
 *://*.sina-cz.com/*
-*://*.sina.cn/*
 *://*.sina.red/*
 *://*.sina8.com/*
 *://*.sinamail.org/*
@@ -60884,7 +60554,6 @@
 *://*.singing-bird.net/*
 *://*.singledream.cn/*
 *://*.singletorino.it/*
-*://*.singtaousa.com/*
 *://*.singularab.com/*
 *://*.sini.net.cn/*
 *://*.siniada.com/*
@@ -61505,7 +61174,6 @@
 *://*.socialqun.com/*
 *://*.soclone.com/*
 *://*.socms.com/*
-*://*.socreate.it/*
 *://*.sodede.com/*
 *://*.sodeva.net/*
 *://*.sodiyer.com/*
@@ -61648,7 +61316,6 @@
 *://*.sotboie.com/*
 *://*.sotop.org/*
 *://*.sou-deng.com/*
-*://*.sou-yun.cn/*
 *://*.sou.linmingyao.cn/*
 *://*.sou.sfe8.com/*
 *://*.sou8sou.com.cn/*
@@ -61727,7 +61394,6 @@
 *://*.spawnvc.com/*
 *://*.spaziwi.com/*
 *://*.spdaopian.com/*
-*://*.speakerdeck.com/*
 *://*.specialdir.com/*
 *://*.specialistdental.com.sg/*
 *://*.specialty-tire.com/*
@@ -61837,7 +61503,6 @@
 *://*.sqnetwork.net/*
 *://*.sqnks.com/*
 *://*.sqp.buzz/*
-*://*.sqpacking.cn/*
 *://*.sqpawn.com/*
 *://*.sqqel.com/*
 *://*.sqqfj.com/*
@@ -62103,7 +61768,6 @@
 *://*.stampcreteoflongisland.com/*
 *://*.stanaback.buzz/*
 *://*.standardcpa.com/*
-*://*.standardinfo.com.cn/*
 *://*.standfordiabetes.com/*
 *://*.staotie.com/*
 *://*.star-nm.com/*
@@ -62113,7 +61777,6 @@
 *://*.star1988.com/*
 *://*.starbytecomputers.com/*
 *://*.starcopies.net/*
-*://*.stardewvalleywiki.com/*
 *://*.starelc.com/*
 *://*.starkerexchanges.com/*
 *://*.starpin.cn/*
@@ -62142,7 +61805,6 @@
 *://*.stdiping.com/*
 *://*.stealthhelp.net/*
 *://*.steamcuba.com/*
-*://*.steampowered.com/*
 *://*.steamtools.net/*
 *://*.stecion.com/*
 *://*.steedford.com/*
@@ -62238,7 +61900,6 @@
 *://*.stseok.com/*
 *://*.stshw.cn/*
 *://*.stsistema.ru/*
-*://*.sttgxcl.com/*
 *://*.sttyqc.com/*
 *://*.studentvisanews.com/*
 *://*.studentyl.com/*
@@ -62274,7 +61935,6 @@
 *://*.su678.cn/*
 *://*.su8yc.com/*
 *://*.suahy.com/*
-*://*.suan5.com/*
 *://*.suan556.com/*
 *://*.suanei.com/*
 *://*.suanjianping.net/*
@@ -62287,7 +61947,6 @@
 *://*.subversionromance.com/*
 *://*.subybaby.net/*
 *://*.suc.com.cn/*
-*://*.sucai50.com/*
 *://*.sucainiu.com/*
 *://*.sucaixi.com/*
 *://*.success666.com/*
@@ -62307,7 +61966,6 @@
 *://*.sugarfree-photo.com/*
 *://*.suge.net.cn/*
 *://*.sugelanwsj.com/*
-*://*.suguangxs.com/*
 *://*.suhainan.cn/*
 *://*.suhfd.com/*
 *://*.sui.us/*
@@ -62342,7 +62000,6 @@
 *://*.sumaru.co.jp/*
 *://*.sumelnet.com/*
 *://*.sumiao.ml/*
-*://*.sumingxs.com/*
 *://*.summer0electric.com/*
 *://*.summerbreezeresorts.com/*
 *://*.sumocoal.com/*
@@ -63141,7 +62798,6 @@
 *://*.sysuv.com/*
 *://*.sysxdoor.com/*
 *://*.sysxzl.com/*
-*://*.sysyxjy.cn/*
 *://*.syszedu.net/*
 *://*.sytaoli.com/*
 *://*.sytbj.com/*
@@ -63498,7 +63154,6 @@
 *://*.szorder.com/*
 *://*.szoyk.com/*
 *://*.szpc000.com/*
-*://*.szpczy.com/*
 *://*.szpdzs.com/*
 *://*.szpfhy.com/*
 *://*.szpglh.com/*
@@ -63741,7 +63396,6 @@
 *://*.t5t.net.cn/*
 *://*.t5vl.com/*
 *://*.t5za0qp.cn/*
-*://*.t61.net/*
 *://*.t64f.com/*
 *://*.t66e.com/*
 *://*.t7114.com/*
@@ -63758,7 +63412,6 @@
 *://*.tabxt.com/*
 *://*.tachibanagame.com/*
 *://*.taczag.cn/*
-*://*.tadu.com/*
 *://*.tadua.net/*
 *://*.tadygl.com.cn/*
 *://*.tadyz.cn/*
@@ -63801,7 +63454,6 @@
 *://*.taijiniu.com.cn/*
 *://*.taijiquanwh.com/*
 *://*.taijixyk.com/*
-*://*.taijiyu.net/*
 *://*.taijulianmeng.com/*
 *://*.taikeglass.com/*
 *://*.taikongq.com/*
@@ -63819,7 +63471,6 @@
 *://*.taishanshan.com/*
 *://*.taishansteel.com.cn/*
 *://*.taishengworld.com/*
-*://*.taisounds.com/*
 *://*.taitaibang.com.cn/*
 *://*.taith.co.uk/*
 *://*.taivchen.com/*
@@ -63871,7 +63522,6 @@
 *://*.tanging.net/*
 *://*.tanginns.com/*
 *://*.tangjunj.com/*
-*://*.tangminghuang.com/*
 *://*.tango.cn/*
 *://*.tango48.com/*
 *://*.tangoguia.com/*
@@ -63880,7 +63530,6 @@
 *://*.tangrennongye.com/*
 *://*.tangshanbanjia.com/*
 *://*.tangshanrl.com/*
-*://*.tangshanzuche.com/*
 *://*.tangshi1.com/*
 *://*.tangshi2015.com/*
 *://*.tangshi3.com/*
@@ -63948,7 +63597,6 @@
 *://*.taoliweb.com/*
 *://*.taolop.com/*
 *://*.taomiba.cn/*
-*://*.taomingba.com/*
 *://*.taonan5.com/*
 *://*.taonee.com/*
 *://*.taoqoa.com/*
@@ -63980,7 +63628,6 @@
 *://*.tappusa.com/*
 *://*.tappyn.com/*
 *://*.tapscanner.com/*
-*://*.taptap.cn/*
 *://*.taptapdashonline.com/*
 *://*.tarcg.cn/*
 *://*.targetblackfridayad.net/*
@@ -63992,7 +63639,6 @@
 *://*.tasdugw.net/*
 *://*.tashique.com/*
 *://*.tasjft.com/*
-*://*.task88.com/*
 *://*.taslnc.com/*
 *://*.tastones.com/*
 *://*.tatanmould.com/*
@@ -64202,11 +63848,9 @@
 *://*.tebqm.com/*
 *://*.tec21.net/*
 *://*.teccn.com/*
-*://*.tech-girlz.com/*
 *://*.tech-tour.com/*
 *://*.tech.lwaaopx.com/*
 *://*.tech365.net/*
-*://*.techacademy.jp/*
 *://*.techbow.cn/*
 *://*.techbriefly.com/*
 *://*.techdevian.com/*
@@ -64330,7 +63974,6 @@
 *://*.testpump.cn/*
 *://*.tesuwa.com/*
 *://*.tet77.com/*
-*://*.teteas.cn/*
 *://*.tetradiamond.com/*
 *://*.tetyj.cn/*
 *://*.teucss.xyz/*
@@ -64562,7 +64205,6 @@
 *://*.threatexpert.com.cn/*
 *://*.threedranchllc.com/*
 *://*.threeooo.com/*
-*://*.threetong.com/*
 *://*.thrillbylg.com/*
 *://*.thrivemyway.com/*
 *://*.thruo2r.cn/*
@@ -64655,7 +64297,6 @@
 *://*.tianshuiwomen.com/*
 *://*.tiantiancaipt.com/*
 *://*.tiantianjk.cn/*
-*://*.tiantianqiming.com/*
 *://*.tiantianquangui.com/*
 *://*.tiantianseo.com/*
 *://*.tiantianshutong.com/*
@@ -64734,7 +64375,6 @@
 *://*.tienmay.com/*
 *://*.tierre-laser.buzz/*
 *://*.tietw.com/*
-*://*.tiexue.net/*
 *://*.tigotool.com/*
 *://*.tigresounds.com/*
 *://*.tihaofree.com/*
@@ -64769,10 +64409,8 @@
 *://*.tingfuziben.com/*
 *://*.tingguqinapp.com/*
 *://*.tingke.ga/*
-*://*.tinglanshu.com/*
 *://*.tingmeiw.com/*
 *://*.tingml.com/*
-*://*.tingroom.com/*
 *://*.tingwenlou.org/*
 *://*.tinkercad.com/*
 *://*.tino-sports.com/*
@@ -64792,11 +64430,9 @@
 *://*.tiseet.com/*
 *://*.tisoft.cn/*
 *://*.tisohu.cn/*
-*://*.tistory.com/*
 *://*.titan-winches.com/*
 *://*.titan24.com/*
 *://*.titanapply.com/*
-*://*.titech.ac.jp/*
 *://*.tititi.cc/*
 *://*.tittorture.buzz/*
 *://*.tiwwei.com/*
@@ -64889,7 +64525,6 @@
 *://*.tjhydp.net/*
 *://*.tjhyxy.com/*
 *://*.tjhzqz.com/*
-*://*.tjjinchaoyang.com/*
 *://*.tjjiudiantihs.cn/*
 *://*.tjjltx.com/*
 *://*.tjjrssc.com/*
@@ -65428,7 +65063,6 @@
 *://*.toya003c.com/*
 *://*.toya003e.com/*
 *://*.toya3655.info/*
-*://*.toycity.vip/*
 *://*.toyi.com/*
 *://*.toyif.cn/*
 *://*.toyo-stone.com/*
@@ -65597,7 +65231,6 @@
 *://*.trwmwh.com/*
 *://*.trwxiad.net/*
 *://*.trxfl.com/*
-*://*.trxs.me/*
 *://*.try-ist.com/*
 *://*.trybzc.com/*
 *://*.trymayayoga.com/*
@@ -65690,7 +65323,6 @@
 *://*.tswsjd.com/*
 *://*.tsxinchen.com/*
 *://*.tsxinke.com/*
-*://*.tsxsw.net/*
 *://*.tsxwzx.com/*
 *://*.tsydys.com/*
 *://*.tsyl1213.com/*
@@ -66262,7 +65894,6 @@
 *://*.ttjq.net/*
 *://*.ttjth.com/*
 *://*.ttjuh.top/*
-*://*.ttkan.co/*
 *://*.ttkb.net/*
 *://*.ttkmwl.com/*
 *://*.ttkzipper.cn/*
@@ -66383,7 +66014,6 @@
 *://*.tumpik.com/*
 *://*.tumuchina.com/*
 *://*.tune138.com/*
-*://*.tungwah.org.hk/*
 *://*.tunve.cn/*
 *://*.tunzp.com/*
 *://*.tuobaxing.com/*
@@ -66415,7 +66045,6 @@
 *://*.tushu521.com/*
 *://*.tushuashua.com/*
 *://*.tusiziz.com/*
-*://*.tut.ac.jp/*
 *://*.tuten.cc/*
 *://*.tutese.cn/*
 *://*.tutfz.com/*
@@ -66480,7 +66109,6 @@
 *://*.twfeq.com/*
 *://*.twfju.com/*
 *://*.twfrf.com/*
-*://*.twghlchps.edu.hk/*
 *://*.twgjy.com/*
 *://*.twgreatdaily.com/*
 *://*.twgreenking.com/*
@@ -66927,7 +66555,6 @@
 *://*.ubuntukylin.com/*
 *://*.ubxcay.info/*
 *://*.uc-gz.com/*
-*://*.uc.cn/*
 *://*.uc.my/*
 *://*.uc135.com/*
 *://*.uc2008.cn/*
@@ -66964,7 +66591,6 @@
 *://*.udcmim.com/*
 *://*.udctfeoy.site/*
 *://*.ude873.loan/*
-*://*.udemy.com/*
 *://*.udfhe.com/*
 *://*.udfht.com/*
 *://*.udgyt301906.com/*
@@ -66972,7 +66598,6 @@
 *://*.udkto.com/*
 *://*.udkwh.com/*
 *://*.udllr.com/*
-*://*.udn.com/*
 *://*.udouban.com/*
 *://*.udpwork.com/*
 *://*.udtawmda.net/*
@@ -67054,7 +66679,6 @@
 *://*.uhbm.top/*
 *://*.uhbps.com/*
 *://*.uhdsy.com/*
-*://*.uhera.cn/*
 *://*.uhhlx.com/*
 *://*.uhlist.buzz/*
 *://*.uhn188.loan/*
@@ -67206,7 +66830,6 @@
 *://*.under-sun.com/*
 *://*.underwearlyril.com/*
 *://*.unelh.com/*
-*://*.unesco.org/*
 *://*.unexpectedit.com/*
 *://*.ungbj.com/*
 *://*.uni-ustyle.com.tw/*
@@ -67598,7 +67221,6 @@
 *://*.v636.cn/*
 *://*.v653.cn/*
 *://*.v6565.info/*
-*://*.v686.com/*
 *://*.v6bd.com/*
 *://*.v6lr.adnfn.link/*
 *://*.v722.cn/*
@@ -67924,7 +67546,6 @@
 *://*.villahermosahonduras.com/*
 *://*.viltd.com/*
 *://*.vimention.org/*
-*://*.vimeo.com/*
 *://*.vimsky.com/*
 *://*.vin120.com/*
 *://*.vinaurora.com/*
@@ -68157,7 +67778,6 @@
 *://*.vo40.com/*
 *://*.vo656yq.cn/*
 *://*.voa.io/*
-*://*.voachinese.com/*
 *://*.vobnu.com/*
 *://*.vofks.com/*
 *://*.voguestorm.com/*
@@ -68609,7 +68229,7 @@
 *://*.wanda883.cn/*
 *://*.wandasuoye.com/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://ksou.cc/*
+*://*.wandouip.com/*.001553.cn
 *://*.wanfa088.us/*
 *://*.wanfoto.com/*
 *://*.wanfudz.com/*
@@ -68831,7 +68451,6 @@
 *://*.wbrzjx.net/*
 *://*.wbs-usa.com/*
 *://*.wbs33.com/*
-*://*.wbshoes.net/*
 *://*.wbto.cn/*
 *://*.wbtuo.com/*
 *://*.wbvbpnvn.com/*
@@ -69084,7 +68703,6 @@
 *://*.weipenguan.com/*
 *://*.weipf.com/*
 *://*.weiphuisc.com/*
-*://*.weiqiming.com/*
 *://*.weiqingjixie.com/*
 *://*.weiqingmy.com/*
 *://*.weiran88.com/*
@@ -69093,7 +68711,6 @@
 *://*.weishangqw.com/*
 *://*.weishengjkk.com/*
 *://*.weishengsue.org/*
-*://*.weishimingche.com/*
 *://*.weishldg.net/*
 *://*.weisouyi.com/*
 *://*.weissdamm.org/*
@@ -69182,7 +68799,6 @@
 *://*.wenkongshebei.com/*
 *://*.wenku.inet198.cn/*
 *://*.wenku1.com/*
-*://*.wenku8.net/*
 *://*.wenliku.com/*
 *://*.wenlongkm.com/*
 *://*.wenmi.net/*
@@ -69201,7 +68817,6 @@
 *://*.wenwengou.com/*
 *://*.wenxi-e.com/*
 *://*.wenxinchaiqian.com/*
-*://*.wenxuecity.com/*
 *://*.wenyanet.com/*
 *://*.wenyecn.com/*
 *://*.wenzeer.com/*
@@ -69576,7 +69191,6 @@
 *://*.wikicell.org/*
 *://*.wikidevs.com/*
 *://*.wikioi.com/*
-*://*.wikisource.org/*
 *://*.wikxu.com/*
 *://*.wildfireimages.com.au/*
 *://*.wildplant.cn/*
@@ -70019,7 +69633,6 @@
 *://*.woqzh.com/*
 *://*.wordford.com/*
 *://*.wordpress.com/*
-*://*.wordreference.com/*
 *://*.words.com/*
 *://*.wordtechintl.com/*
 *://*.workerette.com/*
@@ -70273,7 +69886,6 @@
 *://*.wtyxch.com/*
 *://*.wtzfcg.cn/*
 *://*.wtzvx.com/*
-*://*.wtzw.com/*
 *://*.wtzx.net/*
 *://*.wtzybes.net/*
 *://*.wu-xian.cn/*
@@ -70354,7 +69966,6 @@
 *://*.wuping365.com/*
 *://*.wuqiang7.cn/*
 *://*.wuqifu.com/*
-*://*.wuqingxs.com/*
 *://*.wurenjiashiqiche.cn/*
 *://*.wushaoshes.com/*
 *://*.wushi877.com/*
@@ -70459,7 +70070,6 @@
 *://*.wwmvs.com/*
 *://*.wwo8.com/*
 *://*.wwppll.com/*
-*://*.wwqqcd.cn/*
 *://*.wwrmt.com/*
 *://*.wwsq86.com/*
 *://*.wwtfb.com/*
@@ -71019,7 +70629,6 @@
 *://*.wxqianbao.com/*
 *://*.wxqiji.cn/*
 *://*.wxqkm.com/*
-*://*.wxqmw.cn/*
 *://*.wxqns.com/*
 *://*.wxrb.com/*
 *://*.wxren.net/*
@@ -71241,7 +70850,6 @@
 *://*.wzwmcs.com/*
 *://*.wzwul.com/*
 *://*.wzx123.com/*
-*://*.wzx5.com/*
 *://*.wzxa.net/*
 *://*.wzxinshengjie.com/*
 *://*.wzxuchun.com/*
@@ -71462,7 +71070,6 @@
 *://*.xbaad.com/*
 *://*.xbai.cc/*
 *://*.xbald.cn/*
-*://*.xbanxia.com/*
 *://*.xbaotattoo.com/*
 *://*.xbbpo.org/*
 *://*.xbcnc.cn/*
@@ -71479,7 +71086,6 @@
 *://*.xbh8.net/*
 *://*.xbhmsxy.com/*
 *://*.xbhnp.com/*
-*://*.xbiquge.io/*
 *://*.xbjrjd.com/*
 *://*.xbkqw.com/*
 *://*.xblbxgb.com/*
@@ -71901,7 +71507,6 @@
 *://*.xianfengbuyi.com/*
 *://*.xianfh.cn/*
 *://*.xiang168169.cn/*
-*://*.xiang5.com/*
 *://*.xiangbaola.com/*
 *://*.xiangbo168.com/*
 *://*.xiangbo22.com/*
@@ -72031,9 +71636,7 @@
 *://*.xiaoshidais.com/*
 *://*.xiaoshou.info/*
 *://*.xiaoshuang0.cn/*
-*://*.xiaoshubao.net/*
 *://*.xiaoshuo08.com/*
-*://*.xiaoshuocp.com/*
 *://*.xiaoskj.com/*
 *://*.xiaoso.net/*
 *://*.xiaosou.cc/*
@@ -72255,7 +71858,6 @@
 *://*.xinglong0431.com/*
 *://*.xinglvmuye.com/*
 *://*.xingmei88.com/*
-*://*.xingming.com/*
 *://*.xingongye.cn/*
 *://*.xingpaipack.com/*
 *://*.xingpengsujiao.com/*
@@ -72278,7 +71880,6 @@
 *://*.xingyefdc.com/*
 *://*.xingyexindai.com/*
 *://*.xingyulqq.com/*
-*://*.xingyunba.com/*
 *://*.xingzhilv88.com/*
 *://*.xingzunkeji.com/*
 *://*.xingzuo5.cn/*
@@ -72361,7 +71962,6 @@
 *://*.xinqs.com/*
 *://*.xinquan.cn/*
 *://*.xinquanedu.com/*
-*://*.xinremenxs.com/*
 *://*.xinruidesign.cn/*
 *://*.xinruifabxg.com/*
 *://*.xinruigp.com/*
@@ -72486,7 +72086,6 @@
 *://*.xixibaike.com/*
 *://*.xixiwe.com/*
 *://*.xixsx.loan/*
-*://*.xiyangwx.com/*
 *://*.xiyasheying.com/*
 *://*.xiyayuan.com/*
 *://*.xiyicao.cn/*
@@ -72749,7 +72348,6 @@
 *://*.xlz2013.com/*
 *://*.xm-artschool.com/*
 *://*.xm.com/*
-*://*.xm1z.com/*
 *://*.xm3mhn.com/*
 *://*.xm666666.cc/*
 *://*.xm8118.com/*
@@ -72802,7 +72400,6 @@
 *://*.xmjshl.com/*
 *://*.xmjunlai.com/*
 *://*.xmjzhzs.com/*
-*://*.xmkanshu.com/*
 *://*.xmkftq.net/*
 *://*.xmkjuij.net/*
 *://*.xmksw.cn/*
@@ -73205,7 +72802,6 @@
 *://*.xsywedding.com/*
 *://*.xsyxd.com/*
 *://*.xszgart.com/*
-*://*.xszj.org/*
 *://*.xszq154.com/*
 *://*.xszwhg.com/*
 *://*.xt185.com/*
@@ -73313,7 +72909,6 @@
 *://*.xuebeibao.com/*
 *://*.xuebiji.com/*
 *://*.xuebuyuan.com/*
-*://*.xuechehui.com/*
 *://*.xuediejf.com/*
 *://*.xueduoduo.org/*
 *://*.xuefengchem.com/*
@@ -73346,7 +72941,6 @@
 *://*.xuezhai.top/*
 *://*.xuezhishao.com/*
 *://*.xuezhizhi.com/*
-*://*.xuezhouyi.com/*
 *://*.xuezhuandaosu.cn/*
 *://*.xufei3.com.cn/*
 *://*.xuginj.cn/*
@@ -73496,7 +73090,6 @@
 *://*.xx896.com/*
 *://*.xx8s.com/*
 *://*.xxbar.net/*
-*://*.xxbiqiuge.com/*
 *://*.xxbmg.cn/*
 *://*.xxbsopeyw.com/*
 *://*.xxcaij.cn/*
@@ -73557,7 +73150,6 @@
 *://*.xxsrh.com/*
 *://*.xxsszs.com/*
 *://*.xxsww.cn/*
-*://*.xxsy.net/*
 *://*.xxtl.org.cn/*
 *://*.xxtvj.com/*
 *://*.xxwc.org.cn/*
@@ -73859,7 +73451,6 @@
 *://*.y5659.com/*
 *://*.y65cod8.cn/*
 *://*.y6768.com/*
-*://*.y6c.cn/*
 *://*.y6d3no.cn/*
 *://*.y6qn.cc/*
 *://*.y6ttb94.cn/*
@@ -74019,7 +73610,6 @@
 *://*.yangzhoulin201.cn/*
 *://*.yangzicw.com/*
 *://*.yangziyan.com/*
-*://*.yanhlzw.com/*
 *://*.yanhonglu.com/*
 *://*.yanhuangl.com/*
 *://*.yanhuangwang.org/*
@@ -74034,7 +73624,6 @@
 *://*.yanlea.cn/*
 *://*.yanlietd.net/*
 *://*.yanlutong.com/*
-*://*.yanmade.com/*
 *://*.yanruvip.com/*
 *://*.yansheku.com/*
 *://*.yanshenxl.com/*
@@ -74053,7 +73642,6 @@
 *://*.yanwoy.com/*
 *://*.yanxiaoni.com/*
 *://*.yanyetang.com/*
-*://*.yanyulouxs.com/*
 *://*.yanzuoguang.com/*
 *://*.yao51.com/*
 *://*.yaobeinaa.com/*
@@ -74133,7 +73721,6 @@
 *://*.yazhouchengyuleg.com/*
 *://*.yazhouchengyulex.com/*
 *://*.yazhoujugui.com/*
-*://*.yazhouribao.com/*
 *://*.yazhouxiangdx.com/*
 *://*.yazhyhd.net/*
 *://*.yazhyx.com/*
@@ -74461,13 +74048,11 @@
 *://*.yetzas.net/*
 *://*.yeupsac.com/*
 *://*.yevcxvnb.net/*
-*://*.yeweiyangxs.com/*
 *://*.yewulx.com/*
 *://*.yexcbdhc.net/*
 *://*.yexcvbnt.net/*
 *://*.yexnbdcb.net/*
 *://*.yey.com/*
-*://*.yeyeya.com/*
 *://*.yeykbd.net/*
 *://*.yeyou899wan.com/*
 *://*.yeypc.com/*
@@ -74757,7 +74342,6 @@
 *://*.yidat.cn/*
 *://*.yiddart.com/*
 *://*.yidew.com/*
-*://*.yidiandianzw.com/*
 *://*.yidiansousuo.com/*
 *://*.yiding333sj.com/*
 *://*.yidong92.com/*
@@ -74984,7 +74568,6 @@
 *://*.yiqbo.com/*
 *://*.yiqianzhao.com/*
 *://*.yiqiforeign.com/*
-*://*.yiqiming.com/*
 *://*.yiqingxiang.com/*
 *://*.yiqisou.net/*
 *://*.yiqiwifi.com/*
@@ -75564,7 +75147,6 @@
 *://*.yobv.net/*
 *://*.yoctox.com/*
 *://*.yodot.com/*
-*://*.yodu.app/*
 *://*.yody.pw/*
 *://*.yoertxb.net/*
 *://*.yoga8.cn/*
@@ -75671,7 +75253,6 @@
 *://*.youdns4.com/*
 *://*.youdns5.com/*
 *://*.youdressweird.com/*
-*://*.youdubook.com/*
 *://*.youdujz.com/*
 *://*.youduoxi.com/*
 *://*.youebe.com/*
@@ -75737,7 +75318,6 @@
 *://*.yousheng1v1.com/*
 *://*.youshun88.com/*
 *://*.youshuo360.com/*
-*://*.yousiwenxue.com/*
 *://*.yousongjie.com/*
 *://*.youthexpo2010.com/*
 *://*.youv.net/*
@@ -75751,7 +75331,6 @@
 *://*.youxifuli.com/*
 *://*.youxih.com/*
 *://*.youxihc.com/*
-*://*.youxiniao.com/*
 *://*.youxiwzk.com/*
 *://*.youxizhinancn.com/*
 *://*.youxun.org/*
@@ -75843,7 +75422,6 @@
 *://*.yqkx.org/*
 *://*.yqlingtong.com/*
 *://*.yqmce.com/*
-*://*.yqmedicalsupplies.com/*
 *://*.yqmjh.com/*
 *://*.yqn.asia/*
 *://*.yqniswd.cn/*
@@ -75883,7 +75461,6 @@
 *://*.yqwzsly.com/*
 *://*.yqxbx.com/*
 *://*.yqxfoil.com/*
-*://*.yqxxs.com/*
 *://*.yqycf.com/*
 *://*.yqyds.com/*
 *://*.yqyh.me/*
@@ -77371,7 +76948,6 @@
 *://*.ytzgnews.com/*
 *://*.ytzszj.com/*
 *://*.ytzxsx.net/*
-*://*.yu07.cn/*
 *://*.yu1044.com/*
 *://*.yu5.org.cn/*
 *://*.yu5885.com/*
@@ -77464,14 +77040,12 @@
 *://*.yuechetuan.com/*
 *://*.yuedao.net/*
 *://*.yuediqu.com/*
-*://*.yueduban.com/*
 *://*.yueduwen.com/*
 *://*.yueduy.com/*
 *://*.yuefamarine.com/*
 *://*.yuejiaglobal.com/*
 *://*.yuejiz.com/*
 *://*.yuelangwan.com/*
-*://*.yueleshow.com/*
 *://*.yueman.net/*
 *://*.yuemingjiegangtie.com/*
 *://*.yuenankuai526.date/*
@@ -77605,15 +77179,12 @@
 *://*.yunkuaijie.com/*
 *://*.yunkucn.com/*
 *://*.yunleba.com/*
-*://*.yunmeiming.com/*
-*://*.yunnan.cn/*
 *://*.yunnan1.com/*
 *://*.yunnanck.com/*
 *://*.yunnansx.com/*
 *://*.yunniukd.com.cn/*
 *://*.yunpansoso.com/*
 *://*.yunpanzhushou.com/*
-*://*.yunqian.net/*
 *://*.yunqixinli.com/*
 *://*.yunquniu.com/*
 *://*.yunsd.net/*
@@ -77662,7 +77233,6 @@
 *://*.yutongrate.com/*
 *://*.yutongsh.com/*
 *://*.yutouzi.cn/*
-*://*.yutu.cn/*
 *://*.yuuedu.com/*
 *://*.yuvjknbn.net/*
 *://*.yuwen5.cn/*
@@ -77711,7 +77281,6 @@
 *://*.yvxenko.net/*
 *://*.yvywe.com/*
 *://*.yw-blct.com/*
-*://*.yw11.com/*
 *://*.yw168.cn/*
 *://*.yw23.cn/*
 *://*.yw2828.cn/*
@@ -77827,7 +77396,6 @@
 *://*.yxjplg.com/*
 *://*.yxjyj.com/*
 *://*.yxkedaozs.com/*
-*://*.yxlady.com/*
 *://*.yxlcanyin.com/*
 *://*.yxlchbz.com/*
 *://*.yxlfgpz.net/*
@@ -78343,7 +77911,6 @@
 *://*.zbxchyu.net/*
 *://*.zbxinmai.com/*
 *://*.zbxinshengyu.com/*
-*://*.zbxsyy.com/*
 *://*.zbxumu.cn/*
 *://*.zbxuycf.net/*
 *://*.zbxwgb.com/*
@@ -78501,7 +78068,6 @@
 *://*.zenithead.com/*
 *://*.zenlikei.com/*
 *://*.zenmebanw.com/*
-*://*.zenn.dev/*
 *://*.zenresort.net/*
 *://*.zens.com/*
 *://*.zenuav.com/*
@@ -78574,7 +78140,6 @@
 *://*.zg6868.com/*
 *://*.zgaodeli.com/*
 *://*.zgbaian.cn/*
-*://*.zgbbly.com/*
 *://*.zgbjzn.com/*
 *://*.zgbqsj.com/*
 *://*.zgcaidi.com/*
@@ -78640,7 +78205,6 @@
 *://*.zgjkcj.com/*
 *://*.zgjkshh.com/*
 *://*.zgjlsfrt.net/*
-*://*.zgjm.org/*
 *://*.zgjxbjgys.cn/*
 *://*.zgjxyixin.com/*
 *://*.zgjyjj.com/*
@@ -78768,7 +78332,6 @@
 *://*.zgzjbk.com/*
 *://*.zgzjcbs.com/*
 *://*.zgzjtj.com/*
-*://*.zgzl.net/*
 *://*.zgzlsbk.com/*
 *://*.zgzq1.com/*
 *://*.zgzq4.com/*
@@ -78795,7 +78358,6 @@
 *://*.zhaibu.top/*
 *://*.zhaifo.net/*
 *://*.zhaihai.com/*
-*://*.zhaikangpei.com/*
 *://*.zhainvshu.org/*
 *://*.zhaiyaoz.com/*
 *://*.zhaizhaiys.net/*
@@ -78836,7 +78398,6 @@
 *://*.zhangyg.com/*
 *://*.zhangyonghua009.com/*
 *://*.zhangyongjun.com/*
-*://*.zhangyue.com/*
 *://*.zhangzifan.com/*
 *://*.zhangziyiyl.com/*
 *://*.zhanpik.info/*
@@ -78974,7 +78535,6 @@
 *://*.zhengzhoutalk.com/*
 *://*.zhengzhouxunfang.com/*
 *://*.zhenhesaun.com/*
-*://*.zhenhunxiaoshuo.com/*
 *://*.zhenjiangseo.com/*
 *://*.zhenjicnc.net/*
 *://*.zhenjieaf.com/*
@@ -79142,7 +78702,6 @@
 *://*.zhkvagbn.net/*
 *://*.zhl798.com/*
 *://*.zhlanke.com/*
-*://*.zhliang.net/*
 *://*.zhluwen.com/*
 *://*.zhlxtech.com/*
 *://*.zhlxyjxj.com/*
@@ -79184,7 +78743,6 @@
 *://*.zhonghangjg.com/*
 *://*.zhonghansw.com/*
 *://*.zhonghuanhaixia.com/*
-*://*.zhonghuaqiming.com/*
 *://*.zhonghuaxueshu.com/*
 *://*.zhonghuayanshi.com/*
 *://*.zhonghuayiqi.com/*
@@ -79234,7 +78792,6 @@
 *://*.zhongyour.com/*
 *://*.zhongyuanyt.com/*
 *://*.zhongyuanyuyin.com/*
-*://*.zhongyunqiming.com/*
 *://*.zhongyutieta.com/*
 *://*.zhongzilv.cc/*
 *://*.zhongzilv.com/*
@@ -79247,7 +78804,6 @@
 *://*.zhoupeng18.com/*
 *://*.zhoushanhd.com/*
 *://*.zhouyes.cn/*
-*://*.zhouyi.cc/*
 *://*.zhouyi27.com/*
 *://*.zhouyingzs.com/*
 *://*.zhouzhuangg.com/*
@@ -79256,7 +78812,6 @@
 *://*.zhqcbx.com/*
 *://*.zhqipeiw.com/*
 *://*.zhqld.com/*
-*://*.zhqm.com.cn/*
 *://*.zhrnet.com/*
 *://*.zhru.pw/*
 *://*.zhsapphire.com/*
@@ -79318,7 +78873,6 @@
 *://*.zhujiabao.com/*
 *://*.zhujituijie.com/*
 *://*.zhujunlang.cn/*
-*://*.zhulang.com/*
 *://*.zhulhua.com.cn/*
 *://*.zhulingl.com/*
 *://*.zhulinju.net/*
@@ -79372,7 +78926,6 @@
 *://*.zhwjsjt.com/*
 *://*.zhwy360.com/*
 *://*.zhxh.cn/*
-*://*.zhxia.net/*
 *://*.zhxkh.com/*
 *://*.zhxsjp.net/*
 *://*.zhxssyj.com/*
@@ -79457,7 +79010,6 @@
 *://*.zirolan.com/*
 *://*.ziru168.com/*
 *://*.zirunv.cn/*
-*://*.zirushu.com/*
 *://*.zisenvren.com/*
 *://*.zishan78.com/*
 *://*.zishanhushentaiban.com/*
@@ -79555,7 +79107,6 @@
 *://*.zjgjlmy.com/*
 *://*.zjglaike.com/*
 *://*.zjglass.com.cn/*
-*://*.zjgnovel.com/*
 *://*.zjgxczx.com/*
 *://*.zjgxdxx.cn/*
 *://*.zjgxuyang.com/*
@@ -79869,7 +79420,6 @@
 *://*.zmmoo.com/*
 *://*.zmnf.net/*
 *://*.zmnkf.com/*
-*://*.zmnovel.com/*
 *://*.zmnugdw.net/*
 *://*.zmojen.info/*
 *://*.zmpat.com/*
@@ -79879,7 +79429,6 @@
 *://*.zmwfgg.com/*
 *://*.zmwhh.com/*
 *://*.zmxiaodaos.com/*
-*://*.zmxsku.com/*
 *://*.zmxsls.com/*
 *://*.zmylzl.com/*
 *://*.zmzl1rm.cn/*
@@ -79933,7 +79482,6 @@
 *://*.zoe5bh6.cn/*
 *://*.zoelove925.com/*
 *://*.zoemir.com/*
-*://*.zoeyk.co/*
 *://*.zof477.cn/*
 *://*.zogch.com/*
 *://*.zoikf.cn/*
@@ -79945,7 +79493,6 @@
 *://*.zoneips.com/*
 *://*.zonekey.com.cn/*
 *://*.zong8.cc/*
-*://*.zongheng.com/*
 *://*.zonghengjy.com/*
 *://*.zonghengzw.com/*
 *://*.zongmeimei.com/*
@@ -80126,7 +79673,6 @@
 *://*.zs-steel.com/*
 *://*.zs-sunway.com/*
 *://*.zs-zxzx.com/*
-*://*.zs.gov.cn/*
 *://*.zs2133.com/*
 *://*.zs2sybiracy.edu.pl/*
 *://*.zs3311.com/*
@@ -80329,7 +79875,6 @@
 *://*.zuowen2.info/*
 *://*.zuowensc.com/*
 *://*.zuoxuan66.com/*
-*://*.zuoyebang.com/*
 *://*.zuoyewen.com/*
 *://*.zuoyi715.com/*
 *://*.zuoyou51.com/*
@@ -80371,7 +79916,6 @@
 *://*.zvtydwd.net/*
 *://*.zvups.win/*
 *://*.zvvwg.com/*
-*://*.zvwww.com/*
 *://*.zvxtv.top/*
 *://*.zw2.cn/*
 *://*.zw2016.com/*
@@ -80422,7 +79966,6 @@
 *://*.zx990066.com/*
 *://*.zxanhui.com/*
 *://*.zxb66.com/*
-*://*.zxblgjrxz.com/*
 *://*.zxbuigs.net/*
 *://*.zxbx.awejp.top/*
 *://*.zxbzw.net/*
@@ -80641,7 +80184,6 @@
 *://*.zyqd360.com/*
 *://*.zyqfp.com/*
 *://*.zyqlled.com/*
-*://*.zyqmw.com/*
 *://*.zyqpgs8.com/*
 *://*.zyremix.com/*
 *://*.zyrfl.com/*
@@ -80886,7 +80428,7 @@
 *://*/so.php
 *://*/so.php?s=*
 *://*/so/*
-*://*/so/**://*.aboluowang.com/*
+*://*/so/**://*.00000258.com/*
 *://.8kee.com/*  
 *://00w5.com/*
 *://028deng.com/*
@@ -80903,7 +80445,6 @@
 *://118.193.38.103/*  
 *://123ggy.com/*  
 *://128.1.132.183/*
-*://154.23.168.147/*
 *://155.138.230.158/*
 *://159.138.37.243/*
 *://170068.com/*
@@ -80939,7 +80480,6 @@
 *://52dcr.com/*
 *://52dcr.com/*  
 *://52movs.com/*
-*://61.147.107.44/*
 *://62.234.115.194/*
 *://66.wendadaohang.com/*
 *://6painted8.com/*
@@ -80951,12 +80491,10 @@
 *://87426578.com/*  
 *://91yqf.com/*
 *://942wang.com/*
-*://951ct.pl/*
 *://9801.me/*  
 *://9897sf.com/*
 *://996yx.com/*
 *://99qqa.cn/*
-*://99ty.co/*
 *://9njuj.youjuqipai.com/*  
 *://9to5answer.com/*
 *://://www.7sbook.com/
@@ -81035,14 +80573,10 @@
 *://bannercuts.com /*  
 *://baocaiyijia.com/
 *://base64.work/so/*
-*://bbs.boniu123.cc/*
 *://bbs.csdn.net/*
-*://bbs.gotvg.com/*
 *://bbs.guaruan.com/*
 *://bbs.mydigit.cn/*
 *://bbs.nga.cn/*
-*://bbs.oldmantvg.net/*
-*://bbs.panchip.com/*
 *://bbs.wper.com/*
 *://bbs.xianjichina.com/*
 *://bbs.zol.com.cn/*
@@ -81051,7 +80585,6 @@
 *://bcxiaobai.cc/*  
 *://bebugless.com/*
 *://befedd.com/*  
-*://beginnotes.com/*
 *://beijing-resilio.tamasya.info/*
 *://beingsn.cwk9.com/
 *://belligerency.buzz/*
@@ -81064,7 +80597,6 @@
 *://bialibc0.companyxiv.com/*
 *://bianmawd.cc/*
 *://biggo.com.tw/*
-*://bingfong.com/*
 *://bionix.com/*
 *://bishangme.com/*  
 *://bitcoden.com/*
@@ -81095,7 +80627,6 @@
 *://brabantwerkt.nl/*  
 *://bradstreetcra.com/*
 *://brd2a.com/*
-*://briian.com/*
 *://briteming.blogspot.com/*
 *://broadas.com/*
 *://brrmn.com/*
@@ -81130,13 +80661,11 @@
 *://ceji.ayotechnology.de/*
 *://cf628.com/*
 *://cfosquad.com/*  
-*://cgs-labs.com/*
 *://chanson-contemporaine.com/*  
 *://chaosou.cc/*
 *://chashi.dsevr.com/*
 *://check-caller.co.uk/*
 *://checkcaller.cn/*
-*://chejiahao.autohome.com.cn/*
 *://chinese.alibaba.com/*
 *://chkg99.com/*  
 *://chouchou.tw/*  
@@ -81172,7 +80701,6 @@
 *://codegrepr.com/*
 *://codeguides.site/*
 *://codehero.jp/*
-*://codelove.tw/*
 *://coder.gay/*
 *://coderoad.ru/*
 *://codeutility.org/*
@@ -81295,7 +80823,6 @@
 *://edu.51cto.com/*
 *://edupro.id/*
 *://ee.ofweek.com/*
-*://efi.kcw1688.com/*
 *://efzx.cc/*
 *://egcc.cc/*
 *://egny.fieldball.de/*
@@ -81415,7 +80942,6 @@
 *://gzmuzhe.com/*  
 *://gzxxsm.com/*  
 *://hairunwatertr.com/*
-*://hanamizuki2010.sakura.ne.jp/*
 *://hantenglaw.com/*
 *://hao2578.com/*  
 *://haojiaya.com/*
@@ -81445,7 +80971,6 @@
 *://hnsqnlhh.com/*
 *://hnup.cc/*
 *://holy-smile.com/*
-*://home.gamer.com.tw/*
 *://homeysupply.com/*  
 *://homiemall.com/*
 *://hosf.flusskreuzfahrten-elbe.de/*
@@ -81453,7 +80978,6 @@
 *://hoteles.bluevalencia.com/*
 *://houseword.com/*
 *://hpww.cc/*
-*://hth1.co/*
 *://htmlwdw.com/*
 *://huilingjt.com/*  
 *://huiss.cc/*
@@ -81471,7 +80995,6 @@
 *://hzsnby.com/*  
 *://hztx88.com/*
 *://hzzmqx.com/*  
-*://i1w.qwqvv.com/*
 *://i88ko.com/*  
 *://iainv3.me/*  
 *://iamlishuo.com/*
@@ -81479,7 +81002,6 @@
 *://ichunqing.com/*
 *://icode.best/*
 *://icode.best/*  
-*://icp.bugscaner.com/*
 *://idcmai.com/*  
 *://ido-school.com/*
 *://igotojapan.com/*  
@@ -81528,7 +81050,6 @@
 *://jclinicth.com/*  
 *://jd.hooos.com/*
 *://jdd10037.s.qswgyz.com/*
-*://jdtuanrui.com/*
 *://jdzl.v3ng.de/*
 *://jhsjtxx.com/*
 *://jiaoqiubifenchaxun.wfleishi.com/
@@ -81588,11 +81109,11 @@
 *://klieg.fun/*
 *://koubei.baidu.com/*
 *://kpgbq.com/*
-*://kratzer-automation-ltd.cn/*
 *://ks745.com/*
 *://ksctec.com/*
 *://ksdlsk.com/*  
 *://ksfboa.com/*
+*://ksou.cc/*
 *://kstuca.kharkov.ua/*  
 *://kuaibao.qq.com/*
 *://kuaisusou.cc/*
@@ -81638,13 +81159,11 @@
 *://lydgas.com/*
 *://m.111com.net/*
 *://m.201347.uk.com/*
-*://m.3169.net/*
 *://m.361t.org/*
 *://m.3g.qqs9.com/*
 *://m.4007007007.com/*  
 *://m.44fgw5.com/*
 *://m.51dongshi.com/*
-*://m.84zw.com/*
 *://m.9ji.com/*
 *://m.abctbh.com/*
 *://m.ablwp.com/*
@@ -81652,7 +81171,6 @@
 *://m.aliyun.com/*
 *://m.aotaier.com.cn/
 *://m.bilibili.com/*
-*://m.biqubao10.com/*
 *://m.bxwgo.com/*  
 *://m.ccdswl.com/*
 *://m.ccidnet.com/*
@@ -81662,7 +81180,6 @@
 *://m.daihema.com/*
 *://m.dddnt.com/*
 *://m.dingjisc.com/*
-*://m.downcc.com/*
 *://m.ebw100.com/*
 *://m.eoudu.com/*
 *://m.feimiao.cn/*
@@ -81692,7 +81209,6 @@
 *://m.kjw.cc/*
 *://m.liepin.com/*
 *://m.manyushijia.com/*
-*://m.med126.com/*
 *://m.mk369.com/*
 *://m.mmaatthh.com/*
 *://m.moxingyun.com/*
@@ -81700,7 +81216,6 @@
 *://m.outmc.com/*
 *://m.pai-hang-bang.com/*
 *://m.pjtime.com/*
-*://m.playmods.net/*
 *://m.qcrlb.com/*
 *://m.qu99.com/*
 *://m.quanmama.com/*
@@ -81733,7 +81248,6 @@
 *://m.yzlqzx.xyz/*
 *://m.zcool.com.cn/*
 *://m.zhihejia.com/*
-*://m.zhouyiju.com/*
 *://m.zhuangku.com/*
 *://machao56.com/*
 *://machbbs.com/*
@@ -81761,7 +81275,6 @@
 *://microeducate.tech/*
 *://mimeplay.top/*
 *://mingtwang.com/*
-*://mingzi.zhiname.com/*
 *://mirimichigreen.com /*  
 *://mirrormirror.uk.com/*  
 *://mississippifaithinaction.org/*
@@ -81794,7 +81307,6 @@
 *://nanke135.com/*  
 *://napolicalcio24.com/*  
 *://natura-karite.com/*
-*://naturdecora.com/*
 *://nbri.stephan-messling.de/*
 *://ndup.cc/*
 *://neutrikmall.com/*
@@ -81811,7 +81323,6 @@
 *://news.znds.com/*
 *://nexellia.online/*
 *://nextpublic.de/*  
-*://ngabbs.com/*
 *://ni.cafegatto.com/*
 *://nice168.com/*  
 *://nicesou.cc/*
@@ -81825,7 +81336,6 @@
 *://noobyard.com/*  
 *://ntpn.cc/*
 *://nwzx.cc/*
-*://nywolf.org/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
 *://oeofo.com/*  
@@ -81843,7 +81353,6 @@
 *://oreu.singulus.it/*  
 *://oscareluca.com/*  
 *://ostack.cn/*
-*://osu.repo.nii.ac.jp/*
 *://overcoder.net/*
 *://owyje.0818hj.com/*
 *://p1htmlkernalweb.mybluemix.net/*
@@ -81895,7 +81404,6 @@
 *://programmierfrage.com/*
 *://psww.cc/*
 *://pttk.cc/*
-*://pureportal.strath.ac.uk/*
 *://pwpc.cc/*
 *://pxpc.cc/*
 *://py3study.com/*  
@@ -81951,7 +81459,6 @@
 *://qpup.cc/*
 *://quabr.com/*
 *://quackr.io/*
-*://quail.ink/*
 *://question-it.com/*
 *://questu.ru/*
 *://quitko.com/*
@@ -81964,12 +81471,10 @@
 *://rahumae.tln.edu.ee/*  
 *://rcmdc.com.ua/*  
 *://rcuk.bsc.by/*  
-*://read.qq.com/*
 *://read01.com/*
 *://read678.com/*
 *://recalll.co/*
 *://reccenomad.com/*
-*://refinish.basf.us/*
 *://regiaodecister.pt/*
 *://rishivoice.com/*
 *://rocksearch.cc/*
@@ -81978,7 +81483,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://www.xspdf.com/resolution/*
+*://rtrack.social/**://www.4k8k.xyz/*
 *://s.1zo7.com/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
@@ -82013,14 +81518,12 @@
 *://shop.99114.com/*
 *://shop.mincoon.com/*
 *://shop.pcpop.com/*
-*://shop.zanussi.co.uk/*
 *://shopee.tw/*
 *://shtianbao.com/*
 *://shufadashi.com/*
 *://shyxjmzc.com/*  
 *://sites.google.com/*
 *://sjsp168.com/*
-*://skillshop.exceedlms.com/*
 *://slco2.com/*
 *://slickdeals.net/*
 *://smartme.pl/*
@@ -82051,7 +81554,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/*.001553.cn
+*://stylesprzedazy.pl/**://www.7200500.com/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -82156,7 +81659,6 @@
 *://vesr.sk/*  
 *://videomediaseochannel.com/*
 *://villahermosahonduras.com/*
-*://vkvan.com/*
 *://vlbq.myweddingsurprise.de/*
 *://vnnd.cc/*
 *://vnqm.claudia-rohnke-fotografie.de/*
@@ -82264,7 +81766,6 @@
 *://www.10tiao.com/*
 *://www.1129862.com/*
 *://www.114zh.com/
-*://www.11666.cm/*
 *://www.12y.org/*
 *://www.139y.com/*
 *://www.1565759.com/*
@@ -82375,7 +81876,6 @@
 *://www.5axxw.com/*
 *://www.5dir.cn/*
 *://www.5ibc.net/*
-*://www.5ok5.com/*
 *://www.5shentg.com/*
 *://www.5ugas.com/*  
 *://www.600911.cn/*
@@ -82393,13 +81893,11 @@
 *://www.684758.com/*
 *://www.68ah.com/*
 *://www.68csj.com/*  
-*://www.69shu.pro/*
 *://www.6tuba.com/*
 *://www.7017881.com/*  
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
-*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -82451,7 +81949,6 @@
 *://www.9game.cn/*
 *://www.9gft.com/*
 *://www.9pole.com/*
-*://www.aaaaxs.com/*
 *://www.ab2s.com/*
 *://www.abcxzh.com/*
 *://www.academicsaviour.com/*
@@ -82511,7 +82008,6 @@
 *://www.arorahillshomes.buzz/*  
 *://www.artisancraftdistilling.com/*  
 *://www.asianjps.com/*
-*://www.asianzika.com/*
 *://www.asmrqq.com/*
 *://www.aswzjlgs.cn/*  
 *://www.ataknp.com/*  
@@ -82556,9 +82052,7 @@
 *://www.bifengo.com/*
 *://www.billowcable.com/*  
 *://www.binarydevelop.com/*
-*://www.bingbingxs.com/*
 *://www.biovegan-bg.com/*  
-*://www.biqingban.com/*
 *://www.bisoqi.com/*
 *://www.bisoqi.com/*  
 *://www.bitedie.com/*
@@ -82595,7 +82089,6 @@
 *://www.bumensao.com/*  
 *://www.bunian.cn/*
 *://www.buscodepto.com/*
-*://www.buyaerogel.com/*
 *://www.buyewj.com/*  
 *://www.buythebestbuy.com/*
 *://www.bvalve.es/*  
@@ -82636,7 +82129,6 @@
 *://www.cfanz.cn/*  
 *://www.chabuduoyang.com/*
 *://www.chac.org.cn/*
-*://www.chajianxw.com/*
 *://www.chalidehb.com/*
 *://www.chamberjkt.com/*
 *://www.chaoju.com/*
@@ -82651,7 +82143,6 @@
 *://www.chinawenwang.com/*
 *://www.chixian.net/*  
 *://www.cholegas.com/*  
-*://www.chrome666.com/*
 *://www.chuangchenchem.com/*  
 *://www.chusan.com/*
 *://www.cidugw.com/*  
@@ -82680,7 +82171,6 @@
 *://www.coder.work/article/*
 *://www.codesocang.com/*
 *://www.codetd.com/*
-*://www.coiniche.com/*
 *://www.colabug.com/*
 *://www.come2vc886.com/*
 *://www.comeseeme.org/*  
@@ -82698,8 +82188,6 @@
 *://www.creditnavi.buzz/*
 *://www.crifan.com/*
 *://www.csdetec.com/*
-*://www.csdn.com/*
-*://www.csdn.net/*
 *://www.csdn.net/gather_*
 *://www.csdn.net/tags/*
 *://www.csfeiyuan.com/*
@@ -82713,7 +82201,6 @@
 *://www.ctcea.org/*  
 *://www.ctfwikp.buzz/*
 *://www.ctolib.com/*
-*://www.cuimange.com/*
 *://www.cultureaporter.com/*  
 *://www.cuplayer.com/*
 *://www.cuponens.com/*  
@@ -82735,7 +82222,6 @@
 *://www.czzxtl.com/*  
 *://www.da-quan.net/*
 *://www.dabbsports.com/*
-*://www.daffaqq.com/*
 *://www.daihema.com/*
 *://www.dama123.com/*
 *://www.daoxinju.com/*  
@@ -82768,7 +82254,6 @@
 *://www.diannaoxianka.com/*
 *://www.dianping.com/*
 *://www.diglog.com/*
-*://www.directory.gov.hk/*
 *://www.direqx.com/*
 *://www.djcxy.com/*
 *://www.djjiuoeb.com/*
@@ -82786,10 +82271,9 @@
 *://www.doubao.com/*
 *://www.doublebay.com.tw/*  
 *://www.doukou.com/*
-*://www.douyin.com/**://*.xs84.co/*
+*://www.douyin.com/**://blog.csdn.net/*
 *://www.dovov.com/*
 *://www.downkr.com/*
-*://www.downkuai.com/*
 *://www.downyi.com/*
 *://www.doyo.cn/*
 *://www.drjordanmall.com/*
@@ -82833,8 +82317,6 @@
 *://www.excellentdue.com/*
 *://www.exmlo.com/*
 *://www.exportitnow.com/*
-*://www.extfans.com/*
-*://www.fa60.co/*
 *://www.faithoutreach-orissa.com/*  
 *://www.fang2000.com/*
 *://www.fashiontrendcenters.com/*
@@ -82875,19 +82357,16 @@
 *://www.fj-jinyuan.com/*  
 *://www.fjjbwz.com/*
 *://www.fjjycs.com/*  
-*://www.fkxz.cn/*
 *://www.flamingows.com/*  
 *://www.flashage.net/*  
 *://www.flele.com/*
 *://www.flyawayes.com/*  
-*://www.forksid.com/*
 *://www.foxmac.com/*
 *://www.frag3.buzz/*
 *://www.fsadu.org.br/*
 *://www.fuatergin.buzz/*  
 *://www.fuda001.com/*  
 *://www.fuhaishenye.com/*
-*://www.fumilar.com/*
 *://www.fungshinggroup.com/*  
 *://www.futebolamericano.eu/*  
 *://www.fuyimokuai.com/*
@@ -83012,7 +82491,6 @@
 *://www.hotbak.net/*  
 *://www.hotbgm.com/*
 *://www.hotessay.net/*
-*://www.housingauthority.gov.hk/*
 *://www.howietech.com/*
 *://www.howietech.com/*  
 *://www.hq396.com/*
@@ -83046,7 +82524,6 @@
 *://www.i4k.xyz/*
 *://www.i52917.com/*  
 *://www.i5seo.com/*
-*://www.iambkfoundation.com/*
 *://www.ib4banks.buzz/*  
 *://www.ibaobaoche.com/*  
 *://www.icangshu111.com/*
@@ -83066,7 +82543,6 @@
 *://www.ipokeronlineplay.net/*  
 *://www.is80030.com/*  
 *://www.isanxia.com/*
-*://www.ishubook.com/*
 *://www.isia8888.com/*  
 *://www.ispsd2015.com/*
 *://www.istangola.net/*  
@@ -83121,7 +82597,6 @@
 *://www.jiqingchat.com/*
 *://www.jishuwen.com/*
 *://www.jiutaihao.com/*  
-*://www.jixiangbook.com/*
 *://www.jiyifa.com/*
 *://www.jk-publishing.com/*  
 *://www.jke5.com/*  
@@ -83143,30 +82618,24 @@
 *://www.jsnongnong.com/*  
 *://www.jsxbbyq.com/*
 *://www.jun365.net/*  
-*://www.juscomply.com/*
 *://www.justinjeffrey.com/*
-*://www.juxiaoshuo.net/*
 *://www.juxiu.net/*
 *://www.jxfcar.com/*
 *://www.jxhqxiangsu.com/*  
 *://www.jxjyjdsb.com/*  
-*://www.jxmdsyyxgs.com/*
 *://www.jxxjty.com/*  
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://*.00000258.com/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
 *://www.kalonggou520.com/*  
 *://www.kanqudao.com/*
 *://www.kanwuwang.com/*
-*://www.kanzaipro.com/*
 *://www.kaozhenghao.com/*  
-*://www.kdesign007.com/*
 *://www.kdfkq.com/*  
 *://www.keithlcooper.com/*  
 *://www.kergi.top/*
@@ -83314,14 +82783,12 @@
 *://www.mojaladja.com/*  
 *://www.monamotors.com/*
 *://www.moneytlk.com/*
-*://www.monotaro.com/*
 *://www.moon811.com/*  
 *://www.mosaby.com/*
 *://www.moulin-larroque.com/*
 *://www.movervip.com/*
 *://www.movie-swords.com/*  
 *://www.moxisq.com/*
-*://www.mpweekly.com/*
 *://www.mrhoward.buzz/*
 *://www.mscto.com/*
 *://www.msn-int-at.buzz/*  
@@ -83407,9 +82874,7 @@
 *://www.pantianxia.com/*
 *://www.paradoxors.com/*  
 *://www.parichyimin.com/*
-*://www.patentguru.com/*
 *://www.patobriens.com/*  
-*://www.pc6.com/*
 *://www.pck777.com/*
 *://www.pclovers.net/*
 *://www.pconline.com.cn/3g/*
@@ -83420,7 +82885,6 @@
 *://www.pe0573.com/*
 *://www.peanutmidwest.com/*  
 *://www.pesyz.com/*  
-*://www.pexels.com/*
 *://www.phoenixups.com/*
 *://www.pianshen.com/*
 *://www.picciutofamily.buzz/*  
@@ -83428,7 +82892,6 @@
 *://www.ping-jia.net/*
 *://www.pinlue.com/*
 *://www.pizzasprint.com/*  
-*://www.playmods.net/*
 *://www.playsport.cc/*  
 *://www.pledgetoshare.com/*  
 *://www.plljr.com/*  
@@ -83453,7 +82916,6 @@
 *://www.qhdsnyb.com/*
 *://www.qhleihao.com/*  
 *://www.qianchusai.com/*
-*://www.qianmivshi.com/*
 *://www.qingtingip.com/*
 *://www.qkaxtw.co/*  
 *://www.qmisdhpe.com/*
@@ -83482,10 +82944,8 @@
 *://www.rayjcasting.com/*
 *://www.rcmdc.com.ua/*  
 *://www.rcmingliu.com/*  
-*://www.rej.jp/*
 *://www.rejoiceblog.com/*
 *://www.rghn.com.cn/*
-*://www.ricebowl.my/*
 *://www.right.com.cn/*
 *://www.right.com.cn/FORUM/search.php?*
 *://www.riji365.org/*
@@ -83497,7 +82957,6 @@
 *://www.runsem.com/*
 *://www.ruoyange.com/*
 *://www.ruten.com.tw/*
-*://www.sadhanaelectrical.com/*
 *://www.sahrabar.com/*  
 *://www.sangyu168.com/*
 *://www.sanye.cx/*
@@ -83517,7 +82976,6 @@
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
 *://www.sejuku.net/*
-*://www.selectha23.com/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -83578,7 +83036,6 @@
 *://www.sonyexplorascience.com/*  
 *://www.sorliveneers.buzz/*  
 *://www.sosunchina.com/*  
-*://www.souluotx.net/*
 *://www.sporths.com/*
 *://www.sprache.buzz/*
 *://www.spwomei.com/*  
@@ -83593,7 +83050,6 @@
 *://www.stackfinder.ru/*
 *://www.stacknoob.com/*
 *://www.stackubuntu.com/*
-*://www.stanleyblackanddecker.com/*
 *://www.star0s.com/*  
 *://www.state-savings.buzz/*
 *://www.sthuaguan.com/*
@@ -83643,7 +83099,6 @@
 *://www.tfdkt.com/*  
 *://www.tgidrinks.com/*
 *://www.thaipublica.org/*  
-*://www.thebasilius.com/*
 *://www.thecodeteacher.com/*
 *://www.thelittlestrawberryfarm.com/*  
 *://www.thenatureofwriting.com/*  
@@ -83656,7 +83111,6 @@
 *://www.tiandynasty.cn/*
 *://www.tianjinxiaochi.com/*
 *://www.tianpinapp.com/*
-*://www.tiersheets.com/*
 *://www.tiinon.com/*
 *://www.timesgroup.cn/*  
 *://www.tipdit.com/*  
@@ -83711,7 +83165,6 @@
 *://www.uidtp.com/*  
 *://www.ukassignment.org/*
 *://www.ukthesis.org/*
-*://www.umigreencoffee.com/*
 *://www.uoften.com/*
 *://www.uppercanadahealth.com/*
 *://www.urpimp.com/*
@@ -83827,7 +83280,6 @@
 *://www.xiandai2012.com/*
 *://www.xianjinghn.com/*  
 *://www.xiaoheidiannao.com/*
-*://www.xiaojunziyuan.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
 *://www.xiaozhishi.net/*  
@@ -83836,7 +83288,6 @@
 *://www.xindunaf.com/*  
 *://www.xinfuq.cn/*
 *://www.xingdiankeji.com/*  
-*://www.xingzhig.vip/*
 *://www.xinhexinli.com/*
 *://www.xinnet.com/xinzhi/*
 *://www.xinxingzsj.com/*
@@ -83846,17 +83297,16 @@
 *://www.xiumicar.com/*  
 *://www.xizangwa.buzz/*
 *://www.xjyjzq.com/*  
-*://www.xktiyu.xyz/*
 *://www.xljy168.com/*
 *://www.xm3mhn.com/*  
 *://www.xmsyjgg.com/*
-*://www.xmuaaa.org/*
 *://www.xncftz.com/*
 *://www.xpj665577.com/*
 *://www.xshop580.com/*
 *://www.xshop580.com/*  
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
+*://www.xspdf.com/resolution/*
 *://www.xtfeed.cn/*
 *://www.xthfyy.com/*  
 *://www.xtoolsoft.com/*
@@ -83898,7 +83348,6 @@
 *://www.yiytm.com/*
 *://www.yiyult.com/*
 *://www.yjbys.com/*
-*://www.yk21.com/*
 *://www.ylfjs.com/*
 *://www.yllbx.com/*  
 *://www.ylmfwin100.com/*
@@ -83943,7 +83392,6 @@
 *://www.yxmjyx.buzz/*
 *://www.yyyyv.cn/*
 *://www.yzzhonglu.com/*  
-*://www.z9zw.com/*
 *://www.zai360.com/*  
 *://www.zakamarki.pl/*  
 *://www.zalou.cn/*
@@ -84021,7 +83469,6 @@
 *://www.zzthmu.com/*
 *://www.zzwvps.com/*
 *://www.zzzhtrade.com/*
-*://www.zzzzz688.com/*
 *://wwwc809.com/*
 *://wwwxxx.uno/*
 *://wx.vyouq.com/*  
@@ -84030,7 +83477,6 @@
 *://x1rdl.com/*  
 *://x4x2.com/*
 *://xbeibeix.com/*
-*://xbiquyue.net/*
 *://xbto.cc/*
 *://xbuba.com/questions/*
 *://xckd.hamsterkiste-deutsch.de/*
@@ -84040,7 +83486,6 @@
 *://xhqq.cc/*
 *://xiao66688.com/*
 *://xiao66688.com/*  
-*://xiaoshuo.qq.com/*
 *://xie.infoq.cn/*
 *://xiezhouyy.com/*  
 *://xindd.cc/*
@@ -84059,7 +83504,6 @@
 *://xstack.us/*
 *://xswyb.com/*  
 *://xsyfs.com/*
-*://xt.hnnjgzbt.com/*
 *://xtgh.org.cn/
 *://xts.m6781q.cn/*
 *://xuchen.wang/*
@@ -84071,7 +83515,6 @@
 *://xyjmwj.com/*
 *://xzsndz.com/*
 *://y.qichejiashi.com/*
-*://yabook.org/*
 *://yacc.cc/*
 *://yageshu.com/*
 *://yangmao.info/*
@@ -91567,13 +91010,10 @@
 @*://*.aws.amazon.com/*
 @*://*.edu.cn/*
 @*://*.edu/*
-@*://*.facebook.com/*
 @*://*.joyk.com/*
 @*://*.tspweb.com/*
 @*://answers.microsoft.com/*
-@*://baike.baidu.com/*
 @*://www.landiannews.com/*
-[uBlock Origin]
 a1fz.com
 a372.cn
 aaiv.net
@@ -92670,11 +92110,9 @@ hscrystal.buzz
 hssjw.cn
 hsxlmj.com
 htdzzk.com.cn
-https://blog.haohtml.com/archives/32148
 https://huifu.wondershare.cn/repair/*
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 https://www.itranslater.com/qa/details/2325844172554634240
-https://www.zenlife.tk/time-based-allocator.md
 huangheidc.com
 huangjinqihuo.com
 huankangfc.com
@@ -93516,7 +92954,7 @@ tititi.cc
 title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/*://*.021east.com/*
+title/.* - 小.(百科|知识)网$/[uBlock Origin]
 title/.* - 小.(百科|知识)网/
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
