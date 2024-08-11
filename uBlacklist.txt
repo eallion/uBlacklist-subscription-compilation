@@ -1,4 +1,4 @@
-! Update weekly at 2024-08-04 08:40:11 +0800
+! Update weekly at 2024-08-11 08:40:52 +0800
 
 *:/*.jimowang.com/*
 *://*.00000258.com/*
@@ -3003,7 +3003,7 @@
 *://*.1799346.cn/*
 *://*.1799n.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.7200500.com/*
+*://*.17bigdata.com/**://www.sejuku.net/*
 *://*.17colofo.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
@@ -54412,7 +54412,7 @@
 *://*.polyhtw.com/*
 *://*.polyking-hongkong.com/*
 *://*.pomdapi-shoes.buzz/*
-*://*.pompanobeachtackle.com/**://www.sejuku.net/*
+*://*.pompanobeachtackle.com/**://*.005i.com/*
 *://*.pompcom.com/*
 *://*.pond-view.buzz/*
 *://*.pongj.com/*
@@ -68230,7 +68230,7 @@
 *://*.wanda883.cn/*
 *://*.wandasuoye.com/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.thaicarvingknife.com/*
+*://*.wandouip.com/**://www.cxybb.com/*
 *://*.wanfa088.us/*
 *://*.wanfoto.com/*
 *://*.wanfudz.com/*
@@ -80429,7 +80429,6 @@
 *://*/so.php
 *://*/so.php?s=*
 *://*/so/*
-*://*/so/**://*.aboluowang.com/*
 *://.8kee.com/*  
 *://00w5.com/*
 *://028deng.com/*
@@ -81484,7 +81483,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://www.xspdf.com/resolution/*
+*://rtrack.social/**://*.231327.com/*
 *://s.1zo7.com/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
@@ -81555,7 +81554,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://*.231327.com/*
+*://stylesprzedazy.pl/**://www.xspdf.com/resolution/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -81899,6 +81898,7 @@
 *://www.7017886.com/*
 *://www.7117113.com/*  
 *://www.7117125.com/*
+*://www.7200500.com/*
 *://www.7200500.com/*  
 *://www.733mh.com/*
 *://www.741963.com/*
@@ -82207,7 +82207,6 @@
 *://www.cuponens.com/*  
 *://www.cvktvbox.com/*
 *://www.cxhm.net/*
-*://www.cxybb.com/*
 *://www.cxydev.cc/*
 *://www.cxygjd.com/*
 *://www.cxyread.cc/*
@@ -82272,7 +82271,7 @@
 *://www.doubao.com/*
 *://www.doublebay.com.tw/*  
 *://www.doukou.com/*
-*://www.douyin.com/*
+*://www.douyin.com/*title/小.(百科|知识)网/
 *://www.dovov.com/*
 *://www.downkr.com/*
 *://www.downyi.com/*
@@ -82630,7 +82629,7 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*#############
+*://www.kafan.cn/**://*.001553.cn/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
