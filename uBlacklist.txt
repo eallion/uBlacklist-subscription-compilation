@@ -1,4 +1,4 @@
-! Update weekly at 2024-09-15 08:44:39 +0800
+! Update weekly at 2024-09-22 08:44:49 +0800
 
 *:/*.jimowang.com/*
 *://*.0001113.com/*
@@ -395,7 +395,6 @@
 *://*.0212088.com/*
 *://*.021as.com/*
 *://*.021dxb.com/*
-*://*.021east.com/*
 *://*.021gj.cn/*
 *://*.021lyj.com/*
 *://*.021nkzx.com/*
@@ -3002,7 +3001,7 @@
 *://*.1799346.cn/*
 *://*.1799n.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/**://www.4k8k.xyz/*
+*://*.17bigdata.com/**://*.231327.com/*
 *://*.17colofo.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
@@ -54411,7 +54410,7 @@
 *://*.polyhtw.com/*
 *://*.polyking-hongkong.com/*
 *://*.pomdapi-shoes.buzz/*
-*://*.pompanobeachtackle.com/**://*.00000258.com/*
+*://*.pompanobeachtackle.com/**://code-examples.net/*
 *://*.pompcom.com/*
 *://*.pond-view.buzz/*
 *://*.pongj.com/*
@@ -80428,7 +80427,7 @@
 *://*/so.php
 *://*/so.php?s=*
 *://*/so/*
-*://*/so/**://blog.csdn.net/*
+*://*/so/**://*.00000258.com/*
 *://.8kee.com/*  
 *://00w5.com/*
 *://028deng.com/*
@@ -81483,7 +81482,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://*.231327.com/*
+*://rtrack.social/**://*.nbz.ai/*
 *://s.1zo7.com/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
@@ -81554,7 +81553,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://*.nbz.ai/*
+*://stylesprzedazy.pl/**://www.xspdf.com/resolution/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -82272,7 +82271,7 @@
 *://www.doubao.com/*
 *://www.doublebay.com.tw/*  
 *://www.doukou.com/*
-*://www.douyin.com/*#############
+*://www.douyin.com/**://blog.csdn.net/*
 *://www.dovov.com/*
 *://www.downkr.com/*
 *://www.downyi.com/*
@@ -82630,7 +82629,6 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/**://www.sejuku.net/*
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -82977,6 +82975,7 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
+*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -83307,7 +83306,6 @@
 *://www.xshop580.com/*  
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
-*://www.xspdf.com/resolution/*
 *://www.xtfeed.cn/*
 *://www.xthfyy.com/*  
 *://www.xtoolsoft.com/*
@@ -92956,7 +92954,7 @@ tititi.cc
 title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/
+title/.* - 小.(百科|知识)网$/*://*.021east.com/*
 title/.* - 小.(百科|知识)网/
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
