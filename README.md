@@ -19,7 +19,7 @@
 通过匹配域名的方式，屏蔽搜索引擎的搜索结果。  
 主要是屏蔽中文 SEO 垃圾站，如机器翻译、AI 生成的内容……  
 
-#### 🔍️ 支持的搜索引擎 （由 [uBlacklist](https://github.com/iorate/ublacklist) 插件决定）
+#### 🔍️ 支持的搜索引擎（由 [uBlacklist](https://github.com/iorate/ublacklist) 插件决定）
 
 此扩展支持以下搜索引擎
 
@@ -106,6 +106,15 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 *://*/so/*
 ```
 
+屏蔽 AI 内容农场：
+
+> 来自：https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file#ublacklist-1
+
+```
+/(generative)? *AI *(art|generated|illustration)?/i
+/(ada)?Lo(RA|Con) *(model)?|(stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|(text|txt|img|image) *(to|2) *(image|img|video)/i
+```
+
 ### 添加/删除 域名
 
 ##### 1. 插件设置
@@ -151,6 +160,7 @@ Subscription:
 - https://github.com/YeSilin/uBlacklist.git
 - https://github.com/youzeliang/uBlacklist-Subscription
 - https://github.com/zweie/some-rules-for-ublacklist
+- https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
 ### 推荐
 

@@ -37,3 +37,6 @@
 [submodule "source/Paxxs/Google-Blocklist"]
 	path = source/Paxxs/Google-Blocklist
 	url = https://github.com/Paxxs/Google-Blocklist
+[submodule "source/laylavish/uBlockOrigin-HUGE-AI-Blocklist"]
+	path = source/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+	url = https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist

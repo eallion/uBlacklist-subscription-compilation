@@ -33,10 +33,14 @@ jobs:
         rm uBlacklist.txt
         rm uBlocklist.txt
         rm tools/uBlacklist_backup.txt
-        mv reverse_url.txt tools/reverse_url
-        find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
         rm source/gyli/Blocklist/blocklist.txt
         rm source/Paxxs/Google-Blocklist/data -rf
+        rm source/laylavish/uBlockOrigin-HUGE-AI-Blocklist/additional_list_nuclear.txt
+        rm source/laylavish/uBlockOrigin-HUGE-AI-Blocklist/list.txt
+        rm source/laylavish/uBlockOrigin-HUGE-AI-Blocklist/list_uBlacklist_nuclear.txt
+        rm source/laylavish/uBlockOrigin-HUGE-AI-Blocklist/noai_hosts.txt
+        mv reverse_url.txt tools/reverse_url
+        find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
 
         # Issue # 48
         sed -i '/^http:\/\//d' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
