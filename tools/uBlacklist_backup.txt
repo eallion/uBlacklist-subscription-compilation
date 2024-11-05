@@ -65381,6 +65381,15 @@ title/(视频去哪了呢)/
 *://*.filmport.ai/*
 *://*.impossibleimages.ai/*
 *://*.stablegenius.ai/*
+*://*.pngmaker.ai/*
+*://*.unpod.ai/*
+*://*.tattoosgenerator.ai/*
+*://*.polyai.ai/*
+*://*.pixverse.ai/*
+*://*.davinci.ai/*
+*://*.dzine.ai/*
+*://*.decohere.ai/*
+*://*.myninja.ai/*
 
 
 # Sites that have .com domain extension
@@ -65438,7 +65447,7 @@ title/(视频去哪了呢)/
 *://*.nijijourney.com/*
 *://*.davinciface.com/*
 *://*.superprompts.com/*
-*://*.ebsynth.com/*
+*://*.writesonic.com/*
 *://*.prodia.com/*
 *://*.baked-ai.com/*
 *://*.dreamboothr.com/*
@@ -65630,6 +65639,28 @@ title/(视频去哪了呢)/
 *://*.aiscribbles.com/*
 *://*.frequentart.myportfolio.com/*
 *://*.midprompteria.com/*
+*://*.promptalot.com/*
+*://*.midjourney9.com/*
+*://*.journeyaiart.com/*
+*://*.threwthelookingglass.com/*
+*://*.promptcow.com/*
+*://*.gecdesigns.com/*
+*://*.2moonsai.com/*
+*://*.nobleshapes.com/*
+*://*.aiartpromptslist.com/*
+*://*.theaipromptshop.com/*
+*://*.whytryai.com/*
+*://*.imaginewithrashid.com/*
+*://*.piclumen.com/*
+*://*.playbook.com/ai/*
+*://*.creativefabrica.com/spark/*
+*://*.neuralframes.com/*
+*://*.capcut.com/tools/ai-art-generator/*
+*://*.kittl.com/feature/ai-text-to-vector/*
+*://*.klingai.com/*
+*://*.nocodingai.com/*
+*://*.artaigallery.com/*
+*://*.flux-image.com/*
 
 
 # Sites that have .art domain extension
@@ -65730,6 +65761,7 @@ title/(视频去哪了呢)/
 *://*.liblib.art/*
 *://*.lunai.art/*
 *://*.pictab.art/*
+*://*.aiphotos123.art/*
 
 
 # Sites that have .co domain extension
@@ -65770,6 +65802,7 @@ title/(视频去哪了呢)/
 *://*.designbundles.net/illustrate-ai/*
 *://*.designbundles.net/ylivdesign/*
 *://*.flux-ai.net/*
+*://*.vitalentum.net/*
 
 
 # Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
@@ -65905,6 +65938,10 @@ title/(视频去哪了呢)/
 *://*.aiimagegenerator.is/*
 *://*.musesai.io/*
 *://*.promptstock.photos/*
+*://*.shecodes.io/athena/*
+*://*.promptlibrary.org/*
+*://*.myedit.online/*
+*://*.gamer.se/*
 
 
 # AI projects hosted on other sites
@@ -66336,6 +66373,7 @@ title/(视频去哪了呢)/
 /pinterest.+\/pin\/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/
 /pinterest.+\/pin\/mulher-fatal/
 /pinterest.+\/pin\/563018696976219/
+/pinterest.+\/pin\/idleturtle85-a-very-cute-baby-peacock--482518547589787278/
 
 
 # Block list of AI "artists"/orgs (behance)
@@ -66359,6 +66397,9 @@ title/(视频去哪了呢)/
 *://*.deviantart.com/jaredsyn/*
 *://*.deviantart.com/instaai/*
 *://*.deviantart.com/lizzyrascal/*
+*://*.deviantart.com/krzychumen/*
+*://*.deviantart.com/selosai/*
+*://*.deviantart.com/aismart/*
 
 
 # Block list of AI "artists"/orgs (artstation)
@@ -66388,10 +66429,12 @@ title/(视频去哪了呢)/
 
 # Freepik garbage
 *://*.freepik.com/premium-ai-image/*
+*://*.freepik.com/ai/*
 *://*.freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921/*
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
 *://*.freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm
 *://*.freepik.com/author/smmstore773/*
+*://*.freepik.com/author/maxstudioko/*
 
 
 # Linkedin garbage
@@ -66403,6 +66446,7 @@ title/(视频去哪了呢)/
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/mlearning-ai/*
 *://*.medium.com/generative-ai/*
+*://*.medium.com/@SLover/*
 
 
 # // Miscellaneous crypto/nft shit
@@ -66424,6 +66468,12 @@ title/(视频去哪了呢)/
 # // Individual Adobe Stock shit
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927/*
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986/*
+
+
+# // Individual Instagram
+*://*.instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX/*
+*://*.instagram.com/launchdsigns/p/Ctg9hxcA6Lj/*
+*://*.instagram.com/percipietro/p/DAhljhFOZU8/*
 
 
 # // Fiverr shit
@@ -66496,6 +66546,7 @@ title/(视频去哪了呢)/
 *://*.reddit.com/r/SunoAI/*
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/promptsideas/*
+*://*.reddit.com/r/cursedAIpics/*
 
 
 # // Block list of AI reddit users
@@ -66550,6 +66601,7 @@ title/(视频去哪了呢)/
 *://*.zleague.gg/*
 *://*.dinosaur.org/*
 *://*.disciplines.ng/*
+*://*.nucleovisual.com/*
 
 
 # // VoiceMod shit
@@ -66560,11 +66612,26 @@ title/(视频去哪了呢)/
 *://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
 
 
+# // Tiktok
+*://*.tiktok.com/@ku_13js/*
+
+
+# // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
+
+
 # // Non-Conflicting Regular Expressions
 
 /stock\.adobe\.com\/.*(generat(ed|(ive))-ai|ai-generated)/
 
 /vecteezy\.com\/.*(ai-generat((ed)|(ive))|generat(ed?|(ive))-ai)/
+
+/pixabay\.com\/.*(ai(-|%20)generated|\/ai%20anime|\/ai-creation)/
+
+/freepik\.com\/.*(ai-generat(ed|or)|generative-ai)/
+
+/dreamstime\.com\/.*(generat(ed|ive)-(ai|art)|ai-generat(ive|ed))/
+
+/deviantart\.com\/.*(-generative-ai|ai-generat(ive|ed)|-ai-art)/i
 *://*.021east.com/*
 *://*.0714news.com/*
 *://*.1007171.com/*
@@ -69292,7 +69359,8 @@ title/.* - 小.(百科 | 知识) 网/
 *://doubao.com/*
 *://www.doubao.com/*
 *://douyin.com/*
-*://www.douyin.com/**://www.sejuku.net/*
+*://www.douyin.com/*
+*://*.jimowang.com/**://www.sejuku.net/*
 *://*.stackoverrun.com/*
 *://*.stackovernet.com/*
 *://*.code.i-harness.com/*

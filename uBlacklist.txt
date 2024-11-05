@@ -1,4 +1,4 @@
-! Update weekly at 2024-11-05 18:48:18 +0800
+! Update weekly at 2024-11-05 18:59:19 +0800
 
 *:/*.jimowang.com/*
 *://*..sailaila.net/*
@@ -536,6 +536,7 @@
 *://*.2match2.buzz/*
 *://*.2mikes.buzz/*
 *://*.2moons.ai/*
+*://*.2moonsai.com/*
 *://*.2optrip.com/*
 *://*.2p79j9v.cn/*
 *://*.2p8doar.cn/*
@@ -1588,6 +1589,7 @@
 *://*.aiartgenerator.us/*
 *://*.aiartists.org/*
 *://*.aiartmaster.co/*
+*://*.aiartpromptslist.com/*
 *://*.aiartshop.com/*
 *://*.aiartstock.com/*
 *://*.aiava.art/*
@@ -1634,6 +1636,7 @@
 *://*.ainude.porn/*
 *://*.aioli.ai/*
 *://*.aipassportphotos.com/*
+*://*.aiphotos123.art/*
 *://*.aipicasso.app/*
 *://*.aipicasso.studio.site/*
 *://*.aipictors.com/*
@@ -1896,6 +1899,7 @@
 *://*.art2008.net/*
 *://*.art4you.art/*
 *://*.artachodelpino-abogados.buzz/*
+*://*.artaigallery.com/*
 *://*.artaroundtheglobe.buzz/*
 *://*.artbikinis.buzz/*
 *://*.artbot.ai/*
@@ -2506,6 +2510,7 @@
 *://*.cangzhou8.cn/*
 *://*.canterbury.ai/*
 *://*.canva.com/ai-art-generator/*
+*://*.capcut.com/tools/ai-art-generator/*
 *://*.capitalretro.buzz/*
 *://*.captions.ai/*
 *://*.captivamortgage.buzz/*
@@ -2924,6 +2929,7 @@
 *://*.cre8tiveai.com/*
 *://*.creaitor.ai/*
 *://*.createporn.com/*
+*://*.creativefabrica.com/spark/*
 *://*.creativitywith.ai/*
 *://*.creatixai.com/*
 *://*.creator.nightcafe.studio/*
@@ -3130,6 +3136,7 @@
 *://*.dav01.com/*
 *://*.davidarielszauder.com/*
 *://*.davidsonandrade.buzz/*
+*://*.davinci.ai/*
 *://*.davinciai.art/*
 *://*.davinciface.com/*
 *://*.davy.ai/*
@@ -3173,6 +3180,7 @@
 *://*.debian8.com/*
 *://*.debugcn.com/*
 *://*.deca.art/*
+*://*.decohere.ai/*
 *://*.decouhome.com/*
 *://*.dedeapps.com/*
 *://*.dedexiche.com/*
@@ -3225,6 +3233,7 @@
 *://*.dev4living.com/*
 *://*.developreference.com/*
 *://*.devfgrt.com/*
+*://*.deviantart.com/aismart/*
 *://*.deviantart.com/allbeautifulgirl/*
 *://*.deviantart.com/alyskan/*
 *://*.deviantart.com/cyberxyt/*
@@ -3232,8 +3241,10 @@
 *://*.deviantart.com/dendyh7/*
 *://*.deviantart.com/instaai/*
 *://*.deviantart.com/jaredsyn/*
+*://*.deviantart.com/krzychumen/*
 *://*.deviantart.com/lizzyrascal/*
 *://*.deviantart.com/rasooliartworks/*
+*://*.deviantart.com/selosai/*
 *://*.deviantart.com/vyerran/*
 *://*.deviantart.com/zerofourai/*
 *://*.deviantart.com/zkreations/*
@@ -3510,6 +3521,7 @@
 *://*.dzblbl.com/*
 *://*.dzfalan.com/*
 *://*.dzgjy.com/*
+*://*.dzine.ai/*
 *://*.dzkjxxjc.com/*
 *://*.dztmsg.com/*
 *://*.e-c-a-t.buzz/*
@@ -3553,7 +3565,6 @@
 *://*.eberhard-gienger.buzz/*
 *://*.ebikeyun.com/*
 *://*.ebook123.cc/*
-*://*.ebsynth.com/*
 *://*.ebtworld.com/*
 *://*.ebziyus.cn/*
 *://*.ec-europe.org/*
@@ -3948,6 +3959,7 @@
 *://*.fluffyfables.com/*
 *://*.flux-ai.io/*
 *://*.flux-ai.net/*
+*://*.flux-image.com/*
 *://*.fluxai.dev/*
 *://*.fluxai.studio/*
 *://*.flx4.com/*
@@ -4008,6 +4020,8 @@
 *://*.freeguo.com/*
 *://*.freejobalerts24.com/*
 *://*.freejournal.info/*
+*://*.freepik.com/ai/*
+*://*.freepik.com/author/maxstudioko/*
 *://*.freepik.com/author/smmstore773/*
 *://*.freepik.com/premium-ai-image/*
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
@@ -4135,6 +4149,7 @@
 *://*.gamekee.com/*
 *://*.gamemad.com/*
 *://*.gameonmac.com/*
+*://*.gamer.se/*
 *://*.gamersky.com/*
 *://*.gamesxfp.cn/*
 *://*.gametalk.site/*
@@ -4191,6 +4206,7 @@
 *://*.gdzyt007.com/*
 *://*.gear88.com/*
 *://*.gebvrl0.cn/*
+*://*.gecdesigns.com/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
 *://*.geekerline.com/*
@@ -5200,6 +5216,7 @@
 *://*.imagine.art/*
 *://*.imagineme.ai/*
 *://*.imagineme.app/*
+*://*.imaginewithrashid.com/*
 *://*.imajinn.ai/*
 *://*.imake.porn/*
 *://*.imaycon.com/*
@@ -5252,6 +5269,7 @@
 *://*.instagram.com/kapibagi/*
 *://*.instagram.com/kenz.esther/*
 *://*.instagram.com/ladyphoenix.ai/*
+*://*.instagram.com/launchdsigns/p/Ctg9hxcA6Lj/*
 *://*.instagram.com/michaelstories/*
 *://*.instagram.com/misaki.aiart/*
 *://*.instagram.com/missfidonyoart/*
@@ -5259,7 +5277,9 @@
 *://*.instagram.com/nijimoemon/*
 *://*.instagram.com/novaborngaming/*
 *://*.instagram.com/oliviotutorials/*
+*://*.instagram.com/percipietro/p/DAhljhFOZU8/*
 *://*.instagram.com/picso_ai/*
+*://*.instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX/*
 *://*.instagram.com/raymur.art/*
 *://*.instagram.com/reel/*
 *://*.instagram.com/sentientmuppetfactory/*
@@ -5506,6 +5526,7 @@
 *://*.jiliresin.cn/*
 *://*.jimengli.com/*
 *://*.jimev1softwares.buzz/*
+*://*.jimowang.com/**://www.sejuku.net/*
 *://*.jin766.com/*
 *://*.jinbei.com/*
 *://*.jincaimiye.com/*
@@ -5629,6 +5650,7 @@
 *://*.josephmagazine.buzz/*
 *://*.jouhom.com/*
 *://*.jounce.ai/*
+*://*.journeyaiart.com/*
 *://*.journeyart.ai/*
 *://*.joy-life.cn/*
 *://*.joyfulcelebrationsinc.buzz/*
@@ -5883,6 +5905,7 @@
 *://*.kitelinef.com/*
 *://*.kits.ai/*
 *://*.kittiss.cn/*
+*://*.kittl.com/feature/ai-text-to-vector/*
 *://*.kjdzd.com/*
 *://*.kjg8.cn/*
 *://*.kjk8.cn/*
@@ -5895,6 +5918,7 @@
 *://*.kkrxc15.cn/*
 *://*.kkth.xj.cn/*
 *://*.kkup.cc/*
+*://*.klingai.com/*
 *://*.kliwei.com/*
 *://*.kljfgj.com/*
 *://*.klk8.cn/*
@@ -6573,6 +6597,7 @@
 *://*.media.io/*
 *://*.mediatagtw.com/*
 *://*.medistaryn.com/*
+*://*.medium.com/@SLover/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/@inchristiely/*
 *://*.medium.com/generative-ai/*
@@ -6653,6 +6678,7 @@
 *://*.midjourney.co.in/*
 *://*.midjourney.co/*
 *://*.midjourney.com/*
+*://*.midjourney9.com/*
 *://*.midjourneyai.ai/*
 *://*.midlibrary.io/*
 *://*.midprompteria.com/*
@@ -6865,6 +6891,7 @@
 *://*.mycodeweb.com/*
 *://*.myd188.com/*
 *://*.mydown.com/*
+*://*.myedit.online/*
 *://*.mygolfsky.com/*
 *://*.myhaikou.cn/*
 *://*.myifreinds.buzz/*
@@ -6874,6 +6901,7 @@
 *://*.mymac.info/*
 *://*.mymyjtf.com/*
 *://*.mynameinlights.buzz/*
+*://*.myninja.ai/*
 *://*.myperfecttan.buzz/*
 *://*.myprint.ai/*
 *://*.myqianfengdq.com/*
@@ -6976,6 +7004,7 @@
 *://*.netspew.buzz/*
 *://*.neuf.tv/*
 *://*.neural.love/*
+*://*.neuralframes.com/*
 *://*.neuralstyle.art/*
 *://*.neuro-flash.com/*
 *://*.new0059.com/*
@@ -7079,6 +7108,8 @@
 *://*.nntianhai.com/*
 *://*.no54hagleyroad.buzz/*
 *://*.noblenaz.org/*
+*://*.nobleshapes.com/*
+*://*.nocodingai.com/*
 *://*.nodep2p.com/*
 *://*.noiseofmax.net/*
 *://*.nokibar.com/*
@@ -7139,6 +7170,7 @@
 *://*.ntzhonglin.com/*
 *://*.nuanzhu100.com/*
 *://*.nubee.ai/*
+*://*.nucleovisual.com/*
 *://*.nudeai.com/*
 *://*.nudeai.de/*
 *://*.nudefusion.com/*
@@ -7520,6 +7552,7 @@
 *://*.picclick.co.uk/*
 *://*.picfinder.ai/*
 *://*.picis.cn/*
+*://*.piclumen.com/*
 *://*.picsart.com/*
 *://*.picsart.com/ai-image-generator/*
 *://*.picso.ai/*
@@ -7563,6 +7596,7 @@
 *://*.pixels.com/profiles/lm2kone/*
 *://*.pixelz.ai/*
 *://*.pixlr.com/*
+*://*.pixverse.ai/*
 *://*.pjcq8.com/*
 *://*.pjen34r.cn/*
 *://*.pjfpf0f.cn/*
@@ -7613,6 +7647,7 @@
 *://*.play.google.com/store/apps/details?id=lava.aesthetic.art.anime.wallpapers.com/*
 *://*.play.ht/*
 *://*.playarti.com/*
+*://*.playbook.com/ai/*
 *://*.player96.buzz/*
 *://*.playform.ai/*
 *://*.playform.io/*
@@ -7636,6 +7671,7 @@
 *://*.pmyx.net/*
 *://*.pn3p.com/*
 *://*.pnelwjz.cn/*
+*://*.pngmaker.ai/*
 *://*.pnih1wn.cn/*
 *://*.pns8.cn/*
 *://*.pny555.com/*
@@ -7651,6 +7687,7 @@
 *://*.poketoys.buzz/*
 *://*.poldomu.pl/*
 *://*.poloniabeaulieu.fr/*
+*://*.polyai.ai/*
 *://*.pomdapi-shoes.buzz/*
 *://*.pompanobeachtackle.com/*
 *://*.pond-view.buzz/*
@@ -7732,8 +7769,10 @@
 *://*.promeai.pro/*
 *://*.promoworksnow.buzz/*
 *://*.prompt.quel.jp/*
+*://*.promptalot.com/*
 *://*.promptbase.com/*
 *://*.promptchan.ai/*
+*://*.promptcow.com/*
 *://*.promptden.com/*
 *://*.promptforum.com/*
 *://*.prompthero.ai/*
@@ -7741,6 +7780,7 @@
 *://*.prompthunt.com/*
 *://*.prompti.ai/*
 *://*.promptle.art/*
+*://*.promptlibrary.org/*
 *://*.promptomania.com/*
 *://*.promptpal.net/*
 *://*.promptsideas.com/*
@@ -8164,6 +8204,7 @@
 *://*.reddit.com/r/bard/*
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/civitai/*
+*://*.reddit.com/r/cursedAIpics/*
 *://*.reddit.com/r/dalle2/*
 *://*.reddit.com/r/deepdream/*
 *://*.reddit.com/r/deeplearning/*
@@ -8604,6 +8645,7 @@
 *://*.shdaisy.com/*
 *://*.shdisheng.cn/*
 *://*.shdsn118.com/*
+*://*.shecodes.io/athena/*
 *://*.shedevrum.ai/*
 *://*.shegiveshead.buzz/*
 *://*.sheji1688.net/*
@@ -9235,6 +9277,7 @@
 *://*.tastones.com/*
 *://*.tatcdz.com/*
 *://*.tatest.cn/*
+*://*.tattoosgenerator.ai/*
 *://*.tauckbridges.buzz/*
 *://*.tauckvacations4less.buzz/*
 *://*.tauferer-ahrntal.eu/*
@@ -9320,6 +9363,7 @@
 *://*.thataicollection.com/*
 *://*.thcc.cc/*
 *://*.the-cuties.com/*
+*://*.theaipromptshop.com/*
 *://*.theastrologypage.com/*
 *://*.thebmovierats.buzz/*
 *://*.thebowhuntersjournal.com/*
@@ -9354,6 +9398,7 @@
 *://*.thnmjjrxh.com/*
 *://*.thooinc.com/*
 *://*.threeooo.com/*
+*://*.threwthelookingglass.com/*
 *://*.thrivemyway.com/*
 *://*.thruo2r.cn/*
 *://*.thxdtsx.cn/*
@@ -9379,6 +9424,7 @@
 *://*.tigresounds.com/*
 *://*.tihaofree.com/*
 *://*.tiinon.com/*
+*://*.tiktok.com/@ku_13js/*
 *://*.tile-factory.buzz/*
 *://*.tingguqinapp.com/*
 *://*.tingmeiw.com/*
@@ -9756,6 +9802,7 @@
 *://*.universalusbinstallerdownload.com/*
 *://*.unleash.so/*
 *://*.unlimited-results.buzz/*
+*://*.unpod.ai/*
 *://*.unprompt.ai/*
 *://*.unsfunnfifxa.buzz/*
 *://*.unzx.cc/*
@@ -9913,6 +9960,7 @@
 *://*.visitnetherland.buzz/*
 *://*.visla.us/*
 *://*.visualxxx.buzz/*
+*://*.vitalentum.net/*
 *://*.vitality-spirit.buzz/*
 *://*.vivi158.com/*
 *://*.viwxhj3.cn/*
@@ -10187,6 +10235,7 @@
 *://*.whynotwin11.net/*
 *://*.whysw88.com/*
 *://*.whytcf.com/*
+*://*.whytryai.com/*
 *://*.whyzbr.com/*
 *://*.widede.com/*
 *://*.wienfm.com/*
@@ -10300,6 +10349,7 @@
 *://*.wqzx.cc/*
 *://*.writehuman.ai/*
 *://*.writelyai.com/*
+*://*.writesonic.com/*
 *://*.wrq6ljg.cn/*
 *://*.wrr8.cn/*
 *://*.wsb8.cn/*
@@ -13433,7 +13483,7 @@
 *://www.doubao.com/*
 *://www.doublebay.com.tw/*  
 *://www.doukou.com/*
-*://www.douyin.com/**://www.sejuku.net/*
+*://www.douyin.com/*
 *://www.dovov.com/*
 *://www.downkr.com/*
 *://www.downyi.com/*
@@ -21952,6 +22002,9 @@
 /amazon.+\/.+\/dp\/B0CVTYD34P/
 /amazon.+\/.+\/dp\/B0CVVJQP39/
 /amazon.+\/.+\/dp\/B0CZP35QWQ/
+/deviantart\.com\/.*(-generative-ai|ai-generat(ive|ed)|-ai-art)/i
+/dreamstime\.com\/.*(generat(ed|ive)-(ai|art)|ai-generat(ive|ed))/
+/freepik\.com\/.*(ai-generat(ed|or)|generative-ai)/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 /pinterest.+\/0ccmbkgxrcqh40h/
@@ -22008,6 +22061,7 @@
 /pinterest.+\/pin\/563018696976219/
 /pinterest.+\/pin\/594967800804194444/
 /pinterest.+\/pin\/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/
+/pinterest.+\/pin\/idleturtle85-a-very-cute-baby-peacock--482518547589787278/
 /pinterest.+\/pin\/mulher-fatal/
 /pinterest.+\/pin\/quick-saves--1041879695027157288/
 /pinterest.+\/racingtff/
@@ -22021,6 +22075,7 @@
 /pinterest.+\/tonnyfroyen/
 /pinterest.+\/wangxu3409720947/
 /pinterest.+\/warking999999/
+/pixabay\.com\/.*(ai(-|%20)generated|\/ai%20anime|\/ai-creation)/
 /stock\.adobe\.com\/.*(generat(ed|(ive))-ai|ai-generated)/
 /vecteezy\.com\/.*(ai-generat((ed)|(ive))|generat(ed?|(ive))-ai)/
 005i.com
