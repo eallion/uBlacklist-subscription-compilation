@@ -1,5 +1,4 @@
-! Update weekly at 2024-11-05 19:04:13 +0800
-
+! Update weekly at 2024-11-05 19:29:36 +0800
 *:/*.jimowang.com/*
 *://*..sailaila.net/*
 *://*.001553.cn/*
@@ -323,7 +322,6 @@
 *://*.176buy.com/*
 *://*.178cj.com/*
 *://*.17bigdata.com/*
-*://*.17bigdata.com/*.366service.com
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17font.com/*
@@ -1450,6 +1448,7 @@
 *://*.abba-escorts.buzz/*
 *://*.abbotpottery.buzz/*
 *://*.abbyjd.com/*
+*://*.abbyychina.com/*
 *://*.abcpowerwash.buzz/*
 *://*.abcsou.cc/*
 *://*.abdwap.work/*
@@ -5526,7 +5525,7 @@
 *://*.jiliresin.cn/*
 *://*.jimengli.com/*
 *://*.jimev1softwares.buzz/*
-*://*.jimowang.com/**://www.sejuku.net/*
+*://*.jimowang.com/*
 *://*.jin766.com/*
 *://*.jinbei.com/*
 *://*.jincaimiye.com/*
@@ -10071,7 +10070,6 @@
 *://*.wand.app/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
-*://*.wandouip.com/**://*.thaicarvingknife.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -12693,7 +12691,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rt5l.mmzgm.com/*  
-*://rtrack.social/**://*.nbz.ai/*
+*://rtrack.social/*
 *://rzeszow-angielski.pl/*
 *://s.1zo7.com/*
 *://s.3d4w.com/*
@@ -12766,7 +12764,7 @@
 *://stancil.dianaypablo.es/*  
 *://starporttech.com/*  
 *://sthuaguan.com/*
-*://stylesprzedazy.pl/**://www.xspdf.com/resolution/*
+*://stylesprzedazy.pl/*
 *://suessstoff-verband.info/*  
 *://suiyishop.cn/*
 *://sunhunjia.com/*
@@ -13836,7 +13834,6 @@
 *://www.jzzhzs.com/*  
 *://www.k-creat.com/*
 *://www.kafan.cn/*
-*://www.kafan.cn/*#### HAPPY PRIDE MONTH
 *://www.kaiser-garden.com/*  
 *://www.kakatongmeng.net/*
 *://www.kalabr.com/*
@@ -14182,6 +14179,7 @@
 *://www.sdyz.net/*  
 *://www.seaginza.com/*  
 *://www.seattleskate.com/*  
+*://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.sempsph.com/*  
 *://www.senangp.com/*
@@ -14509,6 +14507,7 @@
 *://www.xshop580.com/*  
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
+*://www.xspdf.com/resolution/*
 *://www.xtfeed.cn/*
 *://www.xthfyy.com/*  
 *://www.xtoolsoft.com/*
@@ -14748,7 +14747,7 @@
 *://ytxjjx.com/*
 *://yuchenios.com/*
 *://yuming.qxbbs.org/*
-*://yunduanxin.xyz/**://*.abbyychina.com/*
+*://yunduanxin.xyz/*
 *://yunjisms.xyz/*
 *://yunsh.cc/*
 *://yushu888.com/*
@@ -14789,7 +14788,7 @@
 *://zjglaike.com/*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
-*://zqfoodt.com/*#############
+*://zqfoodt.com/*
 *://zrsd.schorfheidecarport.de/*
 *://zs12.hbs163.com/*
 *://zst.ljyhky.com/*
@@ -23403,6 +23402,7 @@ hsxlmj.com
 htdzzk.com.cn
 https://huifu.wondershare.cn/repair/*
 https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
+https://www.itranslater.com/qa/details/2325844172554634240
 huangheidc.com
 huangjinqihuo.com
 huankangfc.com
@@ -24244,7 +24244,7 @@ tititi.cc
 title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
 title/.* - 小.(百科 | 知识) 网/
-title/.* - 小.(百科|知识)网$/https://www.itranslater.com/qa/details/2325844172554634240
+title/.* - 小.(百科|知识)网$/
 title/.* - 小.(百科|知识)网/
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
