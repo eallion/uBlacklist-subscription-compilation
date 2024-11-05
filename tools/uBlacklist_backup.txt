@@ -64369,7 +64369,7 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 ####################
 ### Content Farm ###
 ####################
-*:/*.jimowang.com/*
+*://*.jimowang.com/*
 *://*.0757it.cn/*
 *://*.105188.com/*
 *://*.111cn.net/*
