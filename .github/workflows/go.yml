@@ -29,6 +29,7 @@ jobs:
 
     - name: Merge txt
       run: |
+        # 预处理一些数据
         cp source/gyli/Blocklist/BLOCKLIST_uBlacklist source/gyli/Blocklist/blocklist.txt
         rm uBlacklist.txt
         rm uBlocklist.txt
@@ -40,7 +41,9 @@ jobs:
         rm source/laylavish/uBlockOrigin-HUGE-AI-Blocklist/list_uBlacklist_nuclear.txt
         rm source/laylavish/uBlockOrigin-HUGE-AI-Blocklist/noai_hosts.txt
         mv reverse_url.txt tools/reverse_url
-        find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
+
+        # 合并所有列表
+        find . -type f -name "*.txt" -exec sh -c 'cat "$0"; echo' {} \; > tools/uBlacklist
 
         # Issue # 48
         sed -i '/^http:\/\//d' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
@@ -51,14 +54,24 @@ jobs:
         cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
         cd ..
-        sed -i '/^#/d' uBlacklist.txt
-        sed -i '/^!/d' uBlacklist.txt
-        cat tools/reverse_url >> uBlacklist.txt
-        sed -i "1i\! Update weekly at $(TZ=UTC-8 date +'%Y-%m-%d %T %z')" uBlacklist.txt
-        ln -s uBlacklist.txt uBlocklist.txt
 
-    - name: Get Time
-      run: |
+        # 删除以 # 开头的行
+        sed -i '/^#/d' uBlacklist.txt
+
+        # 删除以 ! 开头的行
+        sed -i '/^!/d' uBlacklist.txt
+
+        cat tools/reverse_url >> uBlacklist.txt
+
+        # 添加时间
+        sed -i "1i\! Update weekly at $(TZ=UTC-8 date +'%Y-%m-%d %T %z')" uBlacklist.txt
+
+        # 去除空行
+        sed -i '/^$/d' uBlacklist.txt
+
+        ln -s uBlacklist.txt uBlocklist.txt
+        
+        # 获取当前时间存入环境变量
         echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV
 
     - name: Commit files
