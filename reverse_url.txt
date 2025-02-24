@@ -9,3 +9,6 @@
 @*://*.microsoft.com/*
 @*://*.gov.cn/*
 @*://*.freecodecamp.org/*
+@*://wayback.archive.org/*
+@*://openai.com/*
+@*://chatgpt.com/*
