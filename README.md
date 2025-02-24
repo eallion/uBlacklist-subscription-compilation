@@ -2,7 +2,7 @@
 
 > uBlacklist 订阅地址合集
 
-![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main)
+[![Update uBlacklist subscription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/eallion/uBlacklist-subscription-compilation/actions/workflows/go.yml)
 [![GitHub issues](https://img.shields.io/github/issues/eallion/uBlacklist-subscription-compilation?logo=GitHub&color=4ec100&style=flat)](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
 
 > 订阅源地址：`https://git.io/ublacklist`  
