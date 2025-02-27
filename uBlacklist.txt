@@ -1,4 +1,4 @@
-! Update weekly at 2025-02-24 18:54:43 +0800
+! Update weekly at 2025-02-27 22:47:03 +0800
 *:/*.jimowang.com/*
 *://*..sailaila.net/*
 *://*.001553.cn/*
@@ -25590,3 +25590,4 @@ zzyyo.com
 @*://wayback.archive.org/*
 @*://openai.com/*
 @*://chatgpt.com/*
+@*://*.reddit.com/*
