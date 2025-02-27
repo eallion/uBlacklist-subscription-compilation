@@ -12,3 +12,4 @@
 @*://wayback.archive.org/*
 @*://openai.com/*
 @*://chatgpt.com/*
+@*://*.reddit.com/*
