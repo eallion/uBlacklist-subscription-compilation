@@ -29,6 +29,7 @@ jobs:
 
     - name: Merge txt
       run: |
+        git submodule update --remote --recursive --force
         # 预处理一些数据
         cp source/gyli/Blocklist/BLOCKLIST_uBlacklist source/gyli/Blocklist/blocklist.txt
         rm uBlacklist.txt
