@@ -3610,7 +3610,6 @@ title/.*一键访问国外网站/
 ####################
 ### Content Farm ###
 ####################
-*:/*.jimowang.com/*
 *://*.0757it.cn/*
 *://*.105188.com/*
 *://*.111cn.net/*
@@ -3620,12 +3619,44 @@ title/.*一键访问国外网站/
 *://*.3wka.com/*
 *://*.3wv9.com/*
 *://*.51miz.com/*
+*://www.chinaz.com/*
+*://*.qlmed.cn/*
+*://*.iyingdi.com/*
+*://*.fzkj6.com/*
+*://*.gamerr.cn/*
+*://*.verykuai.com/*
+*://*.ccjhjn.com/*
+*://*.rdr2hack.cn/*
+*://*.dinglegifts.com/*
+*://*.konami.cc/*
+*://*.diyiyou.com/*
+*://*.wqsnyx2.com/*
+*://*.ikuko.homes/*
+*://*.anzhuo8.com/*
 *://*.520zuowens.com/*
+*://*.52pk.com/*
 *://*.59xt.com/*
 *://*.600xue.com/*
 *://*.61taotao.com/*
 *://*.8udy.com/*
+*://*.mdjnmg.com/*
 *://*.9917.cn/*
+*://*.hzjy0769.com/*
+*://*.9doke.com/*
+*://*.mtzfile.pw/*
+*://*.scmztc.net/*
+*://*.zaslice.com/*
+*://*.shangfenbao.com/*
+*://*.lyynpmj.com/*
+*://*.ximalaya.com/ask/*
+*://*.zhangqiushi.com/*
+*://*.hly.com/*
+*://*.sh-yipeng.com/*
+*://*.saifu888.com/*
+*://*.sjetfast.com/*
+*://*.90iy.com/*
+*://*.xnzjq.com/*
+*://*.q777777.com/*
 *://*.9kd.com/*
 *://*.ahhhhfs.com/*
 *://*.aimeizx.com/*
@@ -3660,13 +3691,13 @@ title/.*一键访问国外网站/
 *://*.codenong.com/*
 *://*.copisteriaorseolo.it/*
 *://*.crifan.com/*
-*://*.woqiyounai.com/*
 *://*.d3shu.com/* 
 *://*.daniela-jahr.de/*
 *://*.deschamps-hennebert.fr/*
 *://*.diankaiwan.com/*
 *://*.digitzn.com/*
 *://*.dmartbeautymicropigmentacion.es/*
+*://*.dnzp.com/*
 *://*.dongchedi.com/*
 *://*.doyo.cn/*
 *://*.druu82.one/*
@@ -3715,26 +3746,36 @@ title/.*一键访问国外网站/
 *://*.idc.ke/*
 *://*.idc.net/*
 *://*.iheshun.net/*
+*://*.inszhan.com/*
 *://*.iplayio.cn/*
 *://*.iteye.com/*
 *://*.izhuji.net/*
 *://*.jb51.net/*
 *://*.jennyperl.com/*
+*://*.jimowang.com/*
 *://*.jinchutou.com/*
 *://*.jishuwen.com/*
 *://*.jjub.cc/*
 *://*.jkwshk.tv/*
 *://*.judsonu.edu/*
 *://*.julindrarecycling.com/*
+*://*.juwa.net/*
 *://*.kantie.org/*
 *://*.kocpc.com.tw/*
 *://*.koreansji.co.ua/*
 *://*.koreansjj.co.ua/*
 *://*.langrensha.net/*
+*://*.51saier.cn/*
+*://*.xiaomeiboke.com/*
 *://*.lb158.xyz/*
 *://*.legatus-udc.ru/*
+*://*.mspoweruser.com/*
+*://*.9891.com/*
 *://*.liaoyixiagpt.com/*
+*://*.shanwan.com/*
 *://*.likefont.com/*
+*://*.ppkk.top/*
+*://*.dicold.com/*
 *://*.liulanqi.com/*
 *://*.luxshare-ict.com/*
 *://*.lyftegypt.com/*
@@ -3742,11 +3783,16 @@ title/.*一键访问国外网站/
 *://*.maxicleanlavanderias.com/*
 *://*.mengxiangxiazai.com/*
 *://*.metsagroup.com/*
+*://*.mjyxb.com/*
 *://*.milliondollarquartetlive.co.uk/*
+*://*.jz-rs.com/*
 *://*.mingle-mangle.com/*
 *://*.minitool.com/*
+*://*.hnamos.com/*
+*://*.quwaifu.com/*
 *://*.mithra-e.com/*
 *://*.mjh25.one/*
+*://*.52funs.com/*
 *://*.mjh34.one/*
 *://*.mjh37.one/*
 *://*.mjh43.one/*
@@ -3754,6 +3800,9 @@ title/.*一键访问国外网站/
 *://*.munkonggadget.com/*
 *://*.muzykalia.edu.pl/*
 *://*.mytempsms.com/*
+*://*.kk0532.cn/*
+*://*.kafeitaiku.com/*
+*://*.wifijy.com/*
 *://*.nepicool.cc/*
 *://*.newmitbbs.com/*
 *://*.nonseisolo.eu/*
@@ -3820,10 +3869,12 @@ title/.*一键访问国外网站/
 *://*.voidcn.com/*
 *://*.wentaotie.net/*
 *://*.windows12.pro/*
+*://*.woqiyounai.com/*
 *://*.wqiis.com.cn/*
 *://*.wshjd.com/*
 *://*.wuhuaro.com/*
 *://*.wwtyrd.com/*
+*://*.x05.net/*
 *://*.xbeibeix.com/*
 *://*.xiaozishe.com/*
 *://*.xjx100.cn/*
@@ -3882,7 +3933,14 @@ title/.*一键访问国外网站/
 *://lacocinaderosa.es/*
 *://lamina.pw/*
 *://larquey-environnement.fr/*
+*://*.fishlee.net/*
 *://leescandies.com/*
+*://*.runker.net/*
+*://*.ilxtx.com/*
+*://*.bomx.cn/*
+*://*.worktile.com/*
+*://*.xiangleshare.com/*
+*://*.bejson.com/*
 *://lopeninnederland.nl/*
 *://madadyaran.com/*
 *://mistral.pw/*
@@ -3915,54 +3973,79 @@ title/.*一键访问国外网站/
 *://yuchenios.com/*
 *://zhidao.baidu.com/*
 *://zqfoodt.com/*
-#############
-###防止误杀###
-#############
+##################
+### Prevent TK ###
+#### 防止误杀 ####
+##################
 @*://answers.microsoft.com/*
 @*://www.landiannews.com/*
 @*://*.edu/*
 @*://*.edu.cn/*
 
 #############################
-#屏蔽移动端网页
-/[a-zA-z]+:\/\/(m\.|wap\.)+[^\s]*/
-#/((m|wap)\.)+([^\s]*)/
-#屏蔽非加密网站
-/^(http:\/\/)/
-#屏蔽纯数字网址
-/[https://]+[0-9]+.(com|net|org|xyz|cc|top)/
-#屏蔽ip搜索结果
+# Block Mobile Only Site
+# 屏蔽仅有移动端的网页
+# 目前看起来似乎只有以 “m” 开头或以 “wap” 开头的
+/.*\/(?:m|wap)\..*/
+
+# 屏蔽纯数字网址
+/[https://]+[0-9]+.(?:com|net|org|xyz|cc|top)/
+
+# 屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 
-title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
+# 屏蔽搜索结果里的“搜索”
+/.*\/(.*)s=.*/
+/.*\/search(?:\?|&|\?&)(key|q).*/
+# /.*\/search(?:\?|&|\?&)(?:[^=&]*=)?(key|q).*/ # 还未遇到过这种情况
+/.*keyword=.*/
+*://*/search/*
+*://*.zoom.com/*/search*
+
+
+title/(2345|UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
 
-###########################################################################
-######################### Software download sites #########################
-#############  (These websites may contain malicious programs) ############
-###########################################################################
+###############################
+### Software download sites ###
+####### 软件下载(崽)站 ########
+###############################
 *://*.05sun.net/*
 *://*.1758dj.com/*
 *://*.32r.com/*
 *://*.3733.com/*
+*://*.xiaomoxz.com/*
 *://*.52sk2.org/*
 *://*.52z.com/*
 *://*.5ku.org/*
 *://*.85jz.com/*
+*://*.4399xyxy.com/*
 *://*.92sucai.com/*
+*://*.downza.cn/*
 *://*.aiya8.com/*
 *://*.anqer.cn/*
+*://*.bear20.com/*
+*://*.duote.com/*
 *://*.apkzu.com/*
+*://*.52pkvr.com/*
 *://*.cfpan.com/*
+*://*.nmcp.net/*
+*://*.ttyx8.com/*
+*://*.55g.cc/*
+*://*.xzfile.com/*
 *://*.cncrk.com/*
 *://*.crsky.com/*
+*://*.picxiaobai.com/*
+*://*.91rjz.com/*
 *://*.dnxtw.com/*
 *://*.downkr.com/*
 *://*.downxing.com/*
 *://*.edge66.com/*
 *://*.fasola.edu.pl/*
+*://*.qsxzz.com/*
 *://*.flash.cn/*
 *://*.onlinedown.net/*
+*://*.17wanjia.com/*
 *://*.foxss.top/*
 *://*.gdyunjie.cn/*
 *://*.greenxiazai.com/*
@@ -3998,27 +4081,54 @@ title/(视频去哪了呢)/
 
 #######################
 ### F**king Forgery ###
-####### 仿冒网站 #######
+###### 误导网站 #######
 #######################
+*：//*.99box.com/*
 *://*.dafengdagengren.com/*
+*://*.fanerkongjian.com/*
 *://*.fitgirltorrent.com/*
 *://*.naifei.im/*
+*://*.yhyhtech.com/*
+*://*.google-zh.com/*
+*://*.chromcn.com/*
+*://*.sootool.net/*
+*://*.gloogle.cc/*
+*://*.ggllq.net/*
+*://*.googlechromexz.com/*
+*://*.chrome.net.cn/*
 *://*.namesilo-china.com/*
-*://potplayer.org/*
-*://daumpotplayer.com/*
+*://*.xahuapu.net/*
 *://*.pchealthcheck.net/*
+*://*.bjjuxiao.cn/*
+*://*.google-chrom.cn/*
+*://*.gugeliulanqi.net/*
+*://*.chengdufisu.com/*
+*://*.chrome35.com/*
+*://*.hyzyjy.com/*
+*://*.chrome64.com/*
+*://*.chromegw.com/*
+*://*.bjhjjt.com/*
+*://*.uc129.com/*
 *://*.rarbg-official.to/*
+*://*.huohullq.com/*
 *://*.service-skype.com/*
 *://*.steamtools.net/*
+*://daumpotplayer.com/*
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
-*://www.sogou.org/*
-*://www.suacg.com/*
+*://potplayer.org/*
+*://*.sogou.org/*
+*://*.suacg.com/*
+*://*.sanxiang-sh.com/*
+*://*.bjhjjt.com/*
+*://*.dingbobw.com/*
+*://*.haudrill.com/*@KyoukaiNO1
+
 
 ########################
 ### Unable to access ###
 ########################
-*://*..sailaila.net/*
+*://*.sailaila.net/*
 *://*.1556.top/*
 *://*.17ziti.com/*
 *://*.acmechange.com/*
@@ -4030,6 +4140,7 @@ title/(视频去哪了呢)/
 *://*.h233.eu.org/*
 *://*.howtogeek.com/*
 *://*.integral.org.cn/*
+*://*.fangzhengziku.com/*
 *://*.liuwo.com/*
 *://*.llscrm.com/*
 *://*.lvyou100.com/*
@@ -4062,10 +4173,9 @@ title/(视频去哪了呢)/
 *://xuanring.com/*
 *://xuchen.wang/*
 
-
 ###############
 ### Scalper ###
-#### 倒卖狗 ####
+###  倒卖狗 ###
 ###############
 *://*.1319q.com/*
 *://*.17ziti.com/*
@@ -4079,12 +4189,20 @@ title/(视频去哪了呢)/
 *://*.acgshome.com/*
 *://*.ailoli.us/*
 *://*.ape-flac.com/*
+*://*.mxdjzj.com/*
+*://*.chaorenyouxi.co/*
+*://*.playdanji.com/*
+*://*.jkrygame.vip/*
 *://*.bluegq.com/*
 *://*.book118.com/*
+*://*.moeacg.top/*
 *://*.cqe.cc/*
+*://*.3dhmao.org/*
 *://*.docin.com/*
+*://*.98666x.top/*
 *://*.easylife.tw/*
 *://*.element3ds.com/*
+*://*.ydyxcn.com/*
 *://*.fontke.com/*
 *://*.haitubl.com/*
 *://*.haogeduo.com/*
@@ -4096,6 +4214,7 @@ title/(视频去哪了呢)/
 *://*.keeqm.com/*
 *://*.lanrenbl.net/*
 *://*.lspacg.com/*
+*://*.ydzyfx.vip/*
 *://*.mdusa.cc/*
 *://*.moku1.com/*
 *://*.moku11.com/*
@@ -4120,6 +4239,16 @@ title/(视频去哪了呢)/
 *://bobopic.com/*
 *://*.csdn.net/*
 *://www.2cyla.com/*
+
+#####################
+### Member Conten ###
+##### 会员内容 ######
+# The information provided by these sites can only be accessed or obtained after participating in something, such as joining a group, subscribing to a channel or liking a page.
+# 关注你个锤子公众号
+*://*.5217city.com/*
+*://*.yufanbox.com/*
+*://*.kuafuzys.com/*
+
 
 ##################
 ### Suspicious ###
@@ -4169,12 +4298,14 @@ title/(视频去哪了呢)/
 *://*.byart.cc/*
 *://*.chenweiliang.com/*
 *://*.covetadorn.com/*
+*://*.auxbbs.com/*
 *://*.dffy.com/*
 *://*.didajsq.com/*
 *://*.fnjiasu.com/*
 *://*.fonts.net.cn/*
 *://*.free-sms-receive.com/*
 *://*.freesms.vip/*
+*://*.acgist.com/*
 *://*.gamekee.com/*
 *://*.glen.cn/*
 *://*.goproxy.com/*
@@ -4206,9 +4337,11 @@ title/(视频去哪了呢)/
 *://*.uultd.com/*
 *://*.volcengine.com/*
 *://*.warcolours.com/*
+*://*.8kmm.com/*
 *://*.xiazaiziti.com/*
 *://*.yebaotv.com/*
 *://*.yjbys.com/*
+*://*.soumanman.com/*
 *://*.youc.com/*
 *://*.youxi369.com/*
 *://*.zaixianjisuan.com/*
@@ -4216,6 +4349,8 @@ title/(视频去哪了呢)/
 *://*.zitidao.com/*
 *://*.zitixiazai.cn/*
 *://*.znalezieni.pl/*
+*://*.zhuanyewanjia.com/*
+*://*.game777.cn/*
 *://*.ztxz.net.cn/*
 *://acg.zsyts.cn/*
 *://attack.pw/*
@@ -4230,6 +4365,16 @@ title/(视频去哪了呢)/
 *://fazhaber.online/*
 *://firtinaosman.online/*
 *://fonthaha.com/*
+*://ttfont.com/*
+*://taofont.com/*
+*://*.ztxz.cc/*
+*://*.fontku.com/*
+*://*.zzfont.com/*
+*://*.fontge.com/*
+*://*.fontka.com/*
+*://*.mostfont.com/*
+*://*.mostanswer.com/*
+*://*.yishuviti.cn/*
 *://gozcicegim.online/*
 *://gozdehaber.online/*
 *://iphone.apkpure.com/*
@@ -4269,6 +4414,15 @@ title/(视频去哪了呢)/
 #//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
 # Sites that have .ai domain extension
+*://*.forkful.ai/*
+*://*.otter.ai/*
+*://*.fireflies.ai/*
+*://*.krisp.ai/*
+*://*.cgdream.ai/*
+*://*.tryleap.ai/*
+*://*.magichour.ai/*
+*://*.perplexity.ai/*
+*://*.julius.ai/*
 *://*.animegenius.ai/*
 *://*.artvy.ai/*
 *://*.davy.ai/*
@@ -4585,9 +4739,27 @@ title/(视频去哪了呢)/
 *://*.dzine.ai/*
 *://*.decohere.ai/*
 *://*.myninja.ai/*
+*://*.neoprompt.ai/*
+*://*.thedream.ai/*
+*://*.viggle.ai/*
+*://*.llamagen.ai/*
+*://*.gab.ai/*
+*://*.mascots.ai/*
+*://*.moescape.ai/*
+*://*.mistral.ai/*
+*://*.loverse.ai/*
+*://*.typli.ai/*
+*://*.yeschat.ai/*
+*://*.boodlebox.ai/*
 
 
 # Sites that have .com domain extension
+*://*.steelefortress.com/*
+*://*.cybersecguide.com/*
+*://*.appypie.com/*
+*://*.aicreate.com/*
+*://*.toolbaz.com/*
+*://*.chatbot.com/*
 *://*.hayo.com/*
 *://*.yodayo.com/*
 *://*.stable-diffusion-art.com/*
@@ -4856,6 +5028,45 @@ title/(视频去哪了呢)/
 *://*.nocodingai.com/*
 *://*.artaigallery.com/*
 *://*.flux-image.com/*
+*://*.seapik.com/*
+*://*.talkie-ai.com/*
+*://*.laprompt.com/*
+*://*.fluxaistudio.com/*
+*://*.sql-easy.com/learn/best-ai-sql-tools/*
+*://*.sql-easy.com/learn/best-ai-sql-query/*
+*://*.tusiart.com/*
+*://*.underonethousand.com/p/poetry-for-machines/*
+*://*.pngtree.com/so/cel-shading/*
+*://*.artificialpaintings.com/*
+*://*.insertface.com/*
+*://*.dungeonsanddragonsfan.com/*
+*://*.imagella.com/*
+*://*.civitaic.com/*
+*://*.pixexid.com/*
+*://*.ciciai.com/*
+*://*.aistickr.com/*
+*://*.sora.com/*
+*://*.drawever.com/*
+*://*.smiletemplates.com/search/images/*
+*://*.beatcoynz-artwork.com/*
+*://*.stlmax.com/*
+*://*.ebsynth.com/*
+*://*.ishencai.com/*
+*://*.metademolab.com/*
+*://*.softgist.com/*
+*://*.vondy.com/*
+*://*.aitoolhunt.com/*
+*://*.mixologyai.com/*
+*://*.twistedalchemy.com/pages/ai-cocktail-recipes/*
+*://*.aidrivenrecipes.com/*
+*://*.mydotprompt.com/*
+*://*.promptcombo.com/*
+*://*.imiprompt.com/*
+*://*.whythealgarve.com/*
+*://*.lazyriverdesignworks.com/*
+*://*.catsaroundtheglobe.com/*
+*://*.runcomfy.com/*
+*://*.aipromptsdirectory.com/*
 
 
 # Sites that have .art domain extension
@@ -4998,9 +5209,13 @@ title/(视频去哪了呢)/
 *://*.designbundles.net/ylivdesign/*
 *://*.flux-ai.net/*
 *://*.vitalentum.net/*
+*://*.heatware.net/*
+*://*.bigshadows.net/*
+*://*.eyecandy.net/*
 
 
-# Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+# Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
+*://*.getmerlin.in/*
 *://*.transpic.cn/*
 *://*.aitree.io/*
 *://*.sticky.cool/*
@@ -5018,6 +5233,7 @@ title/(视频去哪了呢)/
 *://*.artspark.io/*
 *://*.draeno.io/*
 *://*.letsenhance.io/*
+*://*.madpenguin.org/*
 *://*.lipsumar.io/*
 *://*.gpt4free.io/*
 *://*.swimm.io/*
@@ -5137,6 +5353,26 @@ title/(视频去哪了呢)/
 *://*.promptlibrary.org/*
 *://*.myedit.online/*
 *://*.gamer.se/*
+*://*.glif.app/*
+*://*.glif.app/*
+*://*.infiniteworlds.app/*
+*://*.idyllic.app/*
+*://*.linuxconfig.org/*
+*://*.stablediffusion.blog/*
+*://*.distinctplugins.io/*
+*://*.nohat.cc/*
+*://*.stl.team/*
+*://*.idesigns.shop/*
+*://*.bottr.me/*
+*://*.comfy.org/*
+*://*.waifu.com.mx/*
+*://*.midjourney.fm/*
+*://*.bargpt.app/*
+*://*.rareconnections.io/*
+*://*.worldfrogday.org/*
+*://*.groundabout.coffee/*
+*://*.igot.coffee/*
+*://*.manuals.plus/*
 
 
 # AI projects hosted on other sites
@@ -5438,10 +5674,11 @@ title/(视频去哪了呢)/
 *://*.x.com/Feral_Forest/*
 *://*.twitter.com/watanaharumi/*
 *://*.x.com/watanaharumi/*
+*://*.twitter.com/AyakonArts/*
+*://*.x.com/AyakonArts/*
 
 
 # Block list of AI "artists"/orgs (youtube)
-*://*.youtube.com/@shadiversity/*
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
 *://*.youtube.com/@SHAD_AI/*
 *://*.youtube.com/@sebastiankamph/*
@@ -5450,7 +5687,9 @@ title/(视频去哪了呢)/
 *://*.youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw/*
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
-
+*://*.youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w/*
+*://*.youtube.com/@alkaid-art/*
+*://*.youtube.com/@TheDebugZone/*
 
 # Block list of AI "artists"/orgs (instagram)
 *://*.instagram.com/_prateekarora/*
@@ -5569,10 +5808,19 @@ title/(视频去哪了呢)/
 /pinterest.+\/pin\/mulher-fatal/
 /pinterest.+\/pin\/563018696976219/
 /pinterest.+\/pin\/idleturtle85-a-very-cute-baby-peacock--482518547589787278/
+/pinterest.+\/pin\/reference--13088655160761671/
 
 
 # Block list of AI "artists"/orgs (behance)
 *://*.behance.net/oliviosarikas/*
+*://*.behance.net/ai_nevys_creator/*
+*://*.behance.net/jiboncrafts01/*
+*://*.behance.net/annadoma/*
+*://*.behance.net/OskarThiemicke/*
+*://*.behance.net/ivannaart/*
+*://*.behance.net/foxyeaf/*
+*://*.behance.net/olgachalykh/*
+*://*.behance.net/zeeshi/*
 
 
 # Block list of AI "artists"/orgs (ko-fi)
@@ -5625,15 +5873,12 @@ title/(视频去哪了呢)/
 # Freepik garbage
 *://*.freepik.com/premium-ai-image/*
 *://*.freepik.com/ai/*
+*://*.freepik.com/free-ai-image/*
 *://*.freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921/*
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
 *://*.freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm
 *://*.freepik.com/author/smmstore773/*
 *://*.freepik.com/author/maxstudioko/*
-
-
-# Linkedin garbage
-*://*.linkedin.com/in/justmaier/*
 
 
 # Medium garbage
@@ -5642,6 +5887,7 @@ title/(视频去哪了呢)/
 *://*.medium.com/mlearning-ai/*
 *://*.medium.com/generative-ai/*
 *://*.medium.com/@SLover/*
+*://*.medium.com/@queenskisivuli/*
 
 
 # // Miscellaneous crypto/nft shit
@@ -5742,12 +5988,117 @@ title/(视频去哪了呢)/
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/promptsideas/*
 *://*.reddit.com/r/cursedAIpics/*
+*://*.reddit.com/r/lotr_ai_art/*
+*://*.reddit.com/r/AiArtLounge/*
+*://*.reddit.com/r/GarfieldAI_art/*
+*://*.reddit.com/r/AiArtShow/*
+*://*.reddit.com/r/Ai_Husbando_Art/*
+*://*.reddit.com/r/AI_Art_Department/*
+*://*.reddit.com/r/AiCarArt/*
+*://*.reddit.com/r/AiArtChallenge/*
+*://*.reddit.com/r/TrippyAiArt/*
+*://*.reddit.com/r/AiArt_Psycht/*
+*://*.reddit.com/r/FanArtAI/*
+*://*.reddit.com/r/AI_Art_Requests/*
+*://*.reddit.com/r/shittyAiArt/*
+*://*.reddit.com/r/AI_Art_Series/*
+*://*.reddit.com/r/AiArtWow/*
+*://*.reddit.com/r/RenaissanceArt_AI/*
+*://*.reddit.com/r/aiCoffeeArt/*
+*://*.reddit.com/r/narrative_ai_art/*
+*://*.reddit.com/r/ADULT_ART_AI/*
+*://*.reddit.com/r/Art_of_AI/*
+*://*.reddit.com/r/AiGirlsSexyArt/*
+*://*.reddit.com/r/AiComicBookArt/*
+*://*.reddit.com/r/3amAI/*
+*://*.reddit.com/r/AIArtCreator/*
+*://*.reddit.com/r/AIEscher/*
+*://*.reddit.com/r/AIGenArt/*
+*://*.reddit.com/r/aisettings/*
+*://*.reddit.com/r/AmazingAI/*
+*://*.reddit.com/r/ArtIsForEveryone/*
+*://*.reddit.com/r/craiyon/*
+*://*.reddit.com/r/dallemini/*
+*://*.reddit.com/r/dawnAi/*
+*://*.reddit.com/r/DimensionTraveler/*
+*://*.reddit.com/r/DiscoDiffusion/*
+*://*.reddit.com/r/dreamcasting/*
+*://*.reddit.com/r/HighEndAI/*
+*://*.reddit.com/r/invokeai/*
+*://*.reddit.com/r/hellaflyai/*
+*://*.reddit.com/r/AiComicBookArt/*
+*://*.reddit.com/r/generateforme/*
+*://*.reddit.com/r/JustOneWord/*
+*://*.reddit.com/r/Lensa/*
+*://*.reddit.com/r/MidJourney2Dalle/*
+*://*.reddit.com/r/midjourney_imagine/*
+*://*.reddit.com/r/MidjourneyArtworks/*
+*://*.reddit.com/r/MidJourneyFantasy/*
+*://*.reddit.com/r/MidjourneyPrompts/*
+*://*.reddit.com/r/momaia/*
+*://*.reddit.com/r/PromptArt/*
+*://*.reddit.com/r/starryai/*
+*://*.reddit.com/r/WomboArt/*
+*://*.reddit.com/r/Wombodream/*
+*://*.reddit.com/r/wonderAI/*
+*://*.reddit.com/r/AiWholesome/*
+*://*.reddit.com/r/nijijourney/*
+*://*.reddit.com/r/Ai_Dragons/*
+*://*.reddit.com/r/AIGameOfThrones/*
+*://*.reddit.com/r/Ai_HarryPotter/*
+*://*.reddit.com/r/DragonDiffusion/*
+*://*.reddit.com/r/LOTRAI/*
+*://*.reddit.com/r/lotr_ai_art/*
+*://*.reddit.com/r/aispacegirls/*
+*://*.reddit.com/r/AiVideoGameArt/*
+*://*.reddit.com/r/DuneAI/*
+*://*.reddit.com/r/AIRetrofuturism/*
+*://*.reddit.com/r/Ai_StarWars_Art/*
+*://*.reddit.com/r/StarWarsAIArt/*
+*://*.reddit.com/r/aifails/*
+*://*.reddit.com/r/AIgeneratednightmares/*
+*://*.reddit.com/r/LensaFails/*
+*://*.reddit.com/r/MidjourneyFails/*
+*://*.reddit.com/r/weirddalle/*
+*://*.reddit.com/r/AIfreakout/*
+*://*.reddit.com/r/AiGenCarporn/*
+*://*.reddit.com/r/aigeneratedmemes/*
+*://*.reddit.com/r/AIGeneratedPokemon/*
+*://*.reddit.com/r/Ai_Pokemon/*
+*://*.reddit.com/r/DreamArchitecture/*
+*://*.reddit.com/r/Ai_PeopleOfColor_Art/*
+*://*.reddit.com/r/DreamstudioAI/*
+*://*.reddit.com/r/text2aiart/*
+*://*.reddit.com/r/WorldbuildingWithAI/*
+*://*.reddit.com/r/AIArtistWorkflows/*
+*://*.reddit.com/r/DreamBooth/*
+*://*.reddit.com/r/aigamedev/*
+*://*.reddit.com/r/GenTube/*
+*://*.reddit.com/r/ImageGenerators/*
+*://*.reddit.com/r/indie_games_and_ai/*
+*://*.reddit.com/r/MidJourneyDiscussions/*
+*://*.reddit.com/r/promptcraft/*
+*://*.reddit.com/r/PromptDesign/*
+*://*.reddit.com/r/PromptEngineering/*
+*://*.reddit.com/r/PromptSharing/*
+*://*.reddit.com/r/StableDiffusionInfo/*
+*://*.reddit.com/r/aiARTistsUNITE/*
+*://*.reddit.com/r/aiGayArt/*
+*://*.reddit.com/r/AIisfuckinglit/*
+*://*.reddit.com/r/anyaiart/*
+*://*.reddit.com/r/FurAI/*
+*://*.reddit.com/r/sdnsfw/*
+*://*.reddit.com/r/unstable_diffusion/*
+*://*.reddit.com/r/WaifuDiffusion/*
+*://*.reddit.com/r/aiyiff/*
+*://*.reddit.com/r/comfyui/*
 
 
 # // Block list of AI reddit users
 *://*.reddit.com/user/aidaily0/*
 *://*.reddit.com/user/Wyprany/*
 *://*.reddit.com/user/AIContent/*
+*://*.reddit.com/user/TrickyPride/*
 
 
 #// Reddit shit placeholder
@@ -5797,6 +6148,11 @@ title/(视频去哪了呢)/
 *://*.dinosaur.org/*
 *://*.disciplines.ng/*
 *://*.nucleovisual.com/*
+*://*.fullbloomclub.net/*
+*://*.ipv6.rs/*
+*://*.homediningkitchen.com/*
+*://*.psichologyanswers.com/*
+*://*.umatechnology.org/*
 
 
 # // VoiceMod shit
@@ -5811,7 +6167,27 @@ title/(视频去哪了呢)/
 *://*.tiktok.com/@ku_13js/*
 
 
+# // Behance (standalone galleries)
+*://*.behance.net/gallery/209291699/AI-Generated-Creative-Posts/*
+*://*.behance.net/gallery/208813917/AI-Art-Photography-Portfolio/*
+*://*.behance.net/gallery/209354857/AI-Gen-Visuals/*
+*://*.behance.net/gallery/199345215/Ai-Generated-Creative-Poster-Design-Nazmul-GFX/*
+*://*.behance.net/gallery/206632057/Trendy-Ai-generated-Fashion-Poster-Design-Fabrilife/*
+*://*.behance.net/gallery/190706173/AI-Generated-Images/*
+*://*.behance.net/gallery/190706335/Digital-Art/*
+*://*.behance.net/gallery/210948839/Space-Kitty/*
+*://*.behance.net/gallery/210345701/A-Jewel-in-the-Sky/*
+
+
 # // [Placeholder] Operation: Baby Peacock (Removing AI-generated Animal Misinformation/Images; Non-categorized)
+
+
+# // Redbubble (standalone pins)
+*://*.redbubble.com/i/pin/Steampunk-female-portrait-Cel-shading-Japan-anime-style-by-DigitalEmporio/152924525.NP9QY/*
+
+
+# // Redbubble Accounts
+*://*.redbubble.com/people/digitalemporio/shop/*
 
 
 # // Non-Conflicting Regular Expressions
@@ -5828,6 +6204,11 @@ title/(视频去哪了呢)/
 
 /deviantart\.com\/.*(-generative-ai|ai-generat(ive|ed)|-ai-art)/i
 
+/shutterstock\.com\/.*(image-generated|generated-by-ai|ai-image-generator|image_type=generated)/
+
+*://*.ziyuanlm.com/*
+*://developer.aliyun.com/*
+*://*.hqyman.cn/*
 *://*.021east.com/*
 *://*.0714news.com/*
 *://*.1007171.com/*
@@ -71223,6 +71604,9 @@ title/.* - 小.(百科 | 知识) 网/
 *://douyin.com/*
 *://www.douyin.com/*
 *://*.jimowang.com/*
+*://docs.pingcode.com/*
+*://*.worktile.com/kb/*
+
 *://*.abbyychina.com/*
 *://*.bartender.cc/*
 *://*.betterzipcn.com/*
