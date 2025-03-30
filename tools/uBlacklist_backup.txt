@@ -5067,6 +5067,8 @@ title/(视频去哪了呢)/
 *://*.catsaroundtheglobe.com/*
 *://*.runcomfy.com/*
 *://*.aipromptsdirectory.com/*
+*://*.songtell.com/*
+*://*.prompt-com.com/*
 
 
 # Sites that have .art domain extension

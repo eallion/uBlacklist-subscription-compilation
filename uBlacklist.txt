@@ -1,4 +1,4 @@
-! Update weekly at 2025-03-23 08:49:57 +0800
+! Update weekly at 2025-03-30 08:51:22 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -7928,6 +7928,7 @@
 *://*.promeai.com/*
 *://*.promeai.pro/*
 *://*.promoworksnow.buzz/*
+*://*.prompt-com.com/*
 *://*.prompt.quel.jp/*
 *://*.promptalot.com/*
 *://*.promptbase.com/*
@@ -9211,6 +9212,7 @@
 *://*.songhepx.com/*
 *://*.songnidianqi.cn/*
 *://*.songshouji.cn/*
+*://*.songtell.com/*
 *://*.sootool.net/*
 *://*.sop5fzr.cn/*
 *://*.sora.com/*
