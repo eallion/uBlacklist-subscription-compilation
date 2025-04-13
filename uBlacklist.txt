@@ -1,4 +1,4 @@
-! Update weekly at 2025-04-06 08:50:39 +0800
+! Update weekly at 2025-04-13 10:12:40 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -3837,6 +3837,7 @@
 *://*.extrabux.com/*
 *://*.extreme-mac.buzz/*
 *://*.eyecandy.net/*
+*://*.eyewated.com/*
 *://*.eyuth.com/*
 *://*.eyxgwpt.cn/*
 *://*.ezerm.cn/*
@@ -13490,6 +13491,7 @@
 *://www.8122900.com/*  
 *://www.83889196.com/*
 *://www.8566122.com/*  
+*://www.8682.cc/*
 *://www.8688news.com/*  
 *://www.86jzdd.com/*
 *://www.8712122.com/*

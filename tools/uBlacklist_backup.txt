@@ -6208,6 +6208,8 @@ title/(视频去哪了呢)/
 
 /shutterstock\.com\/.*(image-generated|generated-by-ai|ai-image-generator|image_type=generated)/
 
+*://*.eyewated.com/*
+*://www.8682.cc/*
 *://www.iodraw.com/blog/*
 *://*.ziyuanlm.com/*
 *://developer.aliyun.com/*
