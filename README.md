@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 
 > 在谷歌的搜索结果中将不会显示以下网站：
 
-```
+```plain
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -109,12 +109,7 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 
 屏蔽 AI 内容农场：
 
-> 来自：https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file#ublacklist-1
-
-```
-/(generative)? *AI *(art|generated|illustration)?/i
-/(ada)?Lo(RA|Con) *(model)?|(stable)?.*diffusion|midjourney|niji|sd *(xl|1.5)|(text|txt|img|image) *(to|2) *(image|img|video)/i
-```
+> 来自：https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file#ublacklist
 
 ### 添加/删除 域名
 
