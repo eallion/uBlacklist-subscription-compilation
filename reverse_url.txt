@@ -13,3 +13,4 @@
 @*://openai.com/*
 @*://chatgpt.com/*
 @*://*.reddit.com/*
+@*://huggingface.co/*
