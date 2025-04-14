@@ -1,4 +1,4 @@
-! Update weekly at 2025-04-14 00:38:14 +0800
+! Update weekly at 2025-04-14 21:34:19 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -3548,6 +3548,7 @@
 *://*.dunimd.com/*
 *://*.dunstanhardcastle.com/*
 *://*.duoduohelp.com/*
+*://*.duolingoguides.com/*
 *://*.duonao.cc/*
 *://*.duosf.org.cn/*
 *://*.duote.com/*
@@ -25948,3 +25949,4 @@ zzyyo.com
 @*://openai.com/*
 @*://chatgpt.com/*
 @*://*.reddit.com/*
+@*://huggingface.co/*

@@ -5069,6 +5069,7 @@ title/(视频去哪了呢)/
 *://*.aipromptsdirectory.com/*
 *://*.songtell.com/*
 *://*.prompt-com.com/*
+*://*.duolingoguides.com/*
 
 
 # Sites that have .art domain extension
