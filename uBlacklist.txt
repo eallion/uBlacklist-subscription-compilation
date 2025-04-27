@@ -1,4 +1,4 @@
-! Update weekly at 2025-04-20 08:51:57 +0800
+! Update weekly at 2025-04-27 08:52:13 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -1669,6 +1669,7 @@
 *://*.airgeorgian.buzz/*
 *://*.airitilibrary.com/*
 *://*.airoomplanner.com/*
+*://*.airportcalgary.com/*
 *://*.airsatddt.com/*
 *://*.airtimeaudio.buzz/*
 *://*.aisatoyscn.com/*
@@ -3269,6 +3270,7 @@
 *://*.deepnude.cc/*
 *://*.deepnudenow.com/*
 *://*.deepnudify.com/*
+*://*.deepseek.com/*
 *://*.deepsukebe.io/*
 *://*.deepswap.ai/*
 *://*.defelsko.net.cn/*
@@ -3442,6 +3444,7 @@
 *://*.docway.net/*
 *://*.doczj.com/*
 *://*.dodsonfineart.buzz/*
+*://*.dogbreedadvice.com/*
 *://*.dolchul.buzz/*
 *://*.domainelespailles.net/*
 *://*.domihp.com/*
@@ -5581,6 +5584,7 @@
 *://*.jdwsj.com/*
 *://*.je52.cn/*
 *://*.jeda.ai/*
+*://*.jeddahairport.net/*
 *://*.jeffhildebrand.buzz/*
 *://*.jelenve.cn/*
 *://*.jellfcower.com/*
@@ -7650,6 +7654,7 @@
 *://*.peiyige.com/*
 *://*.penly.ai/*
 *://*.penzai.com/*
+*://*.peopleai.com/*
 *://*.pephop.ai/*
 *://*.peppababy.com/*
 *://*.perchance.org/*
@@ -8796,6 +8801,7 @@
 *://*.scmjgene.com/*
 *://*.scmztc.net/*
 *://*.scorui.com/*
+*://*.scpa.education/*
 *://*.scpaean.com/*
 *://*.scptol.com/*
 *://*.scqsnc.com/*
