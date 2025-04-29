@@ -1,4 +1,4 @@
-! Update weekly at 2025-04-27 08:52:13 +0800
+! Update weekly at 2025-04-29 12:52:51 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -4378,6 +4378,9 @@
 *://*.girard-lakecity.buzz/*
 *://*.girlboy.cn/*
 *://*.girlfriend.ai/*
+*://*.gitcode.com/*
+*://*.gitcode.host/*
+*://*.gitcode.net/*
 *://*.giters.com/*
 *://*.github-wiki-see.page/*
 *://*.github.com/lllyasviel/*
