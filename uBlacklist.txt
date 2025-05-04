@@ -1,4 +1,4 @@
-! Update weekly at 2025-04-29 12:52:51 +0800
+! Update weekly at 2025-05-04 08:54:26 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -1430,6 +1430,8 @@
 *://*.9wy2hpq.cn/*
 *://*.9xt399i.cn/*
 *://*.9yyu.com/*
+*://*.Sunoai.ai/*
+*://*.Sunoai.asia/*
 *://*.a0300.cn/*
 *://*.a1fz.com/*
 *://*.a372.cn/*
@@ -3493,6 +3495,7 @@
 *://*.draeno.io/*
 *://*.draffinenterprises.buzz/*
 *://*.draftlab.ai/*
+*://*.drawatoon.com/*
 *://*.drawever.com/*
 *://*.drawgpt.ai/*
 *://*.drawnudes.io/*
@@ -5334,6 +5337,7 @@
 *://*.images.ai/*
 *://*.imagina-tech.buzz/*
 *://*.imagine.art/*
+*://*.imagineanything.ai/*
 *://*.imagineme.ai/*
 *://*.imagineme.app/*
 *://*.imaginewithrashid.com/*
@@ -9409,6 +9413,7 @@
 *://*.sunnews.site/*
 *://*.sunnynana.com/*
 *://*.suno.ai/*
+*://*.suno.com/*
 *://*.sunyuanxx.com/*
 *://*.suoluowan.com/*
 *://*.supagruen.github.io/StableDiffusion-CheatSheet/*
@@ -9699,6 +9704,7 @@
 *://*.thesamur.ai/*
 *://*.theshakerinn.buzz/*
 *://*.thesurfsiders.buzz/*
+*://*.thetawise.ai/*
 *://*.theupsstoredc.net/*
 *://*.thevelvetheaven.buzz/*
 *://*.thewindowsclub.com/*
