@@ -1,4 +1,4 @@
-! Update weekly at 2025-05-18 08:54:11 +0800
+! Update weekly at 2025-05-20 22:34:19 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -595,18 +595,22 @@
 *://*.356ceo.com/*
 *://*.356jh.cn/*
 *://*.35r48r.cn/*
+*://*.360-yasuo.cn/*
 *://*.3600593.cn/*
 *://*.360adsolutions.com/*
 *://*.360doc.cn/*
 *://*.360du.net.cn/*
 *://*.360mdb.com/*
 *://*.360norm.com/*
+*://*.360xt.cn/*
+*://*.360yasuo.cn/*
 *://*.361shipin.com/*
 *://*.361t.org/*
 *://*.36457.cn/*
 *://*.365dxpt.com/*
 *://*.365seal.com/*
 *://*.365town.cn/*
+*://*.365xiazai.com/*
 *://*.366ro4o.cn/*
 *://*.366service.com/*
 *://*.369369.xyz/*
@@ -714,6 +718,7 @@
 *://*.41725.cn/*
 *://*.41887.cn/*
 *://*.41boss.com/*
+*://*.423xz.com/*
 *://*.42464.cn/*
 *://*.42598.cn/*
 *://*.42640.cn/*
@@ -831,6 +836,7 @@
 *://*.50h5onq.cn/*
 *://*.50s35p9.cn/*
 *://*.51.yt/*
+*://*.5119.cn/*
 *://*.511soft.com/*
 *://*.51271890.com/*
 *://*.515151game.com/*
@@ -961,6 +967,7 @@
 *://*.58pan.cn/*
 *://*.58pla.com/*
 *://*.58xuanzhi.com/*
+*://*.5909.net/*
 *://*.591522.com/*
 *://*.591736.com/*
 *://*.59177.net/*
@@ -1348,6 +1355,7 @@
 *://*.950087.com/*
 *://*.958760.com/*
 *://*.95eo.com/*
+*://*.9663.com.com/*
 *://*.9672800.win/*
 *://*.96732.com/*
 *://*.971700.com/*
@@ -1612,6 +1620,7 @@
 *://*.aicameo.com/*
 *://*.aichatting.net/*
 *://*.aichi-kasugai.buzz/*
+*://*.aichunjing.com/*
 *://*.aicreate.com/*
 *://*.aidehouse.com/*
 *://*.aidrivenrecipes.com/*
@@ -2761,6 +2770,7 @@
 *://*.chuncaobi.com/*
 *://*.chungmusic.buzz/*
 *://*.chunjigo.com/*
+*://*.chunjingxitong.com/*
 *://*.chunleis.com/*
 *://*.chuntianty.com/*
 *://*.chwings.com/*
@@ -3018,8 +3028,10 @@
 *://*.cscorigin.com/*
 *://*.csdake.com/*
 *://*.csdetec.com/*
+*://*.csdn.com/*
 *://*.csdn.net/*
 *://*.csdn.net/weixin_26722031/article/*
+*://*.csdnimg.cn/*
 *://*.csfeiyuan.com/*
 *://*.cshuamu8.com/*
 *://*.cshyyqj.com/*
@@ -3477,10 +3489,12 @@
 *://*.douyin.com/zhuanti/*
 *://*.douyinluansha.cn/*
 *://*.dovov.com/*
+*://*.downcc.com/*
 *://*.downcodes.com/*
 *://*.downkr.com/*
 *://*.downkuai.com/*
 *://*.download-warehouse.buzz/*
+*://*.downxia.com/*
 *://*.downxing.com/*
 *://*.downza.cn/*
 *://*.downzz.com/*
@@ -3519,6 +3533,7 @@
 *://*.driedpeel.com/*
 *://*.drip.art/*
 *://*.drivereasy.com/*
+*://*.drivergenius.com/*
 *://*.driversupport.com/*
 *://*.dropsdai.com/*
 *://*.drtz88.com/*
@@ -3542,10 +3557,12 @@
 *://*.du4rg35.cn/*
 *://*.duanzh.com/*
 *://*.duanzhihu.com/*
+*://*.duba.com/*
 *://*.dubaipga.buzz/*
 *://*.dublinpages.buzz/*
 *://*.duboot.com/*
 *://*.dubverse.ai/*
+*://*.dudues.com/*
 *://*.duewriting.com/*
 *://*.duhuimall.com/*
 *://*.duield.cn/*
@@ -4554,6 +4571,7 @@
 *://*.guangxiren.cn/*
 *://*.guangzhouecu.com/*
 *://*.guanhuigd.com/*
+*://*.guanjia-360.cn/*
 *://*.guanse168.com/*
 *://*.guanyajx.com/*
 *://*.guauto.cn/*
@@ -5087,6 +5105,7 @@
 *://*.huahuahc.com/*
 *://*.huahui08.com/*
 *://*.huaju8.com/*
+*://*.huajunxiazai.com/*
 *://*.hualianem.com/*
 *://*.hualinacgcyb.cc/*
 *://*.hualunzs.com/*
@@ -5132,6 +5151,7 @@
 *://*.hujiang.com/*
 *://*.hultianf.cn/*
 *://*.humata.ai/*
+*://*.humingw.com/*
 *://*.hunts.ai/*
 *://*.huo010.cn/*
 *://*.huo123.cc/*
@@ -5492,6 +5512,7 @@
 *://*.iteye.com/*
 *://*.iteye.com/resource/*
 *://*.itigic.com/*
+*://*.itmop.com/*
 *://*.itmpi-journal.buzz/*
 *://*.itranslater.com/*
 *://*.itread01.com/*
@@ -6331,6 +6352,7 @@
 *://*.li36b.com/*
 *://*.liamharrington.buzz/*
 *://*.lianaiya.com/*
+*://*.lianghoo.cn/*
 *://*.liangliangmama.com/blogs/news/*
 *://*.liangmir.cn/*
 *://*.lianyi0898.com/*
@@ -7633,7 +7655,9 @@
 *://*.pc0912.com/*
 *://*.pc6.com/*
 *://*.pc6.com/infoview/*
+*://*.pc9.com/*
 *://*.pcbconline.org/*
+*://*.pcdown.net/*
 *://*.pchealthcheck.net/*
 *://*.pcizplv.cn/*
 *://*.pclbjk0.cn/*
@@ -8580,6 +8604,7 @@
 *://*.rition.cn/*
 *://*.riverexec.buzz/*
 *://*.rizzgpt.app/*
+*://*.rjctx.com/*
 *://*.rjq8.cn/*
 *://*.rjqyl.com/*
 *://*.rjwhylgo.cn/*
@@ -9064,6 +9089,7 @@
 *://*.simplewma.com/*
 *://*.simplified.com/*
 *://*.sincereschool.com/*
+*://*.singdown.com/*
 *://*.singledream.cn/*
 *://*.singletorino.it/*
 *://*.sino01.com/*
@@ -9118,6 +9144,7 @@
 *://*.sktfaker.com/*
 *://*.sky315.com/*
 *://*.skyboxconsult.buzz/*
+*://*.skycn.com/*
 *://*.skyeason.com/*
 *://*.skyeyworld.com/*
 *://*.skyline-pallc.com/*
@@ -9204,6 +9231,8 @@
 *://*.sodocs.net/*
 *://*.soft-vn.net/*
 *://*.softgist.com/*
+*://*.softgj.com/*
+*://*.softhouse.com.cn/*
 *://*.softonic.com/*
 *://*.softwarekeep.com/*
 *://*.softwaresex.buzz/*
@@ -9813,6 +9842,7 @@
 *://*.tokp2wz.cn/*
 *://*.tokyominer.com/*
 *://*.tomatoesweb.com/*
+*://*.tomcat.org.cn/*
 *://*.toms2013.com/*
 *://*.tomzx.com/*
 *://*.tongbu.com/*
@@ -9917,6 +9947,7 @@
 *://*.ttyshi.com/*
 *://*.ttyx8.com/*
 *://*.ttzhufu.com/*
+*://*.ttzip.com/*
 *://*.tubu9.com/*
 *://*.tucaozhiyin.com/*
 *://*.tuconsultor.buzz/*
@@ -10185,6 +10216,7 @@
 *://*.uygb0pc.cn/*
 *://*.uzaixlx.cn/*
 *://*.uzhuangji.net/*
+*://*.uzzf.com/*
 *://*.v02gsr9.cn/*
 *://*.v1cw96b.cn/*
 *://*.v1ex.com/*
@@ -10626,6 +10658,7 @@
 *://*.wm9wnt2.cn/*
 *://*.wmqdi.com/*
 *://*.wmyqz.com/*
+*://*.wmzhe.com/*
 *://*.wn75.cn/*
 *://*.wnfpcb3.cn/*
 *://*.wns00090.com/*
@@ -10638,6 +10671,7 @@
 *://*.wobida.cn/*
 *://*.wodegr.cn/*
 *://*.wodekuandai.com/*
+*://*.wodown.com/*
 *://*.wojiahuisuo.cn/*
 *://*.wolfrunners.buzz/*
 *://*.wombo.art/*
@@ -10736,6 +10770,7 @@
 *://*.wwtw.yeane.top/*
 *://*.wwtyrd.com/*
 *://*.www-54197.com/*
+*://*.www.cjbxt.com/*
 *://*.www.youchuang365.com/*
 *://*.www2s3seeecom.cn/*
 *://*.www3.udpdu.com/*
@@ -10896,6 +10931,7 @@
 *://*.xetupian.com/*
 *://*.xf196.cn/*
 *://*.xfamtv.buzz/*
+*://*.xfdown.com/*
 *://*.xficole.cn/*
 *://*.xfqc186.com/*
 *://*.xfto.cc/*
@@ -10954,6 +10990,7 @@
 *://*.xiaozhishi.net/*
 *://*.xiaozishe.com/*
 *://*.xiayx.com/*
+*://*.xiazai51.com/*
 *://*.xiazaiziti.com/*
 *://*.xieehui.com/*
 *://*.xieetuuy.com/*
@@ -11002,6 +11039,7 @@
 *://*.xiqingkeji.com/*
 *://*.xiroou.com/*
 *://*.xisuyan.cn/*
+*://*.xitongzhijia.net/*
 *://*.xiuczi3.cn/*
 *://*.xiumicar.com/*
 *://*.xiwenfs.cn/*
@@ -11668,6 +11706,7 @@
 *://*.zgsym.com/*
 *://*.zgtulong.com/*
 *://*.zh-anyu.cn/*
+*://*.zh-gooogle.com/*
 *://*.zhai168.cn/*
 *://*.zhaihai.com/*
 *://*.zhajun.com/*
@@ -11971,6 +12010,9 @@
 *://*/so.php
 *://*/so.php?s=*
 *://*/so/*
+*://*pchome.net/*
+*://*zh-chrom.cn/*
+*://*zh-google.org.cn/*
 *://.8kee.com/*  
 *://00w5.com/*
 *://028deng.com/*
@@ -12064,6 +12106,7 @@
 *://aibing.cc/*
 *://aihao8w.com/*  
 *://aihejin.com/*
+*://ailegal.baidu.com/*
 *://aizhaoni.com/*
 *://ajaxhispano.com/*
 *://alden.pw/*
@@ -12118,6 +12161,7 @@
 *://bameifaze.com/*
 *://bannercuts.com /*  
 *://baocaiyijia.com/
+*://baoku.360.cn/*
 *://base64.work/so/*
 *://bbs.csdn.net/*
 *://bbs.guaruan.com/*
@@ -12659,6 +12703,7 @@
 *://kandicekeith.ca/*  
 *://kantie.org/*
 *://kao-bo.com/*
+*://kaolaxiazai.com/*
 *://kb.kutu66.com/*
 *://kcp58.com/*
 *://keygenninja.com/*
@@ -12692,6 +12737,7 @@
 *://leescandies.com/*
 *://lefurc.com/*  
 *://lefx.cc/*
+*://lemon.baidu.com/*
 *://lequ7.com/*  
 *://lfbpos.com/*  
 *://lfslfjsq.com/*
@@ -12866,6 +12912,7 @@
 *://mustafaaliduran.com/*
 *://muzoic.org/*
 *://my.oschina.net/u/4394125/*
+*://mydown.yesky.com/*
 *://mygiftlk.com/*
 *://mytuango.com/*  
 *://mzlw.apollostar-safari.de/*
@@ -12934,6 +12981,7 @@
 *://patobriens.com/*  
 *://pavlovadoco.com/*
 *://pbup.cc/*
+*://pc.qq.com/*
 *://pcedu.pconline.com.cn/*
 *://pcmac.download/*
 *://pcpn.cc/*
@@ -12973,6 +13021,7 @@
 *://prograide.com/*
 *://programmerstart.com/*
 *://programmierfrage.com/*
+*://ps.adobe-cn.com/*
 *://psww.cc/*
 *://pttk.cc/*
 *://publicationethics.org/*
@@ -13104,6 +13153,7 @@
 *://smartme.pl/*
 *://so.muouseo.com/*
 *://sodocumentation.net/*
+*://soft.qq.com/*
 *://soft.zhiding.cn/*
 *://sokopasa.online/*
 *://solveforum.com/*
@@ -15053,6 +15103,8 @@
 *://xhqq.cc/*
 *://xiao66688.com/*
 *://xiao66688.com/*  
+*://xiazai.sogou.com/*
+*://xiazai.zol.com.cn/*
 *://xie.infoq.cn/*
 *://xiezhouyy.com/*  
 *://xindd.cc/*
