@@ -1,4 +1,4 @@
-! Update weekly at 2025-05-25 08:55:31 +0800
+! Update weekly at 2025-06-01 09:01:40 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -3021,7 +3021,6 @@
 *://*.code-examples.net/*
 *://*.code-paper.com/*
 *://*.code.i-harness.com/*
-*://*.code2s.com/*
 *://*.code911.top/*
 *://*.codeantenna.com/*
 *://*.codebug.vip/*
@@ -5191,7 +5190,6 @@
 *://*.heqianwang.com/*
 *://*.heritagemortgagebroker.buzz/*
 *://*.hermanogabriel.buzz/*
-*://*.herokuapp.com/*
 *://*.herotu.com/*
 *://*.herpesoutbreaktreatment-reviews.com/*
 *://*.heww.cc/*
@@ -7831,7 +7829,6 @@
 *://*.nsh8.cn/*
 *://*.nsyr3xc.cn/*
 *://*.ntbdvalve.com/*
-*://*.ntcdoon.org/*
 *://*.ntd.tv/*
 *://*.ntdtv.com.tw/*
 *://*.ntdtv.com/*
@@ -13053,7 +13050,6 @@
 *://card.weibo.com/*
 *://carry.pw/*
 *://caryihui.com/*  
-*://catwolf.org/*
 *://cce.bmq8.com/*
 *://ccjiapeng.com/*
 *://ccpaisen.com/*
@@ -13099,11 +13095,9 @@
 *://cnreon.com/*
 *://code-examples.net/*
 *://codeday.me/*
-*://codefaq.ru/*
 *://codegrepr.com/*
 *://codeguides.site/*
 *://codehero.jp/*
-*://coder.gay/*
 *://coderoad.ru/*
 *://codeutility.org/*
 *://codewdw.com/*
@@ -13146,7 +13140,6 @@
 *://dafb.cc/*
 *://dafn.cc/*
 *://dafx.cc/*
-*://dailydevsblog.com/*
 *://daimajiaoliu.com/*
 *://daimaqa.com/*
 *://daimazxw.com/*
@@ -13177,7 +13170,6 @@
 *://desou.cc/*
 *://detail.zol.com.cn/*
 *://deutsch-hispanische-gesellschaft-pforzheim.de/*
-*://devdreamz.com/*
 *://developer.aliyun.com/*
 *://developer.aliyun.com/articlezt/*
 *://devnote.pro/*  
@@ -13231,7 +13223,6 @@
 *://eclyq.co/*
 *://ecshweb.pchome.com.tw/*
 *://edu.51cto.com/*
-*://edupro.id/*
 *://ee.ofweek.com/*
 *://efzx.cc/*
 *://egcc.cc/*
@@ -13337,6 +13328,7 @@
 *://goldyx.com/*
 *://golfisabella.fr/*  
 *://gonglue123.com/*
+*://goods.taobao.com/*
 *://goto222.com/*  
 *://gozcicegim.online/*
 *://gozdehaber.online/*
@@ -13457,7 +13449,6 @@
 *://its401.com/*
 *://itscreativejuice.com/*  
 *://j.17qq.com/*
-*://jablogs.com/*
 *://jamyi.com/*
 *://janbuy.com/*  
 *://javacodeqa.cc/*
@@ -13846,7 +13837,6 @@
 *://qa.1r1g.com/*
 *://qaae.cc/*
 *://qacc.cc/*
-*://qapicks.com/*
 *://qastack.cn/*
 *://qastack.co.in/*
 *://qastack.com.br/*
@@ -13865,7 +13855,6 @@
 *://qastack.net.bd/*
 *://qastack.ru/*
 *://qastack.vn/*
-*://qatop.pythonwood.com/*
 *://qayaboo.co/*
 *://qciss.net/*
 *://qcke.plameco-nett.de/*
@@ -13889,7 +13878,6 @@
 *://qmmn.cc/*
 *://qooqo.ru/*
 *://qpup.cc/*
-*://quabr.com/*
 *://quackr.io/*
 *://question-it.com/*
 *://questu.ru/*
@@ -13980,7 +13968,6 @@
 *://ssjxhy.com/*  
 *://sswhsign.com/*
 *://stackask.cn/*  
-*://stackfinder.jp.net/*
 *://stackguides.com/*
 *://stackoom.com/*
 *://stackovergo.com/*
@@ -14020,7 +14007,6 @@
 *://tdww.cc/*
 *://teachrock.org/*
 *://techhelpnotes.com/*
-*://techinplanet.com/*
 *://teddit.ggc-project.de/*
 *://teeth001.pixnet.net/*  
 *://teranews.net/*
@@ -14042,7 +14028,6 @@
 *://tianpingzuo.xkyn.com/*
 *://tianxkj.com/*
 *://tic.ocls.info/*  
-*://tipsfordev.com/*
 *://tititi.cc/*
 *://tjhwmro.com/*
 *://tjjshine.com/*
@@ -14116,7 +14101,6 @@
 *://vzhongheng.com/*  
 *://vzqz.fieldball.de/*
 *://waalbb.com/*  
-*://waldorf-am-see.org/*
 *://wallacevilleestate.co.nz/*  
 *://wantubizhi.com/*
 *://wap.ajsbp.com/*
@@ -15050,7 +15034,6 @@
 *://www.jnmeisige.com/*  
 *://www.jnzcyl.com/*
 *://www.jrnongye.com/*  
-*://www.jscodetips.com/*
 *://www.jsnongnong.com/*
 *://www.jsnongnong.com/*  
 *://www.jsxbbyq.com/*
@@ -15484,7 +15467,6 @@
 *://www.sszyqz.com/*
 *://www.stackfinder.ru/*
 *://www.stacknoob.com/*
-*://www.stackubuntu.com/*
 *://www.star0s.com/*  
 *://www.state-savings.buzz/*
 *://www.sthuaguan.com/*
@@ -15533,7 +15515,6 @@
 *://www.tfdkt.com/*  
 *://www.tgidrinks.com/*
 *://www.thaipublica.org/*  
-*://www.thecodeteacher.com/*
 *://www.thelittlestrawberryfarm.com/*  
 *://www.thenatureofwriting.com/*  
 *://www.thestripmiami.com/*  
@@ -15548,7 +15529,6 @@
 *://www.tiinon.com/*
 *://www.timesgroup.cn/*  
 *://www.tipdit.com/*  
-*://www.titanwolf.org/*
 *://www.tj-central.com/*  
 *://www.tj-sysm.com/*
 *://www.tj-waless.com/*  
@@ -15593,7 +15573,6 @@
 *://www.u72.net/*
 *://www.u9h.com/*
 *://www.uaelotto.buzz/*
-*://www.uebu-kaihatsu.jp.net/*
 *://www.ufakkk.buzz/*
 *://www.uh562o.cn/*
 *://www.uhhfuyf.com/*  
@@ -15970,7 +15949,6 @@
 *://yindai168.com/*  
 *://yisearch.cc/*
 *://yjedu888.com/*
-*://younggeeks.in/*
 *://yousearch.cc/*
 *://yp.jd.com/*
 *://ypup.cc/*
@@ -24314,7 +24292,6 @@ dingfu68.com
 dingjisc.com
 diningtagtw.com
 dirask.com
-direct.com/*
 disnnai.com.tw
 dituzj.com
 dizzycoding.com
