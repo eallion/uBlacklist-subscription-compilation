@@ -1,4 +1,4 @@
-! Update weekly at 2025-07-13 08:59:10 +0800
+! Update weekly at 2025-07-20 09:00:24 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -7664,6 +7664,7 @@
 *://*.net-auction.buzz/*
 *://*.net-stakes.buzz/*
 *://*.netspew.buzz/*
+*://*.netwrck.com/*
 *://*.neuf.tv/*
 *://*.neural.love/*
 *://*.neuralframes.com/*
@@ -9844,6 +9845,7 @@
 *://*.softbranchdevelopers.com/*
 *://*.softgist.com/*
 *://*.softgj.com/*
+*://*.softhandtech.com/*
 *://*.softhouse.com.cn/*
 *://*.softonic.com/*
 *://*.software-testing.com/*

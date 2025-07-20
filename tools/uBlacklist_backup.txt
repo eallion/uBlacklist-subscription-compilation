@@ -768,6 +768,8 @@ https://vimsky.com/zh-tw/examples/detail/python-method-tempfile.mkstemp.html
 *://*.drawatoon.com/*
 *://*.suno.com/*
 *://*.buddhaweekly.com/*
+*://*.softhandtech.com/*
+*://*.netwrck.com/*
 
 
 # Sites that have .art domain extension
