@@ -1,4 +1,4 @@
-! Update weekly at 2025-07-20 09:00:24 +0800
+! Update weekly at 2025-07-27 09:00:29 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -2909,6 +2909,7 @@
 *://*.civbvh.cn/*
 *://*.civit.ai/*
 *://*.civitai.com/*
+*://*.civitaiarchive.com/*
 *://*.civitaic.com/*
 *://*.cizsjedx.cn/*
 *://*.cj0n93c.cn/*
