@@ -2,7 +2,7 @@ name: Update uBlacklist subscription weekly
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: "0 16 * * 1"
   push:
     branches: [ main ]
     
