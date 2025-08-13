@@ -6,6 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/eallion/uBlacklist-subscription-compilation?logo=GitHub&color=4ec100&style=flat)](https://github.com/eallion/uBlacklist-subscription-compilation/issues/new/choose) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
 
 > 订阅源地址：`https://git.io/ublacklist`  
+> 备用地址（DartNode）：`https://ublacklist.eallion.com/ublacklist.txt`
 
 这是一个 uBlacklist 插件的订阅地址合集，搜集了网上大部分的订阅地址合并成一个。  
 通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions/workflows/go.yml) 每周自动更新一次。
@@ -131,15 +132,15 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 
 ### 感谢名单
 
-##### uBlacklist:
+##### uBlacklist
 
 - [https://github.com/iorate/uBlacklist](https://github.com/iorate/uBlacklist)
 
-##### Contribution:
+##### Contribution
 
 - https://github.com/eallion/uBlacklist-Subscription.git
 
-##### Subscription:
+##### Subscription
 
 > 添加订阅源的时候，各订阅源均采用 Mit License 或无 License。如果有侵权行为，我会第一时间删除。
 
@@ -161,7 +162,6 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 ##### DartNode
 
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 
 ### 推荐
 
