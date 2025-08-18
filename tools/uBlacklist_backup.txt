@@ -5862,6 +5862,14 @@ z.sogou.com
 *://yuchenios.com/*
 *://zhidao.baidu.com/*
 *://zqfoodt.com/*
+*://*.jpfuns.com/*
+*://*.ksnolag.com/*
+*://*.livenoping.com/*
+*://*.wywyx.com/*
+*://*.youleplay.com/*
+*://*.qieyou.com/*
+*://*.imahui.com/*
+*://*.youxi121.com/*
 ##################
 ### Prevent TK ###
 #### 防止误杀 ####
@@ -5884,7 +5892,7 @@ z.sogou.com
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 
 # 屏蔽搜索结果里的“搜索”
-/.*\/(.*)s=.*/
+/.*\/(.*)(s|q)=.*/
 /.*\/search(?:\?|&|\?&)(key|q).*/
 # /.*\/search(?:\?|&|\?&)(?:[^=&]*=)?(key|q).*/ # 还未遇到过这种情况
 /.*keyword=.*/
@@ -6094,6 +6102,7 @@ title/(视频去哪了呢)/
 *://*.ydyxcn.com/*
 *://*.fontke.com/*
 *://*.haitubl.com/*
+*://*.fwtuji.com/*
 *://*.haogeduo.com/*
 *://*.haomeili.net/*
 *://*.hi-res.com.cn/*
@@ -6109,6 +6118,7 @@ title/(视频去哪了呢)/
 *://*.moku11.com/*
 *://*.mpyit.com/*
 *://*.oiobbs.com/*
+*://*.5dmcitys.com/*
 *://*.qiuziti.com/*
 *://*.renrendoc.com/*
 *://*.resourcesman.com/*
@@ -6211,6 +6221,7 @@ title/(视频去哪了呢)/
 *://*.oups.com/*
 *://*.pconline.com.cn/*
 *://*.piaotia.com/*
+*://*.qiyou.cn/*
 *://*.pingme.tel/*
 *://*.pllmj.com/*
 *://*.pompanobeachtackle.com/*
