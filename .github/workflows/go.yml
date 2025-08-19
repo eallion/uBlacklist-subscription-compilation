@@ -48,6 +48,7 @@ jobs:
 
         # Issue # 48
         sed -i '/^http:\/\//d' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
+        sed -i 's|/.*\/(?:m|wap)\..*/|/.*\/(?:(?!m\.douban\.com)(?:m|wap)\..*)/|g' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
 
         cd tools
         mv uBlacklist uBlacklist.txt
