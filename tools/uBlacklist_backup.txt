@@ -5883,7 +5883,7 @@ z.sogou.com
 # Block Mobile Only Site
 # 屏蔽仅有移动端的网页
 # 目前看起来似乎只有以 “m” 开头或以 “wap” 开头的
-/.*\/(?:m|wap)\..*/
+
 
 # 屏蔽纯数字网址
 /[https://]+[0-9]+.(?:com|net|org|xyz|cc|top)/
@@ -6295,6 +6295,8 @@ title/(视频去哪了呢)/
 *://xbeibeix.com/*
 *://yazhouse8.com/*
 *://yunduanxin.xyz/*
+/.*/(?:(?!m.douban.com)(?:m|wap)..*/
+
 .366service.com
 .androidcookie.com
 .ask.helplib.com
