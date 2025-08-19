@@ -43,12 +43,15 @@ jobs:
         rm source/laylavish/uBlockOrigin-HUGE-AI-Blocklist/noai_hosts.txt
         mv reverse_url.txt tools/reverse_url
 
-        # 合并所有列表
-        find . -type f -name "*.txt" -exec sh -c 'cat "$0"; echo' {} \; > tools/uBlacklist
-
         # Issue # 48
         sed -i '/^http:\/\//d' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
-        sed -i 's|/.*\/(?:m|wap)\..*/|/.*\/(?:(?!m\.douban\.com)(?:m|wap)\..*)/|g' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
+
+        # Issue # 63
+        perl -i -pe 's#\Q/.*\/(?:m|wap)\..*/##g' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
+        sed -i '$a\/.*\/(?:(?!m\.douban\.com)(?:m|wap)\..*/' source/zweie/some-rules-for-ublacklist/Annoyingbastard.txt
+
+        # 合并所有列表
+        find . -type f -name "*.txt" -exec sh -c 'cat "$0"; echo' {} \; > tools/uBlacklist
 
         cd tools
         mv uBlacklist uBlacklist.txt
