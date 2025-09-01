@@ -1,4 +1,4 @@
-! Update weekly at 2025-08-26 00:11:06 +0800
+! Update weekly at 2025-09-02 00:10:24 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -747,6 +747,7 @@
 *://*.4399xyxy.com/*
 *://*.43food.com/*
 *://*.43mk.com/*
+*://*.4425.com.cn/*
 *://*.44320.cn/*
 *://*.44382.cn/*
 *://*.44643.cn/*
@@ -3322,6 +3323,7 @@
 *://*.da-quan.net/*
 *://*.da6v220.cn/*
 *://*.da868.cn/*
+*://*.dabaicai.com/*
 *://*.dacongyun.com/*
 *://*.dadayx.com/*
 *://*.dadazzz.com/*
@@ -5075,6 +5077,7 @@
 *://*.haoxyx.com/*
 *://*.haoyar.com/*
 *://*.haoyiwuliu.com/*
+*://*.haozhuangji.com/*
 *://*.hapc.cc/*
 *://*.happy128.com/*
 *://*.happy1801.com/*
@@ -9196,6 +9199,7 @@
 *://*.rjqyl.com/*
 *://*.rjwhylgo.cn/*
 *://*.rjzmayy.cn/*
+*://*.rjzxw.com/*
 *://*.rkcywlu.cn/*
 *://*.rkgpc.date/*
 *://*.rkncfrx.cn/*
@@ -12528,6 +12532,7 @@
 *://*.zhangjingchu.org/*
 *://*.zhangqiushi.com/*
 *://*.zhangshengrong.com/*
+*://*.zhangshuyan.com.cn/*
 *://*.zhangton.com/*
 *://*.zhangyg.com/*
 *://*.zhanso.cn/*
