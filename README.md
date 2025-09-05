@@ -159,10 +159,6 @@ https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/ma
 - https://github.com/zweie/some-rules-for-ublacklist
 - https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-##### DartNode
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 ### 推荐
 
 推荐另一个插件：<https://github.com/danny0838/content-farm-terminator>
