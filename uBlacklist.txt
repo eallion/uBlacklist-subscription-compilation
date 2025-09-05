@@ -1,4 +1,4 @@
-! Update weekly at 2025-09-02 00:10:24 +0800
+! Update weekly at 2025-09-06 00:34:53 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -3471,6 +3471,8 @@
 *://*.deepseek.com/*
 *://*.deepsukebe.io/*
 *://*.deepswap.ai/*
+*://*.deepwiki.com/*
+*://*.deepwiki.org/*
 *://*.defelsko.net.cn/*
 *://*.deiniu.com/*
 *://*.delinvip.com/*
