@@ -1,4 +1,4 @@
-! Update weekly at 2025-09-09 00:09:59 +0800
+! Update weekly at 2025-09-16 00:11:01 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -2958,6 +2958,7 @@
 *://*.cll99.com/*
 *://*.cloe.bytebeacon.com/@bb_ras/*
 *://*.clothoff.io/*
+*://*.clothoff.net/*
 *://*.clothw.com/*
 *://*.cloudbooklet.com/*
 *://*.cloudsos.com.cn/*
