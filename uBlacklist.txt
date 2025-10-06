@@ -1,4 +1,4 @@
-! Update weekly at 2025-09-30 00:09:36 +0800
+! Update weekly at 2025-10-07 00:10:59 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -2908,6 +2908,7 @@
 *://*.cityhomesatlanta.buzz/*
 *://*.cityzx.cn/*
 *://*.ciupacabra.com/*
+*://*.civarchive.com/*
 *://*.civbvh.cn/*
 *://*.civit.ai/*
 *://*.civitai.com/*
