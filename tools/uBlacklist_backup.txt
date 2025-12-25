@@ -63433,6 +63433,82 @@ title/.*一键访问国外网站/
 *://codeutility.org/*
 *://copyprogramming.com/*
 
+###############################
+### Software download sites ###
+######## 软件下载(崽)站 #########
+###############################
+*://*.05sun.net/*
+*://*.1758dj.com/*
+*://*.32r.com/*
+*://*.3733.com/*
+*://*.xiaomoxz.com/*
+*://*.52sk2.org/*
+*://*.52z.com/*
+*://*.5ku.org/*
+*://*.85jz.com/*
+*://*.4399xyxy.com/*
+*://*.92sucai.com/*
+*://*.downza.cn/*
+*://*.aiya8.com/*
+*://*.anqer.cn/*
+*://*.bear20.com/*
+*://*.duote.com/*
+*://*.apkzu.com/*
+*://*.52pkvr.com/*
+*://*.cfpan.com/*
+*://*.nmcp.net/*
+*://*.ttyx8.com/*
+*://*.55g.cc/*
+*://*.xzfile.com/*
+*://*.cncrk.com/*
+*://*.crsky.com/*
+*://*.picxiaobai.com/*
+*://*.91rjz.com/*
+*://*.dnxtw.com/*
+*://*.downkr.com/*
+*://*.downxing.com/*
+*://*.edge66.com/*
+*://*.fasola.edu.pl/*
+*://*.qsxzz.com/*
+*://*.flash.cn/*
+*://*.onlinedown.net/*
+*://*.17wanjia.com/*
+*://*.foxss.top/*
+*://*.gdyunjie.cn/*
+*://*.greenxiazai.com/*
+*://*.gtafuzhu.cn/*
+*://*.gtawg.cn/*
+*://*.gtaxx.com/*
+*://*.softonic.com/*
+*://download.cnet.com/*
+*://*.hackhome.com/*
+*://*.hezipie.com/*
+*://*.iefans.net/*
+*://*.junodownload.com/*
+*://*.jxdown.com/*
+*://*.lhdown.com/*
+*://*.liqucn.com/*
+*://*.muzykalia.edu.pl/*
+*://*.mydown.com/*
+*://*.myzhenai.com.cn/*
+*://*.pcsoft.com.cn/*
+*://*.ptxz.com/*
+*://*.shenmeilan.com/*
+*://*.weidown.com/*
+*://*.wlrjy.com/*
+*://*.x52pojie.com/*
+*://*.xue51.com/*
+*://*.youxiaohou.com/*
+*://*.yuankusucai.com/*
+*://*.zhishiwu.com/*
+*://download.chinakaoyan.com/*
+*://downloadsicim.web.app/*
+*://pcedu.pconline.com.cn/*
+*://pcmac.download/*
+*://*.vkxiazai.com/*
+*://*.52xp.net/*
+*://*.downke.com/*
+*://*.4735.com/*
 ####################
 ### Content Farm ###
 ####################
@@ -63807,6 +63883,8 @@ title/.*一键访问国外网站/
 *://*.qieyou.com/*
 *://*.imahui.com/*
 *://*.youxi121.com/*
+*://*.yxlele.com/*
+*://*.3agame.tw/*
 ##################
 ### Prevent TK ###
 #### 防止误杀 ####
@@ -63815,6 +63893,7 @@ title/.*一键访问国外网站/
 @*://www.landiannews.com/*
 @*://*.edu/*
 @*://*.edu.cn/*
+@*://*.gov.cn/*
 
 #############################
 # Block Mobile Only Site
@@ -63835,83 +63914,11 @@ title/.*一键访问国外网站/
 /.*keyword=.*/
 *://*/search/*
 *://*.zoom.com/*/search*
+*://*.cloud.tencent.cn/developer/information/*
 
 
 title/(2345|UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
-
-###############################
-### Software download sites ###
-####### 软件下载(崽)站 ########
-###############################
-*://*.05sun.net/*
-*://*.1758dj.com/*
-*://*.32r.com/*
-*://*.3733.com/*
-*://*.xiaomoxz.com/*
-*://*.52sk2.org/*
-*://*.52z.com/*
-*://*.5ku.org/*
-*://*.85jz.com/*
-*://*.4399xyxy.com/*
-*://*.92sucai.com/*
-*://*.downza.cn/*
-*://*.aiya8.com/*
-*://*.anqer.cn/*
-*://*.bear20.com/*
-*://*.duote.com/*
-*://*.apkzu.com/*
-*://*.52pkvr.com/*
-*://*.cfpan.com/*
-*://*.nmcp.net/*
-*://*.ttyx8.com/*
-*://*.55g.cc/*
-*://*.xzfile.com/*
-*://*.cncrk.com/*
-*://*.crsky.com/*
-*://*.picxiaobai.com/*
-*://*.91rjz.com/*
-*://*.dnxtw.com/*
-*://*.downkr.com/*
-*://*.downxing.com/*
-*://*.edge66.com/*
-*://*.fasola.edu.pl/*
-*://*.qsxzz.com/*
-*://*.flash.cn/*
-*://*.onlinedown.net/*
-*://*.17wanjia.com/*
-*://*.foxss.top/*
-*://*.gdyunjie.cn/*
-*://*.greenxiazai.com/*
-*://*.gtafuzhu.cn/*
-*://*.gtawg.cn/*
-*://*.gtaxx.com/*
-*://*.softonic.com/*
-*://download.cnet.com/*
-*://*.hackhome.com/*
-*://*.hezipie.com/*
-*://*.iefans.net/*
-*://*.junodownload.com/*
-*://*.jxdown.com/*
-*://*.lhdown.com/*
-*://*.liqucn.com/*
-*://*.muzykalia.edu.pl/*
-*://*.mydown.com/*
-*://*.myzhenai.com.cn/*
-*://*.pcsoft.com.cn/*
-*://*.ptxz.com/*
-*://*.shenmeilan.com/*
-*://*.weidown.com/*
-*://*.wlrjy.com/*
-*://*.x52pojie.com/*
-*://*.xue51.com/*
-*://*.youxiaohou.com/*
-*://*.yuankusucai.com/*
-*://*.zhishiwu.com/*
-*://download.chinakaoyan.com/*
-*://downloadsicim.web.app/*
-*://pcedu.pconline.com.cn/*
-*://pcmac.download/*
 
 #######################
 ### F**king Forgery ###

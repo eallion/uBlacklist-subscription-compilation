@@ -1,4 +1,4 @@
-! Update weekly at 2025-12-09 00:13:01 +0800
+! Update weekly at 2025-12-25 17:30:33 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -652,6 +652,7 @@
 *://*.3997015.com/*
 *://*.3a4a5a.com/*
 *://*.3adfo7.cn/*
+*://*.3agame.tw/*
 *://*.3agtl2.cn/*
 *://*.3b9ab.com/*
 *://*.3balao.com/*
@@ -771,6 +772,7 @@
 *://*.46hzjs.cn/*
 *://*.4702cx2.cn/*
 *://*.47225.cn/*
+*://*.4735.com/*
 *://*.4743.loan/*
 *://*.47534.cn/*
 *://*.47547.cn/*
@@ -924,6 +926,7 @@
 *://*.52tfutr.cn/*
 *://*.52wbt.com/*
 *://*.52wuji.cn/*
+*://*.52xp.net/*
 *://*.52youguan.com/*
 *://*.52z.com/*
 *://*.52zrm.com/*
@@ -2961,6 +2964,7 @@
 *://*.clothoff.io/*
 *://*.clothoff.net/*
 *://*.clothw.com/*
+*://*.cloud.tencent.cn/developer/information/*
 *://*.cloudbooklet.com/*
 *://*.cloudsos.com.cn/*
 *://*.cloudxns.net/*
@@ -3718,6 +3722,7 @@
 *://*.down265.com/*
 *://*.downcc.com/*
 *://*.downcodes.com/*
+*://*.downke.com/*
 *://*.downkr.com/*
 *://*.downkuai.com/*
 *://*.download-warehouse.buzz/*
@@ -11072,6 +11077,7 @@
 *://*.vkcho.cn/*
 *://*.vkeblog.com/*
 *://*.vkhll0v.cn/*
+*://*.vkxiazai.com/*
 *://*.vlexpert.com/*
 *://*.vlove8.com/*
 *://*.vm4zd.cn/*
@@ -12392,6 +12398,7 @@
 *://*.yxjcfjzz.com/*
 *://*.yxjdcc.com/*
 *://*.yxlchbz.com/*
+*://*.yxlele.com/*
 *://*.yxmjyx.buzz/*
 *://*.yxss.com/*
 *://*.yxtad.com/*
@@ -23565,6 +23572,7 @@
 @*://*.aws.amazon.com/*
 @*://*.edu.cn/*
 @*://*.edu/*
+@*://*.gov.cn/*
 @*://*.joyk.com/*
 @*://*.tspweb.com/*
 @*://answers.microsoft.com/*
