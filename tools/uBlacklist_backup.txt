@@ -63963,8 +63963,8 @@ title/(视频去哪了呢)/
 *://*.sanxiang-sh.com/*
 *://*.bjhjjt.com/*
 *://*.dingbobw.com/*
-*://*.haudrill.com/*@KyoukaiNO1
-
+*://*.haudrill.com/*
+*://*.polamus.com/*
 
 ########################
 ### Unable to access ###

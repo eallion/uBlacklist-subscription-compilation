@@ -1,4 +1,4 @@
-! Update weekly at 2025-12-25 17:30:33 +0800
+! Update weekly at 2025-12-30 00:12:17 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -5100,7 +5100,7 @@
 *://*.hashbet.casino/*
 *://*.hashnode.dev/*
 *://*.haszro.online/*
-*://*.haudrill.com/*@KyoukaiNO1
+*://*.haudrill.com/*
 *://*.have8.tv/*
 *://*.hawaii-jewelry.buzz/*
 *://*.haxituan.com/*
@@ -8416,6 +8416,7 @@
 *://*.poiui.top/*
 *://*.pokeit.ai/*
 *://*.poketoys.buzz/*
+*://*.polamus.com/*
 *://*.poldomu.pl/*
 *://*.poloniabeaulieu.fr/*
 *://*.polyai.ai/*
