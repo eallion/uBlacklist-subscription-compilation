@@ -1,4 +1,4 @@
-! Update weekly at 2026-01-13 00:14:55 +0800
+! Update weekly at 2026-01-20 00:14:23 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -2982,6 +2982,7 @@
 *://*.cmncam.com/*
 *://*.cmnjmy.com/*
 *://*.cmoa43r.cn/*
+*://*.cmrrs.com/*
 *://*.cmsay.com/*
 *://*.cmsdk.com/*
 *://*.cn-sec.com/*
@@ -3294,6 +3295,7 @@
 *://*.czdyyy.cn/*
 *://*.czgddq.com/*
 *://*.czgeek.com/*
+*://*.czgxw.com/*
 *://*.czjcc88.com/*
 *://*.czjdhx.com/*
 *://*.czjscxs.com.cn/*
@@ -4832,6 +4834,7 @@
 *://*.googqi.com/*
 *://*.goojie.eu/*
 *://*.goomba.cn/*
+*://*.gooogl.cn/*
 *://*.goproxy.com/*
 *://*.goto222.com/*
 *://*.gotokeyword.com/*

@@ -63965,6 +63965,9 @@ title/(视频去哪了呢)/
 *://*.dingbobw.com/*
 *://*.haudrill.com/*
 *://*.polamus.com/*
+*://*.gooogl.cn/*
+*://*.czgxw.com/*
+*://*.cmrrs.com/*
 
 ########################
 ### Unable to access ###
