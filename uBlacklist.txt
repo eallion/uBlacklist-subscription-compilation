@@ -1,4 +1,4 @@
-! Update weekly at 2026-02-17 00:28:37 +0800
+! Update weekly at 2026-02-24 00:40:17 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -6600,6 +6600,7 @@
 *://*.kuaizix.com/*
 *://*.kuandaile.com/*
 *://*.kuangxiangkeji.cn/*
+*://*.kuazhi.com/*
 *://*.kubh.lkcpz.download/*
 *://*.kubwljw.cn/*
 *://*.kuenstlerring.buzz/*
@@ -25286,6 +25287,7 @@ kuaiso.hk
 kuaisounews.com
 kuaisusou.cc
 kuaiyong.com
+kuazhi.com
 kubh.lkcpz.download
 kusearch.cc
 kushalinfra.com
