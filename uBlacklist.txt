@@ -1,4 +1,4 @@
-! Update weekly at 2026-03-10 00:43:45 +0800
+! Update weekly at 2026-03-17 00:49:45 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -6025,7 +6025,6 @@
 *://*.jieshikj.com/*
 *://*.jietouxzz.com/*
 *://*.jiewanju.com/*
-*://*.jifengba.com/*
 *://*.jifutang68.com/*
 *://*.jihehuaban.com.cn/*
 *://*.jijisf.com/*
@@ -6428,7 +6427,6 @@
 *://*.kingtaisei.com/*
 *://*.kinlawswelcomegrill.com/*
 *://*.kiri.art/*
-*://*.kissbaidu.com/*
 *://*.kissiya.com/*
 *://*.kisyou.cn/*
 *://*.kitchenlady.cn/*
@@ -14879,7 +14877,6 @@
 *://www.key-fame.com/*  
 *://www.kfwrlc.com/*
 *://www.kimintae.com/*  
-*://www.kissbaidu.com/*
 *://www.kjcxyyyzzs.cn/*
 *://www.knisterq.buzz/*
 *://www.koehlbrandbrueckenlauf.de/*  

@@ -5242,7 +5242,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.jb51.net/*
 *://*.jdon.com/*
 *://*.jhfgl.com/*
-*://*.jifengba.com/*
 *://*.jiqiren999.com/*
 *://*.jishuwen.com/*
 *://*.jiyimusic.com/*
@@ -5261,7 +5260,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.kandaoni.com/*
 *://*.kbpp.org/*
 *://*.kickscooter.ru/*
-*://*.kissbaidu.com/*
 *://*.kknews.cc/*
 *://*.ksctec.com/*
 *://*.ksyzakq.com/*
@@ -5908,7 +5906,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.csmayi.cn/*
 *://www.ctolib.com/*
 *://www.cuplayer.com/*
-*://www.cxyzjd.com/*
 *://www.czgeek.com/*
 *://www.da-quan.net/*
 *://www.daihema.com/*
@@ -5992,7 +5989,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.jsxbbyq.com/*
 *://www.juxiu.net/*
 *://www.kakatongmeng.net/*
-*://www.kissbaidu.com/*
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
 *://www.lansingip.com/*
