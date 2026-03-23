@@ -5224,7 +5224,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.iizhao.com/*
 *://*.ilovewechat.com/*
 *://*.imacso.com/*
-*://*.imaycon.com/*
 *://*.imooc.com/wenda/*
 *://*.informer.com/*
 *://*.ios.im/*
@@ -5475,7 +5474,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.website-problem.info/*
 *://*.websiterating.com/*
 *://*.weibo.com/a/hot/*
-*://*.weivb.com/*
 *://*.wenbf.com/*
 *://*.westack.live/*
 *://*.whoisua.com/*
@@ -5683,7 +5681,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://m.copyan.com/*
 *://m.daihema.com/*
 *://m.fengli.com/*
-*://m.fofama.com/*
 *://m.freebuf.com/*
 *://m.fy35.com/*
 *://m.iask.sina.com.cn/*
@@ -5823,7 +5820,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.4561234.com/*
 *://www.4k8k.xyz/*
 *://www.4pee.com/*
-*://www.501776.com/*
 *://www.511477.com/*
 *://www.513210.com/*
 *://www.51dongshi.com/*
@@ -6115,7 +6111,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.tuocheng.cc/*
 *://www.twblogs.net/*
 *://www.twoeggz.com/*
-*://www.txjingyi.com/*
 *://www.u9h.com/*
 *://www.ukassignment.org/*
 *://www.ukthesis.org/*
