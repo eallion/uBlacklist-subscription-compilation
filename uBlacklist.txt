@@ -1,4 +1,4 @@
-! Update weekly at 2026-03-24 00:42:37 +0800
+! Update weekly at 2026-03-31 00:43:51 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -9532,7 +9532,6 @@
 *://*.shengyis.com/*
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
-*://*.shenlongbbs.com/*
 *://*.shenmedaquan.com/*
 *://*.shenmeilan.com/*
 *://*.shenshanhongye.com/*
@@ -13276,7 +13275,6 @@
 *://hljmj.org/*  
 *://hnjrtb.com/*
 *://hnpjjc.com/*
-*://hnsqnlhh.com/*
 *://hnup.cc/*
 *://homeysupply.com/*  
 *://homiemall.com/*
