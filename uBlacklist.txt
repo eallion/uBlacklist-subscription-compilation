@@ -1,4 +1,4 @@
-! Update weekly at 2026-03-31 00:43:51 +0800
+! Update weekly at 2026-04-07 00:33:11 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -4518,6 +4518,7 @@
 *://*.galleri50.com/*
 *://*.gallery-ai.art/*
 *://*.game-encyclopedia.com/*
+*://*.game773.com/*
 *://*.game777.cn/*
 *://*.gameants.com/*
 *://*.gameboys.net/*
@@ -9284,7 +9285,6 @@
 *://*.s84sz06.cn/*
 *://*.s8h4bp7.cn/*
 *://*.s8zo23x.cn/*
-*://*.sa123.cc/*
 *://*.sa5f8o7.cn/*
 *://*.sab-riga.buzz/*
 *://*.saca.aussievitamin.com/*
@@ -9518,6 +9518,7 @@
 *://*.shecodes.io/athena/*
 *://*.shedevrum.ai/*
 *://*.shegiveshead.buzz/*
+*://*.sheitao.com/*
 *://*.sheji1688.net/*
 *://*.shejiben.com/*
 *://*.shellfishsoft.com/*
@@ -10574,6 +10575,7 @@
 *://*.tt1d5qj.cn/*
 *://*.ttaaj.com/*
 *://*.ttd8.cn/*
+*://*.ttfont.com/*
 *://*.ttgc.cc/*
 *://*.tthzhk1.cn/*
 *://*.ttiits.cn/*
@@ -13917,7 +13919,6 @@
 *://try2explore.com/*
 *://tsfx.cc/*
 *://ttaaj.com/*
-*://ttfont.com/*
 *://ttgc.cc/*
 *://tushuo.jk51.com/*
 *://tutorialmore.com/*
@@ -14382,7 +14383,6 @@
 *://www.carousell.com.hk/*
 *://www.carptrix.com/*
 *://www.cbedai.net/*
-*://www.ccddzlq.com/*
 *://www.ccduijimen.net/*  
 *://www.cchualing.com/*
 *://www.cctsuzhou.cn/*
@@ -14700,7 +14700,6 @@
 *://www.hbwlf.com/*  
 *://www.hbysa.com/*
 *://www.hbytenergy.com/*
-*://www.hcgtx.com/*
 *://www.hdlcores.com/*  
 *://www.heibai.org/*
 *://www.hello.so/*
@@ -15234,7 +15233,6 @@
 *://www.snepfsu-nancy-metz.net/*  
 *://www.sobyte.net/*  
 *://www.sociablelabs.com/*
-*://www.sodeog.com/*
 *://www.sohu.com/a/*
 *://www.soinside.com/*
 *://www.sojson.com/blog/*
