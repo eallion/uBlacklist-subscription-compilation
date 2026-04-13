@@ -1,4 +1,4 @@
-! Update weekly at 2026-04-07 00:33:11 +0800
+! Update weekly at 2026-04-14 00:51:50 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -7179,7 +7179,6 @@
 *://*.medium.com/mlearning-ai/*
 *://*.meetagainss.com/*
 *://*.meeting.ai/*
-*://*.meetthebookworld.com/*
 *://*.mefdjl.cn/*
 *://*.mefj.com.cn/*
 *://*.mehanltd.buzz/*
@@ -13196,7 +13195,6 @@
 *://fuckcloudnative.io/*
 *://fullstackuser.com/*
 *://fydqw.com/*
-*://fyf.wx-wx.net/*
 *://fzxunjie.com/*
 *://g.penzai.com/*
 *://g13.baidu.com/*
@@ -14110,7 +14108,6 @@
 *://www.365jz.com/*
 *://www.365nettv.com/*  
 *://www.365seal.com/*  
-*://www.365shenbo.com/*
 *://www.366service.com/*
 *://www.3955015.com/*
 *://www.3955016.com/*
@@ -14728,7 +14725,6 @@
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
 *://www.hotbak.net/*  
-*://www.hotessay.net/*
 *://www.howietech.com/*
 *://www.howietech.com/*  
 *://www.hq396.com/*
@@ -15110,7 +15106,6 @@
 *://www.playsport.cc/*  
 *://www.pledgetoshare.com/*  
 *://www.plljr.com/*  
-*://www.pnstudy.com/*
 *://www.poiui.top/*
 *://www.ppsseo.com/*  
 *://www.ppzy.com/*
@@ -15119,7 +15114,6 @@
 *://www.programmersought.com/*
 *://www.psangel.com/*  
 *://www.psb-hamburg.buzz/*  
-*://www.ptzxc.com/*
 *://www.puleiying.com/*
 *://www.pxhmyab.com/*  
 *://www.q578.com/*
