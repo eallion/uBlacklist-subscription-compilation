@@ -1,4 +1,4 @@
-! Update weekly at 2026-04-14 00:51:50 +0800
+! Update weekly at 2026-04-21 00:50:51 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -5015,7 +5015,6 @@
 *://*.hang365.com/*
 *://*.hangyexia.com/*
 *://*.hani1688.com/*
-*://*.hanjifoods.com/*
 *://*.hanlefang.net/*
 *://*.hanzhiedu.com/*
 *://*.hanzhongqc.com/*
@@ -6749,7 +6748,6 @@
 *://*.liblib.art/*
 *://*.libraire.ai/*
 *://*.libsea.com/*
-*://*.licenseapps.com/*
 *://*.lichengjk.com/*
 *://*.lidasen.cn/*
 *://*.lidemeifu.com/*
@@ -7754,7 +7752,6 @@
 *://*.nonseisolo.eu/*
 *://*.noodv.com/*
 *://*.norcomits.buzz/*
-*://*.nordvpnblog.com/*
 *://*.notcrash.com/*
 *://*.notebookcheck-cn.com/*
 *://*.notesearch.cc/*
@@ -10621,7 +10618,6 @@
 *://*.twblogs.net/*
 *://*.twd8.cn/*
 *://*.tweetai.com/*
-*://*.twfeq.com/*
 *://*.twgjy.com/*
 *://*.twgreatdaily.com/*
 *://*.twikor.cn/*
@@ -14092,7 +14088,6 @@
 *://www.2cyla.com/*
 *://www.2match2.buzz/*
 *://www.2vmt.com/*  
-*://www.3062.net.cn/*
 *://www.3114114.com/*
 *://www.315yn.com/*
 *://www.318tg.com/*  
@@ -14263,7 +14258,6 @@
 *://www.amcpp.com/*
 *://www.amhnn.com/*
 *://www.amoyman.com/*
-*://www.amzkd.cn/*
 *://www.ancii.com/*
 *://www.andarlyn.com/*  
 *://www.anfensi.com/*
@@ -15151,7 +15145,6 @@
 *://www.rcmdc.com.ua/*  
 *://www.rcmingliu.com/*  
 *://www.rejoiceblog.com/*
-*://www.rghn.com.cn/*
 *://www.right.com.cn/*
 *://www.right.com.cn/FORUM/search.php?*
 *://www.rochesterevents.com/*  
