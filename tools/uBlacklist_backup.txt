@@ -62829,7 +62829,6 @@ pytest>=7.0.0
 *://*.54site.com/*
 *://*.58hengqi.com/*
 *://*.61655.app/*
-*://*.63458799.com/*
 *://*.8848hr.com/*
 *://*.91wuxi.com/*
 *://*.97444.cn/*
@@ -63131,7 +63130,6 @@ pytest>=7.0.0
 *://*.qdcypf.com/*
 *://*.qfjhb.cn/*
 *://*.qiangwaikan.com/*
-*://*.qingdaosailing.com/*
 *://*.qingyunl.com/*
 *://*.qiniu.com/qfans/*
 *://*.qiuyexitong.com/*
@@ -63294,7 +63292,6 @@ pytest>=7.0.0
 *://*.yao51.com/*
 *://*.ydbaike.club/*
 *://*.yijiayi88.com/*
-*://*.yinzdian.com/*
 *://*.yisu.com/*
 *://*.ymgjedu.com/*
 *://*.yodot.com/*
@@ -63327,7 +63324,6 @@ pytest>=7.0.0
 *://*/so.php?s=*
 *://*/so/*
 *://0xzx.com/*
-*://170068.com/*
 *://1cm8858.com/*
 *://26ch.com/*
 *://360nas.com/*
@@ -63551,7 +63547,6 @@ pytest>=7.0.0
 *://teddit.ggc-project.de/*
 *://teranews.net/*
 *://teratas-movietv.over-blog.com/*
-*://thevpn.shop/*
 *://thewikihow.com/*
 *://tjshuju.com/*
 *://top.chinaz.com/*
@@ -63628,7 +63623,6 @@ pytest>=7.0.0
 *://www.aiskycn.com/*
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
-*://www.aliyundjq.cn/*
 *://www.aliyunyh.com/*
 *://www.amcpp.com/*
 *://www.amhnn.com/*
@@ -63769,7 +63763,6 @@ pytest>=7.0.0
 *://www.linuxboy.net/*
 *://www.linxia930.com/*
 *://www.linyuhui.net/*
-*://www.lngyy.com/*
 *://www.loc.pp.ua/*
 *://www.lohine.com/*
 *://www.lunwentop.net/*
@@ -63930,7 +63923,6 @@ pytest>=7.0.0
 *://www.yiper.org/*
 *://www.yixinit.com/*
 *://www.yiyisoft.com/*
-*://www.yiyult.com/*
 *://www.ylfjs.com/*
 *://www.youchuang365.com/*
 *://www.youzhanlu.com/*

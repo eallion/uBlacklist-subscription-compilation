@@ -1,4 +1,4 @@
-! Update weekly at 2026-04-21 00:50:51 +0800
+! Update weekly at 2026-04-28 01:13:20 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -1049,7 +1049,6 @@
 *://*.62az.cn/*
 *://*.62veuu.cn/*
 *://*.634001.com/*
-*://*.63458799.com/*
 *://*.63458cp.com/*
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
@@ -8657,7 +8656,6 @@
 *://*.qikan519.com/*
 *://*.qilin668.com/*
 *://*.qimei888.com/*
-*://*.qingdaosailing.com/*
 *://*.qingkeyy.com/*
 *://*.qingshi8.cn/*
 *://*.qingyunl.com/*
@@ -12062,7 +12060,6 @@
 *://*.yinyan.org/*
 *://*.yinyids.com/*
 *://*.yinzaoan.cn/*
-*://*.yinzdian.com/*
 *://*.yiper.cn/*
 *://*.yipinkirin.com/*
 *://*.yipinrong.com/*
@@ -12763,7 +12760,6 @@
 *://154.7.31.132/*
 *://155.138.230.158/*
 *://159.138.37.243/*
-*://170068.com/*
 *://18.141.160.82/*
 *://1981cn.com/*  
 *://1cm8858.com/*
@@ -13889,7 +13885,6 @@
 *://theintercept.com/*
 *://theophilechurch.com/*  
 *://therake.com/*
-*://thevpn.shop/*
 *://thewikihow.com/*
 *://thinbug.com/*
 *://tianpingzuo.xkyn.com/*
@@ -14251,7 +14246,6 @@
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
 *://www.aliyun.com/sswd/*
-*://www.aliyundjq.cn/*
 *://www.aliyunyh.com/*
 *://www.alliance-a.net/*  
 *://www.amazon.com/*
@@ -14920,7 +14914,6 @@
 *://www.liyazy.com/*
 *://www.lizigirl.com/*  
 *://www.ljyhky.com/*
-*://www.lngyy.com/*
 *://www.lnmonet.com/*
 *://www.loc.pp.ua/*
 *://www.lohine.com/*
@@ -15523,7 +15516,6 @@
 *://www.yixui.com/*
 *://www.yiyisoft.com/*
 *://www.yiytm.com/*
-*://www.yiyult.com/*
 *://www.ylfjs.com/*
 *://www.yllbx.com/*  
 *://www.ylmfwin100.com/*
