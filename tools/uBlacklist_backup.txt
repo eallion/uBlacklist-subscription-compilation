@@ -62955,7 +62955,6 @@ pytest>=7.0.0
 *://*.fonedog.com/*
 *://*.fonelab.com/*
 *://*.food-week.ru/*
-*://*.fpppw.com/*
 *://*.fr/*Q%E5%BE%AE%E5%90%8C%E5%8F%B7*
 *://*.freax.be/*
 *://*.freecodecamp.org/news/*
@@ -63096,7 +63095,6 @@ pytest>=7.0.0
 *://*.mymac.info/*
 *://*.nasge.com/*
 *://*.nhm.org/*
-*://*.nmxjp.com/*
 *://*.nokibar.com/*
 *://*.notebookcheck-cn.com/*
 *://*.nuomiphp.com/*
@@ -63567,7 +63565,6 @@ pytest>=7.0.0
 *://who-called-de.com/*
 *://windowsbulletin.com/*
 *://wntzx.cn/*
-*://workit.cc/*
 *://world.taobao.com/*
 *://wpsousuo.cn/*
 *://www.010xww.com/*
@@ -63594,7 +63591,6 @@ pytest>=7.0.0
 *://www.3gsu.com/*
 *://www.3li.cc/*
 *://www.4561234.com/*
-*://www.4k8k.xyz/*
 *://www.4pee.com/*
 *://www.511477.com/*
 *://www.513210.com/*
@@ -63678,7 +63674,6 @@ pytest>=7.0.0
 *://www.da-quan.net/*
 *://www.daihema.com/*
 *://www.dama123.com/*
-*://www.dayueng.cn/*
 *://www.ddooo.com/*
 *://www.ddpei.com/*
 *://www.debug8.com/*
@@ -63758,7 +63753,6 @@ pytest>=7.0.0
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
 *://www.lansingip.com/*
-*://www.lanzhouzaixian.cn/*
 *://www.lightspeedtrucking.com/*
 *://www.linuxboy.net/*
 *://www.linxia930.com/*
