@@ -1,4 +1,4 @@
-! Update weekly at 2026-05-05 01:18:22 +0800
+! Update weekly at 2026-05-12 01:47:14 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -2113,7 +2113,6 @@
 *://*.azhahf.com/*
 *://*.azp26eh.cn/*
 *://*.azurewebsites.net/*
-*://*.b00h.com/*
 *://*.b0dngi0.cn/*
 *://*.b0plkxe.cn/*
 *://*.b14kz8n.cn/*
