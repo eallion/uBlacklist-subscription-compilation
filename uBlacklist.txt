@@ -1,4 +1,4 @@
-! Update weekly at 2026-05-12 01:47:14 +0800
+! Update weekly at 2026-05-19 01:49:43 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -4424,7 +4424,6 @@
 *://*.ftu7hqn.cn/*
 *://*.fuatergin.buzz/*
 *://*.fubd4ur.cn/*
-*://*.fukuyama-okoku.com/*
 *://*.fuligou8.com/*
 *://*.fullbloomclub.net/*
 *://*.fullstack.cafe/*
