@@ -16,16 +16,16 @@ jobs:
     #if: github.event.repository.owner.id == github.event.sender.id
     steps:
 
-    - name: Set up Go
-      uses: actions/setup-go@v6
-      with:
-        go-version-file: 'tools/go.mod'
-
     - name: Checkout
       uses: actions/checkout@v6
       with:
         fetch-depth: 1
         submodules: true
+
+    - name: Set up Go
+      uses: actions/setup-go@v6
+      with:
+        go-version-file: 'tools/go.mod'
 
     - name: Merge txt
       run: |
