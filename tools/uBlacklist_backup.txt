@@ -16569,7 +16569,14 @@ title/.* - 小.(百科 | 知识) 网/
 *://*zh-google.org.cn/*
 *://ailegal.baidu.com/*
 *://lemon.baidu.com/*
-
+@*://*.deepseek.com/*
+@*://*.openai.com/*
+@*://*.chatgpt.com/*
+@*://*.claude.ai/*
+@*://*.perplexity.ai/*
+@*://*.copilot.microsoft.com/*
+@*://*.copilot.github.com/*
+@*://*.npmmirror.com/*
 *://www.sejuku.net/*
 *://*.stackoverrun.com/*
 *://*.stackovernet.com/*
@@ -17348,7 +17355,6 @@ pytest>=7.0.0
 *://smartme.pl/*
 *://sodocumentation.net/*
 *://stackoom.com/*
-*://stackovernet.xyz/*
 *://stackoverrun.com/*
 *://stackscn.com/*
 *://sunnews.cc/*

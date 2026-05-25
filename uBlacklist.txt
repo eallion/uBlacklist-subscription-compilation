@@ -1,4 +1,4 @@
-! Update weekly at 2026-05-19 01:49:43 +0800
+! Update weekly at 2026-05-25 17:15:13 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -13832,7 +13832,6 @@
 *://stackguides.com/*
 *://stackoom.com/*
 *://stackovergo.com/*
-*://stackovernet.xyz/*
 *://stackoverrun.com/*
 *://stackscn.com/*
 *://stancil.dianaypablo.es/*  
@@ -23283,10 +23282,18 @@
 9wxs.com
 9yyu.com
 @*://*.aws.amazon.com/*
+@*://*.chatgpt.com/*
+@*://*.claude.ai/*
+@*://*.copilot.github.com/*
+@*://*.copilot.microsoft.com/*
+@*://*.deepseek.com/*
 @*://*.edu.cn/*
 @*://*.edu/*
 @*://*.gov.cn/*
 @*://*.joyk.com/*
+@*://*.npmmirror.com/*
+@*://*.openai.com/*
+@*://*.perplexity.ai/*
 @*://*.tspweb.com/*
 @*://answers.microsoft.com/*
 @*://www.landiannews.com/*
