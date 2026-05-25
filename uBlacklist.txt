@@ -1,4 +1,4 @@
-! Update weekly at 2026-05-25 17:15:13 +0800
+! Update weekly at 2026-05-25 17:22:59 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -27488,7 +27488,8 @@ zzhesheng.com
 zzjwcf.com
 zzun.app
 zzyyo.com
-​https://www.koubeiblog.com/pglang/9a3d4fa4e0b064385d433238bbd6d5ad.html@*://*.zhihu.com/* 
+​https://www.koubeiblog.com/pglang/9a3d4fa4e0b064385d433238bbd6d5ad.html
+@*://*.zhihu.com/* 
 @*://*.google.com/* 
 @*://*.369369.xyz/* 
 @*://*.baiyun-hotel.com/*
@@ -27504,3 +27505,11 @@ zzyyo.com
 @*://chatgpt.com/*
 @*://*.reddit.com/*
 @*://huggingface.co/*
+@*://*.deepseek.com/*
+@*://*.openai.com/*
+@*://*.chatgpt.com/*
+@*://*.claude.ai/*
+@*://*.perplexity.ai/*
+@*://*.copilot.microsoft.com/*
+@*://*.copilot.github.com/*
+@*://*.npmmirror.com/*
