@@ -23,23 +23,24 @@
 
 此扩展支持以下搜索引擎。
 
+<!-- prettier-ignore-start -->
+
 |              | 网页               | 图片               | 视频               | 新闻               |
 | ------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 | Google       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Bing         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Brave \*3    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Brave        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | DuckDuckGo   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Ecosia       | :heavy_check_mark: |                    |                    |                    |
+| Ecosia       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Kagi         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Qwant        | :heavy_check_mark: | :heavy_check_mark: | \*1                | :heavy_check_mark: |
-| SearX \*2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Startpage    | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
-| Yahoo! JAPAN | :heavy_check_mark: |                    |                    |                    |
-| Yandex       | :heavy_check_mark: |                    |                    |                    |
+| SearXNG      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Startpage    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Yahoo! JAPAN | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
+| Yandex       | :heavy_check_mark: |                    | :heavy_check_mark: |                    |
 
-\*1 仅当 "Always play videos on Qwant.com" 关闭时。<br>
-\*2 仅支持某些公共实例，如果您想将自己的 SearX/SearXNG 添加到支持列表，你需要前往`src/common/search-engines.ts`，并手动将您的搜索引擎添加到列表中，然后手动进行构建。<br>
-\*3 由于获取图片链接的完整 URL 有困难，此扩展在 Brave 图片搜索上不支持子域名屏蔽。（例如，如果链接指向 `www.example.com`，扩展会屏蔽整个 `example.com`。）
+<!-- prettier-ignore-end -->
+
+没有计划提供额外的内置搜索引擎支持。您可以使用 [SERPINFO](https://ublacklist.github.io/docs/serpinfo) 自行添加对任何搜索引擎的支持。
 
 ### 用法
 
