@@ -14,3 +14,11 @@
 @*://chatgpt.com/*
 @*://*.reddit.com/*
 @*://huggingface.co/*
+@*://*.deepseek.com/*
+@*://*.openai.com/*
+@*://*.chatgpt.com/*
+@*://*.claude.ai/*
+@*://*.perplexity.ai/*
+@*://*.copilot.microsoft.com/*
+@*://*.copilot.github.com/*
+@*://*.npmmirror.com/*

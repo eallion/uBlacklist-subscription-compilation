@@ -66,7 +66,7 @@ jobs:
         # 删除以 ! 开头的行
         sed -i '/^!/d' uBlacklist.txt
 
-        cat tools/reverse_url >> uBlacklist.txt
+        echo "" >> uBlacklist.txt && cat tools/reverse_url >> uBlacklist.txt
 
         # 添加时间
         sed -i "1i\! Update weekly at $(TZ=UTC-8 date +'%Y-%m-%d %T %z')" uBlacklist.txt
