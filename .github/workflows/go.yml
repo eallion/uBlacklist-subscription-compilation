@@ -26,6 +26,7 @@ jobs:
       uses: actions/setup-go@v6
       with:
         go-version-file: 'tools/go.mod'
+        cache: false
 
     - name: Merge txt
       run: |
