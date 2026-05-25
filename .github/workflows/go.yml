@@ -17,12 +17,12 @@ jobs:
     steps:
 
     - name: Set up Go
-      uses: actions/setup-go@v5
+      uses: actions/setup-go@v6
       with:
         go-version: '>=1.17.0'
 
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         fetch-depth: 1
         submodules: true
@@ -80,7 +80,7 @@ jobs:
         echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV
 
     - name: Commit files
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v10
       with:
         message: "ci(build): update weekly at ${{ env.CURRENT_TIME }}"
         committer_name: 'github-actions[bot]'
