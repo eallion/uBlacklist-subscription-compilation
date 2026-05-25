@@ -19,7 +19,7 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@v6
       with:
-        go-version: '>=1.17.0'
+        go-version-file: 'tools/go.mod'
 
     - name: Checkout
       uses: actions/checkout@v6
@@ -56,23 +56,19 @@ jobs:
         cd tools
         mv uBlacklist uBlacklist.txt
         go run main.go
-        cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
         cd ..
 
-        # 删除以 # 开头的行
+        # 删除注释行和空行
         sed -i '/^#/d' uBlacklist.txt
-
-        # 删除以 ! 开头的行
         sed -i '/^!/d' uBlacklist.txt
-
-        echo "" >> uBlacklist.txt && cat tools/reverse_url >> uBlacklist.txt
-
-        # 添加时间
-        sed -i "1i\! Update weekly at $(TZ=UTC-8 date +'%Y-%m-%d %T %z')" uBlacklist.txt
-
-        # 去除空行
         sed -i '/^$/d' uBlacklist.txt
+
+        # 追加白名单
+        cat tools/reverse_url >> uBlacklist.txt
+
+        # 添加时间（uBlacklist 标准注释）
+        sed -i "1i\! Last modified: $(TZ=UTC-8 date +'%Y-%m-%d %T %z')" uBlacklist.txt
 
         ln -s uBlacklist.txt uBlocklist.txt
         
