@@ -1,4 +1,4 @@
-! Last modified: 2026-05-26 01:26:31 +0800
+! Last modified: 2026-06-02 04:07:55 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -2645,7 +2645,6 @@
 *://*.calyxcare.buzz/*
 *://*.cameralyze.co/*
 *://*.cameron-a-reviews.com/*
-*://*.camlya.com/*
 *://*.campuslifeline.buzz/*
 *://*.cancer0086.com/*
 *://*.candhdistributors.buzz/*
@@ -2792,7 +2791,6 @@
 *://*.chatsimple.ai/*
 *://*.chattaboo.com/*
 *://*.chazuonet.com/*
-*://*.chcpd.com/*
 *://*.cheap-smoke.buzz/*
 *://*.cheapaprtments.buzz/*
 *://*.cheapnft.art/*
@@ -6229,7 +6227,6 @@
 *://*.juejin.cn/s/*
 *://*.juejinka.com/*
 *://*.jugomobile.com/*
-*://*.juhebbs.com/*
 *://*.jukangsw.com/*
 *://*.julindrarecycling.com/*
 *://*.julius.ai/*
