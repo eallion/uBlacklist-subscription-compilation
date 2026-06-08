@@ -61500,7 +61500,6 @@ title/.*一键访问国外网站/
 *://book.jd.com/publish/Search?*
 *://brd2a.com/*
 *://briteming.blogspot.com/*
-*://brrmn.com/*
 *://bug200.com/*
 *://bynss.com/*
 *://c.lanmit.com/*
@@ -61565,7 +61564,6 @@ title/.*一键访问国外网站/
 *://it.wenda123.org/*
 *://item.jd.com/*
 *://itigic.com/*
-*://jhsjtxx.com/*
 *://jinan110.com/*
 *://js.wszjl.com/*
 *://jump2.bdimg.com/*

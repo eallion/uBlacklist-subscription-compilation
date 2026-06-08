@@ -1,4 +1,4 @@
-! Last modified: 2026-06-02 04:07:55 +0800
+! Last modified: 2026-06-09 02:15:42 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -12930,7 +12930,6 @@
 *://brd2a.com/*
 *://briteming.blogspot.com/*
 *://broadas.com/*
-*://brrmn.com/*
 *://brwhn.com/*
 *://bryanalders.com/*
 *://bsc.by/*  
@@ -13340,7 +13339,6 @@
 *://jd.hooos.com/*
 *://jdd10037.s.qswgyz.com/*
 *://jdzl.v3ng.de/*
-*://jhsjtxx.com/*
 *://jiaoqiubifenchaxun.wfleishi.com/
 *://jiashigz.com/*  
 *://jiehunliwu.9tu9.com/*
