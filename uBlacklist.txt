@@ -1,4 +1,4 @@
-! Last modified: 2026-06-09 02:15:42 +0800
+! Last modified: 2026-06-16 03:35:28 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -2107,7 +2107,6 @@
 *://*.ayrxwz.com/*
 *://*.aytx999.com/*
 *://*.ayustyle.com/*
-*://*.ayxbwy.com/*
 *://*.az88mqq.cn/*
 *://*.azfx.cc/*
 *://*.azhahf.com/*
@@ -2481,7 +2480,6 @@
 *://*.boe4ayz.cn/*
 *://*.bohaijixie.com/*
 *://*.bohao5266.cn/*
-*://*.bohlsenpr.com/*
 *://*.boilgame.com/*
 *://*.bokeehome.cn/*
 *://*.bolangwan.com/*
@@ -4710,7 +4708,6 @@
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
-*://*.gldq123.com/*
 *://*.glehe.com/*
 *://*.glen.cn/*
 *://*.glh5770.com/*
@@ -7854,7 +7851,6 @@
 *://*.oasisbanquet.buzz/*
 *://*.oayjgxt.cn/*
 *://*.oaz7k8r.cn/*
-*://*.obagua.com/*
 *://*.obeqhdy.cn/*
 *://*.obftzgh.cn/*
 *://*.objetspubricard.buzz/*
@@ -15133,7 +15129,6 @@
 *://www.ruan8.com/*
 *://www.rui-bang.com/*  
 *://www.ruiwen.com/*
-*://www.runsem.com/*
 *://www.ruten.com.tw/*
 *://www.sahrabar.com/*  
 *://www.sangyu168.com/*
@@ -15265,7 +15260,6 @@
 *://www.techhubonline.com/*
 *://www.tee-verkauf.buzz/*
 *://www.tefen.com/*  
-*://www.teipy.com/*
 *://www.tfdkt.com/*  
 *://www.tgidrinks.com/*
 *://www.thaipublica.org/*  
@@ -15392,7 +15386,6 @@
 *://www.win10xiazai.com/*
 *://www.winway99.com/
 *://www.wispypages.com/*  
-*://www.witdroid.com/*
 *://www.wjazj.com/*  
 *://www.wlhgj.com/*  
 *://www.wlspgs.com/*  
