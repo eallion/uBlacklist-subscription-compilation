@@ -1831,6 +1831,7 @@
 
 /shutterstock\.com\/.*(image-generated|generated-by-ai|ai-image-generator|image_type=generated)/
 
+*://ima.qq.com/create/*
 *://goods.taobao.com/*
 *://*.eyewated.com/*
 *://www.8682.cc/*
@@ -2324,7 +2325,6 @@
 *://*.youduoxi.com/*
 *://*.youeryu.com/*
 *://*.youwuqiong.top/*
-*://*.yujiedh.xyz/*
 *://*.yunweipai.com/*
 *://*.yunyiinvestment.com/*
 *://*.yyfensi.com/*
