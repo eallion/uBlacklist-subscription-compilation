@@ -2057,7 +2057,6 @@
 *://*.itranslater.com/*
 *://*.itread01.com/*
 *://*.ixigua.com/*
-*://*.javaroad.cn/*
 *://*.javashuo.com/*
 *://*.jb51.net/*
 *://*.jdon.com/*
@@ -2150,7 +2149,6 @@
 *://*.piqiuda.com/*
 *://*.pixelprivacy.com/*
 *://*.py.cn/*
-*://*.pyn9.com/*
 *://*.pythontechworld.com/*
 *://*.qciss.net/*
 *://*.qdcypf.com/*
@@ -2284,7 +2282,6 @@
 *://*.website-problem.info/*
 *://*.websiterating.com/*
 *://*.weibo.com/a/hot/*
-*://*.wenbf.com/*
 *://*.westack.live/*
 *://*.whoisua.com/*
 *://*.widede.com/*
@@ -2443,7 +2440,6 @@
 *://herexjabar.over-blog.com/*
 *://hk.uwenku.com/*
 *://homiemall.com/*
-*://hz-heng-li.com/*
 *://hzhcontrols.com/*
 *://iask.sina.com.cn/*
 *://iknow.baidu.com/search?word=*

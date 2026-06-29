@@ -1,4 +1,4 @@
-! Last modified: 2026-06-23 03:00:55 +0800
+! Last modified: 2026-06-30 02:01:31 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -8511,7 +8511,6 @@
 *://*.pyk696.com/*
 *://*.pyk868.com/*
 *://*.pyn889.com/*
-*://*.pyn9.com/*
 *://*.pyquestions.com/*
 *://*.python-stack.de/*
 *://*.python.engineering/*
@@ -13270,7 +13269,6 @@
 *://hwl.pornl.co/*
 *://hxcm576.com/*  
 *://hyznkj.com/*
-*://hz-heng-li.com/*
 *://hzhanshu.com/*
 *://hzhcontrols.com/*
 *://hzhjjx.com/*
