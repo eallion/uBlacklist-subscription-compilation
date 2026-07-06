@@ -1,4 +1,4 @@
-! Last modified: 2026-06-30 02:01:31 +0800
+! Last modified: 2026-07-07 02:01:48 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -10462,7 +10462,6 @@
 *://*.tomatoesweb.com/*
 *://*.tomcat.org.cn/*
 *://*.toms2013.com/*
-*://*.tomzx.com/*
 *://*.tongbu.com/*
 *://*.tongfengqu.com/*
 *://*.tonghejiu.com/*
@@ -14230,7 +14229,6 @@
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
 *://www.aliyun.com/sswd/*
-*://www.aliyunyh.com/*
 *://www.alliance-a.net/*  
 *://www.amazon.com/*
 *://www.amcpp.com/*

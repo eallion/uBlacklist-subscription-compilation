@@ -2234,7 +2234,6 @@
 *://*.tintsoft.com/*
 *://*.tipsandtricks.tech/*
 *://*.todohealth.com/*
-*://*.tomzx.com/*
 *://*.tongbu.com/*
 *://*.topvpnguides.com/*
 *://*.toutiao.com/keyword/*
@@ -2638,7 +2637,6 @@
 *://www.aiskycn.com/*
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
-*://www.aliyunyh.com/*
 *://www.amcpp.com/*
 *://www.amhnn.com/*
 *://www.ancii.com/*
