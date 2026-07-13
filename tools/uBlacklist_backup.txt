@@ -1920,7 +1920,6 @@
 *://*.cache.one/*
 *://*.ccvic.com/*
 *://*.ceyicm.cn/*
-*://*.chattaboo.com/*
 *://*.china.cn/*
 *://*.china2uk.com/*
 *://*.cjavapy.com/*
@@ -2583,7 +2582,6 @@
 *://wemp.app/*
 *://who-called-de.com/*
 *://windowsbulletin.com/*
-*://wntzx.cn/*
 *://world.taobao.com/*
 *://wpsousuo.cn/*
 *://www.010xww.com/*
@@ -2876,7 +2874,6 @@
 *://www.tiandynasty.cn/*
 *://www.tl80.cn/*
 *://www.tmall.com/*
-*://www.tonganw.com/*
 *://www.tongfengqu.com/*
 *://www.tpyyes.com/*
 *://www.trust1688.com/*
