@@ -1,4 +1,4 @@
-! Last modified: 2026-07-14 01:46:39 +0800
+! Last modified: 2026-07-21 01:14:37 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -1479,7 +1479,6 @@
 *://*.aaamhh.com/*
 *://*.aaggob.cn/*
 *://*.aaiv.net/*
-*://*.aalahty.cn/*
 *://*.aalaicc.com/*
 *://*.aasou.cc/*
 *://*.abadisurvey.com/*
@@ -3234,7 +3233,6 @@
 *://*.cxygjd.com/*
 *://*.cxymm.net/*
 *://*.cxyread.cc/*
-*://*.cxywk.com/*
 *://*.cxyy0429.cn/*
 *://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
@@ -6538,7 +6536,6 @@
 *://*.kukasc.com/*
 *://*.kundelu.cn/*
 *://*.kunpengjy.cn/*
-*://*.kunyuyuan.com/*
 *://*.kupaosuda.com/*
 *://*.kupid.ai/*
 *://*.kuqistudio.com/*
