@@ -1,4 +1,4 @@
-! Last modified: 2026-07-21 01:14:37 +0800
+! Last modified: 2026-07-28 01:26:10 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -973,7 +973,6 @@
 *://*.586nwh.cn/*
 *://*.588c2ts.cn/*
 *://*.58efu.com/*
-*://*.58hengqi.com/*
 *://*.58huangye.com/*
 *://*.58minglu.cn/*
 *://*.58pan.cn/*
@@ -9401,7 +9400,6 @@
 *://*.sduqyxv.cn/*
 *://*.sdwanbo.com/*
 *://*.sdxinjia.com/*
-*://*.sdxinli.org/*
 *://*.sdxlturbo.ai/*
 *://*.sdyujinji.com/*
 *://*.sdzbyzjx.com/*
@@ -9869,7 +9867,6 @@
 *://*.sqp.buzz/*
 *://*.squadguide.net/*
 *://*.sqwudong.com/*
-*://*.sqzlsy.cn/*
 *://*.sr-sc.com/*
 *://*.sr0csj.cn/*
 *://*.sr0lsgr.cn/*
@@ -14108,7 +14105,6 @@
 *://www.52wbt.com/*
 *://www.5339901.com/*
 *://www.5339902.com/*
-*://www.54jqr.com/*
 *://www.5577.com/*
 *://www.55jf.com/*
 *://www.55wenda.top/*
@@ -15058,7 +15054,6 @@
 *://www.pe0573.com/*
 *://www.peanutmidwest.com/*  
 *://www.pesyz.com/*  
-*://www.phoenixups.com/*
 *://www.pianshen.com/*
 *://www.picciutofamily.buzz/*  
 *://www.piemidia.com/*  
@@ -15098,7 +15093,6 @@
 *://www.qqtn.com/*
 *://www.qqxmail.com/*
 *://www.qt6.com/*
-*://www.qtcamp.com/*
 *://www.qu02.com/*
 *://www.quanmaimai.com/*
 *://www.quanmama.com/*
@@ -15109,7 +15103,6 @@
 *://www.qxqpw.net/*
 *://www.qyqyxx.com/*  
 *://www.qyxychem.com/*  
-*://www.r41z.com/*
 *://www.rcmdc.com.ua/*  
 *://www.rcmingliu.com/*  
 *://www.rejoiceblog.com/*
@@ -15608,7 +15601,6 @@
 *://wxzjmy.com/*
 *://wyfx.cc/*
 *://x1rdl.com/*  
-*://x4x2.com/*
 *://xbeibeix.com/*
 *://xbto.cc/*
 *://xbuba.com/questions/*
