@@ -2665,7 +2665,6 @@ pytest>=7.0.0
 *://*.bangjun168.com/*
 *://*.barber-klipp.com/*
 *://*.bbjkw.net/*
-*://*.bbsah.com/*
 *://*.beeeup.com/*
 *://*.bit86.cn/*
 *://*.bitwarsoft.com/*
@@ -3086,7 +3085,6 @@ pytest>=7.0.0
 *://*.zhifure.com/*
 *://*.zhizhiguan.com/*
 *://*.zhuji.gd/*
-*://*.zjzmxny.com/*
 *://*.zmmoo.com/*
 *://*.znj.com/*
 *://*.znsjw.com/*
@@ -3390,7 +3388,6 @@ pytest>=7.0.0
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
 *://www.amcpp.com/*
-*://www.amhnn.com/*
 *://www.ancii.com/*
 *://www.anfensi.com/*
 *://www.anhuilife.com/*
@@ -3407,7 +3404,6 @@ pytest>=7.0.0
 *://www.bifengo.com/*
 *://www.bitedie.com/*
 *://www.blockvalue.com/*
-*://www.bobofun.com/*
 *://www.bokcms.com/*
 *://www.bugzj.com/*
 *://www.bunian.cn/*
@@ -3490,7 +3486,6 @@ pytest>=7.0.0
 *://www.hello.so/*
 *://www.helplib.cn/*
 *://www.hisour.com/*
-*://www.histrend.hk/*
 *://www.hotbak.net/*
 *://www.hq396.com/*
 *://www.hsjl5821808.com/*
@@ -3606,7 +3601,6 @@ pytest>=7.0.0
 *://www.simpletense.com/*
 *://www.simpletense.org/*
 *://www.sldfc.cn/*
-*://www.smpchome.com/*
 *://www.sociablelabs.com/*
 *://www.sohu.com/a/*
 *://www.sojson.com/blog/*
@@ -3703,7 +3697,6 @@ pytest>=7.0.0
 *://www.zou114.net/*
 *://www.zrahh.com/*
 *://www.zybashi.com/*
-*://www.zzchenhui.com/*
 *://xsyfs.com/*
 *://xuexi.zqnf.com/*
 *://xunii.com/*
