@@ -1,4 +1,4 @@
-! Last modified: 2026-08-04 01:38:24 +0800
+! Last modified: 2026-08-11 00:39:57 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -5231,7 +5231,6 @@
 *://*.hkecard.com/*
 *://*.hkedu.sh.cn/*
 *://*.hkhvd.com/*
-*://*.hkk666.com/*
 *://*.hkltu73.cn/*
 *://*.hkprimus.com/*
 *://*.hkq098t.cn/*
@@ -9148,7 +9147,6 @@
 *://*.roemi.cn/*
 *://*.roism.cn/*
 *://*.roldanmc.buzz/*
-*://*.rollingfhr.xyz/*
 *://*.rollingfxs.com/*
 *://*.romancestop.buzz/*
 *://*.romankos.art/*
@@ -13292,7 +13290,6 @@
 *://instalatorkrosno.pl/*
 *://intellipaat.com/*
 *://investfundhjl.web.app/*
-*://io04.com/*
 *://iphone.apkpure.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://iquestion.pro/*
@@ -14915,7 +14912,6 @@
 *://www.mamaza.com/*
 *://www.manew.com/*
 *://www.manongzj.com/  
-*://www.maoyidan.com/*
 *://www.mapxl.buzz/*
 *://www.matbakhe.com/*
 *://www.matbakhe.com/*  
@@ -14951,7 +14947,6 @@
 *://www.mofish.work/*
 *://www.mojaladja.com/*  
 *://www.monamotors.com/*
-*://www.moneytlk.com/*
 *://www.moon811.com/*  
 *://www.moulin-larroque.com/*
 *://www.movervip.com/*
@@ -15345,7 +15340,6 @@
 *://www.web-dev-qa-db-ja.com/*
 *://www.web-dev-qa-db-pt.com/*
 *://www.web-dev-qa.com/*
-*://www.webplus.org.cn/*
 *://www.wedoawards.com/*  
 *://www.weiboroom.com/*  
 *://www.weidik.com/*

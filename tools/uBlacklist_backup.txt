@@ -2778,7 +2778,6 @@ pytest>=7.0.0
 *://*.helloworldkb.com/*
 *://*.helplib.com/*
 *://*.heyloadsmmkr.ru.com/*
-*://*.hkk666.com/*
 *://*.hnce.org/*
 *://*.hnfangkeyi.com/*
 *://*.homedo.com/*
@@ -2926,7 +2925,6 @@ pytest>=7.0.0
 *://*.reneelab.net/*
 *://*.repinku.com/*
 *://*.rocketdrivers.com/*
-*://*.rollingfhr.xyz/*
 *://*.rtxmail.net/*
 *://*.rukomos.ru/*
 *://*.safetydetectives.com/*
@@ -3196,7 +3194,6 @@ pytest>=7.0.0
 *://iknow.baidu.com/search?word=*
 *://ilvruan.com/*
 *://investfundhjl.web.app/*
-*://io04.com/*
 *://it.wenda123.org/*
 *://item.jd.com/*
 *://itigic.com/*
@@ -3530,14 +3527,12 @@ pytest>=7.0.0
 *://www.macaodaily.com/*
 *://www.mail-qq.com/*
 *://www.maill.com.cn/*
-*://www.maoyidan.com/*
 *://www.miaoshoulu.net/*
 *://www.miliol.org/*
 *://www.mintcx.com/*
 *://www.mintwl.com/*
 *://www.mlook.mobi/*
 *://www.mofish.work/*
-*://www.moneytlk.com/*
 *://www.mscto.com/*
 *://www.muzijie.com/*
 *://www.mxj.com.cn/*
@@ -3639,7 +3634,6 @@ pytest>=7.0.0
 *://www.vpsmr.com/*
 *://www.wailaike.net/*
 *://www.waxyz.cn/*
-*://www.webplus.org.cn/*
 *://www.weiyoou8.com/*
 *://www.wenxuecity.com/*
 *://www.west.cn/docs/*
