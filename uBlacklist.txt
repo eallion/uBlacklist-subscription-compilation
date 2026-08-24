@@ -1,4 +1,4 @@
-! Last modified: 2026-08-18 00:12:40 +0800
+! Last modified: 2026-08-25 00:20:54 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -14436,7 +14436,6 @@
 *://www.czzxtl.com/*  
 *://www.da-quan.net/*
 *://www.daihema.com/*
-*://www.dama123.com/*
 *://www.daoxinju.com/*  
 *://www.dapaizixun.com/*
 *://www.daquandaquan.com/*
@@ -14447,7 +14446,6 @@
 *://www.dcep676.com/*  
 *://www.dcwqt.com/*
 *://www.ddhyl.cn/*
-*://www.ddooo.com/*
 *://www.ddpei.com/*
 *://www.ddvweb.com/*
 *://www.dealmoon.com/*
