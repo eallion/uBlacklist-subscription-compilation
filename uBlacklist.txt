@@ -1,4 +1,4 @@
-! Last modified: 2026-08-25 00:20:54 +0800
+! Last modified: 2026-09-01 05:09:19 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -9937,7 +9937,6 @@
 *://*.starbytecomputers.com/*
 *://*.starryai.com/*
 *://*.state-savings.buzz/*
-*://*.statestpizza.com/*
 *://*.static.hlt.bme.hu/*
 *://*.stayhomebiz.buzz/*
 *://*.stclairsupply.buzz/*
@@ -12989,7 +12988,6 @@
 *://concienciaplena.es/*  
 *://condition.pw/*
 *://cont.jd.com/*
-*://contactnumbers.buzz/*
 *://copyfuture.com/*
 *://copyprogramming.com/*
 *://cost.pw/*
@@ -13418,7 +13416,6 @@
 *://llsc.mikeprange.de/*
 *://lojp.spiegleinportal.de/*
 *://longjin-art.com/*
-*://looknews.cc/*
 *://lopeninnederland.nl/*
 *://lovelycxy.com/*  
 *://lpgit.com/*
@@ -13481,7 +13478,6 @@
 *://m.qu99.com/*
 *://m.quanmama.com/*
 *://m.quyouhou.com/*
-*://m.qzjlw.com.cn/*
 *://m.rufengso.net/*
 *://m.shbingluo.com/*
 *://m.sichuanxiaochi123.com/*
@@ -13980,7 +13976,6 @@
 *://wncwebsolutions.com/*
 *://world.taobao.com/*
 *://wospxi.com/*  
-*://wpsousuo.cn/*
 *://wqzx.cc/*
 *://wsao.kerstinraphahn.de/*
 *://wsearch.cc/*
@@ -14839,7 +14834,6 @@
 *://www.laitimes.com/*  
 *://www.lalouve.buzz/*
 *://www.lanh1.com/*
-*://www.lansingip.com/*
 *://www.lanzhouyangsheng.com/*
 *://www.laocuold.com/*  
 *://www.laodnf.com/*
