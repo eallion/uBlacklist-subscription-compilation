@@ -1,4 +1,4 @@
-! Last modified: 2026-09-01 05:09:19 +0800
+! Last modified: 2026-09-08 03:27:15 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -10370,7 +10370,6 @@
 *://*.tianyusky.cn/*
 *://*.tiaokan.info/*
 *://*.tibet-internal.buzz/*
-*://*.tidewaterschool.org/*
 *://*.tierre-laser.buzz/*
 *://*.tigotool.com/*
 *://*.tigresounds.com/*
