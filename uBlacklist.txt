@@ -1,4 +1,4 @@
-! Last modified: 2026-09-08 03:27:15 +0800
+! Last modified: 2026-09-15 03:58:44 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -1947,7 +1947,6 @@
 *://*.apuestas21.buzz/*
 *://*.apyequan.com/*
 *://*.aqbbb.com/*
-*://*.aqmdjx.com/*
 *://*.aqtt.cc/*
 *://*.aquacool-gaffney.buzz/*
 *://*.aquariumfishsource.com/*
@@ -14881,7 +14880,6 @@
 *://www.luocige.com/*
 *://www.lutonjixie.com/*  
 *://www.lvbschool.com/*  
-*://www.lvyou5.net/*
 *://www.lwesedu.com/*  
 *://www.lxiaoyu.com/*
 *://www.lxws.net/*

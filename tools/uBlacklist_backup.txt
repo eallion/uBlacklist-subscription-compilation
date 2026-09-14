@@ -56171,7 +56171,6 @@ title/(视频去哪了呢)/
 *://*.anyviewer.com/*
 *://*.appspot.com/*
 *://*.appuals.com/*
-*://*.aqmdjx.com/*
 *://*.artibilim.com/*
 *://*.asklobster.com/*
 *://*.assignmenter.com/*
@@ -57028,7 +57027,6 @@ title/(视频去哪了呢)/
 *://www.loc.pp.ua/*
 *://www.lohine.com/*
 *://www.lunwentop.net/*
-*://www.lvyou5.net/*
 *://www.lxws.net/*
 *://www.lzbxgmjj.com/*
 *://www.macaodaily.com/*
