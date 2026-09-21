@@ -56506,7 +56506,6 @@ title/(视频去哪了呢)/
 *://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
 *://*.toutiao.io/*
-*://*.touyinghome.com/*
 *://*.tpyyes.com/*
 *://*.tspweb.com/*
 *://*.tumblr.com/*
@@ -56591,7 +56590,6 @@ title/(视频去哪了呢)/
 *://*.za.com/*
 *://*.zaoyouxi.com/*
 *://*.zditect.com/*
-*://*.zglangying.com/*
 *://*.zgserver.com/*
 *://*.zhifure.com/*
 *://*.zhizhiguan.com/*
@@ -56840,7 +56838,6 @@ title/(视频去哪了呢)/
 *://weekly-geekly-es.imtqy.com/*
 *://wefan.baidu.com/*
 *://wemp.app/*
-*://who-called-de.com/*
 *://windowsbulletin.com/*
 *://world.taobao.com/*
 *://www.010xww.com/*
@@ -57095,7 +57092,6 @@ title/(视频去哪了呢)/
 *://www.shbjbwx.com/*
 *://www.shoudian.org/*
 *://www.shuoshuokong.com/*
-*://www.shuzhiduo.com/*
 *://www.shxmtech.com/*
 *://www.shxy888.com/*
 *://www.simpletense.com/*

@@ -1,4 +1,4 @@
-! Last modified: 2026-09-15 03:58:44 +0800
+! Last modified: 2026-09-22 04:09:13 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -12392,7 +12392,6 @@
 *://*.zgjkshh.com/*
 *://*.zgkssjw.com/*
 *://*.zgky7.com/*
-*://*.zglangying.com/*
 *://*.zgnzwzzgys.com/*
 *://*.zgouman.com/*
 *://*.zgregwu.cn/*
@@ -13964,7 +13963,6 @@
 *://whdpp.com/*
 *://whdpp.com/*  
 *://whjnrj.com/*
-*://who-called-de.com/*
 *://whpc.cc/*
 *://wiki-tech.net/*
 *://windowsbulletin.com/*
