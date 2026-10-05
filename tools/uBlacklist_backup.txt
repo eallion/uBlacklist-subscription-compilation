@@ -22113,7 +22113,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.51xuexiaoyi.com/*
 *://*.521cc.com/*
 *://*.52sbl.cn/*
-*://*.54site.com/*
 *://*.61655.app/*
 *://*.8848hr.com/*
 *://*.91wuxi.com/*
@@ -22279,7 +22278,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.hxkj.net/*
 *://*.hzhaochengji.com/*
 *://*.icode.best/*
-*://*.icp-bbs.com/*
 *://*.ids-water.com/*
 *://*.igiftidea.com/*
 *://*.iizhao.com/*
@@ -22465,7 +22463,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.theastrologypage.com/*
 *://*.thrivemyway.com/*
 *://*.tintsoft.com/*
-*://*.tipsandtricks.tech/*
 *://*.todohealth.com/*
 *://*.tongbu.com/*
 *://*.topvpnguides.com/*
@@ -22612,7 +22609,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://book.jd.com/publish/Search?*
 *://brd2a.com/*
 *://briteming.blogspot.com/*
-*://bug200.com/*
 *://bynss.com/*
 *://c.lanmit.com/*
 *://call886.com/*
@@ -22673,7 +22669,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://it.wenda123.org/*
 *://item.jd.com/*
 *://itigic.com/*
-*://jinan110.com/*
 *://js.wszjl.com/*
 *://jump2.bdimg.com/*
 *://jutuilian.com/*
@@ -22826,7 +22821,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.360doc.com/*
 *://www.360kuai.com/*
 *://www.39qq.com/*
-*://www.3gsu.com/*
 *://www.3li.cc/*
 *://www.4561234.com/*
 *://www.4pee.com/*
@@ -22888,7 +22882,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.chhh.com/*
 *://www.chinawenwang.com/*
 *://www.cnblogs.com/sysin/*
-*://www.cnshhbs.com/*
 *://www.cocoachina.com/*
 *://www.codegrepper.com/*
 *://www.codeleading.com/*
@@ -22907,7 +22900,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.czgeek.com/*
 *://www.da-quan.net/*
 *://www.daihema.com/*
-*://www.ddpei.com/*
 *://www.debug8.com/*
 *://www.diannaoxianka.com/*
 *://www.dianping.com/*
@@ -22975,7 +22967,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.jaxno.com/*
 *://www.jd.com/*
 *://www.jiemengla.com/*
-*://www.jinan110.com/*
 *://www.jiyifa.com/*
 *://www.jmiaoyz106.com/*
 *://www.jsxbbyq.com/*
