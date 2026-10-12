@@ -22099,7 +22099,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://*.2maka.com/*
 *://*.2qun.net/*
 *://*.300m-team.com/*
-*://*.33376.xyz/*
 *://*.33lc.org/*
 *://*.361shipin.com/*
 *://*.361t.org/*
@@ -22876,7 +22875,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.captainbed.net/*
 *://www.carousell.com.hk/*
 *://www.cbedai.net/*
-*://www.cctsuzhou.cn/*
 *://www.chaoju.com/*
 *://www.chepinnet.com/*
 *://www.chhh.com/*
@@ -23113,7 +23111,6 @@ duckduckgo.com##.tile--img__sub[href^="https://copyprogramming.com/"]:upward(.ti
 *://www.xpj665577.com/*
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
-*://www.xtfeed.cn/*
 *://www.xyyhs.net/*
 *://www.xz7.com/*
 *://www.y5.hk/*
