@@ -1,4 +1,4 @@
-! Last modified: 2026-10-13 06:38:02 +0800
+! Last modified: 2026-10-20 04:45:59 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -545,7 +545,6 @@
 *://*.2q0df4z.cn/*
 *://*.2q1y09w.cn/*
 *://*.2qn7td3.cn/*
-*://*.2qun.net/*
 *://*.2renduobao.com/*
 *://*.2ry0oym.cn/*
 *://*.2tmfvwk.cn/*
@@ -585,7 +584,6 @@
 *://*.33104.cn/*
 *://*.332gd.cn/*
 *://*.3383927.cn/*
-*://*.33lc.org/*
 *://*.33spa.com/*
 *://*.33tr5f.cn/*
 *://*.3407001.com/*
@@ -8211,7 +8209,6 @@
 *://*.pipecraft.net/*
 *://*.pipio.ai/*
 *://*.pipitoy.com/*
-*://*.piqiuda.com/*
 *://*.pitalitobicentenario.com/*
 *://*.pitlochrygolfclub.buzz/*
 *://*.piwnb1x.cn/*
@@ -14069,7 +14066,6 @@
 *://www.4dgarch.buzz/*
 *://www.4k8k.xyz/*
 *://www.4kcw.com/*  
-*://www.4pee.com/*
 *://www.511477.com/*
 *://www.513210.com/*
 *://www.5175011.com/*
