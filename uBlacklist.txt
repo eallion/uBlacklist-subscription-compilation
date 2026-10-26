@@ -1,4 +1,4 @@
-! Last modified: 2026-10-20 04:45:59 +0800
+! Last modified: 2026-10-27 04:46:58 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -11236,7 +11236,6 @@
 *://*.whythealgarve.com/*
 *://*.whytryai.com/*
 *://*.whyzbr.com/*
-*://*.widede.com/*
 *://*.wienfm.com/*
 *://*.wifijy.com/*
 *://*.wihvf3.cn/*
@@ -15407,7 +15406,6 @@
 *://www.xycklm.com/*
 *://www.xyj321.com/*
 *://www.xytuwen.com/*
-*://www.xyyhs.net/*
 *://www.xz7.com/*
 *://www.xzxzc.com/*
 *://www.y5.hk/*
