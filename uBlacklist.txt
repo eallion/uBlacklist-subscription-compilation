@@ -1,4 +1,4 @@
-! Last modified: 2026-10-27 04:46:58 +0800
+! Last modified: 2026-11-03 07:14:29 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -8199,7 +8199,6 @@
 *://*.piletoys.cn/*
 *://*.pingme.tel/*
 *://*.pinkiyy.com/*
-*://*.pinkypink.org/*
 *://*.pinokio.computer/*
 *://*.pinonplaza.buzz/*
 *://*.pinpaici.com/*
@@ -9541,7 +9540,6 @@
 *://*.shoucangzx.com/*
 *://*.shouji10086.com/*
 *://*.shouji211.com/*
-*://*.shoujide.com/*
 *://*.shoujifbb.com/*
 *://*.shoujishu.com/*
 *://*.shoujiwan.com/*
@@ -12823,7 +12821,6 @@
 *://astrologysvcs.com/*
 *://ata-academy.com/*
 *://attack.pw/*
-*://auditioneasterhelm.com/*
 *://aunn.cc/*
 *://auto.epochtimes.com/*
 *://automaticmoms.com/*  
@@ -12909,7 +12906,6 @@
 *://buxcodes.org/*
 *://bvalve.es/*  
 *://bvwc.lumea-verlag.de/*
-*://bynss.com/*
 *://bzxzedu.com/*
 *://bzxzedu.com/*  
 *://c.biancheng.net/*
