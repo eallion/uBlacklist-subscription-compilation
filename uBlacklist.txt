@@ -1,4 +1,4 @@
-! Last modified: 2026-11-03 07:14:29 +0800
+! Last modified: 2026-11-10 07:52:46 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -7307,7 +7307,6 @@
 *://*.mnxcc.com/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
-*://*.mo08.biz/*
 *://*.moaera.com/*
 *://*.mobile2day.com/*
 *://*.mobilephoneslive.com/*
@@ -7475,7 +7474,6 @@
 *://*.myjurlique.buzz/*
 *://*.mylifeblog.cn/*
 *://*.mylovesy.com/*
-*://*.mymac.info/*
 *://*.mymyjtf.com/*
 *://*.mynameinlights.buzz/*
 *://*.myninja.ai/*
@@ -13928,7 +13926,6 @@
 *://wcmcc.org/*  
 *://wd.znds.com/*
 *://web.cnzf.gob.ni/*  
-*://web.xingfashuini.com/*
 *://web.xkyn.net/*
 *://webdevask.com/*
 *://webdevdesigner.com/*

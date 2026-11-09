@@ -251,7 +251,6 @@ pytest>=7.0.0
 *://*.liyi1688.com/*
 *://*.lovfp.com/*
 *://*.lsbin.com/*
-*://*.luocige.com/*
 *://*.luyouqi.com/*
 *://*.macsc.com/*
 *://*.macxf.com/*
@@ -265,7 +264,6 @@ pytest>=7.0.0
 *://*.mhaohuo.com/*
 *://*.miaook.com/*
 *://*.mnxcc.com/*
-*://*.mo08.biz/*
 *://*.mobile2day.com/*
 *://*.modb.pro/*
 *://*.moe.ms/*
@@ -275,7 +273,6 @@ pytest>=7.0.0
 *://*.moyens.net/*
 *://*.mweda.com/*
 *://*.my-pmu.com/*
-*://*.mymac.info/*
 *://*.nasge.com/*
 *://*.nhm.org/*
 *://*.nokibar.com/*
@@ -708,7 +705,6 @@ pytest>=7.0.0
 *://wap.yesky.com/*
 *://wapiknow.baidu.com/*
 *://wd.znds.com/*
-*://web.xingfashuini.com/*
 *://weekly-geekly-es.imtqy.com/*
 *://wefan.baidu.com/*
 *://wemp.app/*
