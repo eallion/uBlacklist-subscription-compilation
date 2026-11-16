@@ -1,4 +1,4 @@
-! Last modified: 2026-11-10 07:52:46 +0800
+! Last modified: 2026-11-17 07:52:57 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -817,7 +817,6 @@
 *://*.4lpro.com/*
 *://*.4m0rk0.cn/*
 *://*.4m242uo.cn/*
-*://*.4meahc.com/*
 *://*.4o1z8uq.cn/*
 *://*.4oeut0.cn/*
 *://*.4p77006.cn/*
@@ -2181,7 +2180,6 @@
 *://*.baomuxy.com/*
 *://*.baozhiku.com/*
 *://*.bar-edge.buzz/*
-*://*.barber-klipp.com/*
 *://*.barcode-label.com.cn/*
 *://*.barcode.so/*
 *://*.bare.club/*
@@ -3313,7 +3311,6 @@
 *://*.daiyun787.cn/*
 *://*.daizhiduo.com/*
 *://*.dajobrinkman.net/*
-*://*.daka111.cn/*
 *://*.dakashoutu.com/*
 *://*.dalianxinke.cn/*
 *://*.dalircw.com/*
@@ -5306,7 +5303,6 @@
 *://*.honghuahui.app/*
 *://*.hongkonginstyle.buzz/*
 *://*.hongkongxzm.com/*
-*://*.hongniuxinxi.com/*
 *://*.hongsheng1998.com/*
 *://*.hongshuit.com/*
 *://*.hongshuteng.com/*
@@ -9406,7 +9402,6 @@
 *://*.seedsbuddy.com/*
 *://*.seek.art/*
 *://*.seemk.com/*
-*://*.sefyc.com/*
 *://*.segmentfault.com/*
 *://*.segmind.com/*
 *://*.seinewind.com/*
@@ -12739,7 +12734,6 @@
 *://390n5.66678yx.com/*
 *://3g.163.com/*
 *://3g.china.com/*
-*://4000571780.com/*
 *://4000840088.com/*
 *://45.207.61.193/*
 *://47.241.89.120/*
@@ -13193,7 +13187,6 @@
 *://gzmuzhe.com/*  
 *://gzxxsm.com/*  
 *://haende-weg-von-meiner-apotheke.de/*
-*://hairunwatertr.com/*
 *://hantenglaw.com/*
 *://hao2578.com/*  
 *://haojiaya.com/*
@@ -14901,7 +14894,6 @@
 *://www.milacms.com/*
 *://www.miliol.org/*
 *://www.mintcx.com/*
-*://www.mintwl.com/*
 *://www.mirsemyan.com/*  
 *://www.mis-china.com/*  
 *://www.mk2048.com/*
@@ -15420,7 +15412,6 @@
 *://www.yijyi.com/*
 *://www.yikousw.com/*  
 *://www.yinyids.com/*
-*://www.yiper.org/*
 *://www.yisu.com/*
 *://www.yitusport.net/*  
 *://www.yixinit.com/*
